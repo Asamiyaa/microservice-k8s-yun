@@ -1,0 +1,42 @@
+server:
+  port: 8888 #服务端口
+spring:
+  profiles:
+    active: dev #当前生效环境
+  application:
+    name: springcloud-client #指定应用的唯一标识/服务名
+  zipkin:
+    base-url: http://127.0.0.1:9411
+
+#配置中心
+  cloud:
+      config:
+        fail-fast: true
+        name: ${spring.application.name}  # 指定当前工程于config server中的应用名，此处直接引用spring.application.name属性
+        #name: ${spring.application.name},datasource #指定工程于config server中的应用名（此处包括datasource，届时启动初始化环境会包含datasource-{spring.profiles.active}.yml文件）
+        #name:                              ...     ..redis #指定工程中的redis 在common-data中的
+        profile: ${spring.profiles.active}  #指定当前工程于config server中的生效环境，此处直接引用spring.profiles.active属性
+        uri: http://localhost:8080  #指定配置中心的ip和端口
+
+
+# 注册中心配置
+eureka:
+  instance:
+    prefer-ip-address: true #优先使用IP地址注册
+    leaseRenewalIntervalInSeconds: 10 #表示eureka client发送心跳给server端的频率
+    health-check-url-path: /actuator/health #健康检查页面的URL，相对路径，默认使用 HTTP 访问，如果需要使用 HTTPS则需要使用绝对路径配置
+
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8761/eureka/ #eureka的注册地址
+    registryFetchIntervalSeconds: 5 #表示eureka client间隔多久去拉取服务注册信息，默认为30秒
+
+#暴露所有监控端点
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  endpoint:
+    health:
+      show-details: ALWAYS #总是展示详情信息

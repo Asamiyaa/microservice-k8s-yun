@@ -1,0 +1,24 @@
+DDD + springCloud + k8s + serviceMesh（****） 
+
+springcloud 和 k8s实现微服务的对比以及整合 k8s只是解决了容器编排和部分微服务==》 基于容器在网络基础上service mesh中isotio解决微服务解决方案  
+		 	1.负载
+		 	2.服务发现
+		 			在单体架构时，因为服务不会经常和动态迁移，所有服务地址可以直接在配置文件中配置，所以也不会有服务发现的问题。但是对于微服务来说，应用的拆分，服务之间的解耦，和服务动态扩展带来的服务迁移，服务发现就成了微服务中的一个关键问题。
+		 			eureka:客户端发现（Eureka 也不是单独使用的，一般会配合 ribbon 一起使用，ribbon 作为路由和负载均衡。）  k8s:服务段发现 
+		 			对比：https://jimmysong.io/kubernetes-handbook/usecases/service-discovery-in-microservices.html
+
+		 	3.降级 - k8s 自愈 
+		 	4.灰度  金丝雀
+		 	5.限流 
+		 	6.加签验签
+		 	7.鉴权 token  CA认证   K8S中安全性管理 - 集群级别  vs 应用级别？
+		 	8.k8s 中operator
+		 		Operator是由CoreOS开发的，用来扩展Kubernetes API，特定的应用程序控制器，它用来创建、配置和管理复杂的有状态应用，如数据库、缓存和监控系统。Operator基于Kubernetes的资源和控制器概念之上构建，但同时又包含了应用程序特定的领域知识。创建Operator的关键是CRD（自定义资源）的设计。
+		 	9.k8s多与springcloud 容器、动态编排 
+		 	10.认证Kubernetes管理员
+		 	11.serviceMesh   serviceMesh
+      12.istio:https://jimmysong.io/kubernetes-handbook/usecases/istio.html
+							Istio 解决了开发人员和运维人员所面临的从单体应用向分布式微服务架构转变的挑战。了解它是如何做到这一点的可以让我们更详细地理解 Istio 的服务网格。
+							它的需求包括服务发现、负载均衡、故障恢复、度量和监控等。服务网格通常还有更复杂的运维需求，比如 A/B 测试、金丝雀发布、速率限制、访问控制和端到端认证。
+
+					    将istio集成到k8s中

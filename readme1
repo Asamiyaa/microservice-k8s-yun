@@ -1,0 +1,68 @@
+https://www.yuque.com/keep_zero/spring_cloud/pc1r1n  从第五章开始就没有落地、需要落地处理 - 代码实现到第九章(未做)
+
+辅助参考：http://c.biancheng.net/view/5417.html
+
+二者区别：
+    相似性：目的一致、表现类似、粒度一致
+    区别：触发条件不同，熔断一般是故障引起，降级一般是整体性能。管理目标层次不同。
+
+引入熔断 hytrix  ==
+    https://blog.csdn.net/u012373281/article/details/89761656
+引入降级
+    fallback
+
+
+引入负载均衡
+    ribbon:https://blog.csdn.net/sdaujsj1/article/details/105122183
+
+    多个module启动：https://blog.csdn.net/qq_37603187/article/details/105398316
+
+引入admin -- todo
+    可以看到信息，但是无法融合图像、只能拿到Json
+
+引入zuul   ===  gateway  / config === apollo
+    gateway对比zuul多依赖了spring-webflux，在spring的支持下，功能更强大，内部实现了限流、负载均衡等，扩展性也更强，但同时也限制了仅适合于Spring Cloud套件
+    zuul则可以扩展至其他微服务框架中，其内部没有实现限流、负载均衡等。
+
+    1）动态路由
+    动态地将客户端的请求路由到后端不同的服务，做一些逻辑处理，比如聚合多个服务的数据返回。
+    2）请求监控
+    可以对整个系统的请求进行监控，记录详细的请求响应日志，可以实时统计出当前系统的访问量以及监控状态。
+    3）认证鉴权
+    对每一个访问的请求做认证，拒绝非法请求，保护好后端的服务。
+    4）压力测试
+    压力测试是一项很重要的工作，像一些电商公司需要模拟更多真实的用户并发量来保证重大活动时系统的稳定。通过 Zuul 可以动态地将请求转发到后端服务的集群中，还可以识别测试流量和真实流量，从而做一些特殊处理。
+    5）灰度发布  === 金丝雀
+    灰度发布可以保证整体系统的稳定，在初始灰度的时候就可以发现、调整问题，以保证其影响度。
+
+引入链路追踪（Sleuth、Zipkin)
+    http://c.biancheng.net/view/5493.html
+    对比通过log4j中的MDC ： https://blog.csdn.net/yangcheng33/article/details/80796129
+
+    elk : 输出指定格式的日志内容 http://c.biancheng.net/view/5495.html
+                             https://blog.csdn.net/tanqian351/article/details/83827583 安装对应工具、监听指定目录文件即可 k8s外挂载卷
+
+    zipkin  == k8s中granfa == 从出在mq/es中 - 采样 -- 需要先下载该jar包安装，再集成进代码中，对调用链进行查看，并且可以很方便地看出服务之间的调用关系以及调用耗费的时间。
+                类似于手动的 Arthas ,形成调用链路图
+        http://c.biancheng.net/view/5496.html
+
+灰度发布
+    http://c.biancheng.net/view/5551.html
+
+定时任务：
+    https://www.yuque.com/keep_zero/spring_cloud/lrgcgy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

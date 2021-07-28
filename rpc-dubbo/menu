@@ -1,0 +1,26 @@
+0.官网:
+    dubbo更像是直接对服务的精细化分解，同样更需要在实际的生产过程中进行微调
+
+1.springboot、dubbo直连非注册中心调用：https://blog.csdn.net/weixin_42315600/article/details/88609622
+2.IDEA创建springBoot/Maven多模块项目：https://blog.csdn.net/weixin_42315600/article/details/88609866
+3.搭建过程中问题：
+        一定要从官方进行补补整合。不要有点问题就换。容易混乱。 一定要注意整合过程中的版本问题。apache版本而不是ali版本。
+                刚开始为了整合进原来的项目，所有springboot没有升级，项目结构也有问题，所以造成混乱
+                https://github.com/apache/dubbo-spring-boot-project
+        Injection of @org.apache.dubbo.config.annotation.Reference dependencies is failed; nested exception is org.apache.dubbo.rpc.RpcException: Fail to create remoting client for service：https://ask.csdn.net/questions/672494
+        maven无法加载jar包:1.配置maven setting和地址(maven 工具最右侧上角) 2.删除jar重新下载 3.手动下载 并安装
+                 mvn install:install-file -Dfile=gavin-2.0.1.jar -DgroupId=com.gavin -DartifactId=gavin -Dversion=2.0.1 -Dpackaging=jar
+        pom未报错maven右侧报错
+        依赖冲突  mavenHelper - exclude
+        Failed to read artifact descriptor for xxx:jar的问题解决：https://blog.csdn.net/u010087830/article/details/72530266
+
+
+TODO:
+
+       1. dubbo-boot-api  统一使用的API工程，提供给生产者和消费者，包括服务接口等，实体模型等。
+       2. zookeeper注册中心
+            未注册到zookeeper: https://blog.csdn.net/zixiao217/article/details/76066808
+                     https://blog.csdn.net/weixin_42152023/article/details/82685032
+       3. admin 前台
+            Dubbo_异常_服务注册运行正常但是Dubbo-Admin看不到服务:https://www.geek-share.com/detail/2689048400.html
+       4. dubbo参数的可行性话
