@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-08-28T13:07:16.258Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="IOQFlxFeThK7hewLUhUa" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-11T05:19:28.543Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="HcsAOgUPWs3C1Kj_cEd8" version="15.0.3" type="github">
   <diagram id="QYa4uW2GzB0MwXfuPY05" name="Page-1">
-    <mxGraphModel dx="2858" dy="2312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aDw3VCyQW0TJMHckru6f-8" value="" style="ellipse;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="-300" y="-300" width="1515" height="930" as="geometry" />
+          <mxGeometry x="-297.5" y="-320" width="1515" height="930" as="geometry" />
         </mxCell>
         <mxCell id="aDw3VCyQW0TJMHckru6f-1" value="乐观" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="385" y="530" width="150" height="70" as="geometry" />
@@ -176,22 +176,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aDw3VCyQW0TJMHckru6f-64" value="本质 - 看懂、听懂" style="ellipse;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="-240" width="120" height="80" as="geometry" />
+          <mxGeometry x="120" y="-90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aDw3VCyQW0TJMHckru6f-65" value="生活" style="ellipse;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="290" y="-250" width="90" height="30" as="geometry" />
+          <mxGeometry x="300" y="-95" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aDw3VCyQW0TJMHckru6f-66" value="工作 - 客户关系- 同事关系" style="ellipse;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="271" y="-215" width="159" height="30" as="geometry" />
+          <mxGeometry x="275" y="-65" width="159" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aDw3VCyQW0TJMHckru6f-68" value="MOT" style="ellipse;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="570" y="-260" width="90" height="30" as="geometry" />
+          <mxGeometry x="575" y="-105" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aDw3VCyQW0TJMHckru6f-69" value="心理学 - 不仅要控制自己、把握别人语言、肢体、行为底层" style="ellipse;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="440" y="-225" width="340" height="50" as="geometry" />
+          <mxGeometry x="450" y="-75" width="340" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aDw3VCyQW0TJMHckru6f-70" value="沟通" style="ellipse;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="-80" width="120" height="80" as="geometry" />
+          <mxGeometry x="120" y="20" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aDw3VCyQW0TJMHckru6f-72" value="洞察、决定、沟通、行为、预见" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="340" width="890" height="20" as="geometry" />
@@ -211,7 +211,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aDw3VCyQW0TJMHckru6f-74" value="沟通" style="ellipse;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="-80" width="120" height="80" as="geometry" />
+          <mxGeometry x="120" y="20" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aDw3VCyQW0TJMHckru6f-75" value="动静结合-系统设计与运行" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="373" y="290" width="145" height="30" as="geometry" />
@@ -222,17 +222,20 @@
         <mxCell id="aDw3VCyQW0TJMHckru6f-78" value="情绪管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="390" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_fejnGsrif35aPBRJRxR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aDw3VCyQW0TJMHckru6f-79" target="aDw3VCyQW0TJMHckru6f-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aDw3VCyQW0TJMHckru6f-79" value="降本 - 高效" style="ellipse;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="-55" width="70" height="30" as="geometry" />
+          <mxGeometry x="280" y="47.5" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="aDw3VCyQW0TJMHckru6f-86" value="经营(感情 + 理财)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="390" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aDw3VCyQW0TJMHckru6f-87" value="信任" style="ellipse;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="-85" width="70" height="30" as="geometry" />
+          <mxGeometry x="275" y="20" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aDw3VCyQW0TJMHckru6f-89" value="练习" style="ellipse;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="-25" width="70" height="30" as="geometry" />
+          <mxGeometry x="280" y="70" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aDw3VCyQW0TJMHckru6f-93" value="多维度 - 辩证" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="390" width="100" height="30" as="geometry" />
@@ -247,10 +250,10 @@
           <mxGeometry x="345" y="440" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aDw3VCyQW0TJMHckru6f-97" value="安全感" style="ellipse;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="350" y="-85" width="70" height="30" as="geometry" />
+          <mxGeometry x="345" y="17.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aDw3VCyQW0TJMHckru6f-98" value="演讲" style="ellipse;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="60" width="120" height="80" as="geometry" />
+          <mxGeometry x="120" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aDw3VCyQW0TJMHckru6f-101" value="影响力" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="440" width="100" height="30" as="geometry" />
@@ -302,14 +305,29 @@
             <mxPoint x="30" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOkb37sNl6SgvliVZcOs-1" value="灰度 - 不是非黑即白" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BOkb37sNl6SgvliVZcOs-1" value="灰度 - 不是非黑即白" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="490" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOkb37sNl6SgvliVZcOs-2" value="度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BOkb37sNl6SgvliVZcOs-2" value="度" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="345" y="490" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOkb37sNl6SgvliVZcOs-3" value="取舍" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BOkb37sNl6SgvliVZcOs-3" value="取舍" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="490" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_fejnGsrif35aPBRJRxR-2" value="安全感、安全边界" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="490" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_fejnGsrif35aPBRJRxR-3" value="真诚" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="490" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_fejnGsrif35aPBRJRxR-4" value="增值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-130" width="900" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="_fejnGsrif35aPBRJRxR-5" value="配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-170" width="97.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_fejnGsrif35aPBRJRxR-6" value="人脉" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="232.5" y="-170" width="97.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
