@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-11T05:19:28.543Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="HcsAOgUPWs3C1Kj_cEd8" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-11T05:26:20.144Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="nm0ffR0wPaaoRr80Ti2E" version="15.0.3" type="github">
   <diagram id="QYa4uW2GzB0MwXfuPY05" name="Page-1">
     <mxGraphModel dx="2249" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="-297.5" y="-320" width="1515" height="930" as="geometry" />
         </mxCell>
         <mxCell id="aDw3VCyQW0TJMHckru6f-1" value="乐观" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="385" y="530" width="150" height="70" as="geometry" />
+          <mxGeometry x="390" y="585" width="155" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aDw3VCyQW0TJMHckru6f-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="aDw3VCyQW0TJMHckru6f-2" target="aDw3VCyQW0TJMHckru6f-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -328,6 +328,12 @@
         </mxCell>
         <mxCell id="_fejnGsrif35aPBRJRxR-6" value="人脉" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="232.5" y="-170" width="97.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_fejnGsrif35aPBRJRxR-7" value="自卑与超越" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="490" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_fejnGsrif35aPBRJRxR-8" value="快思考和慢思考&amp;nbsp; 控制选择" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="530" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
