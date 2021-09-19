@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-09-19T01:54:41.705Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" version="15.1.4" etag="WpFE1Ws0deLd18UcdsDc" type="github"><diagram id="YNaK1Ch-J3_ml9KR6fD_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-19T02:15:48.736Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="0WTQ0_Ui6SCUpgR9LT-C" version="15.1.4" type="github">
+  <diagram id="YNaK1Ch-J3_ml9KR6fD_" name="Page-1">
+    <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-1" value="价值模型&lt;br&gt;（带来快乐和成就而不是克制）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="540" width="522.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-2" value="健康" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="450" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1UJyxDHVlCGZq8a1ZQZZ-3" target="1UJyxDHVlCGZq8a1ZQZZ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-3" value="投资" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="455" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-5" value="职业" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="450" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-8" value="保险" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-10" value="体检" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-11" value="运动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-12" value="规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-13" value="风险和收入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="500" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-14" value="本质逻辑&amp;nbsp; 、&amp;nbsp; 金融基础 、人性把握 ( 投资而不是赌博 )" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="390" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-16" value="持续关注" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-17" value="复盘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-18" value="指标(信号、支撑、增强)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-19" value="卖出(不追求完美和最后的利润)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
