@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T14:09:12.935Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="P8Ud5eCvS4CwH80D2Na1" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-01T02:33:54.174Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="FNIP5wmbGiHajJD_8Yig" version="15.2.9" type="github">
   <diagram id="QYa4uW2GzB0MwXfuPY05" name="Page-1">
     <mxGraphModel dx="2249" dy="1969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -410,8 +410,25 @@
         <mxCell id="RAi5BY2Nn5a21R7zF_CH-18" value="情商" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="452.5" y="-180" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="X9QvwCMeAbfsx_nJAA_V-1" value="健康" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X9QvwCMeAbfsx_nJAA_V-1" value="健康" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="-170" width="97.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyAlRwEqeDnAPwdQFEJ-1" value="自愈(身体、心理)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="580" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyAlRwEqeDnAPwdQFEJ-2" value="停下来思考的时间" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry x="0.0414" y="-4" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="665" y="-290" as="sourcePoint" />
+            <mxPoint x="715" y="-340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="715" y="-290" />
+              <mxPoint x="665" y="-340" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8lyAlRwEqeDnAPwdQFEJ-3" value="副业" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="712.5" y="-170" width="97.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
