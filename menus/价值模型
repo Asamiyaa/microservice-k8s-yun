@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T02:48:55.559Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="1o2Ow3qAsL2NbuBzSAVi" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-01T02:54:27.124Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="g3HYuK9xQA2WdnBDi4p0" version="15.2.9" type="github">
   <diagram id="QYa4uW2GzB0MwXfuPY05" name="Page-1">
     <mxGraphModel dx="2249" dy="1969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -348,7 +348,7 @@
           <mxGeometry x="130" y="-170" width="97.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_fejnGsrif35aPBRJRxR-6" value="人脉" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="232.5" y="-170" width="97.5" height="30" as="geometry" />
+          <mxGeometry x="620" y="-200" width="97.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_fejnGsrif35aPBRJRxR-7" value="自卑与超越" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="490" width="100" height="30" as="geometry" />
@@ -357,7 +357,7 @@
           <mxGeometry x="120" y="530" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QMfX4Iys_UWexCFKd04r-1" value="经营" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="336.5" y="-170" width="97.5" height="30" as="geometry" />
+          <mxGeometry x="680" y="-170" width="97.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QMfX4Iys_UWexCFKd04r-2" value="勿优柔寡断" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="227.5" y="530" width="100" height="30" as="geometry" />
@@ -411,7 +411,7 @@
           <mxGeometry x="452.5" y="-180" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X9QvwCMeAbfsx_nJAA_V-1" value="健康" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="-170" width="97.5" height="30" as="geometry" />
+          <mxGeometry x="80" y="-200" width="97.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8lyAlRwEqeDnAPwdQFEJ-1" value="自愈(身体、心理)&lt;br&gt;停止内耗" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="580" width="100" height="30" as="geometry" />
@@ -428,13 +428,29 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8lyAlRwEqeDnAPwdQFEJ-3" value="副业" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="712.5" y="-170" width="97.5" height="30" as="geometry" />
+          <mxGeometry x="177.5" y="-200" width="97.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8lyAlRwEqeDnAPwdQFEJ-4" value="独立人格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="580" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8lyAlRwEqeDnAPwdQFEJ-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="585" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyAlRwEqeDnAPwdQFEJ-6" value="婚姻" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="-200" width="97.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyAlRwEqeDnAPwdQFEJ-7" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1" target="8lyAlRwEqeDnAPwdQFEJ-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="-95" as="sourcePoint" />
+            <mxPoint x="950" y="-140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1040" y="-95" />
+              <mxPoint x="990" y="-145" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8lyAlRwEqeDnAPwdQFEJ-8" value="坚持内在：自我鼓励、多巴胺分泌、精神(价值、满足)、物质(旅游、手办、放松....)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-140" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
