@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T04:13:51.266Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="VWDL62PHVGc-E1GuJfGx" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-01T04:31:05.469Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="x15GU8qioWhi5TjQI4qG" version="15.2.9" type="github">
   <diagram id="QYa4uW2GzB0MwXfuPY05" name="Page-1">
     <mxGraphModel dx="2500" dy="2110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -309,7 +309,7 @@
         <mxCell id="sFHtvM0LFlpPFpvnJBWV-2" value="利弊" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="440" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sFHtvM0LFlpPFpvnJBWV-3" value="扎实" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sFHtvM0LFlpPFpvnJBWV-3" value="扎实 - debug人生" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="440" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sFHtvM0LFlpPFpvnJBWV-5" value="皮实" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
