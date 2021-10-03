@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-03T22:21:35.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="blJuL_9ZnsP3OWIsic0m" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-03T22:29:20.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="IP0_1-SKhoy1sWjZ2sO3" version="15.3.8" type="github">
   <diagram id="YNaK1Ch-J3_ml9KR6fD_" name="Page-1">
     <mxGraphModel dx="2012" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,11 +7,11 @@
         <mxCell id="2X39FanD0Zl1kqfrm4EM-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-575" y="150" width="1115" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="2X39FanD0Zl1kqfrm4EM-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-2" value="x·" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="190" width="510" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="2X39FanD0Zl1kqfrm4EM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="190" width="510" height="430" as="geometry" />
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-535" y="190" width="510" height="430" as="geometry" />
         </mxCell>
         <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-1" value="价值模型&lt;br&gt;(生存模型)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-540" y="710" width="1050" height="65" as="geometry" />
@@ -133,6 +133,37 @@
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-18" value="内向能力" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="290" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-22" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="560" as="sourcePoint" />
+            <mxPoint x="-80" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="560" />
+              <mxPoint x="-20" y="650" />
+              <mxPoint x="-80" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-23" value="更健康的财富状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2X39FanD0Zl1kqfrm4EM-22">
+          <mxGeometry x="0.2809" y="12" relative="1" as="geometry">
+            <mxPoint x="13" y="-57" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-24" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-82.5" y="300" as="sourcePoint" />
+            <mxPoint x="57.5" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-92.5" y="250" />
+              <mxPoint x="-72.5" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-25" value="充足的现金流" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2X39FanD0Zl1kqfrm4EM-24">
+          <mxGeometry x="-0.1874" y="-6" relative="1" as="geometry">
+            <mxPoint x="21" y="3" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
