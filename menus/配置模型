@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-03T22:29:20.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="IP0_1-SKhoy1sWjZ2sO3" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-04T03:11:54.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="MNeGYODjn7ZPh_pCdzNb" version="15.3.8" type="github">
   <diagram id="YNaK1Ch-J3_ml9KR6fD_" name="Page-1">
-    <mxGraphModel dx="2012" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2500" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,7 +84,7 @@
         <mxCell id="2X39FanD0Zl1kqfrm4EM-4" value="投资理财" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="215" y="190" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2X39FanD0Zl1kqfrm4EM-6" value="发展模型&lt;br&gt;对自己的认知，尤其是对自己能力边界和风险承受能力的清晰认知，&lt;br/&gt;是比找到一个顶级投资策略，或抢手的投资标的更关键的事" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-6" value="&lt;br&gt;财富模型&lt;br&gt;（发展模型）&lt;br&gt;对自己的认知，尤其是对自己能力边界和风险承受能力的清晰认知，&lt;br&gt;是比找到一个顶级投资策略，或抢手的投资标的更关键的事" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-248.75" y="160" width="447.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-7" value="兴趣模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -164,6 +164,30 @@
           <mxGeometry x="-0.1874" y="-6" relative="1" as="geometry">
             <mxPoint x="21" y="3" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-27" value="基石" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.492;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2X39FanD0Zl1kqfrm4EM-27" target="2X39FanD0Zl1kqfrm4EM-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-29" value="放大器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="540" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-30" value="&amp;nbsp;标的" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="285" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-31" value="风险敞口" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="330" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-32" value="仓位控制" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="350" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-33" value="认知-普通人" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="350" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-34" value="心态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="280" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
