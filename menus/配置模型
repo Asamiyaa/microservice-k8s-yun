@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-04T03:12:25.030Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="--CMVw7ChRe7gkXNwwdI" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-04T23:59:07.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="catd1xjvv5eWVlbkLqKW" version="15.3.8" type="github">
   <diagram id="YNaK1Ch-J3_ml9KR6fD_" name="Page-1">
-    <mxGraphModel dx="2500" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1808" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,7 +44,7 @@
           <mxGeometry x="-240" y="575" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-14" value="本质逻辑&amp;nbsp; 、&amp;nbsp; 金融基础 、人性把握 ( 投资而不是赌博 )" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="460" width="510" height="30" as="geometry" />
+          <mxGeometry x="-10" y="295" width="510" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-16" value="持续关注" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-10" y="400" width="120" height="40" as="geometry" />
@@ -99,6 +99,16 @@
               <mxPoint x="-710" y="285" />
             </Array>
             <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-36" value="复盘" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2X39FanD0Zl1kqfrm4EM-10">
+          <mxGeometry x="0.3558" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-37" value="闭环" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2X39FanD0Zl1kqfrm4EM-10">
+          <mxGeometry x="0.235" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-11" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
@@ -188,6 +198,15 @@
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-34" value="心态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="280" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-39" value="影响要素：通货膨胀、经济增长、宏观调控" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="465" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-40" value="观察仓：交易量/资金流动/动量&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-41" value="策略：长期/中短期？" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="460" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
