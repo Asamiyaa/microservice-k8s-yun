@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T00:57:07.140Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="xmgzW1nyWBy-DEpUiEc8" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-05T02:18:12.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="tfpMdHK4DC87EMw6dCsW" version="15.3.8" type="github">
   <diagram id="YNaK1Ch-J3_ml9KR6fD_" name="Page-1">
     <mxGraphModel dx="1808" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -205,7 +205,7 @@
         <mxCell id="2X39FanD0Zl1kqfrm4EM-40" value="观察仓：交易量/资金流动/动量&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="460" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2X39FanD0Zl1kqfrm4EM-41" value="策略：长期/中短期？" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-41" value="术：长期/中短期？" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="460" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-42" value="投资心态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -213,6 +213,15 @@
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-43" value="指标:PE,历史估值分位数、基本面、波动程度、i相关性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="210" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-44" value="策略：价值投资(价格从属于价值&lt;br&gt;货币因素、供需关系&lt;br&gt;、心态)&lt;br&gt;择时策略&lt;br&gt;趋势跟踪：价格走势：关心的不是这个资产的真实价值，而是它的价格趋势" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="545" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-45" value="网格投资法" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="205" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-46" value="执行细节" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="260" width="80" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
