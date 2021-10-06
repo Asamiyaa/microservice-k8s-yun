@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-06T03:59:19.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="pT_9YvUCwMcmWmY-m4ZD" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-06T04:04:30.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="XXBDwjuBGja_SGf86RS0" version="15.3.8" type="github">
   <diagram id="YNaK1Ch-J3_ml9KR6fD_" name="Page-1">
-    <mxGraphModel dx="2249" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,16 +60,6 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2X39FanD0Zl1kqfrm4EM-36" value="复盘" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2X39FanD0Zl1kqfrm4EM-10">
-          <mxGeometry x="0.3558" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2X39FanD0Zl1kqfrm4EM-37" value="闭环" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2X39FanD0Zl1kqfrm4EM-10">
-          <mxGeometry x="0.235" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-11" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="95" as="sourcePoint" />
@@ -80,9 +70,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2X39FanD0Zl1kqfrm4EM-12" value="正向循环" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2X39FanD0Zl1kqfrm4EM-11">
-          <mxGeometry x="-0.0714" y="1" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-108" value="闭环" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2X39FanD0Zl1kqfrm4EM-11">
+          <mxGeometry x="-0.0847" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-14" value="外向能力" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -286,6 +276,9 @@
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-103" value="r = f(板块/热点/主题轮动，历史支撑阻力-突破-震荡，动量(斜率增强减弱/均线)，价值，消息(是否体现、消化)，情绪(过度)，宏观调控(负分项))" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="290" width="480" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-104" value="财富渠道" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-203.75" y="480" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
