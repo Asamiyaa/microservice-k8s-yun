@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-06T03:35:31.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="4Gz07gLV-8UUsNR7dja2" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-06T03:45:24.983Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="TNvW3gBLgcxZZwg-wSvX" version="15.3.8" type="github">
   <diagram id="YNaK1Ch-J3_ml9KR6fD_" name="Page-1">
     <mxGraphModel dx="1808" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="2X39FanD0Zl1kqfrm4EM-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-575" y="150" width="1115" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="2X39FanD0Zl1kqfrm4EM-2" value="x·" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="180" width="510" height="430" as="geometry" />
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="185" width="510" height="430" as="geometry" />
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;" vertex="1" parent="1">
           <mxGeometry x="-540" y="190" width="515" height="420" as="geometry" />
@@ -37,14 +37,11 @@
         <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-12" value="规划" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-500" y="540" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-14" value="本质逻辑&amp;nbsp; 、&amp;nbsp; 金融基础 、人性把握 ( 投资而不是赌博 )" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="295" width="510" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-18" value="指标(信号、支撑、增强)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="690" y="405" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-19" value="卖出(不追求完美和最后的利润)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="730" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-3" value="个人发展" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-350" y="190" width="60" height="20" as="geometry" />
@@ -149,19 +146,14 @@
         <mxCell id="2X39FanD0Zl1kqfrm4EM-29" value="放大器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="540" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2X39FanD0Zl1kqfrm4EM-31" value="风险敞口" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-31" value="风险敞口&lt;br&gt;不是赌博" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="540" width="75" height="45" as="geometry" />
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-32" value="仓位控制" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="490" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2X39FanD0Zl1kqfrm4EM-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="2X39FanD0Zl1kqfrm4EM-46">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="425" y="350" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2X39FanD0Zl1kqfrm4EM-39" value="影响要素：通货膨胀、经济增长、宏观调控" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="400" width="120" height="80" as="geometry" />
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-39" value="影响要素：通货膨胀、经济增长、宏观调控、黑天鹅" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="390" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-40" value="观察仓：交易量/资金流动/动量&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="500" width="120" height="80" as="geometry" />
@@ -173,22 +165,22 @@
           <mxGeometry x="230" y="540" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-43" value="指标:PE,历史估值分位数、基本面、波动程度、i相关性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="210" width="90" height="50" as="geometry" />
+          <mxGeometry x="705" y="150" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-44" value="策略：价值投资(价格从属于价值&lt;br&gt;货币因素、供需关系&lt;br&gt;、心态)&lt;br&gt;择时策略&lt;br&gt;趋势跟踪：价格走势：关心的不是这个资产的真实价值，而是它的价格趋势&lt;br&gt;轮动策略：不同类/同类/行业/热点....&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="100" width="120" height="80" as="geometry" />
+          <mxGeometry x="640" y="70" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-45" value="网格投资法" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="205" width="120" height="80" as="geometry" />
+          <mxGeometry x="370" y="390" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-46" value="执行细节" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="260" width="80" height="25" as="geometry" />
+          <mxGeometry x="730" y="220" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-49" value="投资思想&lt;br&gt;（对冲）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="319" y="540" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-51" value="多因子" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="320" width="90" height="50" as="geometry" />
+          <mxGeometry x="795" y="360" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-53" value="方向" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-433" y="540" width="40" height="20" as="geometry" />
@@ -279,6 +271,42 @@
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-91" value="人性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="319" y="602.5" width="60" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-92" value="买入" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="205" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-93" value="卖出" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="205" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-96" value="指标：" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-97" value="中长期？&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-99" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="560" as="sourcePoint" />
+            <mxPoint x="570" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-100" value="道法术器" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2X39FanD0Zl1kqfrm4EM-99">
+          <mxGeometry x="-0.173" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-101" value="投资跟踪表" style="curved=1;endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2X39FanD0Zl1kqfrm4EM-93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="320" as="sourcePoint" />
+            <mxPoint x="480" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="320" />
+              <mxPoint x="430" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-102" value="5W2H" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="225" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
