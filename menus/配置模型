@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-06T04:06:12.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="ErcW3VStx8AZ11uf3PtQ" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-06T04:06:41.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="SDAgMNnlHVgXFtxYAabV" version="15.3.8" type="github">
   <diagram id="YNaK1Ch-J3_ml9KR6fD_" name="Page-1">
     <mxGraphModel dx="2500" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -183,21 +183,6 @@
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-66" value="健康" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-42.5" y="670" width="65" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2X39FanD0Zl1kqfrm4EM-69" value="前提" style="endArrow=classic;html=1;entryX=0.759;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.369;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1UJyxDHVlCGZq8a1ZQZZ-2" target="2X39FanD0Zl1kqfrm4EM-1">
-          <mxGeometry x="-1" y="-259" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-430" y="670" as="sourcePoint" />
-            <mxPoint x="-380" y="620" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-150" y="630" />
-            </Array>
-            <mxPoint x="1" y="19" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2X39FanD0Zl1kqfrm4EM-82" value="前提" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2X39FanD0Zl1kqfrm4EM-69">
-          <mxGeometry x="-0.0037" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-75" value="持续" style="endArrow=classic;html=1;entryX=0.256;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.125;exitY=0.019;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
