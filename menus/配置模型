@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-06T03:45:49.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="Z4G_D05epV8F7XzRmGTP" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-06T03:59:06.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="EMDCwHHyLqVbtE7yxEuW" version="15.3.8" type="github">
   <diagram id="YNaK1Ch-J3_ml9KR6fD_" name="Page-1">
     <mxGraphModel dx="1808" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,12 +36,6 @@
         </mxCell>
         <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-12" value="规划" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-500" y="540" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-18" value="指标(信号、支撑、增强)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="405" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-19" value="卖出(不追求完美和最后的利润)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="730" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-3" value="个人发展" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-350" y="190" width="60" height="20" as="geometry" />
@@ -155,32 +149,14 @@
         <mxCell id="2X39FanD0Zl1kqfrm4EM-39" value="影响要素：通货膨胀、经济增长、宏观调控、黑天鹅" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="390" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2X39FanD0Zl1kqfrm4EM-40" value="观察仓：交易量/资金流动/动量&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="500" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2X39FanD0Zl1kqfrm4EM-41" value="术：长期/中短期？" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="610" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-42" value="心态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="540" width="70" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="2X39FanD0Zl1kqfrm4EM-43" value="指标:PE,历史估值分位数、基本面、波动程度、i相关性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="705" y="150" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="2X39FanD0Zl1kqfrm4EM-44" value="策略：价值投资(价格从属于价值&lt;br&gt;货币因素、供需关系&lt;br&gt;、心态)&lt;br&gt;择时策略&lt;br&gt;趋势跟踪：价格走势：关心的不是这个资产的真实价值，而是它的价格趋势&lt;br&gt;轮动策略：不同类/同类/行业/热点....&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="70" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2X39FanD0Zl1kqfrm4EM-45" value="网格投资法" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-45" value="技巧&lt;br&gt;观察仓&lt;br&gt;网格投资法" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="390" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2X39FanD0Zl1kqfrm4EM-46" value="执行细节" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="220" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-49" value="投资思想&lt;br&gt;（对冲）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="319" y="540" width="70" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="2X39FanD0Zl1kqfrm4EM-51" value="多因子" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="795" y="360" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-53" value="方向" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-433" y="540" width="40" height="20" as="geometry" />
@@ -278,10 +254,10 @@
         <mxCell id="2X39FanD0Zl1kqfrm4EM-93" value="卖出" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="205" width="85" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2X39FanD0Zl1kqfrm4EM-96" value="指标：" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-96" value="指标(信号)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="242.5" y="390" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2X39FanD0Zl1kqfrm4EM-97" value="中长期？&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-97" value="资产分类(房？)&lt;br&gt;中长期？" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="122.5" y="390" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-99" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
@@ -307,6 +283,9 @@
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-102" value="5W2H" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="225" y="225" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-103" value="r = f(板块/热点/主题轮动，历史支撑阻力-突破-震荡，动量(斜率增强减弱/均线)，价值，消息(是否体现、消化)，情绪(过度)，宏观调控(负分项))" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="290" width="480" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
