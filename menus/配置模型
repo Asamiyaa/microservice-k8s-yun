@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-10-06T02:55:45.159Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="XSsoFpywQPYAtB2p40zv" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-06T03:21:42.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="twvlMIoks0hZMmt05b6D" version="15.3.8" type="github">
   <diagram id="YNaK1Ch-J3_ml9KR6fD_" name="Page-1">
-    <mxGraphModel dx="2012" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1808" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-65" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-575" y="150" width="1115" height="550" as="geometry" />
         </mxCell>
@@ -11,13 +14,13 @@
           <mxGeometry x="-10" y="190" width="510" height="430" as="geometry" />
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-535" y="190" width="510" height="430" as="geometry" />
+          <mxGeometry x="-540" y="190" width="515" height="420" as="geometry" />
         </mxCell>
         <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-1" value="价值模型&lt;br&gt;(生存模型)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-540" y="710" width="1050" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-2" value="健康" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-540" y="630" width="1050" height="50" as="geometry" />
+        <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-540" y="640" width="1050" height="45" as="geometry" />
         </mxCell>
         <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1UJyxDHVlCGZq8a1ZQZZ-3" target="1UJyxDHVlCGZq8a1ZQZZ-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -29,13 +32,13 @@
           <mxGeometry x="-520" y="530" width="430" height="65" as="geometry" />
         </mxCell>
         <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-8" value="保险" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-250" y="640" width="40" height="20" as="geometry" />
+          <mxGeometry x="-350" y="650" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-10" value="体检" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-190" y="640" width="40" height="20" as="geometry" />
+          <mxGeometry x="225" y="650" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-11" value="运动" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-130" y="640" width="40" height="20" as="geometry" />
+        <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-11" value="饮食" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="650" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1UJyxDHVlCGZq8a1ZQZZ-12" value="规划" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-500" y="540" width="40" height="20" as="geometry" />
@@ -241,6 +244,33 @@
             <mxPoint x="-265" y="310" as="sourcePoint" />
             <mxPoint x="-240" y="330" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-66" value="健康" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-42.5" y="670" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-69" value="前提" style="endArrow=classic;html=1;entryX=0.256;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.125;exitY=0.019;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1UJyxDHVlCGZq8a1ZQZZ-2" target="2X39FanD0Zl1kqfrm4EM-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-430" y="670" as="sourcePoint" />
+            <mxPoint x="-380" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-410" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-75" value="持续" style="endArrow=classic;html=1;entryX=0.256;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.125;exitY=0.019;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-190.59" y="642.115" as="sourcePoint" />
+            <mxPoint x="-189.99999999999997" y="610.0000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-191.84" y="631.26" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-77" value="睡眠" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="650" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-79" value="运动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="650" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
