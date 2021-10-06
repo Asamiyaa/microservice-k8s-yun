@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-06T08:26:17.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="fhsXXE3i-bsAlnJnOoas" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-06T08:43:06.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="fmn02fEo4R_Xkin2E6cO" version="15.3.8" type="github">
   <diagram id="YNaK1Ch-J3_ml9KR6fD_" name="Page-1">
-    <mxGraphModel dx="1808" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2489" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,6 +58,11 @@
               <mxPoint x="-710" y="285" />
             </Array>
             <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2X39FanD0Zl1kqfrm4EM-118" value="持续性来自自我价值实现和激励机制&lt;br&gt;、多巴胺分泌。合理到爱上" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2X39FanD0Zl1kqfrm4EM-10">
+          <mxGeometry x="0.4922" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-11" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
@@ -243,7 +248,7 @@
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-100" value="道法术器" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2X39FanD0Zl1kqfrm4EM-99">
           <mxGeometry x="-0.173" y="-2" relative="1" as="geometry">
-            <mxPoint x="161" y="3" as="offset" />
+            <mxPoint x="-2" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2X39FanD0Zl1kqfrm4EM-101" value="投资跟踪表" style="curved=1;endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2X39FanD0Zl1kqfrm4EM-93">
