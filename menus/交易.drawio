@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T02:52:10.759Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="6VBG7M65V3AsiknnjSfO" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-03T02:58:11.089Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="yMKG2zhPrUOchjlt-vj8" version="16.4.5" type="github">
   <diagram id="Pfbn8oCnvFzZYmGTeNMr" name="Page-1">
     <mxGraphModel dx="2012" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry x="400" y="340" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="plnkz_P6K2nlOEyKLIr7-7" value="去伪" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="210" width="40" height="20" as="geometry" />
+          <mxGeometry x="480" y="340" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="plnkz_P6K2nlOEyKLIr7-8" value="持续跟踪" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="210" width="40" height="20" as="geometry" />
@@ -94,7 +94,7 @@
           <mxGeometry x="130" y="400" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="plnkz_P6K2nlOEyKLIr7-34" value="策略" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="450" width="90" height="20" as="geometry" />
+          <mxGeometry x="240" y="460" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="plnkz_P6K2nlOEyKLIr7-35" value="共振" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="310" width="40" height="20" as="geometry" />
@@ -107,6 +107,57 @@
         </mxCell>
         <mxCell id="plnkz_P6K2nlOEyKLIr7-38" value="概率" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-39" value="不确定性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="130" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-40" value="盈亏比" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-41" value="风险" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-42" value="盈亏同源" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="100" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-43" value="控制" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="130" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-44" value="人性的贪婪与恐惧" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="100" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-45" value="狙击" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="130" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-46" value="多要素" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="100" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-47" value="反身性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="130" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-48" value="多要素" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="100" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-49" value="入场时机" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="480" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-50" value="止盈止损" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="220" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-51" value="量价时空" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="310" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-52" value="箱体" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="340" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-53" value="网格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="310" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-54" value="强者恒强" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="250" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-55" value="弱及是败" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="250" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
