@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T03:54:06.109Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="iC4QbJN7WraoZq0fnt3W" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-03T10:13:01.889Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="fdmfH8jfR4kk1GAYa-Nj" version="16.4.5" type="github">
   <diagram id="Pfbn8oCnvFzZYmGTeNMr" name="Page-1">
-    <mxGraphModel dx="2858" dy="2312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,13 +95,13 @@
           <mxGeometry x="405.94" y="113.13" width="67.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="plnkz_P6K2nlOEyKLIr7-38" value="概率" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290.94" y="-120" width="47.5" height="30" as="geometry" />
+          <mxGeometry x="354.69" y="-120" width="47.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="plnkz_P6K2nlOEyKLIr7-39" value="不确定性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="284.69" y="-85" width="57.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="plnkz_P6K2nlOEyKLIr7-40" value="盈亏比" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350.94" y="-120" width="57.5" height="30" as="geometry" />
+          <mxGeometry x="890" y="-87.5" width="57.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="plnkz_P6K2nlOEyKLIr7-41" value="风险" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355.94" y="-85" width="47.5" height="30" as="geometry" />
@@ -240,6 +240,9 @@
             <mxPoint x="112.5" y="517.5" as="sourcePoint" />
             <mxPoint x="230.53999999999996" y="520" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-115" value="where" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284.69" y="-125" width="47.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
