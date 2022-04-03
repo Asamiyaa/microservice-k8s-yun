@@ -1,1 +1,114 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T02:39:08.824Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="16.4.5" etag="jFgX4eudmuGmVN7oIfV4" type="github"><diagram id="Pfbn8oCnvFzZYmGTeNMr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-03T02:52:10.759Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="6VBG7M65V3AsiknnjSfO" version="16.4.5" type="github">
+  <diagram id="Pfbn8oCnvFzZYmGTeNMr" name="Page-1">
+    <mxGraphModel dx="2012" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="plnkz_P6K2nlOEyKLIr7-1" target="plnkz_P6K2nlOEyKLIr7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-1" value="交易认知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="plnkz_P6K2nlOEyKLIr7-2" target="plnkz_P6K2nlOEyKLIr7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-2" value="原则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="plnkz_P6K2nlOEyKLIr7-3" target="plnkz_P6K2nlOEyKLIr7-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-3" value="术" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-4" value="指标" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-5" value="关联" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-6" value="制约" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="340" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-7" value="去伪" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-8" value="持续跟踪" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="plnkz_P6K2nlOEyKLIr7-11" target="plnkz_P6K2nlOEyKLIr7-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="540" />
+              <mxPoint y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="plnkz_P6K2nlOEyKLIr7-11" target="plnkz_P6K2nlOEyKLIr7-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-11" value="复盘" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="550" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="plnkz_P6K2nlOEyKLIr7-12" target="plnkz_P6K2nlOEyKLIr7-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="510" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-13" value="盯盘" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="530" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-14" value="操作" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="530" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.558;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="plnkz_P6K2nlOEyKLIr7-17" target="plnkz_P6K2nlOEyKLIr7-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="420" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-18" value="板块温度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="430" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-19" value="操作风格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="430" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-20" value="仓位控制" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="440" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-21" value="临时决断及依据" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="430" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-28" value="基本面" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="370" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-30" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-31" value="技术面" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="370" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-33" value="情绪面" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="400" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-34" value="策略" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="450" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-35" value="共振" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-36" value="轮动" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="370" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-37" value="知行合一" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="200" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-38" value="概率" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
