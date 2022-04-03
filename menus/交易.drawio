@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T03:06:18.948Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="5KAqAcL1slMhHUsSFtfv" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-03T03:08:02.257Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="_y4En6bs8kchFYT0DRf0" version="16.4.5" type="github">
   <diagram id="Pfbn8oCnvFzZYmGTeNMr" name="Page-1">
     <mxGraphModel dx="2012" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
           <mxGeometry x="480" y="310" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="plnkz_P6K2nlOEyKLIr7-36" value="轮动" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="370" width="60" height="20" as="geometry" />
+          <mxGeometry x="225" y="370" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="plnkz_P6K2nlOEyKLIr7-37" value="知行合一" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="200" width="60" height="20" as="geometry" />
@@ -188,6 +188,15 @@
         </mxCell>
         <mxCell id="plnkz_P6K2nlOEyKLIr7-66" value="忌讳：亏就装死，没有市场跟踪和思考、感知、加仓、新机会" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-260" y="510" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-68" value="左侧" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="400" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-69" value="趋势" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="400" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="plnkz_P6K2nlOEyKLIr7-70" value="最小阻力方向" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="310" width="65" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
