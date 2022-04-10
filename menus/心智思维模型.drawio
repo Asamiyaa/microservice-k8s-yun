@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-10T09:47:01.329Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="5rnwOfwLNtQow4_W3ON_" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-10T09:48:19.925Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="piXctvECkwXJgaCmS0Cc" version="17.4.0" type="github">
   <diagram id="6t-HRYRo3RntBsjj9dX_" name="Page-1">
     <mxGraphModel dx="2249" dy="1969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -224,6 +224,15 @@
         </mxCell>
         <mxCell id="4zZC_BVY_g6dotP5J9YV-71" value="节奏" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="220" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4zZC_BVY_g6dotP5J9YV-72" value="囚徒" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="55" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4zZC_BVY_g6dotP5J9YV-73" value="预期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="20" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4zZC_BVY_g6dotP5J9YV-74" value="风险" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="20" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
