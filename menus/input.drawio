@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-28T11:05:08.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="yfoLXsYZ41zDCQCgO0FN" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-28T11:05:19.595Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="wu-wqVS02Gw7jrY_iM9P" version="17.4.3" type="github">
   <diagram id="3CJurVh0qIclkFhJRMKo" name="Page-1">
     <mxGraphModel dx="1361" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -152,8 +152,8 @@
         <mxCell id="BELl_IB8kdiGP95Ta7bd-43" value="&lt;div&gt;票面价税合计&lt;/div&gt;&lt;div&gt;本笔业务可抵扣价税合计&lt;/div&gt;&lt;div&gt;票面合计税额&lt;/div&gt;&lt;div&gt;税局同步可抵扣税额&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;out_detail&lt;/div&gt;&lt;div&gt;累计进项转出&amp;nbsp; outMoney&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;invoice_deductible&lt;/div&gt;&lt;div&gt;已勾选抵扣税额&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;只有专票需要&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;invoice_deductible 中 yxse（busicollection）--&amp;gt;如果已抵扣/已认证则deductionTax=yxse&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;勾选抵扣状态&lt;/div&gt;&lt;div&gt;预勾选状态&amp;nbsp; &amp;nbsp; &amp;nbsp;包括其他：usage \ 认证状态、预勾选状态、 抵扣期间&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;calculate_deduct&lt;/div&gt;&lt;div&gt;已勾选计算抵扣税额&amp;nbsp; &amp;nbsp; &amp;nbsp;如果已认证 CalculateValidTax = CalculateValidTax + CalculateAddTax&amp;nbsp; &amp;nbsp;否则为null&lt;/div&gt;&lt;div&gt;计算抵扣勾选状态&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SuggestTax&lt;/div&gt;&lt;div&gt;本笔业务建议抵扣税额(TotalCtgrySuggestTax)&amp;nbsp; &amp;nbsp; &amp;nbsp;价税合计 -&amp;nbsp; 台账中建议抵扣(CtgrySuggestTax)之和&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;invoice&lt;/div&gt;&lt;div&gt;小额纳税人(SmallTaxpayer)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="756.25" width="190" height="587.5" as="geometry" />
         </mxCell>
-        <mxCell id="BELl_IB8kdiGP95Ta7bd-45" value="&lt;span&gt;进项税&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1400" width="120" height="80" as="geometry" />
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-45" value="&lt;span&gt;set&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1400" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
