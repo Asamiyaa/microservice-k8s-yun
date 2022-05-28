@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-28T11:38:51.343Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="2HZmSCNsdb_o5QBK03Py" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-28T11:44:36.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="Fwgco8hRuMgU6MDZ2GxZ" version="17.4.3" type="github">
   <diagram id="3CJurVh0qIclkFhJRMKo" name="Page-1">
     <mxGraphModel dx="1361" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -205,8 +205,8 @@
         <mxCell id="BELl_IB8kdiGP95Ta7bd-53" value="After" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="1830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BELl_IB8kdiGP95Ta7bd-55" value="1.开票日期&lt;br&gt;2.抵扣税额和必填和 非法(1.普票 + 一次性客运/农产品 建议抵扣税额必填&lt;br&gt;2.专票 + 一次性农产品 + 小额纳税人&amp;nbsp; 建议抵扣税额必填)&lt;br&gt;3.。。。&lt;br&gt;4.飞机/火车/客运 + 一次性客运 建议抵扣必填）））&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;3.发票用途/进项税分类 -- 需求中未勾选/已勾选已认证实现&lt;br&gt;前者其实就是对每种分类允许哪些票种设置，后者" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="1505" width="350" height="150" as="geometry" />
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-55" value="1.开票日期&lt;br&gt;2.抵扣税额和必填和 非法(1.普票 + 一次性客运/农产品 建议抵扣税额必填&lt;br&gt;2.专票 + 一次性农产品 + 小额纳税人&amp;nbsp; 建议抵扣税额必填)&lt;br&gt;3.。。。&lt;br&gt;4.飞机/火车/客运 + 一次性客运 建议抵扣必填）））&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;3.发票用途/进项税分类 -- 需求中未勾选/已勾选已认证实现&lt;br&gt;前者其实就是对每种分类允许哪些票种设置，后者1.对客运和农产品比对(做了计算抵扣、与这里设置的进项税分类)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1457.5" width="560" height="245" as="geometry" />
         </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-63" value="设置时约束" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="360" width="80" height="30" as="geometry" />
