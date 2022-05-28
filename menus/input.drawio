@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2022-05-28T11:16:59.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="WTrMoBXyaDSfeAS9tPOU" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-28T11:33:42.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="F8NEjBz0j4aFTB-HRqxl" version="17.4.3" type="github">
   <diagram id="3CJurVh0qIclkFhJRMKo" name="Page-1">
     <mxGraphModel dx="1361" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-72" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-58" target="BELl_IB8kdiGP95Ta7bd-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="270" width="340" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-3" target="BELl_IB8kdiGP95Ta7bd-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -21,17 +27,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BELl_IB8kdiGP95Ta7bd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.463;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-1" target="BELl_IB8kdiGP95Ta7bd-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BELl_IB8kdiGP95Ta7bd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-1" target="BELl_IB8kdiGP95Ta7bd-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-1" target="BELl_IB8kdiGP95Ta7bd-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BELl_IB8kdiGP95Ta7bd-17" value="分类" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BELl_IB8kdiGP95Ta7bd-14">
-          <mxGeometry x="-0.8324" y="1" relative="1" as="geometry">
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-68" value="分类" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BELl_IB8kdiGP95Ta7bd-14">
+          <mxGeometry x="0.0667" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -68,8 +68,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-5" target="BELl_IB8kdiGP95Ta7bd-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="730" />
+              <mxPoint x="240" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-59" value="基于票" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BELl_IB8kdiGP95Ta7bd-57">
+          <mxGeometry x="0.3219" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-5" value="票据中心" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="690" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-9" target="BELl_IB8kdiGP95Ta7bd-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-62" value="outMoney" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BELl_IB8kdiGP95Ta7bd-60">
+          <mxGeometry x="-0.252" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-9" value="转出" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="280" width="120" height="80" as="geometry" />
@@ -78,7 +101,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-11" value="计算抵扣&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="280" width="120" height="80" as="geometry" />
+          <mxGeometry x="470" y="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-12" target="BELl_IB8kdiGP95Ta7bd-23">
           <mxGeometry relative="1" as="geometry" />
@@ -182,8 +205,20 @@
         <mxCell id="BELl_IB8kdiGP95Ta7bd-53" value="After" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="1830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BELl_IB8kdiGP95Ta7bd-55" value="1.开票日期&lt;br&gt;2.抵扣税额和必填和 非法&lt;br&gt;3." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1550" width="190" height="60" as="geometry" />
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-55" value="1.开票日期&lt;br&gt;2.抵扣税额和必填和 非法(1.普票 + 一次性客运/农产品 建议抵扣税额必填&lt;br&gt;2.专票 + 一次性农产品 + 小额纳税人&amp;nbsp; 建议抵扣税额必填)&lt;br&gt;3.。。。&lt;br&gt;4.飞机/火车/客运 + 一次性客运 建议抵扣必填）））&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;3.发票用途/进项税分类 -- 需求中未勾选/已勾选已认证实现&lt;br&gt;前者其实就是对每种分类允许哪些票种设置，后者" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1505" width="350" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-63" value="设置时约束" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-71" value="财务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-73" value="" style="endArrow=classic;html=1;rounded=0;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="410" as="sourcePoint" />
+            <mxPoint x="540" y="410" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
