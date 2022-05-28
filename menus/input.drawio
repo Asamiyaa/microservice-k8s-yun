@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-28T11:44:36.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="Fwgco8hRuMgU6MDZ2GxZ" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-28T11:47:33.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="6mDpcWuJCoS6GhVKCt0P" version="17.4.3" type="github">
   <diagram id="3CJurVh0qIclkFhJRMKo" name="Page-1">
     <mxGraphModel dx="1361" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -24,14 +24,6 @@
         </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-8" value="金额" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BELl_IB8kdiGP95Ta7bd-7">
           <mxGeometry x="-0.0981" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BELl_IB8kdiGP95Ta7bd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-1" target="BELl_IB8kdiGP95Ta7bd-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BELl_IB8kdiGP95Ta7bd-68" value="分类" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BELl_IB8kdiGP95Ta7bd-14">
-          <mxGeometry x="0.0667" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -112,6 +104,16 @@
         <mxCell id="BELl_IB8kdiGP95Ta7bd-30" value="同步的票为未收票状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BELl_IB8kdiGP95Ta7bd-29">
           <mxGeometry x="-0.3093" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-78" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-79" value="已做认证可以设置&lt;br&gt;设置了也可以再做认证" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BELl_IB8kdiGP95Ta7bd-78">
+          <mxGeometry x="0.0859" y="-1" relative="1" as="geometry">
+            <mxPoint x="30" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-12" value="认证" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
