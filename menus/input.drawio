@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-28T10:07:51.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="tj6mX6CyElMrSadav1Z3" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-28T10:21:50.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="okSqIbz5qQO-51k1G5UF" version="17.4.3" type="github">
   <diagram id="3CJurVh0qIclkFhJRMKo" name="Page-1">
-    <mxGraphModel dx="1361" dy="703" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1361" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,8 +38,11 @@
         <mxCell id="BELl_IB8kdiGP95Ta7bd-1" value="进项税&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="410" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="BELl_IB8kdiGP95Ta7bd-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="410" width="120" height="80" as="geometry" />
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-2" target="BELl_IB8kdiGP95Ta7bd-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-2" value="&lt;span&gt;进项税&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="960" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-3" target="BELl_IB8kdiGP95Ta7bd-31">
           <mxGeometry relative="1" as="geometry" />
@@ -115,6 +118,20 @@
         </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-34" value="相互引用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="575" width="54" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-35" value="&lt;span&gt;进项税&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="960" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-37" target="BELl_IB8kdiGP95Ta7bd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-40" value="会计主体" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BELl_IB8kdiGP95Ta7bd-39">
+          <mxGeometry x="-0.1795" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-37" value="进项税设置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="960" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
