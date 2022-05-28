@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-28T11:11:36.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="QXaCgvdlhKocMMbF_oTS" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-28T11:16:59.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="WTrMoBXyaDSfeAS9tPOU" version="17.4.3" type="github">
   <diagram id="3CJurVh0qIclkFhJRMKo" name="Page-1">
     <mxGraphModel dx="1361" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -167,6 +167,9 @@
         <mxCell id="BELl_IB8kdiGP95Ta7bd-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-49" target="BELl_IB8kdiGP95Ta7bd-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-49" target="BELl_IB8kdiGP95Ta7bd-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-49" value="checkBefore" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="1550" width="120" height="60" as="geometry" />
         </mxCell>
@@ -178,6 +181,9 @@
         </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-53" value="After" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-55" value="1.开票日期&lt;br&gt;2.抵扣税额和必填和 非法&lt;br&gt;3." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1550" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
