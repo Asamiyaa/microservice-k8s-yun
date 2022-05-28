@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-28T09:53:54.366Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="zfytZLgx7UUykenlIZ9q" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-28T09:59:51.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="panzRfG5Txu2W5h8stcI" version="17.4.3" type="github">
   <diagram id="3CJurVh0qIclkFhJRMKo" name="Page-1">
     <mxGraphModel dx="1361" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,8 +58,14 @@
         <mxCell id="BELl_IB8kdiGP95Ta7bd-9" value="转出" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="280" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-11" target="BELl_IB8kdiGP95Ta7bd-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-11" value="计算抵扣&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-12" target="BELl_IB8kdiGP95Ta7bd-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-12" value="认证" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="280" width="120" height="80" as="geometry" />
@@ -74,6 +80,21 @@
         </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-18" value="1：N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="650" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-22" value="辅助&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="315" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-23" target="BELl_IB8kdiGP95Ta7bd-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-23" value="税局" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-26" value="勾选 ---&amp;gt; 申报" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="240" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-28" value="同步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="240" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
