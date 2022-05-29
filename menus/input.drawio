@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-28T12:19:27.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="wiN4SZ0lzzNR9zjz6m_g" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-29T00:31:24.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="0TIMDZR2CZnt9JQzD43c" version="17.4.3" type="github">
   <diagram id="3CJurVh0qIclkFhJRMKo" name="Page-1">
-    <mxGraphModel dx="3154" dy="1853" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2530" dy="1530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,6 +36,15 @@
         <mxCell id="BELl_IB8kdiGP95Ta7bd-8" value="金额" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BELl_IB8kdiGP95Ta7bd-7">
           <mxGeometry x="-0.0981" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="156.86160714285734" y="194.00892857142867" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="343" y="215" />
+              <mxPoint x="157" y="215" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-1" value="进项税&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -94,7 +103,7 @@
         </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-62" value="outMoney" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BELl_IB8kdiGP95Ta7bd-60">
           <mxGeometry x="-0.252" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="63" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-9" value="转出" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -258,6 +267,9 @@
         </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-91" value="1.校验一致性 校验同发票不同业务，应税期、进项税分类编码、进项转出、按比例转出是否一致&lt;br&gt;1-1.进项税是在台账上设置、但是同一张票的分类是一致的&lt;br&gt;1-2.应税期也是一样的&lt;br&gt;1-3.不可同时设置为&#39;进项转出&#39;和&#39;按销售比例分摊转出" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="2190" width="560" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-95" value="&lt;font color=&quot;#330000&quot;&gt;是否按比例转出&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="157" y="200" width="93" height="6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
