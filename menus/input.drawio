@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-29T03:07:39.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="tkEth430aibk7LjXh9QJ" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-29T03:09:50.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="AnzUpuyC-Gyaemcr7p-t" version="17.4.3" type="github">
   <diagram id="3CJurVh0qIclkFhJRMKo" name="Page-1">
     <mxGraphModel dx="2812" dy="1618" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -111,19 +111,19 @@
             <mxPoint x="63" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="naQ0WUlqjllGHFEDcTon-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="306" y="34" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-9" value="转出" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="97" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BELl_IB8kdiGP95Ta7bd-11" target="BELl_IB8kdiGP95Ta7bd-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="naQ0WUlqjllGHFEDcTon-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="332.82758620689674" y="45.80387931034488" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-11" value="计算抵扣&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="283" y="110" width="120" height="80" as="geometry" />
+          <mxGeometry x="273" y="112" width="120" height="74" as="geometry" />
         </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="BELl_IB8kdiGP95Ta7bd-12" target="BELl_IB8kdiGP95Ta7bd-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -151,7 +151,7 @@
             <mxPoint x="30" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="naQ0WUlqjllGHFEDcTon-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-12">
+        <mxCell id="naQ0WUlqjllGHFEDcTon-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=none;" edge="1" parent="1" source="naQ0WUlqjllGHFEDcTon-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="358" y="36" as="targetPoint" />
           </mxGeometry>
@@ -180,10 +180,10 @@
           <mxGeometry x="463" y="-30" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-26" value="勾选 ---&amp;gt; 认证" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="433" y="70" width="90" height="20" as="geometry" />
+          <mxGeometry x="455" y="62" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-28" value="同步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="523" y="70" width="50" height="20" as="geometry" />
+          <mxGeometry x="515" y="75" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BELl_IB8kdiGP95Ta7bd-31" target="BELl_IB8kdiGP95Ta7bd-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -288,6 +288,18 @@
         </mxCell>
         <mxCell id="naQ0WUlqjllGHFEDcTon-2" value="没有设置进项税也可以做计算抵扣" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="293" y="171" width="139" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="naQ0WUlqjllGHFEDcTon-5" value="聚合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305.5" y="69" width="55" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="naQ0WUlqjllGHFEDcTon-13" value="聚合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="372" y="52" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="naQ0WUlqjllGHFEDcTon-14" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-12" target="naQ0WUlqjllGHFEDcTon-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="358" y="35.99999999999977" as="targetPoint" />
+            <mxPoint x="523" y="110" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
