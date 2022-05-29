@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-29T02:16:02.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="yJPZtgkx31zwQBVJJ2Ee" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-29T03:07:39.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="tkEth430aibk7LjXh9QJ" version="17.4.3" type="github">
   <diagram id="3CJurVh0qIclkFhJRMKo" name="Page-1">
-    <mxGraphModel dx="3154" dy="1783" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2812" dy="1618" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,6 +45,11 @@
               <mxPoint x="343" y="215" />
               <mxPoint x="157" y="215" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="naQ0WUlqjllGHFEDcTon-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="343.19047619047615" y="192.95982142857133" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-1" value="进项税&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -106,6 +111,11 @@
             <mxPoint x="63" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="naQ0WUlqjllGHFEDcTon-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="306" y="34" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-9" value="转出" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="97" y="110" width="120" height="80" as="geometry" />
         </mxCell>
@@ -141,6 +151,11 @@
             <mxPoint x="30" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="naQ0WUlqjllGHFEDcTon-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BELl_IB8kdiGP95Ta7bd-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="358" y="36" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-12" value="认证(勾选抵扣)&lt;br&gt;1.预勾选&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="463" y="110" width="120" height="80" as="geometry" />
         </mxCell>
@@ -164,7 +179,7 @@
         <mxCell id="BELl_IB8kdiGP95Ta7bd-23" value="税局" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="463" y="-30" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BELl_IB8kdiGP95Ta7bd-26" value="勾选 ---&amp;gt; 申报" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="BELl_IB8kdiGP95Ta7bd-26" value="勾选 ---&amp;gt; 认证" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="433" y="70" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-28" value="同步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -242,7 +257,7 @@
           <mxGeometry x="900" y="1403.75" width="560" height="486.25" as="geometry" />
         </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-63" value="设置时约束" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="293" y="190" width="80" height="30" as="geometry" />
+          <mxGeometry x="293" y="206" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-73" value="" style="endArrow=classic;html=1;rounded=0;curved=1;exitX=0.634;exitY=-0.052;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="BELl_IB8kdiGP95Ta7bd-63" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -270,6 +285,9 @@
         </mxCell>
         <mxCell id="BELl_IB8kdiGP95Ta7bd-95" value="&lt;font color=&quot;#330000&quot;&gt;是否按比例转出&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="157" y="200" width="93" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="naQ0WUlqjllGHFEDcTon-2" value="没有设置进项税也可以做计算抵扣" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="293" y="171" width="139" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
