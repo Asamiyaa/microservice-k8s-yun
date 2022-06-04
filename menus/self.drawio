@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-04T23:36:05.590Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="a7NrTpl2A3LAeyPOOKpg" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-05T00:03:51.282Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="_2Wqitib3wjT-DRbw0Uw" version="19.0.0" type="github">
   <diagram id="ldY1qM2QLt-F-Y-WQ3xt" name="Page-1">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,9 +34,6 @@
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-10" value="距离" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4uQCtZzEzjz5VoVeqCpC-13" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="390" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-14" value="环境" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="140" width="60" height="30" as="geometry" />
         </mxCell>
@@ -45,6 +42,68 @@
         </mxCell>
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-16" value="我心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="790" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4uQCtZzEzjz5VoVeqCpC-17" target="4uQCtZzEzjz5VoVeqCpC-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-17" value="指数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4uQCtZzEzjz5VoVeqCpC-18" target="4uQCtZzEzjz5VoVeqCpC-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-18" value="板块&lt;br&gt;（前一日预测板块，当前看市场认可，不做猜测）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="585" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-20" value="推演" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-21" value="自选" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-22" value="股数&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="465" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-23" value="风险收益比" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="465" width="93" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-24" value="上涨空间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="883" y="460" width="93" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4uQCtZzEzjz5VoVeqCpC-25" target="4uQCtZzEzjz5VoVeqCpC-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-25" value="自选&lt;br&gt;(bk、龙头、形态)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="745" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-27" value="1.农发&lt;br&gt;2.格林美&lt;br&gt;3.首旅酒店" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="710" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4uQCtZzEzjz5VoVeqCpC-28" target="4uQCtZzEzjz5VoVeqCpC-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-28" value="当日异动、涨停、盘后新闻、当日操作、" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1080" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.605;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4uQCtZzEzjz5VoVeqCpC-30" target="4uQCtZzEzjz5VoVeqCpC-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="1105" />
+              <mxPoint x="240" y="488" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-30" value="次日自选、推演" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4uQCtZzEzjz5VoVeqCpC-34" target="4uQCtZzEzjz5VoVeqCpC-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-34" value="盘中&lt;br&gt;（短线、波段-当前市场 、K线）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="905" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-37" value="1.西藏旅业(短期内不可能达到全面爆发的节点、逢高出货)&lt;br&gt;2.比亚迪(好票、却因为自己没有意识到这个是做长线等反弹而匆忙卖掉、总想着利益最大化反而抓不住)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="860" width="320" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
