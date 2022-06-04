@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-05T00:04:02.775Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="dL4iJvTDuWlU0yqZSva9" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-05T00:07:17.037Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="_TJD7vMorOAbBKJeHTuS" version="19.0.0" type="github">
   <diagram id="ldY1qM2QLt-F-Y-WQ3xt" name="Page-1">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,6 +104,12 @@
         </mxCell>
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-37" value="1.西藏旅业(短期内不可能达到全面爆发的节点、逢高出货)&lt;br&gt;2.比亚迪(好票、却因为自己没有意识到这个是做长线等反弹而匆忙卖掉、总想着利益最大化反而抓不住)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="860" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-38" value="按板块、情绪命中打版最好、如果没有也行" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="806.5" y="550" width="203.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-39" value="如何右侧追随趋势" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1037" y="567" width="203.5" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
