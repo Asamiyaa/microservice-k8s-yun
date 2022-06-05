@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-05T11:48:14.083Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="AgH2qx5wNMp3u4qedK73" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-05T11:52:27.031Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="YgE16eDUHBgbT_tprgk_" version="19.0.0" type="github">
   <diagram id="ldY1qM2QLt-F-Y-WQ3xt" name="Page-1">
     <mxGraphModel dx="2064" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,9 +73,6 @@
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-25" value="自选&lt;br&gt;(bk、龙头、形态、&lt;br&gt;短期 vs 波段、推演)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="745" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4uQCtZzEzjz5VoVeqCpC-27" value="1.农发&lt;br&gt;2.格林美&lt;br&gt;3.首旅酒店&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="680" y="715" width="320" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4uQCtZzEzjz5VoVeqCpC-28" target="4uQCtZzEzjz5VoVeqCpC-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -99,14 +96,8 @@
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-34" value="盘中&lt;br&gt;（严格遵守推演-当前市场 、K线）" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="905" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4uQCtZzEzjz5VoVeqCpC-37" value="1.西藏旅业(短期内不可能达到全面爆发的节点、逢高出货)&lt;br&gt;2.比亚迪(好票、却因为自己没有意识到这个是做长线等反弹而匆忙卖掉、总想着利益最大化反而抓不住)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="550" y="860" width="320" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="4uQCtZzEzjz5VoVeqCpC-41" value="1.锦江酒店&amp;nbsp; &amp;nbsp; 确认-解套&lt;br&gt;2.做T(仓位、风险、动态)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="940" y="875" width="320" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="4uQCtZzEzjz5VoVeqCpC-42" value="1.中远航控&amp;nbsp; &amp;nbsp; 没有分析支撑、导致卖飞&lt;br&gt;2.湖北广电&amp;nbsp; 严格遵循均线、没有分析后续的元宇宙大会&lt;br&gt;3." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="970" y="715" width="320" height="140" as="geometry" />
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-42" value="成功：&lt;br&gt;1.农发&lt;br&gt;2.格林美&lt;br&gt;3.首旅酒店&lt;br&gt;4.锦江酒店&amp;nbsp; &amp;nbsp; 确认-解套&lt;br&gt;&lt;br&gt;失败：&lt;br&gt;0.比亚迪(好票、却因为自己没有意识到这个是做长线等反弹而匆忙卖掉、总想着利益最大化反而抓不住)&lt;br&gt;1.中远航控&amp;nbsp; &amp;nbsp; 没有分析支撑、导致卖飞&lt;br&gt;2.湖北广电&amp;nbsp; 严格遵循均线、没有分析后续的元宇宙大会&lt;br&gt;3.西藏旅业(短期内不可能达到全面爆发的节点、逢高出货)&lt;br&gt;2." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="960" y="700" width="330" height="160" as="geometry" />
         </mxCell>
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-43" value="闻泰科技被套" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="620" y="280" width="220" height="30" as="geometry" />
