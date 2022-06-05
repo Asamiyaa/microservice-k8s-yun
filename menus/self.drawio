@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-05T00:34:02.378Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="A_LA78fJDQndxDWBBusq" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-05T00:34:26.169Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="F6phkzDn2q3nf74ZlGrs" version="19.0.0" type="github">
   <diagram id="ldY1qM2QLt-F-Y-WQ3xt" name="Page-1">
     <mxGraphModel dx="2324" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-40" value="盈亏同源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="890" y="490" width="93" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4uQCtZzEzjz5VoVeqCpC-41" value="1.锦江酒店&amp;nbsp; &amp;nbsp; 确认-解套&lt;br&gt;2.做T" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-41" value="1.锦江酒店&amp;nbsp; &amp;nbsp; 确认-解套&lt;br&gt;2.做T(仓位、风险、动态)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="940" y="875" width="320" height="140" as="geometry" />
         </mxCell>
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-42" value="1.中远航控&amp;nbsp; &amp;nbsp; 没有分析支撑、导致卖飞&lt;br&gt;2.湖北广电&amp;nbsp; 严格遵循均线、没有分析后续的元宇宙大会&lt;br&gt;3." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
