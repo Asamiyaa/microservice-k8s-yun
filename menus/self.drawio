@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-05T11:53:39.450Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="DoWFc9rMO08Df62Plfr8" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-05T11:54:21.428Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ck-qyWi27Kl4kHvbVIAg" version="19.0.0" type="github">
   <diagram id="ldY1qM2QLt-F-Y-WQ3xt" name="Page-1">
     <mxGraphModel dx="2064" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -682,6 +682,9 @@
         </mxCell>
         <mxCell id="F_FFHKEHg2QyHqm7nIKE-3" value="0.T&lt;br&gt;竞价&lt;br&gt;尾盘&lt;br&gt;分时博弈" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="915" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F_FFHKEHg2QyHqm7nIKE-4" value="热点、温度、情绪" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1075" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
