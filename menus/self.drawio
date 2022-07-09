@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-09T13:54:53.404Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="JYBHK0TtiOGnsiJBtl_Q" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-09T13:57:14.558Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ZB93tqc2u2BFuRMhCG3D" version="20.0.4" type="github">
   <diagram id="ldY1qM2QLt-F-Y-WQ3xt" name="Page-1">
     <mxGraphModel dx="2605" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -343,7 +343,7 @@
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-183" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=oval;startFill=0;endArrow=oval;endFill=1;strokeColor=#3333FF;strokeWidth=4;" parent="1" source="4uQCtZzEzjz5VoVeqCpC-118" target="4uQCtZzEzjz5VoVeqCpC-119" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4uQCtZzEzjz5VoVeqCpC-118" value="建筑建材" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-118" value="建筑建材" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1640" y="5420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-182" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=oval;startFill=0;endArrow=oval;endFill=1;strokeColor=#3333FF;strokeWidth=4;" parent="1" source="4uQCtZzEzjz5VoVeqCpC-119" target="4uQCtZzEzjz5VoVeqCpC-120" edge="1">
@@ -376,7 +376,7 @@
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-186" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=0;endArrow=oval;endFill=1;strokeColor=#3333FF;strokeWidth=4;" parent="1" source="4uQCtZzEzjz5VoVeqCpC-123" target="4uQCtZzEzjz5VoVeqCpC-124" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4uQCtZzEzjz5VoVeqCpC-123" value="房地产" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-123" value="房地产" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1905" y="5560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-187" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=0;endArrow=oval;endFill=1;strokeColor=#3333FF;strokeWidth=4;" parent="1" source="4uQCtZzEzjz5VoVeqCpC-124" target="4uQCtZzEzjz5VoVeqCpC-125" edge="1">
@@ -595,7 +595,7 @@
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-227" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=oval;startFill=0;endArrow=oval;endFill=1;strokeColor=#808080;strokeWidth=4;" parent="1" source="4uQCtZzEzjz5VoVeqCpC-157" target="4uQCtZzEzjz5VoVeqCpC-156" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4uQCtZzEzjz5VoVeqCpC-157" value="交通运输" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-157" value="交通运输" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="1155" y="5740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-226" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=oval;startFill=0;endArrow=oval;endFill=1;strokeColor=#808080;strokeWidth=4;" parent="1" source="4uQCtZzEzjz5VoVeqCpC-158" target="4uQCtZzEzjz5VoVeqCpC-157" edge="1">
@@ -788,7 +788,7 @@
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-32" value="稀有金属" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="3290" y="6530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_ERdf77PiGr_IL9-XyfZ-34" value="乡村振兴" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-34" value="乡村振兴" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="1000" y="5560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-35" value="中药" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -851,8 +851,59 @@
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-59" value="发电" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="960" y="6364" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_ERdf77PiGr_IL9-XyfZ-62" value="重工" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-62" value="工程机械" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="1310" y="5700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-64" value="乡村振兴" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="5560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-65" value="公路桥梁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="5560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-66" value="乡村振兴" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="5560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-67" value="公路桥梁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="5560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-68" value="乡村振兴" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="5560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-69" value="公路桥梁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="5560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-70" value="乡村振兴" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="5560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-71" value="公路桥梁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="5560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-72" value="乡村振兴" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="5560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-73" value="公路桥梁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="5560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-74" value="基建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="5560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ERdf77PiGr_IL9-XyfZ-75" target="_ERdf77PiGr_IL9-XyfZ-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-75" value="乡村振兴" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="5560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ERdf77PiGr_IL9-XyfZ-76" target="_ERdf77PiGr_IL9-XyfZ-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-76" value="公路桥梁" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="5560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ERdf77PiGr_IL9-XyfZ-77" target="4uQCtZzEzjz5VoVeqCpC-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-77" value="基建" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="5560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
