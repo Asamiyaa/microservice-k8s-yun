@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-09T13:05:40.970Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ZRBsSjWJFoiLTCyFbUkN" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-09T13:06:34.559Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="5PDvBC-X6vBnRvNeGnSl" version="20.0.4" type="github">
   <diagram id="ldY1qM2QLt-F-Y-WQ3xt" name="Page-1">
     <mxGraphModel dx="2605" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -463,6 +463,9 @@
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-138" value="酿酒行业" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2390" y="6690" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4uQCtZzEzjz5VoVeqCpC-139" target="_ERdf77PiGr_IL9-XyfZ-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-139" value="酒店综旅" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2390" y="6840" width="120" height="60" as="geometry" />
         </mxCell>
@@ -765,6 +768,15 @@
         </mxCell>
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-36" value="新冠药" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2100" y="7190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ERdf77PiGr_IL9-XyfZ-37" target="_ERdf77PiGr_IL9-XyfZ-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-37" value="机场航空" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2590" y="6840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-39" value="免税" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2790" y="6840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
