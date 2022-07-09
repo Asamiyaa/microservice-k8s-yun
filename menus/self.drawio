@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-09T13:57:14.558Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ZB93tqc2u2BFuRMhCG3D" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-09T13:58:06.852Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="eQkqAbegMbucJMeobeor" version="20.0.4" type="github">
   <diagram id="ldY1qM2QLt-F-Y-WQ3xt" name="Page-1">
-    <mxGraphModel dx="2605" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2500" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -845,8 +845,11 @@
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-55" value="调味品" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2150" y="6690" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ERdf77PiGr_IL9-XyfZ-57" target="4uQCtZzEzjz5VoVeqCpC-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-57" value="清洁能源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
-          <mxGeometry x="960" y="6790" width="120" height="60" as="geometry" />
+          <mxGeometry x="971" y="6840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-59" value="发电" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="960" y="6364" width="60" height="30" as="geometry" />
