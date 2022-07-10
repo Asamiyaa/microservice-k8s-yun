@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-09T14:23:14.115Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="OIjT75zl9VHzflASErcI" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-10T05:19:08.090Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="vVFrFIDgGAgRoU0DBHaf" version="20.0.4" type="github">
   <diagram id="ldY1qM2QLt-F-Y-WQ3xt" name="Page-1">
-    <mxGraphModel dx="2500" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3197" dy="1333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -630,10 +630,10 @@
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4uQCtZzEzjz5VoVeqCpC-163" target="4uQCtZzEzjz5VoVeqCpC-164">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ERdf77PiGr_IL9-XyfZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4uQCtZzEzjz5VoVeqCpC-163" target="_ERdf77PiGr_IL9-XyfZ-16">
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4uQCtZzEzjz5VoVeqCpC-163" target="4uQCtZzEzjz5VoVeqCpC-165">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ERdf77PiGr_IL9-XyfZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4uQCtZzEzjz5VoVeqCpC-163" target="4uQCtZzEzjz5VoVeqCpC-165">
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4uQCtZzEzjz5VoVeqCpC-163" target="_ERdf77PiGr_IL9-XyfZ-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-163" value="新能源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
@@ -913,6 +913,9 @@
         </mxCell>
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-83" value="鸿蒙" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="3810" y="6050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-86" value="氢能" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="4050" y="6390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
