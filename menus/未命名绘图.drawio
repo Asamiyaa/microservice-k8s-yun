@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-11T03:00:45.192Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="pgq1m6tViQj9O6QV_Dr5" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-11T03:01:04.680Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="bYd5RekJmIlo8tO1DHX1" version="20.2.3" type="github">
   <diagram id="d3kX76iIKoJ4xAQK4GNq" name="第 1 页">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,6 +100,9 @@
         <mxCell id="ePfMNn7ndaOWINTpqlZt-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ePfMNn7ndaOWINTpqlZt-34" target="ePfMNn7ndaOWINTpqlZt-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ePfMNn7ndaOWINTpqlZt-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ePfMNn7ndaOWINTpqlZt-34" target="ePfMNn7ndaOWINTpqlZt-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ePfMNn7ndaOWINTpqlZt-34" value="股市" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="660" width="90" height="50" as="geometry" />
         </mxCell>
@@ -116,9 +119,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ePfMNn7ndaOWINTpqlZt-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ePfMNn7ndaOWINTpqlZt-39" target="ePfMNn7ndaOWINTpqlZt-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ePfMNn7ndaOWINTpqlZt-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ePfMNn7ndaOWINTpqlZt-39" target="ePfMNn7ndaOWINTpqlZt-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ePfMNn7ndaOWINTpqlZt-39" value="杠杆" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -182,7 +182,7 @@
           <mxGeometry x="205" y="1430" width="275" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ePfMNn7ndaOWINTpqlZt-70" value="流动性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="870" width="55" height="30" as="geometry" />
+          <mxGeometry x="640" y="800" width="55" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
