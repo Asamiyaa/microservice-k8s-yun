@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-11T23:43:17.591Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="fBHyA1Udk4SwHbwKYhbg" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-11T23:48:09.619Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="9l9posqi03JN-4lPeI2O" version="20.3.0" type="github">
   <diagram id="sSUNDJ4acDck_fxiAASo" name="第 1 页">
     <mxGraphModel dx="1673" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,29 +73,38 @@
         <mxCell id="QDTk_lBvC4lLmpNK7d44-32" value="风险" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="420" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="3ZODtghZDt5uGHC-I1vt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QDTk_lBvC4lLmpNK7d44-34" target="QDTk_lBvC4lLmpNK7d44-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QDTk_lBvC4lLmpNK7d44-34" value="模式" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="560" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QDTk_lBvC4lLmpNK7d44-38" value="模式内" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="710" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QDTk_lBvC4lLmpNK7d44-39" value="买卖点&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="700" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QDTk_lBvC4lLmpNK7d44-40" value="预测与应对" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="740" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QDTk_lBvC4lLmpNK7d44-43" value="约束" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="650" width="90" height="40" as="geometry" />
+        <mxCell id="3ZODtghZDt5uGHC-I1vt-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3ZODtghZDt5uGHC-I1vt-1" target="QDTk_lBvC4lLmpNK7d44-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="700" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3ZODtghZDt5uGHC-I1vt-1" value="策略" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="710" width="90" height="40" as="geometry" />
+          <mxGeometry x="800" y="660" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZODtghZDt5uGHC-I1vt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3ZODtghZDt5uGHC-I1vt-2" target="QDTk_lBvC4lLmpNK7d44-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3ZODtghZDt5uGHC-I1vt-2" value="计划" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="760" width="90" height="40" as="geometry" />
+          <mxGeometry x="800" y="710" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZODtghZDt5uGHC-I1vt-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3ZODtghZDt5uGHC-I1vt-3" target="QDTk_lBvC4lLmpNK7d44-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="452" y="800" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3ZODtghZDt5uGHC-I1vt-3" value="资金管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="800" width="90" height="40" as="geometry" />
+          <mxGeometry x="800" y="760" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
