@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-11T04:18:27.556Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="WOYmASkBBGnqNwRcjAPS" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-11T04:33:11.012Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="fBHXAacX72kCVgYLkB01" version="20.3.0" type="github">
   <diagram id="sSUNDJ4acDck_fxiAASo" name="第 1 页">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,6 +84,15 @@
         </mxCell>
         <mxCell id="QDTk_lBvC4lLmpNK7d44-30" value="若水三千只取一瓢" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1151" y="270" width="109" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QDTk_lBvC4lLmpNK7d44-31" value="孤独" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="170" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QDTk_lBvC4lLmpNK7d44-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QDTk_lBvC4lLmpNK7d44-32" target="QDTk_lBvC4lLmpNK7d44-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QDTk_lBvC4lLmpNK7d44-32" value="风险" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="420" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
