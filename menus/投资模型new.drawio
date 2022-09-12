@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-11T23:48:09.619Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="9l9posqi03JN-4lPeI2O" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-12T00:20:27.952Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="2w6aaEfQ5ogR-zzXkbab" version="20.3.0" type="github">
   <diagram id="sSUNDJ4acDck_fxiAASo" name="第 1 页">
     <mxGraphModel dx="1673" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="QDTk_lBvC4lLmpNK7d44-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QDTk_lBvC4lLmpNK7d44-4" target="QDTk_lBvC4lLmpNK7d44-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QDTk_lBvC4lLmpNK7d44-4" value="术" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QDTk_lBvC4lLmpNK7d44-4" value="术(模式&lt;br&gt;)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="560" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QDTk_lBvC4lLmpNK7d44-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="QDTk_lBvC4lLmpNK7d44-21" target="QDTk_lBvC4lLmpNK7d44-1" edge="1">
@@ -76,8 +76,8 @@
         <mxCell id="3ZODtghZDt5uGHC-I1vt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QDTk_lBvC4lLmpNK7d44-34" target="QDTk_lBvC4lLmpNK7d44-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QDTk_lBvC4lLmpNK7d44-34" value="模式" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="560" width="120" height="80" as="geometry" />
+        <mxCell id="QDTk_lBvC4lLmpNK7d44-34" value="选股" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="510" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3ZODtghZDt5uGHC-I1vt-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3ZODtghZDt5uGHC-I1vt-1" target="QDTk_lBvC4lLmpNK7d44-5">
           <mxGeometry relative="1" as="geometry">
@@ -105,6 +105,12 @@
         </mxCell>
         <mxCell id="3ZODtghZDt5uGHC-I1vt-3" value="资金管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="760" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZODtghZDt5uGHC-I1vt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3ZODtghZDt5uGHC-I1vt-10" target="QDTk_lBvC4lLmpNK7d44-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZODtghZDt5uGHC-I1vt-10" value="资金管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="805" y="560" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
