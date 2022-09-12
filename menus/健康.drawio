@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T08:25:21.300Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="FUIuVpmE3j5up7deU7G9" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-12T08:26:33.663Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Y3CB8u6Ub6n5p74sB3uN" version="20.3.0" type="github">
   <diagram id="g6ckFE7u91fx3Fw3e20K" name="第 1 页">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,6 +52,15 @@
         <mxCell id="cVddtWvaXsy1h70ijzdg-6" value="血压" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="550" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cVddtWvaXsy1h70ijzdg-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cVddtWvaXsy1h70ijzdg-7" target="cVddtWvaXsy1h70ijzdg-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVddtWvaXsy1h70ijzdg-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cVddtWvaXsy1h70ijzdg-7" target="cVddtWvaXsy1h70ijzdg-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVddtWvaXsy1h70ijzdg-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cVddtWvaXsy1h70ijzdg-7" target="cVddtWvaXsy1h70ijzdg-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cVddtWvaXsy1h70ijzdg-7" value="皮肤" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="550" width="80" height="60" as="geometry" />
         </mxCell>
@@ -72,6 +81,15 @@
         </mxCell>
         <mxCell id="cVddtWvaXsy1h70ijzdg-23" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;p style=&quot;margin: 0; padding: 0; min-height: 24px&quot; class=&quot;ne-p&quot; id=&quot;u1e6dda3b&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;冥想&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="550" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVddtWvaXsy1h70ijzdg-25" value="去角质" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="690" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cVddtWvaXsy1h70ijzdg-26" value="汗蒸" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="805" y="690" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cVddtWvaXsy1h70ijzdg-27" value="护理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="690" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
