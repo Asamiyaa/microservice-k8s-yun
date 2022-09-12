@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T00:46:23.285Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="358FHtLg96o94_2JN2S8" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-12T01:35:22.147Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="XjMtc9IYKR-UVtNtyn91" version="20.3.0" type="github">
   <diagram id="sSUNDJ4acDck_fxiAASo" name="第 1 页">
     <mxGraphModel dx="1673" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,6 +101,18 @@
         </mxCell>
         <mxCell id="3ZODtghZDt5uGHC-I1vt-12" value="盈利与回撤" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="805" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZODtghZDt5uGHC-I1vt-14" value="渗透细节" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZODtghZDt5uGHC-I1vt-15" value="板块关联" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZODtghZDt5uGHC-I1vt-16" value="领域细分、股性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZODtghZDt5uGHC-I1vt-17" value="日历、周期、轮动" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="200" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
