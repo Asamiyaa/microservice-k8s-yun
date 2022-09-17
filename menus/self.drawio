@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-17T07:58:01.603Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="BGYYjcp9EiUFTyqkM0sR" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-17T07:58:30.681Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="kpnaPBmMPanmFEqAtoqV" version="20.3.0" type="github">
   <diagram id="ldY1qM2QLt-F-Y-WQ3xt" name="Page-1">
     <mxGraphModel dx="2858" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -710,7 +710,7 @@
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-213" value="CRO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1810" y="7090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4uQCtZzEzjz5VoVeqCpC-224" value="元宇宙" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-224" value="元宇宙" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="3620" y="5650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-232" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#808080;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="4uQCtZzEzjz5VoVeqCpC-122" edge="1">
@@ -1109,7 +1109,7 @@
         <mxCell id="DqUaL9jEFc5_sNmNjZzt-59" value="乳业" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="1940" y="6840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DqUaL9jEFc5_sNmNjZzt-60" value="游戏板块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DqUaL9jEFc5_sNmNjZzt-60" value="游戏板块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="3620" y="5570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
