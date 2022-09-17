@@ -1,59 +1,107 @@
-<mxfile host="app.diagrams.net" modified="2022-09-17T02:17:45.172Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="FB_m6YayydpuXOixTzWs" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-17T08:41:28.581Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="V9k-cB7DgtJTpelR5iYk" version="20.3.0" type="github">
   <diagram id="vp2Fs3lhox5-p6Rq-uuR" name="第 1 页">
-    <mxGraphModel dx="1185" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jzqRHpdF6nwIVXYT5m2F-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jzqRHpdF6nwIVXYT5m2F-1" target="jzqRHpdF6nwIVXYT5m2F-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqRHpdF6nwIVXYT5m2F-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jzqRHpdF6nwIVXYT5m2F-1" value="202110之前" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="84" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jzqRHpdF6nwIVXYT5m2F-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jzqRHpdF6nwIVXYT5m2F-2" target="jzqRHpdF6nwIVXYT5m2F-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqRHpdF6nwIVXYT5m2F-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jzqRHpdF6nwIVXYT5m2F-2" value="202111" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jzqRHpdF6nwIVXYT5m2F-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jzqRHpdF6nwIVXYT5m2F-3" target="jzqRHpdF6nwIVXYT5m2F-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqRHpdF6nwIVXYT5m2F-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jzqRHpdF6nwIVXYT5m2F-3" value="202202&lt;br&gt;美联储加息、苏乌冲突" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jzqRHpdF6nwIVXYT5m2F-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jzqRHpdF6nwIVXYT5m2F-6" target="jzqRHpdF6nwIVXYT5m2F-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqRHpdF6nwIVXYT5m2F-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jzqRHpdF6nwIVXYT5m2F-6" value="地产-金三银四、金九银十" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="84" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jzqRHpdF6nwIVXYT5m2F-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jzqRHpdF6nwIVXYT5m2F-7" target="jzqRHpdF6nwIVXYT5m2F-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqRHpdF6nwIVXYT5m2F-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jzqRHpdF6nwIVXYT5m2F-7" value="比亚迪、用友、闻泰科技" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jzqRHpdF6nwIVXYT5m2F-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jzqRHpdF6nwIVXYT5m2F-8" target="jzqRHpdF6nwIVXYT5m2F-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqRHpdF6nwIVXYT5m2F-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jzqRHpdF6nwIVXYT5m2F-8" value="20220215开户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jzqRHpdF6nwIVXYT5m2F-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jzqRHpdF6nwIVXYT5m2F-10" target="jzqRHpdF6nwIVXYT5m2F-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqRHpdF6nwIVXYT5m2F-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jzqRHpdF6nwIVXYT5m2F-10" value="新能源-风光储" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="84" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jzqRHpdF6nwIVXYT5m2F-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jzqRHpdF6nwIVXYT5m2F-11" target="jzqRHpdF6nwIVXYT5m2F-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzqRHpdF6nwIVXYT5m2F-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jzqRHpdF6nwIVXYT5m2F-11" value="汽车" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jzqRHpdF6nwIVXYT5m2F-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jzqRHpdF6nwIVXYT5m2F-12" value="电力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqRHpdF6nwIVXYT5m2F-23" value="支付宝基金&lt;br&gt;-3000" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="100" width="94" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqRHpdF6nwIVXYT5m2F-24" value="板块思维" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="100" width="94" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqRHpdF6nwIVXYT5m2F-26" value="广发多因子基金&lt;br&gt;+1000" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="100" width="94" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqRHpdF6nwIVXYT5m2F-27" value="长线投资" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="394" y="100" width="94" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqRHpdF6nwIVXYT5m2F-28" value="支付宝定期赢" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="40" width="94" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqRHpdF6nwIVXYT5m2F-29" value="流动性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="40" width="94" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqRHpdF6nwIVXYT5m2F-30" value="原油、煤炭" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="100" width="94" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqRHpdF6nwIVXYT5m2F-33" value="新能源-风光储" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqRHpdF6nwIVXYT5m2F-35" value="汽车" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqRHpdF6nwIVXYT5m2F-36" value="煤炭" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqRHpdF6nwIVXYT5m2F-37" value="新能源-风光储" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqRHpdF6nwIVXYT5m2F-38" value="汽车" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqRHpdF6nwIVXYT5m2F-39" value="电力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="616" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqRHpdF6nwIVXYT5m2F-40" value="新能源-风光储" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84" y="1109" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqRHpdF6nwIVXYT5m2F-41" value="汽车" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="1109" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jzqRHpdF6nwIVXYT5m2F-42" value="电力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1109" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
