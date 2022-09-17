@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-17T08:13:16.170Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Qut92Tk-dF9OOOvNnz6j" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-17T08:14:17.117Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="QVEELou4dMtM9I_DB09m" version="20.3.0" type="github">
   <diagram id="ldY1qM2QLt-F-Y-WQ3xt" name="Page-1">
     <mxGraphModel dx="2858" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1145,8 +1145,14 @@
         <mxCell id="DqUaL9jEFc5_sNmNjZzt-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DqUaL9jEFc5_sNmNjZzt-74" target="4uQCtZzEzjz5VoVeqCpC-166">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DqUaL9jEFc5_sNmNjZzt-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DqUaL9jEFc5_sNmNjZzt-74" target="DqUaL9jEFc5_sNmNjZzt-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DqUaL9jEFc5_sNmNjZzt-74" value="锂电" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;fontColor=#ffffff;strokeColor=#FFCC99;" vertex="1" parent="1">
           <mxGeometry x="3910" y="6590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DqUaL9jEFc5_sNmNjZzt-76" value="锂电池" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;fontColor=#ffffff;strokeColor=#FFCC99;" vertex="1" parent="1">
+          <mxGeometry x="4150" y="6690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
