@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-17T02:11:28.880Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="hvRed7G06LPV6gW_UQNH" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-17T02:12:26.656Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="-VmEYnSOPg8fLE53TUha" version="20.3.0" type="github">
   <diagram id="Ahpvm5UfH80_zX1NdgCi" name="第 1 页">
     <mxGraphModel dx="1185" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,6 +123,9 @@
         </mxCell>
         <mxCell id="bJICMdsOaidTDa2SbXjU-46" value="衣间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="260" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-47" value="油烟机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="570" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
