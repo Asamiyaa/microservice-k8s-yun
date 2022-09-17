@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-17T08:01:59.236Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="pkbeSvBI69PHHNZ2dwCj" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-17T08:02:55.504Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="qdCSk79si3cY-c0YrOYw" version="20.3.0" type="github">
   <diagram id="ldY1qM2QLt-F-Y-WQ3xt" name="Page-1">
     <mxGraphModel dx="2858" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -773,9 +773,6 @@
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-28" value="高潮后传导" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3520" y="6060" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="_ERdf77PiGr_IL9-XyfZ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="4uQCtZzEzjz5VoVeqCpC-235" target="4uQCtZzEzjz5VoVeqCpC-235" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-30" value="电子身份证" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="3620" y="5880" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1114,6 +1111,9 @@
         </mxCell>
         <mxCell id="DqUaL9jEFc5_sNmNjZzt-64" value="汽车零部件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2090" y="6280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DqUaL9jEFc5_sNmNjZzt-65" value="虚拟现实" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="3620" y="5490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
