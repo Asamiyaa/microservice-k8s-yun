@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-17T07:21:08.251Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="d-mz_GpUhB9h8eq-PpN_" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-17T07:23:51.450Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="nwAO4kO0fLz5w2aJJERi" version="20.3.0" type="github">
   <diagram id="ldY1qM2QLt-F-Y-WQ3xt" name="Page-1">
     <mxGraphModel dx="2500" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -382,13 +382,10 @@
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-187" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=0;endArrow=oval;endFill=1;strokeColor=#3333FF;strokeWidth=4;" parent="1" source="4uQCtZzEzjz5VoVeqCpC-124" target="4uQCtZzEzjz5VoVeqCpC-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4uQCtZzEzjz5VoVeqCpC-194" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=oval;startFill=0;endArrow=oval;endFill=1;strokeColor=#0000FF;strokeWidth=4;" parent="1" source="4uQCtZzEzjz5VoVeqCpC-124" target="4uQCtZzEzjz5VoVeqCpC-126" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4uQCtZzEzjz5VoVeqCpC-124" target="_ERdf77PiGr_IL9-XyfZ-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4uQCtZzEzjz5VoVeqCpC-124" value="家电行业" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-124" value="家居行业" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2140" y="5560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-188" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=oval;startFill=0;endArrow=oval;endFill=1;strokeColor=#FF8000;strokeWidth=4;" parent="1" source="4uQCtZzEzjz5VoVeqCpC-125" target="4uQCtZzEzjz5VoVeqCpC-133" edge="1">
@@ -399,9 +396,6 @@
         </mxCell>
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-125" value="传媒娱乐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2390" y="5560" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4uQCtZzEzjz5VoVeqCpC-126" value="家具行业" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="2140" y="5680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-196" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=oval;startFill=0;endArrow=oval;endFill=1;strokeColor=#33FF33;strokeWidth=4;" parent="1" source="4uQCtZzEzjz5VoVeqCpC-127" target="4uQCtZzEzjz5VoVeqCpC-128" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -838,7 +832,10 @@
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-50" value="港股互联网" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3210" y="6990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_ERdf77PiGr_IL9-XyfZ-51" value="厨卫" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="DqUaL9jEFc5_sNmNjZzt-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ERdf77PiGr_IL9-XyfZ-51" target="DqUaL9jEFc5_sNmNjZzt-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-51" value="装修建材" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2140" y="5430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-53" value="磷化工" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
@@ -990,6 +987,9 @@
             <mxPoint x="1920" y="6700" as="sourcePoint" />
             <mxPoint x="1970" y="6650" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DqUaL9jEFc5_sNmNjZzt-24" value="家电" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="5310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
