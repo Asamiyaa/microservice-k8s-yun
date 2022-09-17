@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-17T07:39:21.266Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="vELT1Nuh2neX1Yw4JXrz" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-17T07:40:20.761Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="9RZsrzzvLyVCEHsCS_jN" version="20.3.0" type="github">
   <diagram id="ldY1qM2QLt-F-Y-WQ3xt" name="Page-1">
     <mxGraphModel dx="2500" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -630,7 +630,7 @@
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="4uQCtZzEzjz5VoVeqCpC-163" target="_ERdf77PiGr_IL9-XyfZ-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4uQCtZzEzjz5VoVeqCpC-163" value="新能源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-163" value="新能源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;fontColor=#ffffff;strokeColor=#FFCC99;" parent="1" vertex="1">
           <mxGeometry x="3680" y="6280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4uQCtZzEzjz5VoVeqCpC-164" target="4uQCtZzEzjz5VoVeqCpC-166" edge="1">
@@ -653,10 +653,10 @@
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4uQCtZzEzjz5VoVeqCpC-165" target="4uQCtZzEzjz5VoVeqCpC-173" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4uQCtZzEzjz5VoVeqCpC-165" value="储能" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-165" value="储能" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;fontColor=#ffffff;strokeColor=#FFCC99;" parent="1" vertex="1">
           <mxGeometry x="4120" y="6280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4uQCtZzEzjz5VoVeqCpC-166" value="盐湖提锂" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-166" value="盐湖提锂" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;fontColor=#ffffff;strokeColor=#FFCC99;" parent="1" vertex="1">
           <mxGeometry x="3420" y="6530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4uQCtZzEzjz5VoVeqCpC-167" target="_ERdf77PiGr_IL9-XyfZ-17" edge="1">
@@ -764,7 +764,7 @@
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-14" value="猪肉" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="1810" y="6840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_ERdf77PiGr_IL9-XyfZ-16" value="水电" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-16" value="水电" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;fontColor=#ffffff;strokeColor=#FFCC99;" parent="1" vertex="1">
           <mxGeometry x="3880" y="6390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-17" value="光伏设备" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -779,7 +779,7 @@
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-30" value="电子身份证" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="3620" y="5880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_ERdf77PiGr_IL9-XyfZ-32" value="稀有金属" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-32" value="稀有金属" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;fontColor=#ffffff;strokeColor=#FFCC99;" parent="1" vertex="1">
           <mxGeometry x="3290" y="6530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-34" value="乡村振兴" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
@@ -809,16 +809,16 @@
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-43" value="风电" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3730" y="6390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_ERdf77PiGr_IL9-XyfZ-44" value="新能源车" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-44" value="新能源车" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;fontColor=#ffffff;strokeColor=#FFCC99;" parent="1" vertex="1">
           <mxGeometry x="3420" y="6390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_ERdf77PiGr_IL9-XyfZ-45" value="光伏" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-45" value="光伏" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;fontColor=#ffffff;strokeColor=#FFCC99;" parent="1" vertex="1">
           <mxGeometry x="3580" y="6390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_ERdf77PiGr_IL9-XyfZ-46" value="风电" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-46" value="风电" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;fontColor=#ffffff;strokeColor=#FFCC99;" parent="1" vertex="1">
           <mxGeometry x="3730" y="6390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_ERdf77PiGr_IL9-XyfZ-47" value="光伏设备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-47" value="光伏设备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;fontColor=#ffffff;strokeColor=#FFCC99;" parent="1" vertex="1">
           <mxGeometry x="3580" y="6530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DqUaL9jEFc5_sNmNjZzt-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ERdf77PiGr_IL9-XyfZ-48" target="DqUaL9jEFc5_sNmNjZzt-18">
@@ -917,7 +917,7 @@
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-83" value="鸿蒙、欧拉&lt;br&gt;中国软件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="3810" y="6050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_ERdf77PiGr_IL9-XyfZ-86" value="氢能" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-86" value="氢能" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;fontColor=#ffffff;strokeColor=#FFCC99;" parent="1" vertex="1">
           <mxGeometry x="4050" y="6390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-88" value="数据中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
