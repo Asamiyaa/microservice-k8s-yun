@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-17T09:28:18.083Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="hmPdo4XY79CcXCV-D-o7" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-17T09:31:05.017Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="LOE_iWZ_4V8mYyHHsd9p" version="20.3.0" type="github">
   <diagram id="ldY1qM2QLt-F-Y-WQ3xt" name="Page-1">
     <mxGraphModel dx="2500" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="530" y="5150" width="2260" height="2440" as="geometry" />
         </mxCell>
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-235" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3100" y="5520" width="1478" height="2390" as="geometry" />
+          <mxGeometry x="3090" y="5520" width="1478" height="2390" as="geometry" />
         </mxCell>
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-86" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="3020" width="580" height="390" as="geometry" />
@@ -1330,6 +1330,12 @@
         </mxCell>
         <mxCell id="DqUaL9jEFc5_sNmNjZzt-136" value="家电行业" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2390" y="6620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DqUaL9jEFc5_sNmNjZzt-137" value="led\面板" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="4170" y="6085" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DqUaL9jEFc5_sNmNjZzt-138" value="互联金融" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3280" y="5820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
