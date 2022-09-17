@@ -1,1 +1,115 @@
-<mxfile host="app.diagrams.net" modified="2022-09-17T01:55:41.510Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="aCAAQjxRIHLvFd0tGvZ0" version="20.3.0" type="github"><diagram id="Ahpvm5UfH80_zX1NdgCi" name="第 1 页">jZJNb8MgDIZ/DcdKSdiW7tq02w7rDsuUnlFwAYmEiNIl2a8fWUw+VFWaxMF+/IH9AqFZ1b1a1sij4aBJEvGO0D1JkvghSchwIt6PZBtFIxBWcUyaQa5+AGFIuyoOl1WiM0Y71axhaeoaSrdizFrTrtPORq9vbZiAG5CXTN/Sk+JO4hZJOvM3UEKGm+On5zFSsZCMm1wk46ZdIHogNLPGuNGqugz0IF7QZax7uROdBrNQu/8UnJp9sRMFK84b8fH+lR7FZ77BLt9MX3FhHNb1QQHfxYvtnV0rlYO8YeUQaf17eyZdpb0XexNbgXXQ3Z0xnjb3XwZMBc72PgULaIpi4W+hj+i3s/ZxEFQudN8iY/jcYmo9K+INFCW4s/h/scUXpodf</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-17T02:07:47.995Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="njXUwD_akKx1qrcUfmG4" version="20.3.0" type="github">
+  <diagram id="Ahpvm5UfH80_zX1NdgCi" name="第 1 页">
+    <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bJICMdsOaidTDa2SbXjU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="260" width="390" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="670" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="260" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="260" width="80" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="280" width="30" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-9" value="窗户" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-10" value="次卧" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="495" y="270" as="sourcePoint" />
+            <mxPoint x="525" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-14" value="书桌" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-22" value="懒人沙发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="370" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="85" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="355" as="sourcePoint" />
+            <mxPoint x="160" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-26" value="窗户" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-27" value="地床" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-28" value="没有其他杂物，干净、整洁" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="430" width="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-29" value="淋浴躺浴" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-30" value="梳妆台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-31" value="厨房" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="550" width="90" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="222.5" y="679.5" as="sourcePoint" />
+            <mxPoint x="272.5" y="679.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-33" value="电视" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="207.5" y="584" as="sourcePoint" />
+            <mxPoint x="277.5" y="584" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-20" value="健身" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-36" value="沙发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-37" value="懒人沙发" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="600" width="52.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-38" value="" style="endArrow=none;html=1;rounded=0;startArrow=none;" edge="1" parent="1" source="bJICMdsOaidTDa2SbXjU-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="570" as="sourcePoint" />
+            <mxPoint x="160" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-39" value="窗户" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="530" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="bJICMdsOaidTDa2SbXjU-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="570" as="sourcePoint" />
+            <mxPoint x="160" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJICMdsOaidTDa2SbXjU-41" value="透气窗" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="374" y="250" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
