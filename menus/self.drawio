@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-17T09:11:05.193Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="8RqCVpmvZ5E0m_A3RriD" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-17T09:12:12.989Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="fWsufFlDLnaSrfcYAX_o" version="20.3.0" type="github">
   <diagram id="ldY1qM2QLt-F-Y-WQ3xt" name="Page-1">
     <mxGraphModel dx="2858" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -525,7 +525,7 @@
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-147" value="农牧饲渔" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="1810" y="6690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4uQCtZzEzjz5VoVeqCpC-148" value="食品行业" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-148" value="食品行业&lt;br&gt;食品饮料" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2000" y="6690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-149" value="造纸行业" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1294,6 +1294,15 @@
         </mxCell>
         <mxCell id="DqUaL9jEFc5_sNmNjZzt-120" value="新零售" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2510" y="6560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DqUaL9jEFc5_sNmNjZzt-121" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4uQCtZzEzjz5VoVeqCpC-148" target="4uQCtZzEzjz5VoVeqCpC-138">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2120" y="6730" as="sourcePoint" />
+            <mxPoint x="2170" y="6680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DqUaL9jEFc5_sNmNjZzt-122" value="过节" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="6690" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
