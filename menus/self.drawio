@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-17T07:31:20.443Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="MXDejm3eJlgSwjL0alBM" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-17T07:34:04.397Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="uWaqiuCfEsY-_HPzZXd8" version="20.3.0" type="github">
   <diagram id="ldY1qM2QLt-F-Y-WQ3xt" name="Page-1">
     <mxGraphModel dx="2500" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -409,7 +409,7 @@
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-197" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=oval;startFill=0;endArrow=oval;endFill=1;strokeColor=#33FF33;strokeWidth=4;" parent="1" source="4uQCtZzEzjz5VoVeqCpC-128" target="4uQCtZzEzjz5VoVeqCpC-129" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4uQCtZzEzjz5VoVeqCpC-128" value="仪器仪表" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4uQCtZzEzjz5VoVeqCpC-128" value="工业母机" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2000" y="6140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4uQCtZzEzjz5VoVeqCpC-198" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=oval;startFill=0;endArrow=oval;endFill=1;strokeColor=#33FF33;strokeWidth=4;" parent="1" source="4uQCtZzEzjz5VoVeqCpC-129" target="4uQCtZzEzjz5VoVeqCpC-130" edge="1">
@@ -914,7 +914,7 @@
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_ERdf77PiGr_IL9-XyfZ-83" target="4uQCtZzEzjz5VoVeqCpC-176" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ERdf77PiGr_IL9-XyfZ-83" value="鸿蒙" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="_ERdf77PiGr_IL9-XyfZ-83" value="鸿蒙、欧拉&lt;br&gt;中国软件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="3810" y="6050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_ERdf77PiGr_IL9-XyfZ-86" value="氢能" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
@@ -1024,6 +1024,12 @@
         </mxCell>
         <mxCell id="DqUaL9jEFc5_sNmNjZzt-35" value="化学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1390" y="6450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DqUaL9jEFc5_sNmNjZzt-36" value="教育" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3200" y="7280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DqUaL9jEFc5_sNmNjZzt-37" value="天然气" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="6420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
