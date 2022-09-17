@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-17T07:20:24.641Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ay5cSVuN8pR-gie-mWDe" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-17T07:20:56.496Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="5S7s6iy8GkZshoLnaInb" version="20.3.0" type="github">
   <diagram id="ldY1qM2QLt-F-Y-WQ3xt" name="Page-1">
     <mxGraphModel dx="2500" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -984,6 +984,12 @@
         </mxCell>
         <mxCell id="DqUaL9jEFc5_sNmNjZzt-22" value="1.大宗商品特性&lt;br&gt;2.国际市场影响" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3190" y="6465" width="100" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="DqUaL9jEFc5_sNmNjZzt-23" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" target="DqUaL9jEFc5_sNmNjZzt-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1920" y="6700" as="sourcePoint" />
+            <mxPoint x="1970" y="6650" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
