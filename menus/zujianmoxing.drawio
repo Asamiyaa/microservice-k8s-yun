@@ -1,50 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2022-09-18T01:02:11.581Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="B_URh0s0wIqGDMSxmXih" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-18T01:05:04.592Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="-qn3-qv5OPJTDttOPOgn" version="20.3.2" type="github">
   <diagram id="dLJF8hu0CTlLtpmpikTK" name="第 1 页">
     <mxGraphModel dx="1422" dy="1969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nBRENO93UHK_5qLg-1Hb-14" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-320" width="690" height="300" as="geometry" />
+          <mxGeometry x="50" y="-230" width="690" height="240" as="geometry" />
         </mxCell>
         <mxCell id="nBRENO93UHK_5qLg-1Hb-13" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="70" width="900" height="300" as="geometry" />
+          <mxGeometry x="50" y="90" width="900" height="240" as="geometry" />
         </mxCell>
         <mxCell id="nBRENO93UHK_5qLg-1Hb-12" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="385" width="900" height="200" as="geometry" />
         </mxCell>
         <mxCell id="nBRENO93UHK_5qLg-1Hb-1" value="反射" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nBRENO93UHK_5qLg-1Hb-2" value="元数据处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nBRENO93UHK_5qLg-1Hb-3" value="程序处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nBRENO93UHK_5qLg-1Hb-4" value="拦截器框架" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="707" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nBRENO93UHK_5qLg-1Hb-5" value="类加载器框架" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="587" y="500" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="nBRENO93UHK_5qLg-1Hb-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBRENO93UHK_5qLg-1Hb-6" target="nBRENO93UHK_5qLg-1Hb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBRENO93UHK_5qLg-1Hb-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBRENO93UHK_5qLg-1Hb-6" target="nBRENO93UHK_5qLg-1Hb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBRENO93UHK_5qLg-1Hb-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBRENO93UHK_5qLg-1Hb-6" target="nBRENO93UHK_5qLg-1Hb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBRENO93UHK_5qLg-1Hb-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBRENO93UHK_5qLg-1Hb-6" target="nBRENO93UHK_5qLg-1Hb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBRENO93UHK_5qLg-1Hb-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nBRENO93UHK_5qLg-1Hb-6" target="nBRENO93UHK_5qLg-1Hb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nBRENO93UHK_5qLg-1Hb-6" value="编织逻辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nBRENO93UHK_5qLg-1Hb-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nBRENO93UHK_5qLg-1Hb-7" target="nBRENO93UHK_5qLg-1Hb-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nBRENO93UHK_5qLg-1Hb-7" value="AOP模型&lt;br&gt;(高层API)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="nBRENO93UHK_5qLg-1Hb-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nBRENO93UHK_5qLg-1Hb-8" target="nBRENO93UHK_5qLg-1Hb-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nBRENO93UHK_5qLg-1Hb-8" value="配置逻辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nBRENO93UHK_5qLg-1Hb-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nBRENO93UHK_5qLg-1Hb-9" target="nBRENO93UHK_5qLg-1Hb-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nBRENO93UHK_5qLg-1Hb-9" value="配置模型&lt;br&gt;(高层API)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="nBRENO93UHK_5qLg-1Hb-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBRENO93UHK_5qLg-1Hb-10" target="nBRENO93UHK_5qLg-1Hb-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBRENO93UHK_5qLg-1Hb-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBRENO93UHK_5qLg-1Hb-10" target="nBRENO93UHK_5qLg-1Hb-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nBRENO93UHK_5qLg-1Hb-10" value="解析/类型&amp;nbsp; &amp;nbsp; &amp;nbsp;检查/优化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="222" y="-120" width="376" height="50" as="geometry" />
+          <mxGeometry x="207" y="-80" width="376" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nBRENO93UHK_5qLg-1Hb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nBRENO93UHK_5qLg-1Hb-11" target="nBRENO93UHK_5qLg-1Hb-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nBRENO93UHK_5qLg-1Hb-11" value="AOP程序&lt;br&gt;(基础 + 切面 + (配置)）)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="-300" width="150" height="80" as="geometry" />
+          <mxGeometry x="320" y="-220" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
