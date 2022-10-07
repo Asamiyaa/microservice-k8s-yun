@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-07T03:06:11.826Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="nHX81h8o7yfGwgc_p7D7" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-07T03:06:39.176Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="OaP6F0Kn4qi7m8i6bSPw" version="20.3.7" type="github">
   <diagram id="ULGPSGLKsjcGcxLOCEXZ" name="第 1 页">
     <mxGraphModel dx="677" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,12 +26,12 @@
           <mxGeometry x="250" y="230" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MZrTeRSkK0NeE49H6cSy-8" value="自由" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="140" width="90" height="30" as="geometry" />
+          <mxGeometry x="280" y="150" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MZrTeRSkK0NeE49H6cSy-9" value="自我优势 - 资源 - 复利 - 正循环" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="284" y="190" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MZrTeRSkK0NeE49H6cSy-10" value="房子？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MZrTeRSkK0NeE49H6cSy-10" value="房子？- 自我价值 vs 风险" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="190" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
