@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T11:08:15.006Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="9vwawOPGBm-rYJe7Y2XT" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T12:26:09.448Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="B10KSDZx9mamplFo-32M" version="20.4.0" type="github">
   <diagram id="ldY1qM2QLt-F-Y-WQ3xt" name="Page-1">
     <mxGraphModel dx="2858" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1416,16 +1416,6 @@
         </mxCell>
         <mxCell id="-c-NTLQi7cwZdcHY4JbU-1" value="光学光电子" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="3210" y="6060" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-c-NTLQi7cwZdcHY4JbU-5" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="4uQCtZzEzjz5VoVeqCpC-130">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2120" y="6170" as="sourcePoint" />
-            <mxPoint x="2170" y="6120" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2170" y="6170" />
-              <mxPoint x="2120" y="6120" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="-c-NTLQi7cwZdcHY4JbU-8" value="集采" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1760" y="7050" width="110" height="40" as="geometry" />
