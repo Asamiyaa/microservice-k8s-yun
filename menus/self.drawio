@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T11:05:25.439Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="OgwqfyBJl8xEXBBizSv-" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T11:08:15.006Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="9vwawOPGBm-rYJe7Y2XT" version="20.4.0" type="github">
   <diagram id="ldY1qM2QLt-F-Y-WQ3xt" name="Page-1">
     <mxGraphModel dx="2858" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1031,7 +1031,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DqUaL9jEFc5_sNmNjZzt-40" value="esim" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4330" y="5910" width="120" height="60" as="geometry" />
+          <mxGeometry x="4220" y="5840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DqUaL9jEFc5_sNmNjZzt-42" value="1.近几年缺电、停电问题" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1032" y="6040" width="160" height="15" as="geometry" />
@@ -1172,7 +1172,7 @@
           <mxGeometry x="1155" y="6190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DqUaL9jEFc5_sNmNjZzt-81" value="体外诊断" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1600" y="7260" width="120" height="60" as="geometry" />
+          <mxGeometry x="1880" y="7360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DqUaL9jEFc5_sNmNjZzt-62" value="稀土永磁" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1640" y="6150" width="120" height="60" as="geometry" />
@@ -1190,7 +1190,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DqUaL9jEFc5_sNmNjZzt-84" value="病毒防治" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1420" y="7270" width="120" height="60" as="geometry" />
+          <mxGeometry x="1270" y="7360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DqUaL9jEFc5_sNmNjZzt-86" value="网络安全" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="3880" y="5850" width="120" height="60" as="geometry" />
@@ -1425,6 +1425,15 @@
               <mxPoint x="2170" y="6170" />
               <mxPoint x="2120" y="6120" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-c-NTLQi7cwZdcHY4JbU-8" value="集采" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="7050" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-c-NTLQi7cwZdcHY4JbU-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="4uQCtZzEzjz5VoVeqCpC-152">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1770" y="7080" as="sourcePoint" />
+            <mxPoint x="1800" y="7010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
