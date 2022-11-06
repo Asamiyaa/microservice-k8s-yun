@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-06T01:57:46.843Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="k87GO6RWNabpdlNK6WPu" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-06T01:58:39.063Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="_8WnCWaX1o94ZWKDlk9K" version="20.5.1" type="github">
   <diagram id="GMz4B5HaVzibIkckNy-2" name="第 1 页">
     <mxGraphModel dx="1422" dy="300800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="BpmyPJoA6yeB_v0LB2Vu-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BpmyPJoA6yeB_v0LB2Vu-1" target="BpmyPJoA6yeB_v0LB2Vu-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BpmyPJoA6yeB_v0LB2Vu-1" value="内心创伤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BpmyPJoA6yeB_v0LB2Vu-1" value="内心创伤" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="350" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BpmyPJoA6yeB_v0LB2Vu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BpmyPJoA6yeB_v0LB2Vu-2" target="BpmyPJoA6yeB_v0LB2Vu-6">
@@ -65,10 +65,10 @@
           <mxGeometry x="1015" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BpmyPJoA6yeB_v0LB2Vu-24" value="直面问题，已知问题，战胜重生" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="260" width="170" height="30" as="geometry" />
+          <mxGeometry x="280" y="250" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BpmyPJoA6yeB_v0LB2Vu-25" value="自我修正" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="165" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="300" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BpmyPJoA6yeB_v0LB2Vu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BpmyPJoA6yeB_v0LB2Vu-26" target="BpmyPJoA6yeB_v0LB2Vu-10">
           <mxGeometry relative="1" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="310" y="680" width="835" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BpmyPJoA6yeB_v0LB2Vu-33" value="身体内心重建" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="897.5" y="-30" width="135" height="30" as="geometry" />
+          <mxGeometry x="900" y="-60" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BpmyPJoA6yeB_v0LB2Vu-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;" edge="1" parent="1" source="BpmyPJoA6yeB_v0LB2Vu-38">
           <mxGeometry relative="1" as="geometry">
