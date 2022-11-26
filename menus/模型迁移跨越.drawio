@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T04:49:36.631Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="NQpgjfY5_yePJxclpaRQ" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-26T04:50:30.224Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="7A0dNi8FCaN8HmTNmMli" version="20.5.2" type="github">
   <diagram id="BoCD0NbdeXS_dJ5qISnO" name="第 1 页">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -19,8 +19,8 @@
         <mxCell id="5T_cPl9XXUpTKbzgcnDv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5T_cPl9XXUpTKbzgcnDv-4" target="5T_cPl9XXUpTKbzgcnDv-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1110" y="620" />
-              <mxPoint x="270" y="620" />
+              <mxPoint x="1110" y="660" />
+              <mxPoint x="270" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -62,6 +62,12 @@
         <mxCell id="5T_cPl9XXUpTKbzgcnDv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5T_cPl9XXUpTKbzgcnDv-8" target="5T_cPl9XXUpTKbzgcnDv-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5T_cPl9XXUpTKbzgcnDv-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5T_cPl9XXUpTKbzgcnDv-8" target="5T_cPl9XXUpTKbzgcnDv-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5T_cPl9XXUpTKbzgcnDv-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5T_cPl9XXUpTKbzgcnDv-8" target="5T_cPl9XXUpTKbzgcnDv-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5T_cPl9XXUpTKbzgcnDv-8" value="思考" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="450" width="120" height="60" as="geometry" />
         </mxCell>
@@ -78,7 +84,7 @@
           <mxGeometry x="720" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5T_cPl9XXUpTKbzgcnDv-23" value="迁移/匹配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5T_cPl9XXUpTKbzgcnDv-27" value="动与静" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1250" y="290" width="95" height="40" as="geometry" />
@@ -88,6 +94,12 @@
         </mxCell>
         <mxCell id="5T_cPl9XXUpTKbzgcnDv-29" value="时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1250" y="410" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5T_cPl9XXUpTKbzgcnDv-35" value="认知" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5T_cPl9XXUpTKbzgcnDv-36" value="思维模型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="560" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
