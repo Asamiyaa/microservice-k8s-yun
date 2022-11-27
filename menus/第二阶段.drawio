@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-27T02:41:25.340Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="S20SdJJf4apUpfn6--Fh" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-27T02:43:15.869Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="wMGQoYckMro4uOorpmn4" version="20.6.0" type="github">
   <diagram id="ULGPSGLKsjcGcxLOCEXZ" name="第 1 页">
     <mxGraphModel dx="806" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="MZrTeRSkK0NeE49H6cSy-6" value="兴趣-爱好-灵感" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="230" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MZrTeRSkK0NeE49H6cSy-7" value="快乐-沟通-机会-杠杆-格局-跨越-降维打击-财富" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MZrTeRSkK0NeE49H6cSy-7" value="快乐-沟通汇报-机会-杠杆-格局-降维打击-财富" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="230" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MZrTeRSkK0NeE49H6cSy-8" value="自由" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
