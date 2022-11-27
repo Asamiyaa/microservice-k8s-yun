@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-27T02:21:13.139Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="86ZsL-8ACrmjeJX2-Jd2" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-27T02:41:25.340Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="S20SdJJf4apUpfn6--Fh" version="20.6.0" type="github">
   <diagram id="ULGPSGLKsjcGcxLOCEXZ" name="第 1 页">
-    <mxGraphModel dx="556" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="806" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,14 +37,17 @@
         <mxCell id="MZrTeRSkK0NeE49H6cSy-11" value="认知 - 思维 - 人性 - 开悟" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="380" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4QB0gEzl1YV2dUJOIOZW-1" value="精进 - 专家" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="270" width="170" height="30" as="geometry" />
+        <mxCell id="4QB0gEzl1YV2dUJOIOZW-1" value="精进 - 专家" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="270" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4QB0gEzl1YV2dUJOIOZW-2" value="模型 - 迁移 - 跨越" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="270" width="174" height="30" as="geometry" />
+        <mxCell id="4QB0gEzl1YV2dUJOIOZW-2" value="模型 - 迁移 - 跨越" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="270" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4QB0gEzl1YV2dUJOIOZW-3" value="复盘&lt;br&gt;|&lt;br&gt;脚本&lt;br&gt;|&lt;br&gt;自动化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4QB0gEzl1YV2dUJOIOZW-3" value="复盘&lt;br&gt;|&lt;br&gt;脚本&lt;br&gt;|&lt;br&gt;自动化" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="230" width="40" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="-NOIWLy3KLVSybaApwvm-1" value="规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="464" y="270" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
