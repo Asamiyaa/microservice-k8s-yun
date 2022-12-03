@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T00:55:05.819Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="y17tdYji4DmrPFR-iskQ" type="github"><diagram id="bFwtHp0suPrKMKUbF2UF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-03T00:56:27.758Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="xj-HugKfLsrP6NEwHmYi" type="github">
+  <diagram id="2el1WlvfTcGMez_GYhpd" name="第 1 页">
+    <mxGraphModel dx="1662" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d4771lMoJdD0fQeVFkbv-1" value="优势" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d4771lMoJdD0fQeVFkbv-2" value="敏感-发现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d4771lMoJdD0fQeVFkbv-3" value="抽象 - 复盘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d4771lMoJdD0fQeVFkbv-4" value="行动-吃苦" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d4771lMoJdD0fQeVFkbv-5" value="劣势" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d4771lMoJdD0fQeVFkbv-6" value="陷入痛苦回忆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d4771lMoJdD0fQeVFkbv-7" value="对于非钱比如身体等长期无法坚持" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
