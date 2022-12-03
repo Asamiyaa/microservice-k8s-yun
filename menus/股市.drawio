@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T01:20:31.203Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="IUBpzouZ2XkdcDMn3nhc" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-03T01:47:19.329Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="Z-svgl1I8MJUc7Q3zHPq" type="github">
   <diagram id="RXXUCTKQwMakJlzo57wv" name="第 1 页">
     <mxGraphModel dx="1662" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="KNFEzPkfdMRavhzlrTzj-15" value="盈亏比" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KNFEzPkfdMRavhzlrTzj-16" value="欲望控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-16" value="欲望控制&lt;br&gt;抛弃暴富的欲望、享受生命的馈赠，简简单单、做个随性的人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-17" value="稳定盈利" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
