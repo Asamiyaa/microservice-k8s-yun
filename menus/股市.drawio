@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T03:05:10.917Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="at8w6oeTwl5mZtz0oS4V" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-11T03:06:47.707Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="RWcIbcnhLP3e0TOr67u1" type="github">
   <diagram id="RXXUCTKQwMakJlzo57wv" name="第 1 页">
     <mxGraphModel dx="403022" dy="301455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -79,8 +79,8 @@
         <mxCell id="KNFEzPkfdMRavhzlrTzj-29" value="手法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KNFEzPkfdMRavhzlrTzj-30" value="排版、半路、低吸、T、尾盘、套利、跟随" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="670" width="120" height="60" as="geometry" />
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-30" value="排版-接力情绪比如龙津药业...、半路、低吸、T、尾盘、套利、跟随" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="670" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-31" value="复盘：市场发生了什么，我在干什么，为什么" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1420" y="580" width="120" height="60" as="geometry" />
