@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T02:53:59.115Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="EUzRJB4iIh2WfVQnaPm-" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-11T02:55:18.189Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="YfljqWiCQU4oshHaTrlU" type="github">
   <diagram id="RXXUCTKQwMakJlzo57wv" name="第 1 页">
     <mxGraphModel dx="403022" dy="301455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -67,12 +67,6 @@
         <mxCell id="KNFEzPkfdMRavhzlrTzj-23" value="趋势&amp;nbsp; == 风口&amp;nbsp; --- 比如比特币、房子 ........" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="-30" width="1090" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KNFEzPkfdMRavhzlrTzj-24" value="机遇" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KNFEzPkfdMRavhzlrTzj-25" value="杠杆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-160" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-26" value="认知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
@@ -108,6 +102,9 @@
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-37" value="盘中：情绪变化、上板、地天、天地、跟随情况...." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-38" value="第三阶段 - 职业模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="-180" width="550" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
