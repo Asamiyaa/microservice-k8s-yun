@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T02:52:16.323Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="Wy9mXBHrKe3dXIHJJYDj" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-11T02:52:52.702Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="M04LWAp7gylCgKwQq54w" type="github">
   <diagram id="RXXUCTKQwMakJlzo57wv" name="第 1 页">
     <mxGraphModel dx="403022" dy="301455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
         <mxCell id="KNFEzPkfdMRavhzlrTzj-35" value="职业选手" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KNFEzPkfdMRavhzlrTzj-36" value="如何配置资金、短线与长线 - 长线要接受亏损，而短线必须割除，二者必须分开明确界限" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-36" value="如何配置资金、短线与长线 - 长线要接受亏损，而短线必须割除，二者必须分开明确界限？？？海康威视、风能、光伏、cro" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1470" y="660" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
