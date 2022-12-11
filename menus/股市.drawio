@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T03:17:24.473Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="vKJRJ24wUc7333I3xiCu" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-11T03:18:22.808Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="WdQRGl3Dl1ab0gL65BTl" type="github">
   <diagram id="RXXUCTKQwMakJlzo57wv" name="第 1 页">
     <mxGraphModel dx="402078" dy="301000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -142,7 +142,7 @@
         <mxCell id="KNFEzPkfdMRavhzlrTzj-50" value="跟随" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1740" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KNFEzPkfdMRavhzlrTzj-51" value="周五、月末行情" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-51" value="周五、月末行情、下午的板逻辑是否硬、打不打、龙津药业" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1530" y="910" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-52" value="精确" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -156,6 +156,9 @@
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-55" value="监控：试盘、突破" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2060" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-56" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="910" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
