@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T03:03:31.856Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="eUejPNmh7pJrgwJhd-74" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-11T03:05:10.917Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="at8w6oeTwl5mZtz0oS4V" type="github">
   <diagram id="RXXUCTKQwMakJlzo57wv" name="第 1 页">
     <mxGraphModel dx="403022" dy="301455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           <mxGeometry x="265" y="-440" width="1090" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-26" value="认知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="1190" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-27" value="哪里获取资料-时间&lt;br&gt;熊去蛋氨酸、扑热息痛、各位老师？如何筛选" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="1030" width="120" height="60" as="geometry" />
@@ -91,7 +91,7 @@
         <mxCell id="KNFEzPkfdMRavhzlrTzj-33" value="身体 - 戒焦戒躁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KNFEzPkfdMRavhzlrTzj-34" value="热爱与擅长" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-34" value="热爱与擅长 、 感知、抽象、复盘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-35" value="职业选手" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -124,8 +124,11 @@
         <mxCell id="KNFEzPkfdMRavhzlrTzj-44" value="融资融券&lt;br&gt;转债套利" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="-220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KNFEzPkfdMRavhzlrTzj-45" value="开盘：集合竞价 、大盘、开盘、开盘方向 、量、分时(重要支撑)、板块(支撑、吸血)、梯队、挂单、挂大单、板、个股跟风" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFF33;" vertex="1" parent="1">
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-45" value="开盘：集合竞价 、大盘、开盘 - 预期差、开盘方向 、量、分时(重要支撑)、板块(支撑、吸血)、梯队、挂单、挂大单、板、个股跟风" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFF33;" vertex="1" parent="1">
           <mxGeometry x="380" y="380" width="830" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-46" value="股性、板块性质" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
