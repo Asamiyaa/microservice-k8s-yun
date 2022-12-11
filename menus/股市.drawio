@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T02:49:39.390Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="-UzPxJ164XLyLZ9-ZkRS" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-11T02:51:21.269Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="0TvmIKjX5rWERE_9syv2" type="github">
   <diagram id="RXXUCTKQwMakJlzo57wv" name="第 1 页">
     <mxGraphModel dx="403022" dy="301455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry x="1160" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-10" value="模式内" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="1100" width="120" height="60" as="geometry" />
+          <mxGeometry x="960" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-11" value="确定性&lt;br&gt;&lt;div&gt;股市特定逻辑和现实&lt;/div&gt;&lt;div&gt;药。。匹配&lt;/div&gt;&lt;div&gt;新能源车。。消费等不匹配。。&lt;/div&gt;&lt;div&gt;新创。。政策匹配&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;体会政策方向&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="900" width="270" height="100" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="950" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-16" value="欲望控制&lt;br&gt;抛弃暴富的欲望、享受生命的馈赠，简简单单、做个随性的人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="1180" width="120" height="60" as="geometry" />
+          <mxGeometry x="1140" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-17" value="稳定盈利" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1290" y="1190" width="120" height="60" as="geometry" />
@@ -59,10 +59,10 @@
           <mxGeometry x="-400" y="1360" width="950" height="420" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-21" value="杠杆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-22" value="机遇" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="850" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-23" value="趋势&amp;nbsp; == 风口&amp;nbsp; --- 比如比特币、房子 ........" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="-30" width="1090" height="50" as="geometry" />
@@ -87,6 +87,21 @@
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-30" value="排版、半路、低吸、T、尾盘、套利、跟随" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-31" value="复盘：市场发生了什么，我在干什么，为什么" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-32" value="欲望控制&lt;br&gt;抛弃暴富的欲望、享受生命的馈赠，简简单单、做个随性的人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-33" value="身体 - 戒焦戒躁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-34" value="热爱与擅长" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-35" value="职业选手" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
