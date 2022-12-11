@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T02:45:11.282Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="HxTcQici4XGk8ms2dDC0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-11T02:46:24.493Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="2bJBtDBcvHjJz30E18Jl" type="github">
   <diagram id="RXXUCTKQwMakJlzo57wv" name="第 1 页">
     <mxGraphModel dx="403022" dy="301455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -34,8 +34,8 @@
         <mxCell id="KNFEzPkfdMRavhzlrTzj-10" value="模式内" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KNFEzPkfdMRavhzlrTzj-11" value="确定性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="900" width="120" height="60" as="geometry" />
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-11" value="确定性&lt;br&gt;&lt;div&gt;股市特定逻辑和现实&lt;/div&gt;&lt;div&gt;药。。匹配&lt;/div&gt;&lt;div&gt;新能源车。。消费等不匹配。。&lt;/div&gt;&lt;div&gt;新创。。政策匹配&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;体会政策方向&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="900" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-12" value="仓位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="660" width="120" height="60" as="geometry" />
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-25" value="杠杆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="-160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-26" value="认知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
