@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T03:22:40.143Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="gjpcWyNx8LZ4-tm06zWP" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-11T03:40:50.477Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="NeXzIoihAjm6z1nahPif" type="github">
   <diagram id="RXXUCTKQwMakJlzo57wv" name="第 1 页">
     <mxGraphModel dx="402078" dy="301000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
         <mxCell id="KNFEzPkfdMRavhzlrTzj-46" value="股性、板块性质" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KNFEzPkfdMRavhzlrTzj-47" value="暗线 - 多个组合比如国企改革、房地产、在问财中查找，比如图形类似。建艺集团跟随中交地产" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-47" value="暗线 - 多个组合比如国企改革、房地产、在问财中查找，比如图形类似。建艺集团跟随中交地产&lt;br&gt;&lt;br&gt;结合区域比如天津政策、广州政策...." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="890" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-48" value="不要什么都想要，排序，前几个。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -171,6 +171,9 @@
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-60" value="不知道逻辑必须快速通过别人总结知道，再去看是否符合自己逻辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1760" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-61" value="细分&amp;nbsp; 细分领域的轮动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
