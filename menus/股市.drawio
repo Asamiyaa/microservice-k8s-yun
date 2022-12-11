@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T03:12:35.582Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="kHY43bV_JkAQfZi1EZRm" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-11T03:14:17.519Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="L5NUiDMpSLXhskfLzmW9" type="github">
   <diagram id="RXXUCTKQwMakJlzo57wv" name="第 1 页">
     <mxGraphModel dx="403022" dy="301455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -135,6 +135,12 @@
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-48" value="不要什么都想要，排序，前几个。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1590" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-49" value="票太多，看不过来；准备率与试盘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="560" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-50" value="跟随" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
