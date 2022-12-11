@@ -1,32 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T03:01:23.558Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="BL8ifCHXi0NnZOmdyGBy" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-11T03:03:31.856Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="eUejPNmh7pJrgwJhd-74" type="github">
   <diagram id="RXXUCTKQwMakJlzo57wv" name="第 1 页">
     <mxGraphModel dx="403022" dy="301455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KNFEzPkfdMRavhzlrTzj-1" value="复杂性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="300" width="120" height="80" as="geometry" />
+          <mxGeometry x="870" y="-60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-2" value="人性&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="-160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-3" value="多要素&lt;br&gt;影响要素多、且相互之间有共生与竞争，这种关系也会变化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-4" value="形态&lt;br&gt;每个人买入、卖出逻辑不通" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-5" value="特点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="290" width="120" height="80" as="geometry" />
+          <mxGeometry x="1250" y="-70" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-6" value="反身性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="1410" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-7" value="动态&lt;br&gt;变化造就情绪" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-8" value="环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="-260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-9" value="大局、趋势" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="900" width="120" height="60" as="geometry" />
@@ -59,13 +59,13 @@
           <mxGeometry x="-400" y="1360" width="950" height="420" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-21" value="杠杆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="1040" y="-220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-22" value="机遇" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="810" y="-230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-23" value="趋势&amp;nbsp; == 风口&amp;nbsp; --- 比如比特币、房子 ........" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="-140" width="1090" height="50" as="geometry" />
+          <mxGeometry x="265" y="-440" width="1090" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-26" value="认知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="1190" width="120" height="60" as="geometry" />
@@ -101,13 +101,13 @@
           <mxGeometry x="1470" y="660" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-37" value="盘中：情绪变化、上板、地天、天地、跟随情况...." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-38" value="第三阶段 - 职业模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="-180" width="550" height="50" as="geometry" />
+          <mxGeometry x="-200" y="-480" width="550" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-39" value="动态&amp;nbsp; 1.每日情绪变化&amp;nbsp; 2.盘中情绪变化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-40" value="等风来、诱惑，vs&amp;nbsp; 盘中动态如果错过了怎么办？" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF33;" vertex="1" parent="1">
           <mxGeometry x="1240" y="1080" width="120" height="60" as="geometry" />
@@ -119,10 +119,13 @@
           <mxGeometry x="1460" y="760" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-43" value="复盘内容：日K,与分时结合不能光看.." style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFF33;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-30" width="830" height="70" as="geometry" />
+          <mxGeometry x="350" y="-390" width="830" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-44" value="融资融券&lt;br&gt;转债套利" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="1130" y="-220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-45" value="开盘：集合竞价 、大盘、开盘、开盘方向 、量、分时(重要支撑)、板块(支撑、吸血)、梯队、挂单、挂大单、板、个股跟风" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="380" y="380" width="830" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
