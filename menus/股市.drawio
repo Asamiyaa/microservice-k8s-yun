@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T02:59:45.730Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="eT44Zhpv5R_SIGbUWXjO" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-11T03:00:48.330Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="1ORji1-zNukOCtYNMn7T" type="github">
   <diagram id="RXXUCTKQwMakJlzo57wv" name="第 1 页">
     <mxGraphModel dx="403022" dy="301455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
           <mxGeometry x="750" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-23" value="趋势&amp;nbsp; == 风口&amp;nbsp; --- 比如比特币、房子 ........" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="-30" width="1090" height="50" as="geometry" />
+          <mxGeometry x="195" y="-140" width="1090" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-26" value="认知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="1190" width="120" height="60" as="geometry" />
@@ -117,6 +117,9 @@
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-42" value="市场炒作模式、方向、比如次新、反包、尾盘、" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="760" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-43" value="复盘内容：日K,与分时结合不能光看.." style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-30" width="830" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
