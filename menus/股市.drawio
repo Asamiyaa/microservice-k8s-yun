@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T03:40:50.477Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="NeXzIoihAjm6z1nahPif" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-11T07:49:31.962Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="9YOVXxcCsYvLfvXBszZT" type="github">
   <diagram id="RXXUCTKQwMakJlzo57wv" name="第 1 页">
     <mxGraphModel dx="402078" dy="301000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
           <mxGeometry x="890" y="900" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-12" value="仓位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="1140" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-14" value="辨识度&lt;br&gt;逻辑、走势(地天板)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="750" width="120" height="60" as="geometry" />
