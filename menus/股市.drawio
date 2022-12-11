@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T03:14:17.519Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="L5NUiDMpSLXhskfLzmW9" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-11T03:15:15.993Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="TlAi6atEF5AR9HMR7iGJ" type="github">
   <diagram id="RXXUCTKQwMakJlzo57wv" name="第 1 页">
-    <mxGraphModel dx="403022" dy="301455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
+    <mxGraphModel dx="402078" dy="301000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,6 +141,9 @@
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-50" value="跟随" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1740" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-51" value="周五、月末行情" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="910" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
