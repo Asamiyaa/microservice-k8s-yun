@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T03:20:07.616Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="I8TVfUjWFW_G0znsbvqz" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-11T03:22:40.143Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="gjpcWyNx8LZ4-tm06zWP" type="github">
   <diagram id="RXXUCTKQwMakJlzo57wv" name="第 1 页">
     <mxGraphModel dx="402078" dy="301000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -145,8 +145,11 @@
         <mxCell id="KNFEzPkfdMRavhzlrTzj-51" value="周五、月末行情、下午的板逻辑是否硬、打不打、龙津药业" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1530" y="910" width="160" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KNFEzPkfdMRavhzlrTzj-52" target="KNFEzPkfdMRavhzlrTzj-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-52" value="精确" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="1080" width="120" height="60" as="geometry" />
+          <mxGeometry x="1940" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-53" value="弱转强" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="560" width="120" height="60" as="geometry" />
@@ -165,6 +168,9 @@
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-58" value="认错" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1605" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-60" value="不知道逻辑必须快速通过别人总结知道，再去看是否符合自己逻辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
