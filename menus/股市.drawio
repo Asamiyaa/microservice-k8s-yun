@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T02:56:51.914Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="7fxJuI2f4ywve22pp1k4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-11T02:59:45.730Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.6.0" etag="eT44Zhpv5R_SIGbUWXjO" type="github">
   <diagram id="RXXUCTKQwMakJlzo57wv" name="第 1 页">
     <mxGraphModel dx="403022" dy="301455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -109,11 +109,14 @@
         <mxCell id="KNFEzPkfdMRavhzlrTzj-39" value="动态&amp;nbsp; 1.每日情绪变化&amp;nbsp; 2.盘中情绪变化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KNFEzPkfdMRavhzlrTzj-40" value="等风来" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-40" value="等风来、诱惑，vs&amp;nbsp; 盘中动态如果错过了怎么办？" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF33;" vertex="1" parent="1">
           <mxGeometry x="1240" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KNFEzPkfdMRavhzlrTzj-41" value="大盘、情绪" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KNFEzPkfdMRavhzlrTzj-42" value="市场炒作模式、方向、比如次新、反包、尾盘、" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="760" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
