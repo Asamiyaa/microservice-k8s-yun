@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-01-07T09:58:53.616Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.7.4" etag="dzbeZ6n-3kXkvEgi6-Nn" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-07T10:00:20.118Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.7.4" etag="7Iji9W9nmeTWd03MPgn7" type="github">
   <diagram id="ub3xRfjzEDoXPeOOTDxB" name="第 1 页">
     <mxGraphModel dx="2049" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7bvRlJAXY8Oh5pNhT0Hx-41" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1695" y="90" width="190" height="330" as="geometry" />
+        </mxCell>
         <mxCell id="7bvRlJAXY8Oh5pNhT0Hx-39" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="100" width="190" height="330" as="geometry" />
         </mxCell>
@@ -106,6 +109,9 @@
         </mxCell>
         <mxCell id="7bvRlJAXY8Oh5pNhT0Hx-40" value="平衡膳食&lt;br&gt;拒绝暴饮暴食&lt;br&gt;少糖、淀粉、&lt;br&gt;多水果、蛋白质" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="120" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7bvRlJAXY8Oh5pNhT0Hx-42" value="必须完成交易计划&lt;br&gt;必须洗漱护肤" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1725" y="120" width="130" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
