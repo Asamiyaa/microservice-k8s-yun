@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-07T10:03:36.203Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.7.4" etag="TVdEWHXpjqkENNNRkPvy" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-07T10:03:44.731Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.7.4" etag="PNRc16Fkx9v1EwNE_s7e" type="github">
   <diagram id="ub3xRfjzEDoXPeOOTDxB" name="第 1 页">
     <mxGraphModel dx="2049" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -95,7 +95,7 @@
         <mxCell id="7bvRlJAXY8Oh5pNhT0Hx-31" value="周日&lt;br&gt;上午：减 - 除、断舍离&lt;br&gt;下午：计划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2150" y="250" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7bvRlJAXY8Oh5pNhT0Hx-33" value="运动健身&lt;br&gt;身体清洁&lt;br&gt;汗蒸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7bvRlJAXY8Oh5pNhT0Hx-33" value="运动健身&lt;br&gt;身体清洁&lt;br&gt;汗蒸、放松" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2150" y="350" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7bvRlJAXY8Oh5pNhT0Hx-35" value="周五：19:00 - 20:00&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;健身 - 聚餐 / 沟通&amp;nbsp; / 影视" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
