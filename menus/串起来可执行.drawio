@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-01-07T09:54:27.498Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.7.4" etag="XzE1rVwh8zISLXuvqHR6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-07T09:58:44.413Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.7.4" etag="6ZyO_X2tNbO74HAjIjvP" type="github">
   <diagram id="ub3xRfjzEDoXPeOOTDxB" name="第 1 页">
     <mxGraphModel dx="2049" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7bvRlJAXY8Oh5pNhT0Hx-39" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="100" width="190" height="330" as="geometry" />
+        </mxCell>
         <mxCell id="7bvRlJAXY8Oh5pNhT0Hx-1" value="Asamiya" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="470" y="500" width="1980" height="20" as="geometry" />
         </mxCell>
@@ -40,7 +43,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7bvRlJAXY8Oh5pNhT0Hx-10" value="18:00 - 19:00&lt;br&gt;吃饭、散步" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="360" width="140" height="60" as="geometry" />
+          <mxGeometry x="1080" y="360" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7bvRlJAXY8Oh5pNhT0Hx-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7bvRlJAXY8Oh5pNhT0Hx-11">
           <mxGeometry relative="1" as="geometry">
@@ -48,7 +51,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7bvRlJAXY8Oh5pNhT0Hx-11" value="19:00 - 21:00&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;技术突破、实现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="360" width="140" height="60" as="geometry" />
+          <mxGeometry x="1290" y="360" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7bvRlJAXY8Oh5pNhT0Hx-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7bvRlJAXY8Oh5pNhT0Hx-12" target="7bvRlJAXY8Oh5pNhT0Hx-26">
           <mxGeometry relative="1" as="geometry" />
@@ -65,7 +68,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7bvRlJAXY8Oh5pNhT0Hx-21" value="22:00 - 23:00 &lt;br&gt;洗漱 、冥想&lt;br&gt;交易计划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7bvRlJAXY8Oh5pNhT0Hx-21" value="22:00 - 23:00 &lt;br&gt;洗漱 、皮肤、冥想&lt;br&gt;交易计划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1720" y="250" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7bvRlJAXY8Oh5pNhT0Hx-26" value="20:00 - 21:00&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 21:00&amp;nbsp; - 22:00&lt;br&gt;复盘&lt;br&gt;交易计划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -83,14 +86,26 @@
             <mxPoint x="1900" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="7bvRlJAXY8Oh5pNhT0Hx-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=baseDash;endFill=0;" edge="1" parent="1" source="7bvRlJAXY8Oh5pNhT0Hx-31" target="7bvRlJAXY8Oh5pNhT0Hx-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7bvRlJAXY8Oh5pNhT0Hx-31" value="周日&lt;br&gt;上午：减 - 除、断舍离&lt;br&gt;下午：计划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2150" y="250" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7bvRlJAXY8Oh5pNhT0Hx-33" value="运动健身&lt;br&gt;身体清洁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7bvRlJAXY8Oh5pNhT0Hx-33" value="运动健身&lt;br&gt;身体清洁&lt;br&gt;汗蒸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2150" y="350" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7bvRlJAXY8Oh5pNhT0Hx-35" value="周五：19:00 - 20:00&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;健身 - 聚餐 / 沟通&amp;nbsp; / 影视" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="450" width="780" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7bvRlJAXY8Oh5pNhT0Hx-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1469.29" y="310" as="sourcePoint" />
+            <mxPoint x="1469.29" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7bvRlJAXY8Oh5pNhT0Hx-40" value="平衡膳食&lt;br&gt;拒绝暴饮暴食&lt;br&gt;少糖、淀粉、&lt;br&gt;多水果、蛋白质" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="120" width="130" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
