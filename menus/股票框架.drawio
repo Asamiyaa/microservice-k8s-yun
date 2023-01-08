@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T03:07:20.076Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.8.3" etag="9tuckxL-EoKwbxQA3bKj" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-08T03:22:56.777Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.8.3" etag="MmdSoiEyrVKdtSqAhGLh" type="github">
   <diagram id="E01g1_I6Vo92YfVn2vzd" name="第 1 页">
     <mxGraphModel dx="401394" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -128,7 +128,7 @@
           <mxGeometry x="830" y="1070" width="450" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-44" value="对消息、题材、市场的认识，觉得他还是涨还是跌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="2920" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="2950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-45" value="认知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="645" y="3170" width="120" height="60" as="geometry" />
@@ -289,7 +289,7 @@
           <mxGeometry x="220" y="1910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-100" value="突破" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1910" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="2090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-108" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="V14wtDFcIEHRwVoQhRkb-101" target="V14wtDFcIEHRwVoQhRkb-107">
           <mxGeometry relative="1" as="geometry" />
@@ -433,10 +433,13 @@
           <mxGeometry x="380" y="3140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-148" value="市场理解力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="2920" width="120" height="60" as="geometry" />
+          <mxGeometry x="605" y="2950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-149" value="主力准备好才是真的好，观察主力时机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="2830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V14wtDFcIEHRwVoQhRkb-150" value="逻辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="2950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
