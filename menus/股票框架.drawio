@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T09:50:47.456Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.8.3" etag="LyYQvREUWcgNVw48bJLx" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-08T09:52:53.077Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.8.3" etag="5jHdwfw_rMzlb0Fkt9hM" type="github">
   <diagram id="E01g1_I6Vo92YfVn2vzd" name="第 1 页">
-    <mxGraphModel dx="401324" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
+    <mxGraphModel dx="401558" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -373,22 +373,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-117" value="新题材 -未预判到的" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="1390" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="V14wtDFcIEHRwVoQhRkb-119" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V14wtDFcIEHRwVoQhRkb-118" target="V14wtDFcIEHRwVoQhRkb-117">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="V14wtDFcIEHRwVoQhRkb-118" value="介入" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="1330" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="2080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-120" value="追涨 ？ 低吸 ？尾盘留先手" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1260" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="1650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V14wtDFcIEHRwVoQhRkb-121" value="不介入" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="V14wtDFcIEHRwVoQhRkb-122" value="第二天确认" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="1260" width="120" height="60" as="geometry" />
+        <mxCell id="V14wtDFcIEHRwVoQhRkb-122" value="第二天确认再买" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-123" value="竞价、开盘应该是多少合理，而现在是多少" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="2120" width="120" height="60" as="geometry" />
@@ -403,10 +394,10 @@
           <mxGeometry x="590" y="3750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-127" value="如何发现新题材" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="1460" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="2130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-128" value="如何判断题材延续性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="1330" width="120" height="60" as="geometry" />
+          <mxGeometry x="870" y="2070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="V14wtDFcIEHRwVoQhRkb-129" target="V14wtDFcIEHRwVoQhRkb-130">
           <mxGeometry relative="1" as="geometry" />
@@ -603,7 +594,7 @@
         <mxCell id="V14wtDFcIEHRwVoQhRkb-245" value="是否入场指标" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-330" y="1750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V14wtDFcIEHRwVoQhRkb-246" value="买点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V14wtDFcIEHRwVoQhRkb-246" value="买卖点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-320" y="1570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-247" value="是否维度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -614,6 +605,9 @@
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-251" value="主力入场" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="350" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V14wtDFcIEHRwVoQhRkb-252" value="几买" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
