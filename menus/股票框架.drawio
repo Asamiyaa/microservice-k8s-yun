@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T10:00:00.059Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.8.3" etag="H2vW-IEDvI4UML7ksOpW" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-08T10:01:14.860Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.8.3" etag="QNSfHYkVjnfIi0I1zZ5J" type="github">
   <diagram id="E01g1_I6Vo92YfVn2vzd" name="第 1 页">
     <mxGraphModel dx="401891" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="V14wtDFcIEHRwVoQhRkb-269" value="" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="1670" width="580" height="260" as="geometry" />
+        </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-267" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-260" y="1200" width="1070" height="120" as="geometry" />
         </mxCell>
@@ -125,13 +128,13 @@
           <mxGeometry x="1520" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-24" value="市场情绪" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="-850" y="1770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-25" value="资金流向" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="-760" y="1760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-26" value="个股走势" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="-660" y="1750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-27" value="向学习对象学习、研究" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="1220" width="120" height="60" as="geometry" />
@@ -623,6 +626,9 @@
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-266" value="切换" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-700" y="2550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V14wtDFcIEHRwVoQhRkb-270" value="盘中、盘后感知" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="1680" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
