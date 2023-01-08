@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T10:02:25.977Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.8.3" etag="DMH_K6i47RqhUMBM9lLQ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-08T10:03:26.166Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.8.3" etag="vdYgBA0wt4MU1GjGwtHg" type="github">
   <diagram id="E01g1_I6Vo92YfVn2vzd" name="第 1 页">
     <mxGraphModel dx="401891" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -58,8 +58,8 @@
         <mxCell id="V14wtDFcIEHRwVoQhRkb-170" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="3290" width="470" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="V14wtDFcIEHRwVoQhRkb-3" value="回撤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="V14wtDFcIEHRwVoQhRkb-3" value="回撤、少犯错" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="3900" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-4" value="胜率" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="280" width="120" height="60" as="geometry" />
@@ -69,15 +69,6 @@
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-6" value="止损" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1450" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="V14wtDFcIEHRwVoQhRkb-16" value="分仓、" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="V14wtDFcIEHRwVoQhRkb-17" value="防止自己盲目、看全局" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="V14wtDFcIEHRwVoQhRkb-18" value="不确定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-19" value="不好行情避免回撤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="210" width="120" height="60" as="geometry" />
@@ -596,6 +587,9 @@
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-270" value="盘中、盘后感知" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-900" y="1680" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V14wtDFcIEHRwVoQhRkb-271" value="确定性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="3920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
