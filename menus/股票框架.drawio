@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T09:55:58.790Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.8.3" etag="ix_hIJhuto7FE7se737L" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-08T10:00:00.059Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.8.3" etag="H2vW-IEDvI4UML7ksOpW" type="github">
   <diagram id="E01g1_I6Vo92YfVn2vzd" name="第 1 页">
-    <mxGraphModel dx="401558" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
+    <mxGraphModel dx="401891" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="V14wtDFcIEHRwVoQhRkb-267" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="1200" width="1070" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="V14wtDFcIEHRwVoQhRkb-262" value="" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="2500" width="710" height="490" as="geometry" />
+        </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-242" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-200" y="1540" width="1080" height="150" as="geometry" />
         </mxCell>
@@ -128,37 +134,16 @@
           <mxGeometry x="650" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-27" value="向学习对象学习、研究" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-510" y="1130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="V14wtDFcIEHRwVoQhRkb-30" value="交易原则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="1160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="V14wtDFcIEHRwVoQhRkb-31" value="执行力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="1160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="V14wtDFcIEHRwVoQhRkb-32" value="世界观" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="V14wtDFcIEHRwVoQhRkb-33" value="龙头" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1090" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="V14wtDFcIEHRwVoQhRkb-34" value="补涨" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1090" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="V14wtDFcIEHRwVoQhRkb-35" value="切换" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="1090" width="120" height="60" as="geometry" />
+          <mxGeometry x="-140" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-36" value="试着龙头理解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1090" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="V14wtDFcIEHRwVoQhRkb-37" value="图形只是表现、底层走势逻辑、氛围才是关键、meta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1140" width="120" height="60" as="geometry" />
+          <mxGeometry y="1220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-38" value="交易节奏：股市不同周期、阶段、操作手法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1010" width="390" height="60" as="geometry" />
+          <mxGeometry x="-870" y="3160" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-39" value="启动、发酵、分歧、高潮、强分歧、衰退、冰点、混沌&lt;br&gt;启动：近期超短强势股金和市场基本止跌、先于杀跌的部分强势股已先于修复反弹、新题材试错开始活跃、市场赚钱效应小幅回暖，做多力量开始复苏&lt;br&gt;发酵：题材继续活跃、连板空间向上打开、赚钱效应持续加强、做多力量一致性&lt;br&gt;分歧：题材开始淘汰式分化、有一定的亏钱效应、但强势股依然部分分歧再一致性走强，前排分歧一致或者持续一致、后排分歧或淘汰&lt;br&gt;高潮：题材板块表现高潮、呈现普涨态势、龙头缩量加速、杂毛股也无脑上冲、前排过于加速一致，后排跟风、补涨全面涨&lt;br&gt;强分歧：高位股开始兑现、大面股开始增加、亏钱效应明显、龙头可能还是继续烂板或者爆量分离横盘、但板块明显跟不上、板块效应弱势、有些已经连续大面、前排放量分歧、后排大量杀跌吃面&lt;br&gt;衰退：市场强势股杀跌走势、亏钱效应明显、出手容易吃面、一致性杀跌&lt;br&gt;冰点：连续杀跌做多情绪到冰点、市场小修复、超跌部分强势股反抽、低位新题材试错、但整体跌幅比较强、做多情绪差、部分反弹、大部分杀跌&lt;br&gt;混沌：市场没有主线、个别方向资金试错、但是试错强度弱、做多意愿不明显、做多力量处于观望中、方向迷茫&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="770" width="980" height="230" as="geometry" />
+          <mxGeometry x="-1190" y="2640" width="980" height="230" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-40" value="高位与补跌：炒作初期阶段，介入龙头(最强、最持久)、不要害怕补跌、补跌的底层逻辑是炒作过后、资金获利兑现流出。所以在初期阶段、做多情绪高涨、资金抢筹明显，不用担心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="670" width="920" height="50" as="geometry" />
@@ -626,6 +611,18 @@
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-260" value="尾盘先手" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="1660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V14wtDFcIEHRwVoQhRkb-263" value="图形只是表现、底层走势逻辑、氛围才是关键、meta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="3920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V14wtDFcIEHRwVoQhRkb-264" value="龙头" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-890" y="2550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V14wtDFcIEHRwVoQhRkb-265" value="补涨" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="2550" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V14wtDFcIEHRwVoQhRkb-266" value="切换" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="2550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
