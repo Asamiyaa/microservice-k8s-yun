@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T02:45:58.665Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.8.3" etag="wuaXtXJ8ThMhHuDpM2IW" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-08T02:57:35.361Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.8.3" etag="wMLTFjoNfwLmKcJNFhhq" type="github">
   <diagram id="E01g1_I6Vo92YfVn2vzd" name="第 1 页">
     <mxGraphModel dx="401394" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -83,7 +83,7 @@
           <mxGeometry x="650" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-27" value="向学习对象学习、研究" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1860" width="120" height="60" as="geometry" />
+          <mxGeometry x="850" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-30" value="交易原则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="1160" width="120" height="60" as="geometry" />
@@ -148,8 +148,13 @@
         <mxCell id="V14wtDFcIEHRwVoQhRkb-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="V14wtDFcIEHRwVoQhRkb-47" target="V14wtDFcIEHRwVoQhRkb-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="V14wtDFcIEHRwVoQhRkb-140" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="V14wtDFcIEHRwVoQhRkb-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="2550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-47" value="无底仓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="2680" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="2670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-48" value="市场情绪" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="2840" width="120" height="60" as="geometry" />
@@ -399,6 +404,15 @@
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-136" value="背离" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="1930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V14wtDFcIEHRwVoQhRkb-137" value="股性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="2810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V14wtDFcIEHRwVoQhRkb-138" value="套利" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V14wtDFcIEHRwVoQhRkb-141" value="跟随关系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
