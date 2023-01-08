@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T02:37:31.568Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.8.3" etag="VAmp6q_CxI7y1rL4Uw_2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-08T02:38:45.582Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.8.3" etag="xQgO69ssGf9QIJ0dxKZ9" type="github">
   <diagram id="E01g1_I6Vo92YfVn2vzd" name="第 1 页">
     <mxGraphModel dx="401394" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
         <mxCell id="V14wtDFcIEHRwVoQhRkb-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="V14wtDFcIEHRwVoQhRkb-46" target="V14wtDFcIEHRwVoQhRkb-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V14wtDFcIEHRwVoQhRkb-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="V14wtDFcIEHRwVoQhRkb-46" target="V14wtDFcIEHRwVoQhRkb-64">
+        <mxCell id="V14wtDFcIEHRwVoQhRkb-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=none;" edge="1" parent="1" source="V14wtDFcIEHRwVoQhRkb-132" target="V14wtDFcIEHRwVoQhRkb-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-46" value="已有底仓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -381,6 +381,15 @@
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-131" value="交易计划、系统化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="2770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V14wtDFcIEHRwVoQhRkb-133" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;" edge="1" parent="1" source="V14wtDFcIEHRwVoQhRkb-46" target="V14wtDFcIEHRwVoQhRkb-132">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="2690" as="sourcePoint" />
+            <mxPoint x="1072.2316515519633" y="2648.3315653340023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V14wtDFcIEHRwVoQhRkb-132" value="是否盈利" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="845" y="2660" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
