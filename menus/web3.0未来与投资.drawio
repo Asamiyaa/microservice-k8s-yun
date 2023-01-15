@@ -1,35 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2023-01-07T10:44:05.638Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.8.3" etag="HJIuhm6qNF4J7EGNyy7k" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-15T07:17:04.493Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="f7HIqsZn_LBhtnkTJ3kV" version="20.8.5" type="github">
   <diagram id="Nkn_3xDerYY0D2SVVV--" name="第 1 页">
-    <mxGraphModel dx="1434" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="300802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dzOFZCroT7HNn2wpCXDm-4" value="支付" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dzOFZCroT7HNn2wpCXDm-4" value="nft" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="230" width="140" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="dzOFZCroT7HNn2wpCXDm-1" value="web3.0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="dzOFZCroT7HNn2wpCXDm-1" value="web3.0" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="450" width="500" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dzOFZCroT7HNn2wpCXDm-2" value="比特币" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dzOFZCroT7HNn2wpCXDm-2" value="比特币" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dzOFZCroT7HNn2wpCXDm-3" value="元宇宙" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dzOFZCroT7HNn2wpCXDm-3" value="元宇宙" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dzOFZCroT7HNn2wpCXDm-5" value="形态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dzOFZCroT7HNn2wpCXDm-5" value="形态" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="230" width="140" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="dzOFZCroT7HNn2wpCXDm-6" value="投资机会" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="50" width="510" height="90" as="geometry" />
+        <mxCell id="dzOFZCroT7HNn2wpCXDm-6" value="投资机会" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="-80" width="510" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="dzOFZCroT7HNn2wpCXDm-7" value="虚拟币" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="65" width="120" height="60" as="geometry" />
+        <mxCell id="dzOFZCroT7HNn2wpCXDm-7" value="虚拟币" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="-65" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dzOFZCroT7HNn2wpCXDm-8" value="元宇宙" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dzOFZCroT7HNn2wpCXDm-8" value="元宇宙" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dzOFZCroT7HNn2wpCXDm-9" value="虚拟产品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="65" width="120" height="60" as="geometry" />
+        <mxCell id="dzOFZCroT7HNn2wpCXDm-9" value="虚拟产品" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="830" y="-65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oFtD3FzKmJyxuZM2mtOv-1" value="以太坊" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oFtD3FzKmJyxuZM2mtOv-2" value="openAi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="230" width="140" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
