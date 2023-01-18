@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T13:01:20.102Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="v0iHvU-_ykKSl797T4zM" version="20.8.5" type="github"><diagram id="A6B_XesYhqcnKX7qGVZg" name="第 1 页">zZhNj5swEIZ/zRwjYcyHfcSE7F72UKVSpd4ouAEJMGKdkvTX1w4mhKxXag+VySWT1wbjh3c04wBO28vLkPfVmyh5A75XXgDvwVefCKkvrVwnhXj+JJyGupwktAjH+jc3omfUc13y99VEKUQj634tFqLreCFXWj4MYlxP+yma9ap9fuIfhGORNx/Vb3UpK7MLP170V16fqnllFNFppM3nyWYn71VeivFBwhngdBBCTlF7SXmj4c1cpusOn4zeH2zgnfybC47+968vRd13KAjamkY/5Jf9ztzlV96czYYhI0BiSBLIIiAEKNIBDW8BARYCycyG5HWmNIhzV3K9EALMxqqW/NjnhR4dlS+UVsm2McNmST5Ifvl0L+hOSFmLi5bL4aqmzL6iwXSJcVWADeRxeUdoBl89vJ/IaLmxxel+64WcCgy8fwDpW0GyABIVhJAcgKTOsd2RGGyIuMaGLdhCYBQYgUy5UFnw4BxbiLaGLbBgi4D5QA+QUVDPRxP32LwnbJ5rbKHVbQnVtHQQA2POsUXPSeocW2R1G02BKWwBsHQLbkObc1tsx7aHxDMBiZxj8zfnNmKvpKoSMJ2kJAHmviTsNoeNWrE9d3JTtpLtgMTB1kDOxf6pSpBQd3OTExN8S2CsRVVuVXO8BZJ4a10Ksp0uYiBInyK0JwPdr7jmtvO3B852mrjlsPKZblT2QD3n4P5nqqqfy8n4Nvbw/wLO/gA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-18T13:02:09.769Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="J5Uy41EKEWvxtXCM4bfI" version="20.8.5" type="github">
+  <diagram id="A6B_XesYhqcnKX7qGVZg" name="第 1 页">
+    <mxGraphModel dx="2261" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="S2ZTGcipn144mi96btQD-1" value="自我救赎" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2ZTGcipn144mi96btQD-2" value="财富" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2ZTGcipn144mi96btQD-3" value="幸福" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2ZTGcipn144mi96btQD-4" value="沟通" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2ZTGcipn144mi96btQD-5" value="婚姻" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2ZTGcipn144mi96btQD-6" value="机会" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2ZTGcipn144mi96btQD-7" value="杠杆" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2ZTGcipn144mi96btQD-8" value="趋势" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2ZTGcipn144mi96btQD-9" value="自我优势" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2ZTGcipn144mi96btQD-10" value="兴趣擅长" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2ZTGcipn144mi96btQD-11" value="灵感" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-230" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2ZTGcipn144mi96btQD-12" value="房子" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
