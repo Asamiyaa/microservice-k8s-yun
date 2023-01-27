@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-01-27T01:21:55.889Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="i0RHC_hfJzKpAvZIbv6E" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-27T01:27:35.111Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Z5v4oA1ysXYOSHjf2hP0" version="20.8.5" type="github">
   <diagram id="A6B_XesYhqcnKX7qGVZg" name="第 1 页">
     <mxGraphModel dx="2261" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="D5oO9VVZSlC_CnEWRoHH-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="-440" width="510" height="140" as="geometry" />
+          <mxGeometry x="266" y="-420" width="510" height="140" as="geometry" />
         </mxCell>
         <mxCell id="S2ZTGcipn144mi96btQD-1" value="自我救赎" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="354" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="345" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S2ZTGcipn144mi96btQD-2" value="财富" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="170" width="120" height="60" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="-90" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S2ZTGcipn144mi96btQD-6" value="过年回家&amp;nbsp; 车" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="315" y="-370" width="120" height="60" as="geometry" />
+          <mxGeometry x="376" y="-350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D5oO9VVZSlC_CnEWRoHH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S2ZTGcipn144mi96btQD-7" target="D5oO9VVZSlC_CnEWRoHH-22">
           <mxGeometry relative="1" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="1350" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S2ZTGcipn144mi96btQD-12" value="房子" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="455" y="-370" width="120" height="60" as="geometry" />
+          <mxGeometry x="516" y="-350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vlxko-CSEtLI1nFvjdNb-1" value="web3.0" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1070" y="-100" width="120" height="60" as="geometry" />
@@ -68,16 +68,16 @@
           <mxGeometry x="900" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D5oO9VVZSlC_CnEWRoHH-6" value="生命的意义" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="550" width="64" height="60" as="geometry" />
+          <mxGeometry x="345" y="740" width="64" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D5oO9VVZSlC_CnEWRoHH-7" value="活在当下&lt;br&gt;不念过去、不惧未来" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="418" y="550" width="64" height="60" as="geometry" />
+          <mxGeometry x="409" y="740" width="64" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D5oO9VVZSlC_CnEWRoHH-8" value="关爱自己" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="326" y="440" width="64" height="60" as="geometry" />
+          <mxGeometry x="317" y="630" width="64" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D5oO9VVZSlC_CnEWRoHH-10" value="看清生活的本质、仍然热爱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="428" y="440" width="64" height="60" as="geometry" />
+          <mxGeometry x="419" y="630" width="64" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D5oO9VVZSlC_CnEWRoHH-11" value="欲望是主动选择的不开心" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="276" y="300" width="64" height="60" as="geometry" />
@@ -103,8 +103,8 @@
         <mxCell id="D5oO9VVZSlC_CnEWRoHH-17" value="产品化:找到放大自我能力的杠杆" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="20" width="64" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D5oO9VVZSlC_CnEWRoHH-21" value="家庭问题" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-430" width="60" height="30" as="geometry" />
+        <mxCell id="D5oO9VVZSlC_CnEWRoHH-21" value="家庭问题：面子、风险、性价比" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="291" y="-410" width="189" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D5oO9VVZSlC_CnEWRoHH-22" value="劳动力：雇佣、办厂" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="776" y="-160" width="64" height="60" as="geometry" />
@@ -129,6 +129,24 @@
         </mxCell>
         <mxCell id="D5oO9VVZSlC_CnEWRoHH-34" value="培养构建能力和销售能力" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="928" y="-250" width="64" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D5oO9VVZSlC_CnEWRoHH-35" value="财富自由、退休" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="-584" width="712" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D5oO9VVZSlC_CnEWRoHH-36" value="不在为想象的明天牺牲今天、" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="946" y="-614" width="64" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D5oO9VVZSlC_CnEWRoHH-37" value="活在当下、每日充盈&lt;br&gt;乐在其中" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="946" y="-560" width="64" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D5oO9VVZSlC_CnEWRoHH-38" value="认知" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D5oO9VVZSlC_CnEWRoHH-39" value="增强判断" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="289" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D5oO9VVZSlC_CnEWRoHH-40" value="增强决策" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="409" y="460" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
