@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-28T01:47:11.927Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="HP9TigXwWSAkXWw1yp3-" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-28T01:47:50.675Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="QEzcCuFrfXxxJvgu5yUx" version="20.8.13" type="github">
   <diagram id="E01g1_I6Vo92YfVn2vzd" name="第 1 页">
     <mxGraphModel dx="401793" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -303,7 +303,7 @@
         <mxCell id="V14wtDFcIEHRwVoQhRkb-123" value="竞价、开盘应该是多少合理，而现在是多少" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="2120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V14wtDFcIEHRwVoQhRkb-124" value="开盘后股价应该是向上还是向下" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="V14wtDFcIEHRwVoQhRkb-124" value="开盘后股价应该是向上还是向下 --- 溢价与兑现情况" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="2120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V14wtDFcIEHRwVoQhRkb-125" value="贪婪" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
