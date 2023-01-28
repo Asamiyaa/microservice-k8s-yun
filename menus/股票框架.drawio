@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-28T01:09:43.264Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="nRHu-7-xWGJvf4K_KYOZ" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-28T01:16:51.191Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ciUY5h-3JmbEfA8GHejx" version="20.8.13" type="github">
   <diagram id="E01g1_I6Vo92YfVn2vzd" name="第 1 页">
     <mxGraphModel dx="401793" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -590,6 +590,15 @@
         </mxCell>
         <mxCell id="1UTwfoLHcroBLSVSha9c-2" value="自我修行、试练场、没有确定的把控前注意本金、无需创建条件天然的条件、快速、自我迭代&lt;br&gt;自我进化、修心" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="4040" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1UTwfoLHcroBLSVSha9c-3" value="时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="4030" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1UTwfoLHcroBLSVSha9c-4" value="进攻与防守" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="4100" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1UTwfoLHcroBLSVSha9c-5" value="洞察力、判断力、决策力" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="4110" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
