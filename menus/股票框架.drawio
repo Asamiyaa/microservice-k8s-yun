@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-28T02:00:43.628Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="MkMrIrR8J1PbvpT33Sj0" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-28T02:04:02.329Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="-y4LgeSnEu6AOWbFJZzO" version="20.8.13" type="github">
   <diagram id="E01g1_I6Vo92YfVn2vzd" name="第 1 页">
     <mxGraphModel dx="401793" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -611,6 +611,9 @@
         </mxCell>
         <mxCell id="1UTwfoLHcroBLSVSha9c-9" value="交易、财富是一种技能、无关实体。有他自己的玩法、与逻辑、细节" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="4100" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1UTwfoLHcroBLSVSha9c-10" value="板上买" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
