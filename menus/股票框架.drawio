@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-28T02:08:16.798Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="eMZ-v37S50i7THY9ImrC" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-28T02:11:12.839Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="_kEmdQ8dcVPHdLUk_uKW" version="20.8.13" type="github">
   <diagram id="E01g1_I6Vo92YfVn2vzd" name="第 1 页">
     <mxGraphModel dx="401793" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -623,6 +623,9 @@
         </mxCell>
         <mxCell id="1UTwfoLHcroBLSVSha9c-13" value="同花顺 形态选股" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="2200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1UTwfoLHcroBLSVSha9c-14" value="强弱关系、确认点、买点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="2340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
