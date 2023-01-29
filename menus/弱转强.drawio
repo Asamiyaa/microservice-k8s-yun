@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T08:50:25.613Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="QdeT8maA2onsjctkE_DT" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-29T08:54:50.506Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="hmY8VT800y7XSnYBomEX" version="20.8.13" type="github">
   <diagram name="第 1 页" id="FiF0fwUgYlSaWCu7eqro">
     <mxGraphModel dx="1434" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,6 +72,12 @@
         </mxCell>
         <mxCell id="hqldBkLt7CdS2uDbmeUH-20" value="估值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hqldBkLt7CdS2uDbmeUH-21" value="换手" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="200" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hqldBkLt7CdS2uDbmeUH-22" value="问题：无法关注这么多领域、1.自动化、2.别人基础上 3.多人讨论、分别、4、老龙头跟踪、新龙头&amp;nbsp; 5.取舍、&amp;nbsp; &amp;nbsp;6.电脑快速&lt;br&gt;2.盘中无法快速关注到， 1.复盘计划周密、2.快速联想&amp;nbsp; 3.看哪些指标&amp;nbsp; &amp;nbsp;4.上班期间没时间&amp;nbsp;&lt;br&gt;3.关注的无法决策， 1.交易确定性&amp;nbsp; &amp;nbsp;2.认知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="770" width="350" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
