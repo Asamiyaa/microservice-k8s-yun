@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T14:35:43.525Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="cER918f-AT7x4Gk83vVO" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-01T14:54:02.942Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="6XjhYpyoBXiYw9AmTsBA" version="20.8.13" type="github">
   <diagram name="第 1 页" id="l9BL36nRIR9fdoTfFBKx">
     <mxGraphModel dx="683" dy="382" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,6 +65,18 @@
               <mxPoint x="754" y="980" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eTiPSNOPlnwjZyrrS0Vz-11" value="券商 - 注册制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="948" width="81" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="eTiPSNOPlnwjZyrrS0Vz-12" value="金属-采掘、" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="312" y="985" width="107" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="eTiPSNOPlnwjZyrrS0Vz-13" value="chiplet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="965" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eTiPSNOPlnwjZyrrS0Vz-14" value="游戏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="348" y="1001" width="50" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
