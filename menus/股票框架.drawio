@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T15:25:26.760Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ODgoQzU3B-Rme5ezxV-L" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-01T15:26:16.607Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="MKy9Xxi_1DhZ9DlaReBX" version="20.8.13" type="github">
   <diagram id="E01g1_I6Vo92YfVn2vzd" name="第 1 页">
     <mxGraphModel dx="401687" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -717,16 +717,16 @@
         <mxCell id="1UTwfoLHcroBLSVSha9c-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1UTwfoLHcroBLSVSha9c-46" target="1UTwfoLHcroBLSVSha9c-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1UTwfoLHcroBLSVSha9c-46" value="计划&lt;br&gt;集合竞价 - 清理止损、方向自选预判、 ‘行情跟踪预判’&lt;br&gt;买入、卖出、条件单(上下、打板)、等待开盘后方向、斜率、速率、爆量、回踩均线、不回踩低位不破强&lt;br&gt;关键位置、" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1UTwfoLHcroBLSVSha9c-46" value="计划&lt;br&gt;集合竞价 - 清理止损、方向自选预判、 ‘行情跟踪预判’&lt;br&gt;买入、卖出、条件单(上下、打板)、等待开盘后方向、斜率、速率、爆量、回踩均线、不回踩低位不破强&lt;br&gt;关键位置、T&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="4650" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="1UTwfoLHcroBLSVSha9c-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1UTwfoLHcroBLSVSha9c-48" target="1UTwfoLHcroBLSVSha9c-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1UTwfoLHcroBLSVSha9c-48" value="仓位&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1UTwfoLHcroBLSVSha9c-48" value="仓位&lt;br&gt;盘中分时低吸&lt;br&gt;弱转强" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1660" y="4650" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="1UTwfoLHcroBLSVSha9c-50" value="午盘&lt;br&gt;复盘" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1UTwfoLHcroBLSVSha9c-50" value="午盘&lt;br&gt;复盘&lt;br&gt;下午买点&lt;br&gt;晚盘先手&lt;br&gt;T出" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1960" y="4650" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
