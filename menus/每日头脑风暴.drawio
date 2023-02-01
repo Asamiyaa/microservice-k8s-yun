@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T16:33:16.004Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="2WapafFGxZYYSRmqb71m" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-01T16:33:41.582Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="iqR1VAbLI8NU5vQRPRUD" version="20.8.13" type="github">
   <diagram name="第 1 页" id="l9BL36nRIR9fdoTfFBKx">
     <mxGraphModel dx="683" dy="382" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,10 +82,10 @@
           <mxGeometry x="326" y="1019" width="103" height="16" as="geometry" />
         </mxCell>
         <mxCell id="eTiPSNOPlnwjZyrrS0Vz-16" value="要素（安妮股份）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="1027" width="107" height="12" as="geometry" />
+          <mxGeometry x="499" y="977" width="107" height="12" as="geometry" />
         </mxCell>
         <mxCell id="eTiPSNOPlnwjZyrrS0Vz-17" value="全国统一大市场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="492" y="1004" width="107" height="12" as="geometry" />
+          <mxGeometry x="482" y="965" width="107" height="12" as="geometry" />
         </mxCell>
         <mxCell id="eTiPSNOPlnwjZyrrS0Vz-18" value="多元金融" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="521" y="1073" width="107" height="12" as="geometry" />
@@ -100,7 +100,7 @@
           <mxGeometry x="495" y="1033" width="107" height="12" as="geometry" />
         </mxCell>
         <mxCell id="eTiPSNOPlnwjZyrrS0Vz-23" value="基建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="459" y="963" width="107" height="12" as="geometry" />
+          <mxGeometry x="464" y="953" width="107" height="12" as="geometry" />
         </mxCell>
         <mxCell id="eTiPSNOPlnwjZyrrS0Vz-24" value="消费" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="511" y="1061" width="105" height="12" as="geometry" />
