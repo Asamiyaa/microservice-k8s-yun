@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T16:33:41.582Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="iqR1VAbLI8NU5vQRPRUD" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-01T16:33:59.954Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="-sDBKvENko9aOoMj_PK0" version="20.8.13" type="github">
   <diagram name="第 1 页" id="l9BL36nRIR9fdoTfFBKx">
     <mxGraphModel dx="683" dy="382" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,16 +70,16 @@
           <mxGeometry x="329" y="948" width="81" height="13" as="geometry" />
         </mxCell>
         <mxCell id="eTiPSNOPlnwjZyrrS0Vz-12" value="金属-采掘、" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="312" y="985" width="107" height="12" as="geometry" />
+          <mxGeometry x="312" y="1037" width="107" height="12" as="geometry" />
         </mxCell>
         <mxCell id="eTiPSNOPlnwjZyrrS0Vz-13" value="chiplet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="965" width="50" height="20" as="geometry" />
+          <mxGeometry x="353" y="965" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="eTiPSNOPlnwjZyrrS0Vz-14" value="游戏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="348" y="1001" width="50" height="18" as="geometry" />
+          <mxGeometry x="350" y="1047" width="50" height="18" as="geometry" />
         </mxCell>
         <mxCell id="eTiPSNOPlnwjZyrrS0Vz-15" value="酒店、旅游、饮食" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="326" y="1019" width="103" height="16" as="geometry" />
+          <mxGeometry x="318" y="1061" width="103" height="16" as="geometry" />
         </mxCell>
         <mxCell id="eTiPSNOPlnwjZyrrS0Vz-16" value="要素（安妮股份）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="499" y="977" width="107" height="12" as="geometry" />
@@ -106,10 +106,10 @@
           <mxGeometry x="511" y="1061" width="105" height="12" as="geometry" />
         </mxCell>
         <mxCell id="eTiPSNOPlnwjZyrrS0Vz-25" value="利空银行、固定资产等" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="298.5" y="1047" width="142" height="12" as="geometry" />
+          <mxGeometry x="294.5" y="1115" width="142" height="12" as="geometry" />
         </mxCell>
         <mxCell id="eTiPSNOPlnwjZyrrS0Vz-26" value="板块抽水" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="298.5" y="1067" width="142" height="12" as="geometry" />
+          <mxGeometry x="294.5" y="1141" width="142" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
