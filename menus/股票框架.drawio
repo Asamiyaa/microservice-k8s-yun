@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T14:13:35.706Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="I3wOw8M7iCzYh4hjsRZt" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-01T14:20:26.539Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="dpf8o7jRAf7PGcbHVfSG" version="20.8.13" type="github">
   <diagram id="E01g1_I6Vo92YfVn2vzd" name="第 1 页">
-    <mxGraphModel dx="401793" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
+    <mxGraphModel dx="401687" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -683,6 +683,33 @@
         </mxCell>
         <mxCell id="1UTwfoLHcroBLSVSha9c-33" value="避免陷入自圆其说" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="3380" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1UTwfoLHcroBLSVSha9c-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1UTwfoLHcroBLSVSha9c-34" target="1UTwfoLHcroBLSVSha9c-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1UTwfoLHcroBLSVSha9c-34" value="从异动、当天操作复盘、好的、坏的、改造方法 、明日实践" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="4660" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1UTwfoLHcroBLSVSha9c-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1UTwfoLHcroBLSVSha9c-35" target="1UTwfoLHcroBLSVSha9c-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1UTwfoLHcroBLSVSha9c-35" value="确定当前日常板块、所属阶段-周期-是否参与 -&amp;nbsp; 情绪票、市场核心票 - 初步建立明日的tag\调整梯队tag\" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="4660" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1UTwfoLHcroBLSVSha9c-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1UTwfoLHcroBLSVSha9c-37" target="1UTwfoLHcroBLSVSha9c-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1UTwfoLHcroBLSVSha9c-37" value="b站复盘、总体逻辑" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="4660" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1UTwfoLHcroBLSVSha9c-39" value="明日股票排序&lt;br&gt;板块排序&lt;br&gt;默念执行计划、该割哪些、该看哪些指标" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="4660" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1UTwfoLHcroBLSVSha9c-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1UTwfoLHcroBLSVSha9c-40" target="1UTwfoLHcroBLSVSha9c-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1UTwfoLHcroBLSVSha9c-40" value="人气排行、新闻、等搜集票&lt;br&gt;淘股吧" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="815" y="4660" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
