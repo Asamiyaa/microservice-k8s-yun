@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T16:33:59.954Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="-sDBKvENko9aOoMj_PK0" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T23:26:38.382Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="olGFMKpzc8SHekGAHnHn" version="20.8.13" type="github">
   <diagram name="第 1 页" id="l9BL36nRIR9fdoTfFBKx">
     <mxGraphModel dx="683" dy="382" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,16 +43,16 @@
           <mxGeometry x="184" y="547" width="51" height="47" as="geometry" />
         </mxCell>
         <mxCell id="eTiPSNOPlnwjZyrrS0Vz-1" value="人工智能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="467" y="797" width="51" height="19" as="geometry" />
+          <mxGeometry x="558" y="807" width="51" height="19" as="geometry" />
         </mxCell>
         <mxCell id="eTiPSNOPlnwjZyrrS0Vz-2" value="成飞- 分歧" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="884" width="62" height="12" as="geometry" />
+          <mxGeometry x="602" y="938" width="62" height="12" as="geometry" />
         </mxCell>
         <mxCell id="eTiPSNOPlnwjZyrrS0Vz-3" value="三胎 - 震荡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="638" y="963" width="76" height="22" as="geometry" />
+          <mxGeometry x="656" y="981" width="76" height="22" as="geometry" />
         </mxCell>
         <mxCell id="eTiPSNOPlnwjZyrrS0Vz-4" value="汽车" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="602" y="931" width="51" height="14" as="geometry" />
+          <mxGeometry x="656" y="965" width="51" height="14" as="geometry" />
         </mxCell>
         <mxCell id="eTiPSNOPlnwjZyrrS0Vz-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -70,16 +70,16 @@
           <mxGeometry x="329" y="948" width="81" height="13" as="geometry" />
         </mxCell>
         <mxCell id="eTiPSNOPlnwjZyrrS0Vz-12" value="金属-采掘、" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="312" y="1037" width="107" height="12" as="geometry" />
+          <mxGeometry x="309" y="1081" width="107" height="12" as="geometry" />
         </mxCell>
         <mxCell id="eTiPSNOPlnwjZyrrS0Vz-13" value="chiplet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="353" y="965" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="eTiPSNOPlnwjZyrrS0Vz-14" value="游戏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1047" width="50" height="18" as="geometry" />
+          <mxGeometry x="379" y="842" width="50" height="18" as="geometry" />
         </mxCell>
         <mxCell id="eTiPSNOPlnwjZyrrS0Vz-15" value="酒店、旅游、饮食" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="318" y="1061" width="103" height="16" as="geometry" />
+          <mxGeometry x="339" y="862" width="103" height="16" as="geometry" />
         </mxCell>
         <mxCell id="eTiPSNOPlnwjZyrrS0Vz-16" value="要素（安妮股份）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="499" y="977" width="107" height="12" as="geometry" />
@@ -97,7 +97,7 @@
           <mxGeometry x="502" y="1047" width="107" height="12" as="geometry" />
         </mxCell>
         <mxCell id="eTiPSNOPlnwjZyrrS0Vz-22" value="数字化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="1033" width="107" height="12" as="geometry" />
+          <mxGeometry x="335" y="882" width="107" height="12" as="geometry" />
         </mxCell>
         <mxCell id="eTiPSNOPlnwjZyrrS0Vz-23" value="基建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="464" y="953" width="107" height="12" as="geometry" />
