@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-05T04:27:45.504Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Dfvrtx47QeBDncjdqMAh" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-05T04:28:33.772Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Kj3nLJIkm9NXPdl2M1VM" version="20.8.16" type="github">
   <diagram id="A6B_XesYhqcnKX7qGVZg" name="第 1 页">
     <mxGraphModel dx="4014" dy="2951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -155,13 +155,13 @@
           <mxGeometry x="678" y="-50" width="64" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D5oO9VVZSlC_CnEWRoHH-35" value="财富自由、退休" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="84" y="-554" width="729" height="139" as="geometry" />
+          <mxGeometry x="87" y="-521.5" width="726" height="115" as="geometry" />
         </mxCell>
         <mxCell id="D5oO9VVZSlC_CnEWRoHH-36" value="不在为想象的明天牺牲今天、" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="506" y="-620" width="64" height="60" as="geometry" />
+          <mxGeometry x="610" y="-494" width="64" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D5oO9VVZSlC_CnEWRoHH-37" value="活在当下、每日充盈&lt;br&gt;乐在其中" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="506" y="-554" width="64" height="60" as="geometry" />
+          <mxGeometry x="516" y="-500" width="84" height="70" as="geometry" />
         </mxCell>
         <mxCell id="leUY-_BTh4bYBgnkJLnN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="D5oO9VVZSlC_CnEWRoHH-38" target="leUY-_BTh4bYBgnkJLnN-10">
           <mxGeometry relative="1" as="geometry" />
@@ -308,7 +308,7 @@
           <mxGeometry x="318" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="leUY-_BTh4bYBgnkJLnN-57" value="实现自我" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="622" y="-584" width="64" height="60" as="geometry" />
+          <mxGeometry x="320" y="-500" width="64" height="60" as="geometry" />
         </mxCell>
         <mxCell id="leUY-_BTh4bYBgnkJLnN-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="D5oO9VVZSlC_CnEWRoHH-51" target="D5oO9VVZSlC_CnEWRoHH-52">
           <mxGeometry relative="1" as="geometry">
@@ -321,6 +321,9 @@
         </mxCell>
         <mxCell id="D5oO9VVZSlC_CnEWRoHH-52" value="终生学习" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1310" y="50" width="64" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leUY-_BTh4bYBgnkJLnN-71" value="更好的自己" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="222" y="-500" width="64" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
