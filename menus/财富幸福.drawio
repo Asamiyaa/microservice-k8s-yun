@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-05T04:13:41.534Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="QaOfBnnvudUAeK6bcJyt" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-05T04:15:26.269Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="m-kk5TZRObnTpEPBDEwe" version="20.8.16" type="github">
   <diagram id="A6B_XesYhqcnKX7qGVZg" name="第 1 页">
     <mxGraphModel dx="2261" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,13 +8,18 @@
           <mxGeometry x="256" y="-250" width="904" height="540" as="geometry" />
         </mxCell>
         <mxCell id="leUY-_BTh4bYBgnkJLnN-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-374" y="30" width="640" height="290" as="geometry" />
+          <mxGeometry x="-780" y="390" width="640" height="280" as="geometry" />
         </mxCell>
         <mxCell id="leUY-_BTh4bYBgnkJLnN-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="400" width="932" height="270" as="geometry" />
         </mxCell>
+        <mxCell id="leUY-_BTh4bYBgnkJLnN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.453;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="leUY-_BTh4bYBgnkJLnN-5" target="leUY-_BTh4bYBgnkJLnN-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-550" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="leUY-_BTh4bYBgnkJLnN-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-14" y="690" width="928" height="230" as="geometry" />
+          <mxGeometry x="-14" y="870" width="928" height="230" as="geometry" />
         </mxCell>
         <mxCell id="D5oO9VVZSlC_CnEWRoHH-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="256" y="-510" width="510" height="140" as="geometry" />
@@ -26,10 +31,10 @@
           <mxGeometry x="380" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S2ZTGcipn144mi96btQD-4" value="沟通" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="-506" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S2ZTGcipn144mi96btQD-5" value="婚姻" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="-70" width="120" height="60" as="geometry" />
+          <mxGeometry x="-506" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S2ZTGcipn144mi96btQD-6" value="过年回家&amp;nbsp; 车" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="366" y="-440" width="120" height="60" as="geometry" />
@@ -65,10 +70,10 @@
           <mxGeometry x="1010" y="-480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D5oO9VVZSlC_CnEWRoHH-1" value="快乐" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="-656" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D5oO9VVZSlC_CnEWRoHH-2" value="相处" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="-506" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D5oO9VVZSlC_CnEWRoHH-3" value="机会" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="-200" width="120" height="60" as="geometry" />
@@ -134,7 +139,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D5oO9VVZSlC_CnEWRoHH-38" value="认知" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="386" y="870" width="120" height="80" as="geometry" />
+          <mxGeometry x="386" y="1050" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="leUY-_BTh4bYBgnkJLnN-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="D5oO9VVZSlC_CnEWRoHH-39" target="D5oO9VVZSlC_CnEWRoHH-43">
           <mxGeometry relative="1" as="geometry" />
@@ -173,7 +178,7 @@
           <mxGeometry x="1010" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D5oO9VVZSlC_CnEWRoHH-55" value="孤独" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="-550" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D5oO9VVZSlC_CnEWRoHH-57" value="需要" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="291" y="-40" width="64" height="60" as="geometry" />
@@ -191,31 +196,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="leUY-_BTh4bYBgnkJLnN-1" value="过去-释怀" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-212" y="270" width="64" height="60" as="geometry" />
+          <mxGeometry x="-600" y="640" width="64" height="60" as="geometry" />
         </mxCell>
         <mxCell id="leUY-_BTh4bYBgnkJLnN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="leUY-_BTh4bYBgnkJLnN-2" target="D5oO9VVZSlC_CnEWRoHH-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="leUY-_BTh4bYBgnkJLnN-2" value="认知-成长" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="200" width="64" height="60" as="geometry" />
+          <mxGeometry x="-445" y="640" width="64" height="60" as="geometry" />
         </mxCell>
         <mxCell id="leUY-_BTh4bYBgnkJLnN-7" value="关爱自己" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="69" y="730" width="120" height="80" as="geometry" />
+          <mxGeometry x="69" y="910" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="leUY-_BTh4bYBgnkJLnN-8" value="看清生活的本质、仍然热爱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="288" y="730" width="120" height="80" as="geometry" />
+          <mxGeometry x="288" y="910" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="leUY-_BTh4bYBgnkJLnN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="leUY-_BTh4bYBgnkJLnN-10" target="leUY-_BTh4bYBgnkJLnN-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="leUY-_BTh4bYBgnkJLnN-10" value="生命的意义" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="594" y="810" width="120" height="80" as="geometry" />
+          <mxGeometry x="594" y="990" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="leUY-_BTh4bYBgnkJLnN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="leUY-_BTh4bYBgnkJLnN-11" target="leUY-_BTh4bYBgnkJLnN-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="leUY-_BTh4bYBgnkJLnN-11" value="活在当下&lt;br style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; border-color: var(--border-color);&quot;&gt;不念过去、不惧未来" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="710" width="120" height="80" as="geometry" />
+          <mxGeometry x="590" y="890" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="leUY-_BTh4bYBgnkJLnN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="leUY-_BTh4bYBgnkJLnN-12" target="leUY-_BTh4bYBgnkJLnN-8">
           <mxGeometry relative="1" as="geometry" />
@@ -224,10 +229,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="leUY-_BTh4bYBgnkJLnN-12" value="自我救赎" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="810" width="120" height="80" as="geometry" />
+          <mxGeometry x="180" y="990" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="leUY-_BTh4bYBgnkJLnN-19" value="缺爱的人很难爱自己，因为经常在迷茫和恐惧中挣扎内耗" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-6" y="680" width="270" height="65" as="geometry" />
+          <mxGeometry x="-6" y="860" width="270" height="65" as="geometry" />
         </mxCell>
         <mxCell id="leUY-_BTh4bYBgnkJLnN-22" value="欲望是主动选择的不开心" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="69" y="505" width="120" height="80" as="geometry" />
@@ -238,11 +243,8 @@
         <mxCell id="leUY-_BTh4bYBgnkJLnN-24" value="满足现状与奋斗：切换、不要患得患失" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="136" y="550" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="leUY-_BTh4bYBgnkJLnN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="leUY-_BTh4bYBgnkJLnN-25" target="D5oO9VVZSlC_CnEWRoHH-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="leUY-_BTh4bYBgnkJLnN-25" value="学生时代随着30岁已经结束、前世今生、成人时代、自我、负责、全力" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="420" width="120" height="80" as="geometry" />
+          <mxGeometry x="-690" y="585" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="leUY-_BTh4bYBgnkJLnN-26" value="世界很大、人生很短、没人会在乎你，一粒尘埃" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="520" width="120" height="80" as="geometry" />
