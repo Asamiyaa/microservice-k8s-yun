@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T08:17:51.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="sZknl3awPBm7IXuOhDe0" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-08T08:34:52.595Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="UiqF4DxkTkkn8S6VAuMN" version="20.8.18" type="github">
   <diagram name="第 1 页" id="3kF8LRZShBhXQUS7dJpd">
     <mxGraphModel dx="1434" dy="727" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -216,6 +216,96 @@
         </mxCell>
         <mxCell id="EIBAopFfBwxQ-r4Z7fLU-73" value="版本被人更新过，错乱版本的时候外围报错" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="333" y="3453" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-76" target="EIBAopFfBwxQ-r4Z7fLU-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-76" value="问题描述：全电发票合规报错" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="3650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-77" target="EIBAopFfBwxQ-r4Z7fLU-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-77" value="从地方看空指针，日志看好多解析报错" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="3753" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-78" value="不要被混淆，具体到报错行数" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="474" y="3710" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-79" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="434" y="3794" as="sourcePoint" />
+            <mxPoint x="484" y="3744" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-80" target="EIBAopFfBwxQ-r4Z7fLU-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-80" value="代码中从上下文更具名称获取，因为版本问题导致没有找到对应的bean ，" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="3856" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-81" value="不要忽略版本错乱导致的问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="3966" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-87" target="EIBAopFfBwxQ-r4Z7fLU-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-87" value="问题描述：多语未翻译" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="286" y="4221" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-88" target="EIBAopFfBwxQ-r4Z7fLU-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-88" value="从redis取， 平台redis vs 自己的redis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="286" y="4318" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-89" target="EIBAopFfBwxQ-r4Z7fLU-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-89" value="查看 配置文件 、 代码版本、手动连按上去看数据。一连发现是两个redis ,没有值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="286" y="4430" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-90" target="EIBAopFfBwxQ-r4Z7fLU-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-90" value="解决方案比较：将平台的翻译值 挪到 新redis 2.为什么会连接这里，公有云会不会有问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="286" y="4542" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-94" value="第一个错误：ip一致，端口不同是两个应用 vs&amp;nbsp; 集群部署的哨兵等" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="460" y="4385" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-96" target="EIBAopFfBwxQ-r4Z7fLU-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-96" value="根本原因：从配置文件看有个指向环境的配置变了，n -&amp;gt; y导致" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="286" y="4647" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-97" value="为了不影响其他，代码兼容，如果取不到去另一个地方去取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="286" y="4773" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-98" value="从本地看配置 vs 部署时的配置文件" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="467" y="4602" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-99" value="影响性分析，出代码" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="460" y="4719" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-100" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="412" y="4472" as="sourcePoint" />
+            <mxPoint x="462" y="4422" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-101" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="422" y="4691" as="sourcePoint" />
+            <mxPoint x="472" y="4641" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-102" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="4799" as="sourcePoint" />
+            <mxPoint x="464" y="4749" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
