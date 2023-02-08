@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T08:12:58.910Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="yxfr1mXRcIOaiPinEYMn" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-08T08:17:51.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="sZknl3awPBm7IXuOhDe0" version="20.8.18" type="github">
   <diagram name="第 1 页" id="3kF8LRZShBhXQUS7dJpd">
     <mxGraphModel dx="1434" dy="727" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -201,6 +201,21 @@
         </mxCell>
         <mxCell id="EIBAopFfBwxQ-r4Z7fLU-65" value="返回值：添加orgcode，其他接口联通整个流程时，参数足够" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="302" y="2878" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-71" target="EIBAopFfBwxQ-r4Z7fLU-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-71" value="问题描述：版本错乱合规报错" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333" y="3196" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-72" target="EIBAopFfBwxQ-r4Z7fLU-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-72" value="报这个错说明是上了上下文，但是现在看没有上下文，所以arthas反编译代码又是老代码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="3291" width="256" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-73" value="版本被人更新过，错乱版本的时候外围报错" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333" y="3453" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
