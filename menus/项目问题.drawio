@@ -1,1 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T07:13:48.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.18" etag="O07ql69ox3_EBhftCKz0" type="github"><diagram name="第 1 页" id="3kF8LRZShBhXQUS7dJpd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-08T07:43:12.465Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="qHe47E9o860MSvdAqmev" version="20.8.18" type="github">
+  <diagram name="第 1 页" id="3kF8LRZShBhXQUS7dJpd">
+    <mxGraphModel dx="1434" dy="727" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-1" target="EIBAopFfBwxQ-r4Z7fLU-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-1" value="问题描述：抵扣联无法合规拦截" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-3" target="EIBAopFfBwxQ-r4Z7fLU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-3" value="查看日志" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-4" target="EIBAopFfBwxQ-r4Z7fLU-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-4" value="日志乱，没有打印" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-7" target="EIBAopFfBwxQ-r4Z7fLU-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-7" target="EIBAopFfBwxQ-r4Z7fLU-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-7" value="猜想可能" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-10" value="规则本身顺序" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-12" target="EIBAopFfBwxQ-r4Z7fLU-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-12" value="没有抵扣联信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-14" target="EIBAopFfBwxQ-r4Z7fLU-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-14" value="提交上来的方式、哪个接口、标识" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-16" target="EIBAopFfBwxQ-r4Z7fLU-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-16" value="票夹、公有云复现、页面&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-18" value="范的第二个错：没有全、只想到页面提交，没有考虑到nc调用接口和页面不是同一套逻辑" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="630" y="560" width="140" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-19" value="范的第一个错：找不到日志，卡住了。换个思路，解决问题是关键而不是硬苛" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="274" y="130" width="140" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-20" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="274" y="250" as="sourcePoint" />
+            <mxPoint x="324" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="660" as="sourcePoint" />
+            <mxPoint x="630" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-22" target="EIBAopFfBwxQ-r4Z7fLU-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-22" value="没有自测，接口，而是直接给包" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="460" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-24" target="EIBAopFfBwxQ-r4Z7fLU-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-24" value="上线测试没有按照复现流程重现，而是猜想，导致没有从nc端解决问题只是解决了页面" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="450" y="860" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-26" target="EIBAopFfBwxQ-r4Z7fLU-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-26" value="nc端报504，应该登录页面，没有日志，可能是进程卡住了" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="450" y="970" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-27" target="EIBAopFfBwxQ-r4Z7fLU-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-27" value="假死、df -h 查看日志" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1090" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-30" value="清理docker的日志" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1190" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
