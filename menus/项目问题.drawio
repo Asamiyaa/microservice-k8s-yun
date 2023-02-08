@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T07:43:12.465Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="qHe47E9o860MSvdAqmev" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-08T08:00:17.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="83I2TMetdnY-YP4rCbJH" version="20.8.18" type="github">
   <diagram name="第 1 页" id="3kF8LRZShBhXQUS7dJpd">
-    <mxGraphModel dx="1434" dy="727" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="677" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,6 +96,75 @@
         </mxCell>
         <mxCell id="EIBAopFfBwxQ-r4Z7fLU-30" value="清理docker的日志" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="1190" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-32" target="EIBAopFfBwxQ-r4Z7fLU-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-32" value="问题描述：票的信息不能找到" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-33" target="EIBAopFfBwxQ-r4Z7fLU-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-33" value="报错位置：map中未获取到值，全电 - 代码的特殊性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1482" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-34" target="EIBAopFfBwxQ-r4Z7fLU-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-34" value="查看数据库，其中两张表是 一个空字符 ，而invoice是空，导致不匹配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1586" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-35" target="EIBAopFfBwxQ-r4Z7fLU-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-35" value="为什么在插入invoice会少呢？没有trim," style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1694" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-36" target="EIBAopFfBwxQ-r4Z7fLU-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-36" value="从日志，注意这里时间，不要紧盯着当天，当天是其他操作而不是保存操作" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-37" value="范的一个错误：&lt;br&gt;日志不全、时间、项目input vs all" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="519" y="1766" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-38" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EIBAopFfBwxQ-r4Z7fLU-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="459" y="1842" as="sourcePoint" />
+            <mxPoint x="509" y="1792" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-39" target="EIBAopFfBwxQ-r4Z7fLU-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-39" value="日志看，合规这里有，保存时没有了，而后面又有了。这里没有复制， 数据库问题" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1919" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-40" target="EIBAopFfBwxQ-r4Z7fLU-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-40" value="postman&amp;nbsp; *** 复现问题，sql信息，" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="330" y="2026" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-41" target="EIBAopFfBwxQ-r4Z7fLU-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-41" value="方案选择：加 空格&amp;nbsp; vs 去空格，这里都写不进去，也加不进去，所以只能去掉其两张表的空格数据再次测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="2139" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-42" value="char&amp;nbsp; vs&amp;nbsp; varchar ,char会自动清理空串导致" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="529" y="1888" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-43" value="上游传递空串、char 诱发该问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="2263" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-57" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" target="EIBAopFfBwxQ-r4Z7fLU-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="453" y="1966" as="sourcePoint" />
+            <mxPoint x="503" y="1916" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
