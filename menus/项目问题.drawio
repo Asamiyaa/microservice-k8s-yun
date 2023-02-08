@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T08:34:52.595Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="UiqF4DxkTkkn8S6VAuMN" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-08T08:43:07.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="lAfVmV8C1rYXYPtSYtHz" version="20.8.18" type="github">
   <diagram name="第 1 页" id="3kF8LRZShBhXQUS7dJpd">
     <mxGraphModel dx="1434" dy="727" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -305,6 +305,36 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="414" y="4799" as="sourcePoint" />
             <mxPoint x="464" y="4749" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-108" target="EIBAopFfBwxQ-r4Z7fLU-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-108" value="现象： 数据量多的时候，导致超时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="4984" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-109" target="EIBAopFfBwxQ-r4Z7fLU-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-109" value="从日志看时合规耗时工具使用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="5092" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EIBAopFfBwxQ-r4Z7fLU-110" target="EIBAopFfBwxQ-r4Z7fLU-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-110" value="edit编辑器：cost所在行、列模式获取耗时 、计算值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="294" y="5209" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-115" value="具体合规代码耗时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="5333" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-118" value="工具的使用，不仅仅是工具，要带着编程思想去使用" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="467" y="5158" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EIBAopFfBwxQ-r4Z7fLU-119" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="423" y="5246" as="sourcePoint" />
+            <mxPoint x="473" y="5196" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
