@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T15:56:39.624Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="AbD-l0XzC9ZSODWvDuw5" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-08T13:59:38.305Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="xdp63XQhUHzRQ1TRbzzQ" version="20.8.16" type="github">
   <diagram name="第 1 页" id="l9BL36nRIR9fdoTfFBKx">
     <mxGraphModel dx="989" dy="553" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
           <mxGeometry x="555" y="467.97" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="eTiPSNOPlnwjZyrrS0Vz-14" value="游戏" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="367" y="438.97" width="50" height="18" as="geometry" />
+          <mxGeometry x="330" y="465.97" width="50" height="18" as="geometry" />
         </mxCell>
         <mxCell id="eTiPSNOPlnwjZyrrS0Vz-15" value="酒店、旅游、饮食、白酒、商场、免税？？？" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="107" y="654" width="175.25" height="23" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry x="460" y="439.97" width="50" height="18" as="geometry" />
         </mxCell>
         <mxCell id="Pb9T2r3sPozMo4vFnGIx-4" value="消费电子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="154" y="427.97" width="105" height="12" as="geometry" />
+          <mxGeometry x="117" y="454.97" width="105" height="12" as="geometry" />
         </mxCell>
         <mxCell id="Pb9T2r3sPozMo4vFnGIx-6" value="药？？？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="274" y="705" width="81" height="13" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="204" y="732" width="51" height="14" as="geometry" />
         </mxCell>
         <mxCell id="Pb9T2r3sPozMo4vFnGIx-10" value="电源设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="336" y="658" width="107" height="12" as="geometry" />
+          <mxGeometry x="279.25" y="413.97" width="107" height="12" as="geometry" />
         </mxCell>
         <mxCell id="Pb9T2r3sPozMo4vFnGIx-12" value="军工" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="656" width="51" height="14" as="geometry" />
@@ -101,13 +101,13 @@
           <mxGeometry x="526" y="394.97" width="51" height="19" as="geometry" />
         </mxCell>
         <mxCell id="Pb9T2r3sPozMo4vFnGIx-20" value="房地产" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="227" y="461.97" width="51" height="14" as="geometry" />
+          <mxGeometry x="190" y="488.97" width="51" height="14" as="geometry" />
         </mxCell>
         <mxCell id="Pb9T2r3sPozMo4vFnGIx-22" value="电机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="461.97" width="51" height="14" as="geometry" />
+          <mxGeometry x="248" y="488.97" width="51" height="14" as="geometry" />
         </mxCell>
         <mxCell id="Pb9T2r3sPozMo4vFnGIx-23" value="钙钛矿电池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="154" y="461.97" width="70" height="17" as="geometry" />
+          <mxGeometry x="117" y="488.97" width="70" height="17" as="geometry" />
         </mxCell>
         <mxCell id="Pb9T2r3sPozMo4vFnGIx-24" value="珠宝" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="248" y="509.97" width="51" height="14" as="geometry" />
@@ -116,19 +116,24 @@
           <mxGeometry x="197" y="509.97" width="51" height="14" as="geometry" />
         </mxCell>
         <mxCell id="Pb9T2r3sPozMo4vFnGIx-27" value="文化传媒" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="411" y="437.97" width="59" height="20" as="geometry" />
+          <mxGeometry x="374" y="464.97" width="59" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pb9T2r3sPozMo4vFnGIx-31" value="减速器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330.5" y="457.97" width="51" height="14" as="geometry" />
+          <mxGeometry x="293.5" y="484.97" width="51" height="14" as="geometry" />
         </mxCell>
         <mxCell id="Pb9T2r3sPozMo4vFnGIx-34" value="贵金属" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="299" y="509.97" width="51" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="Pb9T2r3sPozMo4vFnGIx-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Pb9T2r3sPozMo4vFnGIx-39" target="Pb9T2r3sPozMo4vFnGIx-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Pb9T2r3sPozMo4vFnGIx-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Pb9T2r3sPozMo4vFnGIx-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="448.0000000000002" y="466.97" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Pb9T2r3sPozMo4vFnGIx-39" value="苹果MR推出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="231" y="426.97" width="105" height="12" as="geometry" />
+          <mxGeometry x="194" y="453.97" width="105" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="Pb9T2r3sPozMo4vFnGIx-42" value="光伏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="192" y="413.97" width="107" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
