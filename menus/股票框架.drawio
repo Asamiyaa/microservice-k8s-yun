@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T11:07:14.762Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="hCjm5cJ2SsZUHuXxWVpY" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T11:51:00.400Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="K8iYBIbJmQ_RH94h4qQG" version="20.8.20" type="github">
   <diagram id="E01g1_I6Vo92YfVn2vzd" name="第 1 页">
     <mxGraphModel dx="401195" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -687,7 +687,7 @@
         <mxCell id="1UTwfoLHcroBLSVSha9c-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1UTwfoLHcroBLSVSha9c-34" target="1UTwfoLHcroBLSVSha9c-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1UTwfoLHcroBLSVSha9c-34" value="从异动、当天操作复盘、好的、坏的、改造方法 、明日实践" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="1UTwfoLHcroBLSVSha9c-34" value="从异动、当天操作复盘、好的、坏的、改造方法 、明日实践&lt;br&gt;&lt;span style=&quot;background-color: rgb(255, 255, 204);&quot;&gt;不要老想着切换、知道当前主线、感受切换&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="4660" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="1UTwfoLHcroBLSVSha9c-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1UTwfoLHcroBLSVSha9c-35" target="1UTwfoLHcroBLSVSha9c-40" edge="1">
