@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T07:15:16.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="r4oCRb8NrgMyMZZNBSMQ" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T07:44:36.937Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="fUyAQtgXPNreGcjh1oQa" version="20.8.20" type="github">
   <diagram name="第 1 页" id="KmEm8IPTACJXXoBmaRpr">
-    <mxGraphModel dx="2537" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1851" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,6 +21,36 @@
         </mxCell>
         <mxCell id="MKtZNP4OExzvPobhF5sk-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pdai.tech/images/mybatis/mybatis-y-arch-1.png;" vertex="1" parent="1">
           <mxGeometry x="-540" y="190" width="600.77" height="476" as="geometry" />
+        </mxCell>
+        <mxCell id="MKtZNP4OExzvPobhF5sk-3" value="sqlSession" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKtZNP4OExzvPobhF5sk-4" value="executor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKtZNP4OExzvPobhF5sk-5" value="statementHandler" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="398" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKtZNP4OExzvPobhF5sk-6" value="parameterHandler" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKtZNP4OExzvPobhF5sk-7" value="resultSetHandler" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKtZNP4OExzvPobhF5sk-8" value="TypeHandler" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKtZNP4OExzvPobhF5sk-9" value="MappedStatement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKtZNP4OExzvPobhF5sk-10" value="sqlSource" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKtZNP4OExzvPobhF5sk-11" value="boundSql" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKtZNP4OExzvPobhF5sk-12" value="configuration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
