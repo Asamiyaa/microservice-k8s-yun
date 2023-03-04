@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T11:18:57.591Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="JR2k-jxBOHIzIUvg9kym" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-04T11:24:11.475Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="PEMwbnJf1jQtONfEdol4" version="21.0.2" type="github">
   <diagram name="第 1 页" id="S-KACnQ_s29UGyhCrXI7">
     <mxGraphModel dx="2261" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,8 +28,8 @@
         <mxCell id="1eEIsLxeiasIomoq3Xt9-8" value="受害者心理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="290" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1eEIsLxeiasIomoq3Xt9-9" value="情绪控制" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="330" width="70" height="40" as="geometry" />
+        <mxCell id="1eEIsLxeiasIomoq3Xt9-9" value="情绪控制、欲望" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="330" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1eEIsLxeiasIomoq3Xt9-10" value="策略" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="200" width="70" height="40" as="geometry" />
@@ -42,6 +42,15 @@
         </mxCell>
         <mxCell id="1eEIsLxeiasIomoq3Xt9-13" value="可控与不可控、确定与不确定" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="390" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1eEIsLxeiasIomoq3Xt9-14" value="当下、拥有" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="440" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1eEIsLxeiasIomoq3Xt9-15" value="个体" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="440" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1eEIsLxeiasIomoq3Xt9-16" value="心力 - 宁静" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="220" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
