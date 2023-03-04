@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T10:40:05.662Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="eg2baXe5CSyvv_nvv7qf" version="21.0.2" type="github"><diagram name="第 1 页" id="S-KACnQ_s29UGyhCrXI7">dZE9D4MgEIZ/DbuC6cdsbV06OXQmchUS9AjSaPvrqwFrie3E8dx734Tl7Xix3MgrCtCEJmIk7EQoTTOWTc9Mnp4cEupBY5UIohVU6gUBJoE+lIA+EjpE7ZSJYY1dB7WLGLcWh1h2Rx1XNbyBDahqrrf0poSTYQq6X3kJqpFL5XR39J6WL+IwSS+5wOELsYKw3CI6b7VjDnpe3rIXH3f+4/00ZqFzPwImY809faILseIN</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-04T10:42:09.393Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="RglfzEwCBUpmrhBZgTK0" version="21.0.2" type="github">
+  <diagram name="第 1 页" id="S-KACnQ_s29UGyhCrXI7">
+    <mxGraphModel dx="2261" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1eEIsLxeiasIomoq3Xt9-1" value="困局" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1eEIsLxeiasIomoq3Xt9-2" value="犯错" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1eEIsLxeiasIomoq3Xt9-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
