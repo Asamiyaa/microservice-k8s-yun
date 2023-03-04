@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T12:15:02.370Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="8Oc0NFW2y6TUpPZYYOMH" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-04T12:15:08.339Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="-e-Dlg156T7ik5qIyGjl" version="21.0.2" type="github">
   <diagram name="第 1 页" id="S-KACnQ_s29UGyhCrXI7">
     <mxGraphModel dx="2261" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
           <mxGeometry x="-100" y="400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="veHLIHzk_LPReTzrI3is-4" value="思维模型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="460" width="120" height="80" as="geometry" />
+          <mxGeometry x="170" y="720" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
