@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T00:37:53.242Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="EZ_HPyrfN61-xsV6PwsT" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T00:39:08.804Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="XXoVFccxGhx7Ey0dwtXP" version="21.0.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="1434" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,10 +17,10 @@
           <mxGeometry x="320" y="270" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-4" value="臆想 - 而不是等待信号&amp;nbsp; &amp;nbsp;- 兰州银行" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="370" width="120" height="80" as="geometry" />
+          <mxGeometry x="320" y="360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-5" value="没有固定模式，验证后才敢重仓，总结轻仓、干重仓" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="470" width="120" height="80" as="geometry" />
+          <mxGeometry x="320" y="460" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-6" value="一定要降低仓位 - 东方雨虹、" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="250" width="120" height="60" as="geometry" />
@@ -132,6 +132,9 @@
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-47" value="没有时间俯瞰全局、分析、导致看不全" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-48" value="亏的初期死扛，没有及时止损、想通过T来是错误的 ，方向错误 vs&amp;nbsp; 马上来临没有区分开" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="530" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
