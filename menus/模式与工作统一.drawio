@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T03:16:58.161Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="EWDnyvV1_vCbkBwh1_QX" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T03:17:41.184Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="f0ioz37gZEGNofl46HAr" version="21.0.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="1501" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -299,6 +299,9 @@
         <mxCell id="1Og0T00IHUKX8OhshonG-101" value="深度" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="850" y="-230" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Og0T00IHUKX8OhshonG-102" target="1Og0T00IHUKX8OhshonG-184">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-102" value="主线 - 高位 - 走出来" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="920" width="77" height="40" as="geometry" />
         </mxCell>
@@ -514,6 +517,9 @@
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-182" value="资金还在老题材中" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="640" y="670" width="77" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-184" value="没时间看盘，看筹码，容易错过博弈激烈的短线" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1101.5" y="1070" width="228.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
