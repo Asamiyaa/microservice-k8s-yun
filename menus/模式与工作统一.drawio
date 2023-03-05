@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T01:16:05.564Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="fwIOYsLPbDR5HjZ2r_7q" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T01:18:32.727Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="1teFTZsLVnlLLaUNO4qI" version="21.0.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="1434" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -227,6 +227,9 @@
             <mxPoint x="1370" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Og0T00IHUKX8OhshonG-80" target="1Og0T00IHUKX8OhshonG-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-80" value="跟踪机制" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1241" y="280" width="120" height="80" as="geometry" />
         </mxCell>
@@ -361,6 +364,12 @@
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-128" value="量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1045.5" y="-120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Og0T00IHUKX8OhshonG-130" target="1Og0T00IHUKX8OhshonG-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-130" value="仓位太重？" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="943" y="1100" width="77" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
