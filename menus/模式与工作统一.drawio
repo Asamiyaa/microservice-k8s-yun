@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T02:54:56.382Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="YcCki7pNfrU7XIhZy49n" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T02:55:11.567Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="GwaxOpWAOsi5XRLrkkh8" version="21.0.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="1434" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -290,6 +290,9 @@
         <mxCell id="1Og0T00IHUKX8OhshonG-100" value="强弱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="190" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Og0T00IHUKX8OhshonG-101" target="1Og0T00IHUKX8OhshonG-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-101" value="深度" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="850" y="-230" width="120" height="80" as="geometry" />
         </mxCell>
@@ -426,9 +429,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-151" value="完整的预判" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="-544" width="120" height="80" as="geometry" />
+          <mxGeometry x="1200" y="-547" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-152" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;https://emcreative.eastmoney.com/app_fortune/article/index.html?artcode=20230212175959890866740&amp;amp;postid=1276399212&amp;amp;requestType=1&amp;amp;from=cfh_sydt&amp;amp;fontsize=1&amp;amp;theme=w&amp;amp;version=2023-02-13-07-2&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="1Og0T00IHUKX8OhshonG-152" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;https://emcreative.eastmoney.com/app_fortune/article/index.html?artcode=20230212175959890866740&amp;amp;postid=1276399212&amp;amp;requestType=1&amp;amp;from=cfh_sydt&amp;amp;fontsize=1&amp;amp;theme=w&amp;amp;version=2023-02-13-07-2&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="-550" width="1440" height="86" as="geometry" />
         </mxCell>
       </root>
