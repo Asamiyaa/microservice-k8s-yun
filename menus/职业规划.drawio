@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T00:43:28.950Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Q6IOD5YhreHAT-wF4OJl" version="21.0.2" type="github"><diagram name="第 1 页" id="5ZBDM-hkGvqpWPEL2DGX">dZE9D4MgEIZ/DbuC6cdsbV06OXQmchUS9AjSaPvrqwFrie3E8dx734Tl7Xix3MgrCtCEJmIk7EQoTTOWTc9Mnp4cEupBY5UIohVU6gUBJoE+lIA+EjpE7ZSJYY1dB7WLGLcWh1h2Rx1XNbyBDahqrrf0poSTYQq6X3kJqpFL5XR39J6WL+IwSS+5wOELsYKw3CI6b7VjDnpe3rIXH3f+4/00ZqFzPwImY809faILseIN</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-05T00:46:25.676Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="4Pds-Otg0_pV_0HW52M2" version="21.0.2" type="github">
+  <diagram name="第 1 页" id="5ZBDM-hkGvqpWPEL2DGX">
+    <mxGraphModel dx="1434" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZCkz5Gfj4IfZA3WU3XQi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZCkz5Gfj4IfZA3WU3XQi-1" target="ZCkz5Gfj4IfZA3WU3XQi-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCkz5Gfj4IfZA3WU3XQi-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZCkz5Gfj4IfZA3WU3XQi-1" target="ZCkz5Gfj4IfZA3WU3XQi-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCkz5Gfj4IfZA3WU3XQi-1" value="2022借着大台账、合规、全电等" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCkz5Gfj4IfZA3WU3XQi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZCkz5Gfj4IfZA3WU3XQi-2" target="ZCkz5Gfj4IfZA3WU3XQi-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCkz5Gfj4IfZA3WU3XQi-2" value="开发经理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCkz5Gfj4IfZA3WU3XQi-3" value="失败 、 组织架构调整" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCkz5Gfj4IfZA3WU3XQi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZCkz5Gfj4IfZA3WU3XQi-7" target="ZCkz5Gfj4IfZA3WU3XQi-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCkz5Gfj4IfZA3WU3XQi-7" value="2023加薪" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCkz5Gfj4IfZA3WU3XQi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZCkz5Gfj4IfZA3WU3XQi-8" target="ZCkz5Gfj4IfZA3WU3XQi-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCkz5Gfj4IfZA3WU3XQi-8" value="升职" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCkz5Gfj4IfZA3WU3XQi-11" value="有戏？个人规划、其他外部对比" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="505" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
