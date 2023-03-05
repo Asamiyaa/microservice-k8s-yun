@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T02:56:17.203Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="a1CGOAcq4Zb5ugos1FQP" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T02:58:31.097Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="bOadP0JX4916dg9RLXaf" version="21.0.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="1434" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -281,6 +281,9 @@
         <mxCell id="1Og0T00IHUKX8OhshonG-98" value="大单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1051.5" y="-70" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Og0T00IHUKX8OhshonG-99" target="1Og0T00IHUKX8OhshonG-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-99" value="板块关联 -潜伏？" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1051.5" y="-10" width="120" height="80" as="geometry" />
         </mxCell>
@@ -433,6 +436,15 @@
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-152" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;https://emcreative.eastmoney.com/app_fortune/article/index.html?artcode=20230212175959890866740&amp;amp;postid=1276399212&amp;amp;requestType=1&amp;amp;from=cfh_sydt&amp;amp;fontsize=1&amp;amp;theme=w&amp;amp;version=2023-02-13-07-2&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="-550" width="1440" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-155" value="提前预判" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="-10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-157" value="一号文件：粮食" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="-40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-158" value="三八节：女性化妆品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="30" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
