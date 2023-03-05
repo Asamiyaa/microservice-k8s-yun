@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T00:39:08.804Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="XXoVFccxGhx7Ey0dwtXP" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T00:39:36.740Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="NnzHX5JiXwcVbgq4ZKEH" version="21.0.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="1434" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,6 +135,9 @@
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-48" value="亏的初期死扛，没有及时止损、想通过T来是错误的 ，方向错误 vs&amp;nbsp; 马上来临没有区分开" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-49" value="情绪、亏了想从这个票赚回来的错误、斗气" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="530" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
