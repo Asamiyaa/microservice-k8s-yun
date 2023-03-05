@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T01:21:51.239Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="-mNAjEDbk7WvAybpYqRD" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T01:22:39.871Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="JsS3jrTKpPutvuLCmGXH" version="21.0.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="1434" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -403,6 +403,9 @@
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-143" value="依赖题材&amp;nbsp;&amp;nbsp;&lt;br&gt;依赖技术&amp;nbsp; 两种模式" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="587" y="-475" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-145" value="没有题材只有技术一定要等到确认，技术不着急，能知道逻辑就更好了" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-510" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
