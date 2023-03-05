@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T01:13:08.312Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Ws3h94N6XbyG50Jec9xl" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T01:13:53.237Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="TOBSTqeXDk3k8RrdSxaZ" version="21.0.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="1434" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -281,7 +281,7 @@
         <mxCell id="1Og0T00IHUKX8OhshonG-100" value="强弱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-101" value="深度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1Og0T00IHUKX8OhshonG-101" value="深度" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="850" y="-230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-102" value="主线 - 高位 - 走出来" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -343,6 +343,12 @@
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-122" value="连板-市场高度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="-320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-123" value="2021、机构抱团-新能源" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-450" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-124" value="感知变化 - 总结规律" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-240" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
