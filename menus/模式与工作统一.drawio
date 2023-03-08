@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T14:41:22.619Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="S0cIU0XPg_SWyAfTCoB2" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T14:42:37.213Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="HzUK24AVH7zBZrROUvmw" version="21.0.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="1876" dy="2172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,9 +91,6 @@
         <mxCell id="1Og0T00IHUKX8OhshonG-46" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="910" width="77" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-47" value="没有时间俯瞰全局、分析、导致看不全" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="540" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-48" value="亏的初期死扛，没有及时止损、想通过T来是错误的 ，方向错误 vs&amp;nbsp; 马上来临没有区分开" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2920" y="2000" width="120" height="80" as="geometry" />
         </mxCell>
@@ -109,33 +106,8 @@
         <mxCell id="1Og0T00IHUKX8OhshonG-53" value="比如三花智控&lt;br&gt;弱转强&lt;br&gt;其他没有大单流入却长起来的" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="110" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="1Og0T00IHUKX8OhshonG-47">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1360" y="529.9999999999995" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="1Og0T00IHUKX8OhshonG-60">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1420" y="489.99999999999955" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="1Og0T00IHUKX8OhshonG-61">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1360" y="529.9999999999995" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1360" y="650" />
-              <mxPoint x="1900" y="650" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-60" value="如果没有过滤，你把全部3000支票都自选没有任何意义，不能赚钱" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="1640" y="450" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Og0T00IHUKX8OhshonG-61" target="1Og0T00IHUKX8OhshonG-60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-61" value="自选要与模式匹配，最应手的模式是什么" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="450" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-68" value="定化模式 - 减少票的数量 - 最擅长-能稳定收益的" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1540" y="590" width="120" height="80" as="geometry" />
@@ -157,12 +129,6 @@
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-73" value="这些小规律 -&amp;nbsp; 小树枝 是否是大枝干，前置条件是什么" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1330" y="90" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1120.9999999999995" y="769.9999999999995" as="sourcePoint" />
-            <mxPoint x="1440" y="240" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-90" value="大单？挂树上？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="190" width="120" height="60" as="geometry" />
@@ -558,7 +524,7 @@
         <mxCell id="1Og0T00IHUKX8OhshonG-271" value="一定要给出确定性，否则容易在盘中错失" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="2520" y="960" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-272" value="认知：买点 与 涨跌 、逻辑、周期、纠错、臆想与偏见、情绪、压力、市场复杂度来自不同交易理念：技术、题材、。。。不同维度。惯性、强者恒强" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1Og0T00IHUKX8OhshonG-272" value="认知：买点 与 涨跌 、逻辑、周期、纠错、臆想与偏见、情绪、压力、市场复杂度来自不同交易理念：技术、题材、。。。不同维度。惯性、强者恒强、可操作性可落地性、工作投资模式匹配" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2180" y="1590" width="980" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-273" value="低吸" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
