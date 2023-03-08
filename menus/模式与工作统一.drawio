@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T14:40:19.469Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="AEMeD-RpT8E3alcWh1Yc" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T14:41:22.619Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="S0cIU0XPg_SWyAfTCoB2" version="21.0.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="1876" dy="2172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,9 +51,6 @@
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-23" value="国内恢复疲软&amp;nbsp; - &lt;font color=&quot;#ff0000&quot;&gt;指数压力位&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="-60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-26" value="风险&amp;nbsp; &amp;gt; 机会" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="820" y="-70" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-27" value="买点的影响因素" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="80" width="120" height="60" as="geometry" />
@@ -161,30 +158,11 @@
         <mxCell id="1Og0T00IHUKX8OhshonG-73" value="这些小规律 -&amp;nbsp; 小树枝 是否是大枝干，前置条件是什么" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1330" y="90" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1370" y="260" as="targetPoint" />
-            <mxPoint x="1361.0000000000005" y="320" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="1Og0T00IHUKX8OhshonG-100">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1300.9999999999995" y="280" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-82" value="老龙头、老题材" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="210" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-83" value="自己做过的票，比如元隆雅图" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="270" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="1Og0T00IHUKX8OhshonG-88">
+        <mxCell id="1Og0T00IHUKX8OhshonG-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1120.9999999999995" y="769.9999999999995" as="sourcePoint" />
+            <mxPoint x="1440" y="240" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-88" value="其他帅选出来的牛股" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-90" value="大单？挂树上？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="190" width="120" height="60" as="geometry" />
@@ -370,9 +348,6 @@
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Og0T00IHUKX8OhshonG-186" target="1Og0T00IHUKX8OhshonG-186">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-189" value="回流" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-190" value="指数，放假起来第一天太看重，3/8号主要数字经济 ，安妮盈亏比，但总体还是" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2460" y="250" width="549" height="80" as="geometry" />
@@ -628,7 +603,7 @@
         <mxCell id="1Og0T00IHUKX8OhshonG-287" value="盈亏比" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3360" y="910" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-288" value="博弈，没有完美的确定性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1Og0T00IHUKX8OhshonG-288" value="博弈，没有完美的确定性&lt;br&gt;风险、机会" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3380" y="955" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
