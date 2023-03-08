@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T14:05:56.948Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="8IPedvsYGhA9gFaFHfln" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T14:09:04.929Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="oALhohRs845Ld5_7pjd7" version="21.0.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="1876" dy="2172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -666,6 +666,12 @@
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-238" value="盘中？？？？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2690" y="505" width="109.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-239" value="技巧：分组 - 筛选&lt;br&gt;五日线多股同列&lt;br&gt;分时叠加&amp;nbsp;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="830" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-240" value="困难点：1.盯的票太多&lt;br&gt;2.变化快，无法看到全局，看到有时也无法认知达到做出正确判断&lt;br&gt;3.上班没时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="620" width="300" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
