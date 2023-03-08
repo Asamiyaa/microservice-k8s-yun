@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T14:45:59.489Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="cBE0qgvrLNbGGVKpYeQu" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T14:48:26.645Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="S6_HKZaAS5GglB4qnJd3" version="21.0.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="1876" dy="2172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,15 +28,6 @@
         <mxCell id="1Og0T00IHUKX8OhshonG-6" value="一定要降低仓位 - 东方雨虹、" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3014" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-16" value="低吸、追涨模式干扰" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="640" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-20" value="分析 - 以下内容都不是绝对因素、需要综合考虑" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="30" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-21" value="当前压力来自哪里" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="-10" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Og0T00IHUKX8OhshonG-22" target="1Og0T00IHUKX8OhshonG-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -45,15 +36,6 @@
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-23" value="国内恢复疲软&amp;nbsp; - &lt;font color=&quot;#ff0000&quot;&gt;指数压力位&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="-60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-27" value="买点的影响因素" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Og0T00IHUKX8OhshonG-29" target="1Og0T00IHUKX8OhshonG-108">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-29" value="大盘压力&amp;nbsp; - 大盘方向" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-30" value="todo: 分析几次定势，没有跟随大盘加仓点的操作" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="30" width="120" height="80" as="geometry" />
@@ -72,9 +54,6 @@
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-53" value="比如三花智控&lt;br&gt;弱转强&lt;br&gt;其他没有大单流入却长起来的" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="110" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-69" value="学习的指标到底是否有效" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="940" y="80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-70" value="macd 日K" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="60" width="120" height="60" as="geometry" />
@@ -96,9 +75,6 @@
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-91" value="承接 - 抛压" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1150" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-97" value="老技术" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-98" value="大单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1051.5" y="-70" width="120" height="80" as="geometry" />
@@ -124,10 +100,10 @@
           <mxGeometry x="1180" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-108" value="弱环境下、高开 危险 、低开&amp;nbsp; 低吸" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-220" width="120" height="60" as="geometry" />
+          <mxGeometry x="2140" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-110" value="强环境低开、危险 比如浪潮信息 - 黑天鹅" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="530" y="-220" width="120" height="60" as="geometry" />
+          <mxGeometry x="2270" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-125" value="早尾盘的抢筹？" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="-70" width="120" height="80" as="geometry" />
@@ -146,9 +122,6 @@
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-149" value="均线粘合" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="-170" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-150" value="接力：具体一进二、二进三买点、板块间的约束与促进" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="640" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Og0T00IHUKX8OhshonG-151" target="1Og0T00IHUKX8OhshonG-152">
           <mxGeometry relative="1" as="geometry" />
@@ -505,6 +478,12 @@
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-292" value="一致性，模式间干扰" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2590" y="1640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-293" value="接力" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3755" y="510" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-295" value="承接、抢筹" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4100" y="730" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
