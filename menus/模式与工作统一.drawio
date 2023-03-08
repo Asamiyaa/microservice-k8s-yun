@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T14:54:55.718Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="MRrd8B4Oz5w7VB2KblxN" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T14:55:27.432Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="FVt-HHsfKcdr1g7FEulK" version="21.0.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
-    <mxGraphModel dx="112" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1348" dy="1604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-110" value="强环境低开、危险 比如浪潮信息 - 黑天鹅" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="2270" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-301" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Og0T00IHUKX8OhshonG-127" target="1Og0T00IHUKX8OhshonG-245">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-127" value="用友网络盘中分析：大单-跟随-没有大单砸 - 结构完美 - 上车" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="4190" y="750" width="120" height="80" as="geometry" />
@@ -152,7 +155,7 @@
           <mxGeometry x="2720" y="1010" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-204" value="个股" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3210" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="3220" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-205" value="逻辑正" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3360" y="630" width="120" height="80" as="geometry" />
@@ -250,7 +253,7 @@
           <mxGeometry x="3450" y="780" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-245" value="仓位" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4620" y="730" width="120" height="80" as="geometry" />
+          <mxGeometry x="4620" y="750" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-246" value="分时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2490" y="1270" width="90" height="50" as="geometry" />
