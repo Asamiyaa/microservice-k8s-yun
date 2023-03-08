@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T14:38:43.219Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Rnd5sOTMjVzS12yE-qWG" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T14:39:55.607Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="1MaG5GOIBXD2QAwKSlYe" version="21.0.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="1876" dy="2172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,25 +14,19 @@
           <mxGeometry x="2530" y="990" width="720" height="110" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-1" value="回撤分析" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="340" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Og0T00IHUKX8OhshonG-3" target="1Og0T00IHUKX8OhshonG-30">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="2780" y="1810" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-3" value="行情不好 控制住手" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="270" width="120" height="80" as="geometry" />
+          <mxGeometry x="2920" y="1740" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-4" value="臆想 - 而不是等待信号&amp;nbsp; &amp;nbsp;- 兰州银行" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="360" width="120" height="80" as="geometry" />
+          <mxGeometry x="2920" y="1830" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-5" value="没有固定模式，验证后才敢重仓，总结轻仓、干重仓" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="460" width="120" height="80" as="geometry" />
+          <mxGeometry x="2920" y="1930" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-6" value="一定要降低仓位 - 东方雨虹、" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-7" value="买点后移" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="3014" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-8" value="模式与工作" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="707" y="430" width="120" height="80" as="geometry" />
@@ -104,10 +98,10 @@
           <mxGeometry x="870" y="540" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-48" value="亏的初期死扛，没有及时止损、想通过T来是错误的 ，方向错误 vs&amp;nbsp; 马上来临没有区分开" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="530" width="120" height="80" as="geometry" />
+          <mxGeometry x="2920" y="2000" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-49" value="情绪、亏了想从这个票赚回来的错误、斗气" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="530" width="120" height="80" as="geometry" />
+          <mxGeometry x="3050" y="2000" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Og0T00IHUKX8OhshonG-52" target="1Og0T00IHUKX8OhshonG-53">
           <mxGeometry relative="1" as="geometry" />
@@ -477,6 +471,9 @@
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-228" value="选股原则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2760" y="1200" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-289" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Og0T00IHUKX8OhshonG-229" target="1Og0T00IHUKX8OhshonG-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-229" value="几做几不做" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2799.5" y="1240" width="90" height="50" as="geometry" />
