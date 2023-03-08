@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T14:30:58.408Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="WZy4sDyI-VLGj9CzDtAz" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T14:32:48.362Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="FF_rZZXnq7ZjPybYg7-_" version="21.0.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="1876" dy="2172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,9 +18,6 @@
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-1" value="回撤分析" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="340" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-2" value="赚钱分析" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="670" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Og0T00IHUKX8OhshonG-3" target="1Og0T00IHUKX8OhshonG-30">
           <mxGeometry relative="1" as="geometry" />
@@ -64,9 +61,6 @@
         <mxCell id="1Og0T00IHUKX8OhshonG-18" value="预估周期&amp;nbsp; vs&amp;nbsp; &amp;nbsp;割掉&amp;nbsp; vs 加仓位T到半仓？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1121" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-19" value="赚钱分析" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="620" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-20" value="分析 - 以下内容都不是绝对因素、需要综合考虑" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="30" width="120" height="80" as="geometry" />
         </mxCell>
@@ -96,9 +90,6 @@
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-30" value="todo: 分析几次定势，没有跟随大盘加仓点的操作" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="30" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-32" value="惯性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="860" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-33" value="节奏" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="860" width="120" height="80" as="geometry" />
@@ -719,7 +710,7 @@
         <mxCell id="1Og0T00IHUKX8OhshonG-271" value="一定要给出确定性，否则容易在盘中错失" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="2520" y="960" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-272" value="认知：买点 与 涨跌 、逻辑、周期、纠错、臆想与偏见、情绪、压力、市场复杂度来自不同交易理念：技术、题材、。。。不同维度。" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1Og0T00IHUKX8OhshonG-272" value="认知：买点 与 涨跌 、逻辑、周期、纠错、臆想与偏见、情绪、压力、市场复杂度来自不同交易理念：技术、题材、。。。不同维度。惯性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2180" y="1590" width="980" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-273" value="低吸" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -730,6 +721,12 @@
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-276" value="突破前高、昨日高、底支撑" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4130" y="860" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-277" value="题材" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="1119" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-278" value="赚钱效应" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2775" y="1300" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
