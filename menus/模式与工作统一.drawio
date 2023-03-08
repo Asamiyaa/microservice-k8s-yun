@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T14:26:07.371Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="AExFWCVz2IWKgoWWGMsQ" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T14:28:46.218Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="O3a_MjqMPygSEEMSwSvk" version="21.0.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
-    <mxGraphModel dx="1580" dy="2013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1876" dy="2172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -245,14 +245,10 @@
         <mxCell id="1Og0T00IHUKX8OhshonG-85" value="错过买点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="720" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Og0T00IHUKX8OhshonG-86" target="1Og0T00IHUKX8OhshonG-88">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-86" value="云天化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1001" y="710" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-87" value="硅...." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1001" y="760" width="120" height="60" as="geometry" />
+        <mxCell id="1Og0T00IHUKX8OhshonG-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="1Og0T00IHUKX8OhshonG-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120.9999999999995" y="769.9999999999995" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-88" value="其他帅选出来的牛股" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1380" y="160" width="120" height="80" as="geometry" />
@@ -719,6 +715,18 @@
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-270" value="买卖点前后移、确定性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2970" y="730" width="160" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-271" value="一定要给出确定性，否则容易在盘中错失" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="2520" y="960" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-272" value="认知：买点 与 涨跌" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="1590" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-273" value="低吸" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3800" y="740" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-275" value="尾盘先手" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3830" y="580" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
