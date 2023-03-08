@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T14:36:36.665Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ztgYw_WrEG_6uRKtqLcl" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T14:37:53.657Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="GBJJAcQiJrrnkm0ES78j" version="21.0.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="1876" dy="2172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,18 +36,6 @@
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-8" value="模式与工作" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="707" y="430" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-11" value="调整模式" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="240" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-12" value="方式优化" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="400" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-13" value="工具 - 同花顺" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="390" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-14" value="早盘 - 时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-16" value="低吸、追涨模式干扰" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="640" width="120" height="80" as="geometry" />
@@ -94,15 +82,6 @@
         <mxCell id="1Og0T00IHUKX8OhshonG-34" value="复盘深度 - 逻辑、梯度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="860" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Og0T00IHUKX8OhshonG-36" target="1Og0T00IHUKX8OhshonG-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-36" value="轮动太快抓不住" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="390" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-38" value="只取一瓢" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="350" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-41" value="题材" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="830" width="77" height="40" as="geometry" />
         </mxCell>
@@ -139,25 +118,24 @@
         <mxCell id="1Og0T00IHUKX8OhshonG-53" value="比如三花智控&lt;br&gt;弱转强&lt;br&gt;其他没有大单流入却长起来的" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="110" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Og0T00IHUKX8OhshonG-56" target="1Og0T00IHUKX8OhshonG-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Og0T00IHUKX8OhshonG-56" target="1Og0T00IHUKX8OhshonG-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Og0T00IHUKX8OhshonG-56" target="1Og0T00IHUKX8OhshonG-60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Og0T00IHUKX8OhshonG-56" target="1Og0T00IHUKX8OhshonG-61">
+        <mxCell id="1Og0T00IHUKX8OhshonG-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="1Og0T00IHUKX8OhshonG-47">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1360" y="529.9999999999995" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="1Og0T00IHUKX8OhshonG-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1420" y="489.99999999999955" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="1Og0T00IHUKX8OhshonG-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1360" y="529.9999999999995" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="1360" y="650" />
               <mxPoint x="1900" y="650" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-56" value="要盯的票太多" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="450" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-60" value="如果没有过滤，你把全部3000支票都自选没有任何意义，不能赚钱" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="1640" y="450" width="120" height="80" as="geometry" />
@@ -189,22 +167,16 @@
         <mxCell id="1Og0T00IHUKX8OhshonG-73" value="这些小规律 -&amp;nbsp; 小树枝 是否是大枝干，前置条件是什么" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1330" y="90" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Og0T00IHUKX8OhshonG-79" target="1Og0T00IHUKX8OhshonG-80">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-79" value="发现机制" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="340" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Og0T00IHUKX8OhshonG-80">
+        <mxCell id="1Og0T00IHUKX8OhshonG-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1370" y="260" as="targetPoint" />
+            <mxPoint x="1361.0000000000005" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Og0T00IHUKX8OhshonG-80" target="1Og0T00IHUKX8OhshonG-100">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-80" value="跟踪机制" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="280" width="120" height="80" as="geometry" />
+        <mxCell id="1Og0T00IHUKX8OhshonG-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="1Og0T00IHUKX8OhshonG-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1300.9999999999995" y="280" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-82" value="老龙头、老题材" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1380" y="210" width="120" height="80" as="geometry" />
@@ -652,6 +624,9 @@
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-285" value="主线、不要臆想主线结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2520" y="840" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-286" value="模式：切换、补涨、回流" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2870" y="550" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
