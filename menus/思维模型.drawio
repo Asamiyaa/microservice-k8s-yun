@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T00:57:51.745Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="T55tyX5HkDzrAdbAg6xa" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-12T01:04:06.279Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ILknW8hf9r8QwwZ97EHb" version="21.0.2" type="github">
   <diagram name="第 1 页" id="YvtEZz4fDpHej9pVCONi">
     <mxGraphModel dx="2261" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,11 +61,16 @@
         <mxCell id="yrJ8rADurVAFEkHN2O-o-19" value="迁移" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yrJ8rADurVAFEkHN2O-o-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yrJ8rADurVAFEkHN2O-o-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1212" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-20" value="实践" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="1080" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-21" value="复盘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="1070" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yrJ8rADurVAFEkHN2O-o-22" target="yrJ8rADurVAFEkHN2O-o-1">
           <mxGeometry relative="1" as="geometry" />
@@ -74,7 +79,7 @@
           <mxGeometry x="20" y="690" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-24" value="时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="1080" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-26" value="本质" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="860" width="120" height="60" as="geometry" />
@@ -102,6 +107,21 @@
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-33" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;ul style=&quot;margin: 0; padding-left: 23px&quot; class=&quot;ne-ul&quot;&gt;&lt;li id=&quot;uc30e6d70&quot;&gt;对自己的言行举止都是无意识的、凭自己喜好&lt;/li&gt;&lt;li id=&quot;uc17edd8b&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;思考自己为为什么这么做，自我反省的阶段，向内求&lt;/span&gt;&lt;/li&gt;&lt;li id=&quot;u63547b23&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;接受自己的不完美，不与自己对抗、心态平和、情绪稳定、做自己的主人&lt;/span&gt;&lt;/li&gt;&lt;li id=&quot;u4344cce0&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;自我认知和情绪控制、行动执行力变得超强、会管理好自己的心态和时间、自律、有能力用大脑意识控制自己的言行举止、做到知行合一&lt;/span&gt;&lt;/li&gt;&lt;li id=&quot;ubfca6bf3&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;极度专注能力、忘我的境界、个人魅力、领袖的智慧&lt;/span&gt;&lt;/li&gt;&lt;li id=&quot;ucda49014&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;慈悲、造福大众&lt;/span&gt;&lt;/li&gt;&lt;li id=&quot;uc3cded7e&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;自己人生目标、如果你不能解决问题、你就会成为一个问题&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="725" y="760" width="410" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="yrJ8rADurVAFEkHN2O-o-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yrJ8rADurVAFEkHN2O-o-35" target="yrJ8rADurVAFEkHN2O-o-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yrJ8rADurVAFEkHN2O-o-35" value="依据模型拆分目标&lt;br&gt;建立信心、迷惑身体、奖励机制、建立持久性&amp;nbsp; 0-1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yrJ8rADurVAFEkHN2O-o-38" value="正向循环&amp;nbsp; 1-100" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yrJ8rADurVAFEkHN2O-o-39" value="忽视恐惧、直视恐惧" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yrJ8rADurVAFEkHN2O-o-41" value="第二大脑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
