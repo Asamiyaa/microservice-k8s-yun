@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T01:07:39.541Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="eYCTIX5a0413w9_DV25Q" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-12T05:35:48.624Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="go9YPxDZMFGOx0SV_Bgo" version="21.0.2" type="github">
   <diagram name="第 1 页" id="YvtEZz4fDpHej9pVCONi">
-    <mxGraphModel dx="1434" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="150" y="-525" width="770" height="110" as="geometry" />
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="-380" width="770" height="110" as="geometry" />
+          <mxGeometry x="150" y="-390" width="770" height="110" as="geometry" />
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-1" value="学习" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="560" width="120" height="60" as="geometry" />
@@ -28,8 +28,8 @@
         <mxCell id="yrJ8rADurVAFEkHN2O-o-5" value="结构化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-6" value="复杂性思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="yrJ8rADurVAFEkHN2O-o-6" value="复杂性思维 - 跨学科" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-7" value="模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="130" width="120" height="60" as="geometry" />
@@ -64,9 +64,6 @@
         <mxCell id="yrJ8rADurVAFEkHN2O-o-15" value="创造" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="-120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-18" value="复杂性思维 - 跨学科" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-19" value="迁移" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="130" width="120" height="60" as="geometry" />
         </mxCell>
@@ -80,11 +77,6 @@
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yrJ8rADurVAFEkHN2O-o-21" target="yrJ8rADurVAFEkHN2O-o-41">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yrJ8rADurVAFEkHN2O-o-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1130" y="40" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-21" value="复盘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="50" width="120" height="60" as="geometry" />
@@ -108,7 +100,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-28" value="多维度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-30" value="博弈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="10" width="120" height="60" as="geometry" />
@@ -139,6 +131,21 @@
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-41" value="第二大脑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yrJ8rADurVAFEkHN2O-o-47" value="渴望的、待实现的" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yrJ8rADurVAFEkHN2O-o-48" value="多元" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yrJ8rADurVAFEkHN2O-o-49" value="批判" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yrJ8rADurVAFEkHN2O-o-50" value="刻意练习" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yrJ8rADurVAFEkHN2O-o-51" value="强者思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
