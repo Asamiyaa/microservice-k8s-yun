@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-18T03:49:10.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="dc2dwcecBD25nrrpQeDm" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-18T03:59:27.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qBuhgcDxgnePZ4pbcwy_" version="21.0.6" type="github">
   <diagram name="第 1 页" id="WRkzuvnxa5H4VAFc_8VM">
     <mxGraphModel dx="2478" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
           <mxGeometry x="940" y="675" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8MXG3SogPRKCzV0TTgEi-18" value="组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1484.5" y="830" width="70" height="40" as="geometry" />
+          <mxGeometry x="2110" y="866.83" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8MXG3SogPRKCzV0TTgEi-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8MXG3SogPRKCzV0TTgEi-19" target="8MXG3SogPRKCzV0TTgEi-59">
           <mxGeometry relative="1" as="geometry" />
@@ -79,7 +79,7 @@
         <mxCell id="8MXG3SogPRKCzV0TTgEi-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8MXG3SogPRKCzV0TTgEi-20" target="8MXG3SogPRKCzV0TTgEi-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8MXG3SogPRKCzV0TTgEi-20" value="lifeCycle - event" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-20" value="lifeCycle - event&lt;br&gt;模板方法/观察者模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2040" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8MXG3SogPRKCzV0TTgEi-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8MXG3SogPRKCzV0TTgEi-21" target="8MXG3SogPRKCzV0TTgEi-23">
@@ -207,8 +207,17 @@
         <mxCell id="8MXG3SogPRKCzV0TTgEi-68" value="线程安全" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2539" y="630" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8MXG3SogPRKCzV0TTgEi-69" target="8MXG3SogPRKCzV0TTgEi-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8MXG3SogPRKCzV0TTgEi-69" value="mbean" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1850" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-76" value="LifecycleMBeanBase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="528.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-78" value="代码结构、容器打包后结构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="630" width="125" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
