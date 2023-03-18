@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-18T08:34:49.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="BgI42m9vWrwqrqNa6fJ7" version="21.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-18T08:46:16.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="pB61VBysx77j2At-M2n-" version="21.0.7" type="github">
   <diagram name="第 1 页" id="WRkzuvnxa5H4VAFc_8VM">
     <mxGraphModel dx="3221" dy="1233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -299,11 +299,20 @@
         <mxCell id="Fh6s4IiNgFDGtL0QwjYY-20" value="pipleline" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2100" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Fh6s4IiNgFDGtL0QwjYY-21" value="manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Fh6s4IiNgFDGtL0QwjYY-21" value="manager&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2241" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fh6s4IiNgFDGtL0QwjYY-22" value="resouce" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2380" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fh6s4IiNgFDGtL0QwjYY-23" value="session" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2245" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fh6s4IiNgFDGtL0QwjYY-24" value="cluster - lock" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Fh6s4IiNgFDGtL0QwjYY-25" value="firePropertyChange" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
