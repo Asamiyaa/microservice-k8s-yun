@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-18T02:36:29.381Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="jnTN3QFa20CEY3RVGdJ0" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-18T03:25:11.967Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ySkrOwow_hDLZGaPU4Qy" version="21.0.6" type="github">
   <diagram name="第 1 页" id="WRkzuvnxa5H4VAFc_8VM">
     <mxGraphModel dx="2478" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,16 +41,19 @@
           <mxGeometry x="1160" y="830" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8MXG3SogPRKCzV0TTgEi-13" value="jsper" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1694" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="1830" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8MXG3SogPRKCzV0TTgEi-14" value="servlet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="1930" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8MXG3SogPRKCzV0TTgEi-15" target="8MXG3SogPRKCzV0TTgEi-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8MXG3SogPRKCzV0TTgEi-15" value="catalina" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8MXG3SogPRKCzV0TTgEi-16" value="connector" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="1770" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8MXG3SogPRKCzV0TTgEi-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8MXG3SogPRKCzV0TTgEi-17" target="8MXG3SogPRKCzV0TTgEi-26">
           <mxGeometry relative="1" as="geometry" />
@@ -59,10 +62,13 @@
           <mxGeometry x="940" y="675" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8MXG3SogPRKCzV0TTgEi-18" value="组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="756.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1370" y="756.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8MXG3SogPRKCzV0TTgEi-19" target="8MXG3SogPRKCzV0TTgEi-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8MXG3SogPRKCzV0TTgEi-19" value="jmx" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="756.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1540" y="756.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8MXG3SogPRKCzV0TTgEi-20" value="lifeCycle - 事件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1730" y="756.5" width="120" height="60" as="geometry" />
@@ -77,7 +83,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8MXG3SogPRKCzV0TTgEi-22" value="shell - 链接操作系统和容器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="1150" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8MXG3SogPRKCzV0TTgEi-23" value="bootstrap" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="570" width="120" height="60" as="geometry" />
@@ -89,7 +95,72 @@
           <mxGeometry x="1080" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8MXG3SogPRKCzV0TTgEi-29" value="classLocder" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1349" y="470" width="111" height="60" as="geometry" />
+          <mxGeometry x="1189" y="510" width="111" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8MXG3SogPRKCzV0TTgEi-31" target="8MXG3SogPRKCzV0TTgEi-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8MXG3SogPRKCzV0TTgEi-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1490.0000000000005" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-31" value="类加载机制" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1274.5" y="510" width="111" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8MXG3SogPRKCzV0TTgEi-32" target="8MXG3SogPRKCzV0TTgEi-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-32" value="spi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-33" value="contextClassLoader" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-36" value="原因在于一个Tomcat容器允许同时运行多个Web程序，每个Web程序依赖的类又必须是相互隔离的。因此，如果Tomcat使用双亲委派模式来加载类的话，将导致Web程序依赖的类变为共享的。&lt;br&gt;举个例子，假如我们有两个Web程序，一个依赖A库的1.0版本，另一个依赖A库的2.0版本，他们都使用了类xxx.xx.Clazz，其实现的逻辑因类库版本的不同而结构完全不同。那么这两个Web程序的其中一个必然因为加载的Clazz不是所使用的Clazz而出现问题！而这对于开发来说是非常致命的！" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="100" width="380" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-38" value="tomcat打破双亲委派" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1464" y="340" width="111" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-39" value="Common类加载器&lt;br&gt;Catalina类加载器&lt;br&gt;Shared类加载器&lt;br&gt;WebApp类加载器&lt;br&gt;Jsp类加载器" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1389.5" y="20" width="175.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-40" value="细化、分组加载" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8MXG3SogPRKCzV0TTgEi-41" target="8MXG3SogPRKCzV0TTgEi-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-41" value="load" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="265" width="111" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8MXG3SogPRKCzV0TTgEi-42" target="8MXG3SogPRKCzV0TTgEi-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-42" value="initName&lt;br&gt;系统变量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="564" y="265" width="111" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8MXG3SogPRKCzV0TTgEi-44" target="8MXG3SogPRKCzV0TTgEi-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-44" value="server.xml" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="714" y="265" width="111" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8MXG3SogPRKCzV0TTgEi-46" target="8MXG3SogPRKCzV0TTgEi-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-46" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="844" y="265" width="111" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-48" value="stop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="265" width="111" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8MXG3SogPRKCzV0TTgEi-49" target="8MXG3SogPRKCzV0TTgEi-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8MXG3SogPRKCzV0TTgEi-49" value="jvm hook" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="170" width="111" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
