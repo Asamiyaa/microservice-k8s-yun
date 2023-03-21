@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T15:05:01.052Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="5XjDiONyeOA1ybKd9MGm" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-21T15:56:51.304Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="CNlmVuiar4nRTgjiSNHk" version="21.0.6" type="github">
   <diagram name="第 1 页" id="l9BL36nRIR9fdoTfFBKx">
     <mxGraphModel dx="1816" dy="553" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -317,7 +317,7 @@
           <mxGeometry x="537.5" y="513.5" width="51" height="14" as="geometry" />
         </mxCell>
         <mxCell id="Zzp69oGnX2fRZWl2nO-K-9" value="通信" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="542" y="611" width="51" height="14" as="geometry" />
+          <mxGeometry x="418.5" y="774.05" width="51" height="14" as="geometry" />
         </mxCell>
         <mxCell id="Zzp69oGnX2fRZWl2nO-K-14" value="环保" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="296" y="643" width="51" height="14" as="geometry" />
@@ -353,13 +353,13 @@
           <mxGeometry x="65.25" y="670" width="51" height="14" as="geometry" />
         </mxCell>
         <mxCell id="XXN6C53Bc0j_rz31wx1f-21" value="一带一路" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470.5" y="596" width="51" height="14" as="geometry" />
+          <mxGeometry x="347" y="759.05" width="51" height="14" as="geometry" />
         </mxCell>
         <mxCell id="XXN6C53Bc0j_rz31wx1f-22" value="水泥建材" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="524.5" y="596" width="51" height="14" as="geometry" />
+          <mxGeometry x="401" y="759.05" width="51" height="14" as="geometry" />
         </mxCell>
         <mxCell id="XXN6C53Bc0j_rz31wx1f-23" value="采掘" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="577.5" y="596" width="51" height="14" as="geometry" />
+          <mxGeometry x="454" y="759.05" width="51" height="14" as="geometry" />
         </mxCell>
         <mxCell id="gRleUjjxdaPF8eS5uhaW-5" value="半导体、cpo、光学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="721.25" y="694" width="51" height="14" as="geometry" />
@@ -405,6 +405,15 @@
         </mxCell>
         <mxCell id="gRleUjjxdaPF8eS5uhaW-23" value="电力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="352.25" y="368" width="51" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="gRleUjjxdaPF8eS5uhaW-24" value="传媒" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401" y="368" width="51" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="gRleUjjxdaPF8eS5uhaW-26" value="平台经济" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="236.5" y="414" width="51" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="gRleUjjxdaPF8eS5uhaW-27" value="教育" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="596" width="51" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
