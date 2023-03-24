@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T00:18:29.387Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="eLZ0jtn9BLgvw2roz8Rk" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T00:18:47.637Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ggUmuVlMY7FqmJ7kdhZw" version="21.0.8" type="github">
   <diagram name="第 1 页" id="l9BL36nRIR9fdoTfFBKx">
     <mxGraphModel dx="2022" dy="668" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -426,6 +426,9 @@
         </mxCell>
         <mxCell id="npilsteuiLgX_hj1tI6D-7" value="电子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="187.5" y="382" width="51" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="npilsteuiLgX_hj1tI6D-8" value="电力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="181" y="482" width="51" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
