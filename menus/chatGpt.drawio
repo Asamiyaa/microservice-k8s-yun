@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-25T04:37:09.301Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="HH89MA1rW26L0B51sAxl" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-25T04:38:27.290Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="wrUKuObUqv2sHsbwgeVN" version="21.1.0" type="github">
   <diagram name="第 1 页" id="GRDvZaboTSoRFHHBoFmb">
     <mxGraphModel dx="4412" dy="3174" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -102,7 +102,7 @@
         <mxCell id="XuNIK-hLuB95dvQplZHj-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="383" y="2949" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XuNIK-hLuB95dvQplZHj-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XuNIK-hLuB95dvQplZHj-9" value="冥想" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="201" y="2935" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XuNIK-hLuB95dvQplZHj-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -253,6 +253,21 @@
         </mxCell>
         <mxCell id="XuNIK-hLuB95dvQplZHj-63" value="效能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1519" y="3697" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuNIK-hLuB95dvQplZHj-64" value="快乐" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="904" y="3670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuNIK-hLuB95dvQplZHj-65" value="机遇" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="3432" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuNIK-hLuB95dvQplZHj-66" value="杠杆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2058" y="3432" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuNIK-hLuB95dvQplZHj-67" value="自我" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-91" y="3684" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuNIK-hLuB95dvQplZHj-68" value="判断、决策" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-78" y="3432" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
