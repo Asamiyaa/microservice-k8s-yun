@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-25T04:55:36.238Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="SQ1kLSkVGBR1uBtgmYXp" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-25T04:56:17.900Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="0-clYIrzil18b0YZud9i" version="21.1.0" type="github">
   <diagram name="第 1 页" id="GRDvZaboTSoRFHHBoFmb">
-    <mxGraphModel dx="3695" dy="1604" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2876" dy="1146" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -219,7 +219,7 @@
         <mxCell id="XuNIK-hLuB95dvQplZHj-66" value="杠杆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2058" y="3432" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XuNIK-hLuB95dvQplZHj-67" value="自我" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XuNIK-hLuB95dvQplZHj-67" value="直面自我 - 感知 - 实现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-91" y="3684" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XuNIK-hLuB95dvQplZHj-68" value="判断、决策" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
