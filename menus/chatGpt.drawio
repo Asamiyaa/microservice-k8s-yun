@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-25T04:26:34.087Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="z8PM0pChG0S_m3dlNvZX" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-25T04:30:04.333Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="RyrjM6e7UrNwLGiziHGQ" version="21.1.0" type="github">
   <diagram name="第 1 页" id="GRDvZaboTSoRFHHBoFmb">
-    <mxGraphModel dx="3217" dy="1337" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3217" dy="2506" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,66 +20,66 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="baQ6zyngYYexwskYTPrT-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="215" y="77" width="560" height="220" as="geometry" />
+          <mxGeometry x="360" y="-413" width="560" height="220" as="geometry" />
         </mxCell>
         <mxCell id="baQ6zyngYYexwskYTPrT-1" value="Liner" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="200" width="120" height="80" as="geometry" />
+          <mxGeometry x="485" y="-290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="baQ6zyngYYexwskYTPrT-2" value="备忘录" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="200" width="120" height="80" as="geometry" />
+          <mxGeometry x="645" y="-290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="baQ6zyngYYexwskYTPrT-3" value="B站" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="110" width="120" height="80" as="geometry" />
+          <mxGeometry x="405" y="-380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="baQ6zyngYYexwskYTPrT-4" value="今日头条" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="110" width="120" height="80" as="geometry" />
+          <mxGeometry x="565" y="-380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="baQ6zyngYYexwskYTPrT-5" value="知乎" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="110" width="120" height="80" as="geometry" />
+          <mxGeometry x="725" y="-380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bm8FblEBwML37TJQLxAh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Bm8FblEBwML37TJQLxAh-1" target="Bm8FblEBwML37TJQLxAh-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bm8FblEBwML37TJQLxAh-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="215" y="376" width="560" height="124" as="geometry" />
+          <mxGeometry x="360" y="-114" width="560" height="124" as="geometry" />
         </mxCell>
         <mxCell id="Bm8FblEBwML37TJQLxAh-2" value="加" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="170" y="50" width="60" height="30" as="geometry" />
+          <mxGeometry x="315" y="-440" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bm8FblEBwML37TJQLxAh-3" value="减 - 除" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="180" y="350" width="60" height="30" as="geometry" />
+          <mxGeometry x="325" y="-140" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bm8FblEBwML37TJQLxAh-4" value="drawio" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="275" y="400" width="120" height="80" as="geometry" />
+          <mxGeometry x="420" y="-90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bm8FblEBwML37TJQLxAh-5" value="语雀" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="415" y="400" width="120" height="80" as="geometry" />
+          <mxGeometry x="560" y="-90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bm8FblEBwML37TJQLxAh-6" value="chatGpt" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="555" y="400" width="120" height="80" as="geometry" />
+          <mxGeometry x="700" y="-90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bm8FblEBwML37TJQLxAh-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Bm8FblEBwML37TJQLxAh-12" target="baQ6zyngYYexwskYTPrT-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="40" y="680" />
-              <mxPoint x="40" y="190" />
+              <mxPoint x="185" y="190" />
+              <mxPoint x="185" y="-300" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Bm8FblEBwML37TJQLxAh-12" value="工作- 生活" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="435" y="636" width="120" height="80" as="geometry" />
+          <mxGeometry x="580" y="146" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bm8FblEBwML37TJQLxAh-14" value="乘" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="470" y="570" width="60" height="30" as="geometry" />
+          <mxGeometry x="615" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bm8FblEBwML37TJQLxAh-18" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="380" y="380" width="60" height="30" as="geometry" />
+          <mxGeometry x="525" y="-110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bm8FblEBwML37TJQLxAh-19" value="复盘 - 思考" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="400" width="70" height="30" as="geometry" />
+          <mxGeometry x="185" y="-90" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bm8FblEBwML37TJQLxAh-20" value="NotionAi" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="648" y="400" width="120" height="80" as="geometry" />
+          <mxGeometry x="793" y="-90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XuNIK-hLuB95dvQplZHj-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="772" y="1316" width="120" height="60" as="geometry" />
@@ -108,8 +108,8 @@
         <mxCell id="XuNIK-hLuB95dvQplZHj-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="26" y="1384" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XuNIK-hLuB95dvQplZHj-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="1136" width="120" height="60" as="geometry" />
+        <mxCell id="XuNIK-hLuB95dvQplZHj-12" value="复盘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1072" y="1151" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XuNIK-hLuB95dvQplZHj-14" value="周" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="1070" width="120" height="60" as="geometry" />
@@ -119,6 +119,45 @@
         </mxCell>
         <mxCell id="XuNIK-hLuB95dvQplZHj-18" value="年" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1569" y="907" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuNIK-hLuB95dvQplZHj-19" value="日" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1151" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuNIK-hLuB95dvQplZHj-20" value="体检" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1077" y="952" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuNIK-hLuB95dvQplZHj-21" value="冬季保暖" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1497" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuNIK-hLuB95dvQplZHj-23" value="计划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1077" y="1238" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuNIK-hLuB95dvQplZHj-24" value="认知层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="1724" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuNIK-hLuB95dvQplZHj-25" value="习惯层 -潜意识层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-316" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuNIK-hLuB95dvQplZHj-26" value="刻意练习层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-301" y="322" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuNIK-hLuB95dvQplZHj-27" value="工具" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-201" y="832" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuNIK-hLuB95dvQplZHj-28" value="第二大脑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="172" y="825" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuNIK-hLuB95dvQplZHj-29" value="ai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="397" y="825" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuNIK-hLuB95dvQplZHj-30" value="google地球" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="649" y="825" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuNIK-hLuB95dvQplZHj-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-153" y="325" width="1870" height="497" as="geometry" />
+        </mxCell>
+        <mxCell id="XuNIK-hLuB95dvQplZHj-32" value="三叉戟" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="649" y="464" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
