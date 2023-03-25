@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-25T04:54:33.992Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="tMPbA3MxNOnBv6XW1j8T" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-25T04:55:36.238Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="SQ1kLSkVGBR1uBtgmYXp" version="21.1.0" type="github">
   <diagram name="第 1 页" id="GRDvZaboTSoRFHHBoFmb">
     <mxGraphModel dx="3695" dy="1604" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -254,6 +254,15 @@
         </mxCell>
         <mxCell id="XuNIK-hLuB95dvQplZHj-81" value="每个点都有摘要表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="685" y="2372" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuNIK-hLuB95dvQplZHj-82" value="稳定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="3687" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuNIK-hLuB95dvQplZHj-83" value="持续" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1858" y="3684" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuNIK-hLuB95dvQplZHj-84" value="时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2054" y="3687" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
