@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-03-25T04:43:46.975Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="LPWFu9v_EclwZ-s223nc" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-25T04:46:40.557Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="oFJZSVzzspCgGTlBDTdO" version="21.1.0" type="github">
   <diagram name="第 1 页" id="GRDvZaboTSoRFHHBoFmb">
     <mxGraphModel dx="3217" dy="2506" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XuNIK-hLuB95dvQplZHj-49" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-148" y="767" width="1870" height="497" as="geometry" />
+        </mxCell>
         <mxCell id="XuNIK-hLuB95dvQplZHj-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-269" y="2490" width="2031" height="730" as="geometry" />
         </mxCell>
@@ -22,20 +25,17 @@
         <mxCell id="baQ6zyngYYexwskYTPrT-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="-413" width="560" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="baQ6zyngYYexwskYTPrT-1" value="Liner" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="485" y="-290" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="baQ6zyngYYexwskYTPrT-2" value="备忘录" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="645" y="-290" width="120" height="80" as="geometry" />
+          <mxGeometry x="1500" y="826" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="baQ6zyngYYexwskYTPrT-3" value="B站" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="405" y="-380" width="120" height="80" as="geometry" />
+          <mxGeometry x="961" y="834" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="baQ6zyngYYexwskYTPrT-4" value="今日头条" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="565" y="-380" width="120" height="80" as="geometry" />
+          <mxGeometry x="1084" y="839" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="baQ6zyngYYexwskYTPrT-5" value="知乎" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="725" y="-380" width="120" height="80" as="geometry" />
+          <mxGeometry x="1195" y="839" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bm8FblEBwML37TJQLxAh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Bm8FblEBwML37TJQLxAh-1" target="Bm8FblEBwML37TJQLxAh-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -142,7 +142,7 @@
           <mxGeometry x="-375" y="1877" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XuNIK-hLuB95dvQplZHj-27" value="工具" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-198" y="2379" width="120" height="60" as="geometry" />
+          <mxGeometry x="-310" y="2372" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XuNIK-hLuB95dvQplZHj-28" value="第二大脑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="2372" width="120" height="60" as="geometry" />
@@ -218,9 +218,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XuNIK-hLuB95dvQplZHj-49" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-148" y="767" width="1870" height="497" as="geometry" />
-        </mxCell>
         <mxCell id="XuNIK-hLuB95dvQplZHj-50" value="来源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="797" width="120" height="60" as="geometry" />
         </mxCell>
@@ -280,6 +277,9 @@
         </mxCell>
         <mxCell id="XuNIK-hLuB95dvQplZHj-72" value="人脉" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="1608" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuNIK-hLuB95dvQplZHj-73" value="灵感" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1391" y="834" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
