@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-26T02:25:46.829Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="WToaCqljC5mqojVR_v2R" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-26T02:26:34.264Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="AG6GNSm1oS8f9MPEEVKj" version="21.1.0" type="github">
   <diagram name="第 1 页" id="GRDvZaboTSoRFHHBoFmb">
     <mxGraphModel dx="3217" dy="1337" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -152,7 +152,7 @@
           <mxGeometry x="-185" y="1839" width="1870" height="497" as="geometry" />
         </mxCell>
         <mxCell id="XuNIK-hLuB95dvQplZHj-32" value="三叉戟" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="2141" width="120" height="60" as="geometry" />
+          <mxGeometry x="715" y="2141" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XuNIK-hLuB95dvQplZHj-35" value="完成 、下沉到潜意识层" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1836" y="2213" width="120" height="80" as="geometry" />
@@ -208,7 +208,7 @@
           <mxGeometry x="813" y="887" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XuNIK-hLuB95dvQplZHj-52" value="闹钟" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="399" y="2360" width="120" height="60" as="geometry" />
+          <mxGeometry x="424" y="2370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XuNIK-hLuB95dvQplZHj-56" value="专家" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="57" y="3432" width="120" height="60" as="geometry" />
@@ -250,13 +250,13 @@
           <mxGeometry x="-106" y="3429" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XuNIK-hLuB95dvQplZHj-69" value="工作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="247" y="1969" width="120" height="60" as="geometry" />
+          <mxGeometry x="237.5" y="1994" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XuNIK-hLuB95dvQplZHj-70" value="健康" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="686.5" y="1994" width="120" height="60" as="geometry" />
+          <mxGeometry x="715" y="1994" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XuNIK-hLuB95dvQplZHj-71" value="投资" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="1989" width="120" height="60" as="geometry" />
+          <mxGeometry x="1090" y="1994" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XuNIK-hLuB95dvQplZHj-72" value="人脉" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="1608" width="120" height="60" as="geometry" />
@@ -277,7 +277,7 @@
           <mxGeometry x="2058" y="981" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XuNIK-hLuB95dvQplZHj-81" value="每个点都有摘要表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="685" y="2372" width="120" height="60" as="geometry" />
+          <mxGeometry x="662" y="2365" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XuNIK-hLuB95dvQplZHj-82" value="稳定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1152" y="3749" width="120" height="60" as="geometry" />
@@ -313,7 +313,7 @@
           <mxGeometry x="1500" y="1645" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XuNIK-hLuB95dvQplZHj-95" value="自信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="686.5" y="1854" width="120" height="60" as="geometry" />
+          <mxGeometry x="712" y="1851" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XuNIK-hLuB95dvQplZHj-96" value="podcast" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1068" y="887" width="120" height="80" as="geometry" />
@@ -332,6 +332,9 @@
         </mxCell>
         <mxCell id="XuNIK-hLuB95dvQplZHj-109" value="月调整 - 重要性提位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1485" y="2895" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuNIK-hLuB95dvQplZHj-110" value="平衡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="872" y="1851" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
