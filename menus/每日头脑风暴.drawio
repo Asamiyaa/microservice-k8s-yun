@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T15:07:04.370Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="recIgIPb_6Ws0Y0jGURz" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T15:10:21.710Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="vrJBoCJF1RgiDgOyiOim" version="21.1.0" type="github">
   <diagram name="第 1 页" id="l9BL36nRIR9fdoTfFBKx">
     <mxGraphModel dx="2022" dy="668" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -471,6 +471,9 @@
         </mxCell>
         <mxCell id="HsM6ULDwcT85an__3Mdc-36" value="矿业" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="96.13" y="576" width="51" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="HsM6ULDwcT85an__3Mdc-37" value="通信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="571" width="51" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
