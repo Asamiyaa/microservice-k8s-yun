@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T22:39:07.163Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="e-h_l347apGaprLmSlYE" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T22:40:34.515Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="nr8cWq-ZNz4wNtQPyX9L" version="21.1.0" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="2049" dy="2315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,8 +82,11 @@
         <mxCell id="1Og0T00IHUKX8OhshonG-146" value="招无定型？自己能cover吗？" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="3190" y="980" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-149" value="均线粘合" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2065" y="1310" width="120" height="80" as="geometry" />
+        <mxCell id="NQBf1nkuupkm0rPEutWS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.599;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1Og0T00IHUKX8OhshonG-149" target="1Og0T00IHUKX8OhshonG-240">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Og0T00IHUKX8OhshonG-149" value="设置预警" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2260" y="510" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1Og0T00IHUKX8OhshonG-151" target="1Og0T00IHUKX8OhshonG-152" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -595,6 +598,15 @@
         </mxCell>
         <mxCell id="NQBf1nkuupkm0rPEutWS-2" value="1.与预判相同、加仓、&lt;br&gt;2.与预判不同、止损，保证持股干净、&lt;br&gt;3.持续跟踪、板块效应、与自选取交集" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4062" y="650" width="170" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="NQBf1nkuupkm0rPEutWS-5" value="条件选股" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="1240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NQBf1nkuupkm0rPEutWS-6" value="图形选股" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="1305" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NQBf1nkuupkm0rPEutWS-7" value="智能选股" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="1380" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
