@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T23:43:46.494Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="NyLzRz9uS_z5ZkjPPlxV" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T23:45:54.317Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="vrpJPfaBneehAy9ZI2-m" version="21.1.0" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
-    <mxGraphModel dx="1687" dy="2113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="2315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -616,6 +616,14 @@
         </mxCell>
         <mxCell id="huEp6K7DU2roM0hbO_7R-1" value="执念：&lt;br&gt;0.断点看盘对情绪感知 应该假设连续性 而不是害怕。比如大盘的变化、情绪弱转强 。不要执念下午不买等&lt;br&gt;1.对大单太看重忽略启动的票、逻辑" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4372" y="410" width="398" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="huEp6K7DU2roM0hbO_7R-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="huEp6K7DU2roM0hbO_7R-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3490" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="huEp6K7DU2roM0hbO_7R-3" value="如何解决开盘后,看的东西多、票来源(同花顺条件选择单... 自己筛选的等)、上班时间没办法看盘、分时看的不完全，不能及时跟踪的问题！！！" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3490" y="320" width="490" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
