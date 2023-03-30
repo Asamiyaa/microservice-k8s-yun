@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T23:46:27.290Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="cAVJs1FY47iZefu1113X" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T00:02:44.058Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="HIaLJ38pr_S1fLM7t1HV" version="21.1.0" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="2049" dy="2315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -624,6 +624,9 @@
         </mxCell>
         <mxCell id="huEp6K7DU2roM0hbO_7R-3" value="如何解决开盘后,看的东西多、票来源(同花顺条件选择单... 自己筛选的等)、上班时间没办法看盘、分时看的不完全，不能及时跟踪的问题！！！" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3490" y="320" width="490" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="huEp6K7DU2roM0hbO_7R-5" value="板块指数 = 核心" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="3755" y="390" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
