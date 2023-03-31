@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T00:06:25.245Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="dkIiifPycu2m1f0rSQrh" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T12:26:42.785Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="7dYziGFtr3q20OrwyQ5H" version="21.1.0" type="github">
   <diagram name="第 1 页" id="l9BL36nRIR9fdoTfFBKx">
     <mxGraphModel dx="1816" dy="553" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -482,7 +482,7 @@
           <mxGeometry x="-235.13" y="360" width="51" height="14" as="geometry" />
         </mxCell>
         <mxCell id="Jbk-rIfwxEQfwtJiNawk-1" value="港口、航运" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="119" y="528" width="51" height="14" as="geometry" />
+          <mxGeometry x="91.5" y="621" width="51" height="14" as="geometry" />
         </mxCell>
         <mxCell id="Jbk-rIfwxEQfwtJiNawk-2" value="6G" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="532.75" y="548" width="51" height="14" as="geometry" />
@@ -498,6 +498,27 @@
         </mxCell>
         <mxCell id="Jbk-rIfwxEQfwtJiNawk-16" value="旅游" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="242.25" y="460" width="51" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="CUl5ohKdk7q4vB6TEPrS-6" value="家电" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="460" width="51" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="CUl5ohKdk7q4vB6TEPrS-7" value="煤炭" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="231.5" y="488" width="51" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="CUl5ohKdk7q4vB6TEPrS-8" value="光伏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="209.25" y="517.75" width="51" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="CUl5ohKdk7q4vB6TEPrS-9" value="风电" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="269" y="514.75" width="51" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="CUl5ohKdk7q4vB6TEPrS-10" value="白酒" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="152" y="460" width="51" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="CUl5ohKdk7q4vB6TEPrS-11" value="农牧" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="184.25" y="488" width="51" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="CUl5ohKdk7q4vB6TEPrS-12" value="芯片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="446" y="385" width="51" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
