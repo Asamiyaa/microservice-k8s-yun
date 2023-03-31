@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T23:19:06.759Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="NnKWJjowRH1UI2jf6YZC" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T00:06:25.245Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="dkIiifPycu2m1f0rSQrh" version="21.1.0" type="github">
   <diagram name="第 1 页" id="l9BL36nRIR9fdoTfFBKx">
     <mxGraphModel dx="1816" dy="553" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -374,7 +374,7 @@
           <mxGeometry x="-82.75" y="620" width="51" height="14" as="geometry" />
         </mxCell>
         <mxCell id="gRleUjjxdaPF8eS5uhaW-11" value="商品食品" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-192" y="534.75" width="51" height="14" as="geometry" />
+          <mxGeometry x="252" y="412" width="51" height="14" as="geometry" />
         </mxCell>
         <mxCell id="gRleUjjxdaPF8eS5uhaW-12" value="非交运" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-90.75" y="528.75" width="51" height="14" as="geometry" />
@@ -473,7 +473,7 @@
           <mxGeometry x="-282" y="347" width="51" height="14" as="geometry" />
         </mxCell>
         <mxCell id="HsM6ULDwcT85an__3Mdc-37" value="通信" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240.5" y="528" width="51" height="14" as="geometry" />
+          <mxGeometry x="585.5" y="548" width="51" height="14" as="geometry" />
         </mxCell>
         <mxCell id="HsM6ULDwcT85an__3Mdc-38" value="石油" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-282" y="361" width="51" height="14" as="geometry" />
@@ -481,28 +481,23 @@
         <mxCell id="HsM6ULDwcT85an__3Mdc-39" value="石化" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-235.13" y="360" width="51" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="Jbk-rIfwxEQfwtJiNawk-1" value="港口、航运" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Jbk-rIfwxEQfwtJiNawk-1" value="港口、航运" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="119" y="528" width="51" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="Jbk-rIfwxEQfwtJiNawk-2" value="6G" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="195.5" y="528" width="51" height="14" as="geometry" />
+        <mxCell id="Jbk-rIfwxEQfwtJiNawk-2" value="6G" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="532.75" y="548" width="51" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="Jbk-rIfwxEQfwtJiNawk-9" value="半导体 - cpo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="229" y="423" width="51" height="14" as="geometry" />
+        <mxCell id="Jbk-rIfwxEQfwtJiNawk-9" value="半导体 - cpo" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-124.75" y="412" width="51" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="Jbk-rIfwxEQfwtJiNawk-13" value="机场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="116.25" y="565" width="51" height="14" as="geometry" />
+        <mxCell id="Jbk-rIfwxEQfwtJiNawk-13" value="机场" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="198.5" y="460" width="51" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="Jbk-rIfwxEQfwtJiNawk-14" value="一体化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Jbk-rIfwxEQfwtJiNawk-14" value="一体化" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="206.75" y="562" width="51" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="Jbk-rIfwxEQfwtJiNawk-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Jbk-rIfwxEQfwtJiNawk-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="271" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Jbk-rIfwxEQfwtJiNawk-16" value="旅游" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="565" width="51" height="14" as="geometry" />
+        <mxCell id="Jbk-rIfwxEQfwtJiNawk-16" value="旅游" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="242.25" y="460" width="51" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
