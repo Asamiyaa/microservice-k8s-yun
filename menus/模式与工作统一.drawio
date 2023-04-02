@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T00:12:29.782Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="l3n9Yq-BT1yhFqyseGZW" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-02T08:24:55.887Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="B8jI3W2pUcvLjwlW9ysT" version="21.1.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
-    <mxGraphModel dx="2390" dy="2506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -222,7 +222,7 @@
         <mxCell id="1Og0T00IHUKX8OhshonG-230" value="热点池，近期龙头" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3070" y="1010" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-231" value="红黄" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="1Og0T00IHUKX8OhshonG-231" value="红黄" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="4430" y="800" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-232" value="macd" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -259,7 +259,7 @@
           <mxGeometry x="3450" y="780" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-245" value="仓位" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5060" y="755" width="120" height="80" as="geometry" />
+          <mxGeometry x="5510" y="755" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-246" value="分时" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2490" y="1270" width="90" height="50" as="geometry" />
@@ -611,28 +611,40 @@
         <mxCell id="NQBf1nkuupkm0rPEutWS-8" value="大盘情绪、强弱、演化" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4080" y="525" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="huEp6K7DU2roM0hbO_7R-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.383;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="huEp6K7DU2roM0hbO_7R-1" target="1Og0T00IHUKX8OhshonG-296">
+        <mxCell id="huEp6K7DU2roM0hbO_7R-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.383;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="huEp6K7DU2roM0hbO_7R-1" target="1Og0T00IHUKX8OhshonG-296" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="huEp6K7DU2roM0hbO_7R-1" value="执念：&lt;br&gt;0.断点看盘对情绪感知 应该假设连续性 而不是害怕。比如大盘的变化、情绪弱转强 。不要执念下午不买等&lt;br&gt;1.对大单太看重忽略启动的票、逻辑" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="huEp6K7DU2roM0hbO_7R-1" value="执念：&lt;br&gt;0.断点看盘对情绪感知 应该假设连续性 而不是害怕。比如大盘的变化、情绪弱转强 。不要执念下午不买等&lt;br&gt;1.对大单太看重忽略启动的票、逻辑" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="4372" y="410" width="398" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="huEp6K7DU2roM0hbO_7R-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="huEp6K7DU2roM0hbO_7R-3">
+        <mxCell id="huEp6K7DU2roM0hbO_7R-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="huEp6K7DU2roM0hbO_7R-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3490" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="huEp6K7DU2roM0hbO_7R-3" value="如何解决开盘后,看的东西多、票来源(同花顺条件选择单... 自己筛选的等)、上班时间没办法看盘、分时看的不完全，不能及时跟踪的问题！！！" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="huEp6K7DU2roM0hbO_7R-3" value="如何解决开盘后,看的东西多、票来源(同花顺条件选择单... 自己筛选的等)、上班时间没办法看盘、分时看的不完全，不能及时跟踪的问题！！！" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="3490" y="320" width="490" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="huEp6K7DU2roM0hbO_7R-5" value="板块指数 = 核心" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="huEp6K7DU2roM0hbO_7R-5" value="板块指数 = 核心" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="3755" y="390" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="huEp6K7DU2roM0hbO_7R-6" value="不能灵活应变计划与盘面" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="huEp6K7DU2roM0hbO_7R-6" value="不能灵活应变计划与盘面" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="3850" y="390" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="huEp6K7DU2roM0hbO_7R-7" value="梯度" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="huEp6K7DU2roM0hbO_7R-7" value="梯度" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="3952" y="390" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMRBw58vfzprmhvN6ts3-1" value="如何盯到满足条件到达票" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5090" y="555" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMRBw58vfzprmhvN6ts3-2" value="弱转强" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5090" y="630" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMRBw58vfzprmhvN6ts3-3" value="承接" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5090" y="705" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMRBw58vfzprmhvN6ts3-4" value="资金潜伏 --&amp;gt; 资金启动" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="1180" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
