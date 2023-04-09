@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-09T01:24:33.544Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Oq8RzZ__NVCsRiLGzCka" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-09T01:26:35.471Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="R0CjHuqw0nODMPwYpirD" version="21.1.5" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="989" dy="2785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -691,10 +691,10 @@
         <mxCell id="zyEnr8aLNKl9iEY24u73-10" value="1.趋势性下跌&lt;br&gt;2.区间震荡向下突破&lt;br&gt;3.加速&lt;br&gt;如果处于这三种位置，不管基本面多好，逻辑多强，都要回避" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="3287" y="-820" width="310" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-11" value="计划买入的股，有没有出现需要回避的情形" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-11" value="当前符合买点吗？&lt;br&gt;如果符合，符合哪一类买点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3161" y="-690" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-12" value="1.趋势性下跌&lt;br&gt;2.区间震荡向下突破&lt;br&gt;3.加速&lt;br&gt;如果处于这三种位置，不管基本面多好，逻辑多强，都要回避" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-12" value="再好的股，再强的逻辑，也要等待正确的买点介入，否则，也有可能亏钱&lt;br&gt;要严格执行纪律，再好的股，符合买点才买，如果不符合买点，就要耐心等待买点出现而不是强行交易" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="3290" y="-690" width="310" height="70" as="geometry" />
         </mxCell>
       </root>
