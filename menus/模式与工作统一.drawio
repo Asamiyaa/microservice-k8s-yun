@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-09T01:43:49.581Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="wVmvwXfbZs7e4PwpUKp7" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-09T01:46:37.302Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="mY8AMSncWrM5WySxQ0Mf" version="21.1.5" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="1175" dy="2869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -737,7 +737,7 @@
           <mxGeometry x="4200" y="-1720" width="340" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-26" value="人性是什么" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4700" y="-1760" width="180" height="87" as="geometry" />
+          <mxGeometry x="4710" y="-1760" width="180" height="87" as="geometry" />
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-27" value="恐惧贪婪&lt;br&gt;侥幸心理&lt;br&gt;优柔寡断&lt;br&gt;急功近利" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4860" y="-1780" width="180" height="87" as="geometry" />
@@ -751,8 +751,20 @@
         <mxCell id="zyEnr8aLNKl9iEY24u73-30" value="操盘节奏、仓位风控" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4209" y="-1570" width="340" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-31" value="反复买点、仓位风控、不意淫不后悔" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-31" value="反复买点、仓位风控、不意淫不后悔&lt;br&gt;分仓滚动，快进快出" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4549" y="-1550" width="180" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-32" value="重复" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4850" y="-1520" width="180" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-33" value="心智磨炼" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4220" y="-1400" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-34" value="&lt;div&gt;怎么战胜对手？&lt;/div&gt;&lt;div&gt;那就是找到最晚的刹车点，&lt;/div&gt;&lt;div&gt;找到轮胎摩擦力的极限，&lt;/div&gt;&lt;div&gt;找到你自我能力的边界&lt;/div&gt;&lt;div&gt;然后把你眼前的每一个弯都过好。&lt;/div&gt;&lt;div&gt;这不是驾驶的技术，&lt;/div&gt;&lt;div&gt;这是驾驶的艺术&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4570" y="-1400" width="290" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-35" value="&lt;div&gt;模式要解决的问题就是：&lt;/div&gt;&lt;div&gt;1、谨防认知外的冲动交易，&lt;/div&gt;&lt;div&gt;计划外交易是大亏的源泉。&lt;/div&gt;&lt;div&gt;2、进退有据，不要买入之后意淫&lt;/div&gt;&lt;div&gt;卖飞了就后悔。&lt;/div&gt;&lt;div&gt;3、成功率和盈亏比先解决一个，&lt;/div&gt;&lt;div&gt;在优化另一个&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4372" y="-2020" width="400" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
