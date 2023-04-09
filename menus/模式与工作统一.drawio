@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-09T01:26:35.471Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="R0CjHuqw0nODMPwYpirD" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-09T01:34:34.124Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="pXuF9tOQw_79lyWCXi0t" version="21.1.5" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
-    <mxGraphModel dx="989" dy="2785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1175" dy="2869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -662,40 +662,55 @@
           <mxGeometry x="5510" y="687.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-1" value="主线方向是不是清晰" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3135" y="-1200" width="120" height="80" as="geometry" />
+          <mxGeometry x="3143" y="-1660" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-2" value="1.上升趋势的任何位置(明显加速后除外)&lt;br&gt;2.下降趋势出现底部反转信号&lt;br&gt;3.明显的恐慌之后&lt;br&gt;4.区间震荡，在区间底部获得支撑的时候" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="3264" y="-1310" width="300" height="60" as="geometry" />
+          <mxGeometry x="3272" y="-1770" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-3" value="大盘是属于适合做交易的环境吗" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3134" y="-1310" width="120" height="80" as="geometry" />
+          <mxGeometry x="3142" y="-1770" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-4" value="1.识别市场是不是有清晰的主线，如果有，就只做主线的趋势性行情&lt;br&gt;2.如果没有可以控仓休息，或者在控制仓位的前提下选择性的做强逻辑方向的区间震荡或者底部反转等其他模式" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="3264" y="-1190" width="300" height="60" as="geometry" />
+          <mxGeometry x="3272" y="-1650" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-5" value="计划买入的股逻辑够不够强" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3141" y="-1060" width="120" height="80" as="geometry" />
+          <mxGeometry x="3149" y="-1520" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-6" value="1.计划买入的股是基本面强劲的，有逻辑支撑的，还是纯粹的市场博弈&lt;br&gt;2.是不是属于赛道龙头、超级业绩、动量主线、有没有机构或者北上资金加持&lt;br&gt;3.坚决回避没有逻辑支撑的垃圾股、以及流动性很差的股" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="3270" y="-1060" width="310" height="70" as="geometry" />
+          <mxGeometry x="3278" y="-1520" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-7" value="计划买入的股，逻辑是否不是得到走势印证" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3150" y="-950" width="120" height="80" as="geometry" />
+          <mxGeometry x="3158" y="-1410" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-8" value="1.逻辑再强，如果市场不认可，就是自己的一厢情愿&lt;br&gt;2.计划买入的股，最好是处于清晰的上升趋势(明显的加速除外)，这是优选，但是，由于清晰的上升趋势很少，我们至少要求处于基底位置(区间震荡)，这是次选&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="3279" y="-950" width="310" height="70" as="geometry" />
+          <mxGeometry x="3287" y="-1410" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-9" value="计划买入的股，有没有出现需要回避的情形" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3158" y="-820" width="120" height="80" as="geometry" />
+          <mxGeometry x="3166" y="-1280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-10" value="1.趋势性下跌&lt;br&gt;2.区间震荡向下突破&lt;br&gt;3.加速&lt;br&gt;如果处于这三种位置，不管基本面多好，逻辑多强，都要回避" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="3287" y="-820" width="310" height="70" as="geometry" />
+          <mxGeometry x="3295" y="-1280" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-11" value="当前符合买点吗？&lt;br&gt;如果符合，符合哪一类买点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3161" y="-690" width="120" height="80" as="geometry" />
+          <mxGeometry x="3169" y="-1150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-12" value="再好的股，再强的逻辑，也要等待正确的买点介入，否则，也有可能亏钱&lt;br&gt;要严格执行纪律，再好的股，符合买点才买，如果不符合买点，就要耐心等待买点出现而不是强行交易" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="3290" y="-690" width="310" height="70" as="geometry" />
+          <mxGeometry x="3298" y="-1150" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-13" value="止损点设置在哪里？" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3169" y="-1030" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-14" value="我们不可能每次都对，市场也总有一些意想不到的事情发生，所以在买入之前就要想好，如果走势和预期相悖，在哪个位置退出？止损点设置在哪里？如果没有想好这个问题，别买任何一只股" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="3298" y="-1030" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-15" value="你是不是在压力下作出的思考和操作" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3170" y="-890" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-16" value="人在压力下很容易违背自己的原则，产生孤注一掷(逆势加码或者死扛)，轻易放弃(恐慌割肉)，频繁交易等，容易亏钱的操作&lt;br&gt;2.压力来源于恐惧、贪婪、怕错过、侥幸等心理，长期来看，带着这种心理操作必败无疑&lt;br&gt;3.所以，如果你感觉交易前内心压力很大，就轻易不要操作，想办法调整心态，只有内心轻松，才能赢家心态" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="3299" y="-890" width="331" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-17" value="交易是一件很严肃的事情，很多人都没有经过大脑思考，就轻率的进入交易&lt;br&gt;思路清晰，回答上面问题&lt;br&gt;强迫自己独立思考，最重要的是这些问题能解决情绪化和羊群心理，让你变得更加有条理，有纪律，更加知行合一" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3210" y="-720" width="450" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
