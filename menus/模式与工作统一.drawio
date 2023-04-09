@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-09T01:34:34.124Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="pXuF9tOQw_79lyWCXi0t" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-09T01:43:49.581Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="wVmvwXfbZs7e4PwpUKp7" version="21.1.5" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="1175" dy="2869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -665,10 +665,10 @@
           <mxGeometry x="3143" y="-1660" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-2" value="1.上升趋势的任何位置(明显加速后除外)&lt;br&gt;2.下降趋势出现底部反转信号&lt;br&gt;3.明显的恐慌之后&lt;br&gt;4.区间震荡，在区间底部获得支撑的时候" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="3272" y="-1770" width="300" height="60" as="geometry" />
+          <mxGeometry x="3250" y="-1790" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-3" value="大盘是属于适合做交易的环境吗" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3142" y="-1770" width="120" height="80" as="geometry" />
+          <mxGeometry x="3120" y="-1790" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-4" value="1.识别市场是不是有清晰的主线，如果有，就只做主线的趋势性行情&lt;br&gt;2.如果没有可以控仓休息，或者在控制仓位的前提下选择性的做强逻辑方向的区间震荡或者底部反转等其他模式" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="3272" y="-1650" width="300" height="60" as="geometry" />
@@ -711,6 +711,48 @@
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-17" value="交易是一件很严肃的事情，很多人都没有经过大脑思考，就轻率的进入交易&lt;br&gt;思路清晰，回答上面问题&lt;br&gt;强迫自己独立思考，最重要的是这些问题能解决情绪化和羊群心理，让你变得更加有条理，有纪律，更加知行合一" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3210" y="-720" width="450" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-18" value="模式" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="3735" y="-1900" width="835" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-19" value="重复性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3820" y="-1820" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-20" value="稳定性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3820" y="-1730" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-21" value="可操作性性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3825" y="-1620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-22" value="微调" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3920" y="-1810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-23" value="特点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3670" y="-1730" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-24" value="趋势和情绪的平衡&lt;br&gt;发现市场偏好和变化方向来调整自己的模式适应市场" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4190" y="-1820" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-25" value="选股&lt;br&gt;成功率和盈亏比的平衡，选股没有绝对，也是按市场行情变化的&lt;br&gt;2.短线模式的核心逻辑是：站在人性的角度，在最强势的核心股里面买入分歧，卖出一致" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4200" y="-1720" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-26" value="人性是什么" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4700" y="-1760" width="180" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-27" value="恐惧贪婪&lt;br&gt;侥幸心理&lt;br&gt;优柔寡断&lt;br&gt;急功近利" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4860" y="-1780" width="180" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-28" value="为什么这里跌，为什么这里涨，环境不同可能结果不同，不能形而上学，要不断揣摩验证" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4910" y="-1627" width="180" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-29" value="围绕赚钱效应选择，洞察情绪套利，趋势波段，情绪趋势来选" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4530" y="-1707" width="180" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-30" value="操盘节奏、仓位风控" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4209" y="-1570" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-31" value="反复买点、仓位风控、不意淫不后悔" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4549" y="-1550" width="180" height="87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
