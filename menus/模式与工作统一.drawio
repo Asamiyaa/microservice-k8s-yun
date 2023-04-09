@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-09T01:46:37.302Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="mY8AMSncWrM5WySxQ0Mf" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-09T01:48:50.696Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="bpuAl7SGDORDc2D02ALq" version="21.1.5" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
-    <mxGraphModel dx="1175" dy="2869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1178" dy="4038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -763,8 +763,26 @@
         <mxCell id="zyEnr8aLNKl9iEY24u73-34" value="&lt;div&gt;怎么战胜对手？&lt;/div&gt;&lt;div&gt;那就是找到最晚的刹车点，&lt;/div&gt;&lt;div&gt;找到轮胎摩擦力的极限，&lt;/div&gt;&lt;div&gt;找到你自我能力的边界&lt;/div&gt;&lt;div&gt;然后把你眼前的每一个弯都过好。&lt;/div&gt;&lt;div&gt;这不是驾驶的技术，&lt;/div&gt;&lt;div&gt;这是驾驶的艺术&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4570" y="-1400" width="290" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-35" value="&lt;div&gt;模式要解决的问题就是：&lt;/div&gt;&lt;div&gt;1、谨防认知外的冲动交易，&lt;/div&gt;&lt;div&gt;计划外交易是大亏的源泉。&lt;/div&gt;&lt;div&gt;2、进退有据，不要买入之后意淫&lt;/div&gt;&lt;div&gt;卖飞了就后悔。&lt;/div&gt;&lt;div&gt;3、成功率和盈亏比先解决一个，&lt;/div&gt;&lt;div&gt;在优化另一个&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4372" y="-2020" width="400" height="140" as="geometry" />
+        <mxCell id="zyEnr8aLNKl9iEY24u73-35" value="&lt;div&gt;模式要解决的问题就是：&lt;/div&gt;&lt;div&gt;1、谨防认知外的冲动交易，&lt;/div&gt;&lt;div&gt;计划外交易是大亏的源泉。&lt;/div&gt;&lt;div&gt;2、进退有据，不要买入之后意淫&lt;/div&gt;&lt;div&gt;卖飞了就后悔。&lt;/div&gt;&lt;div&gt;3、成功率和盈亏比先解决一个，&lt;/div&gt;&lt;div&gt;在优化另一个&lt;br&gt;&lt;div&gt;4、&lt;/div&gt;&lt;div&gt;没有高低，只有对错&lt;/div&gt;&lt;div&gt;不追求最低，点买入，不纠结半路卖飞&lt;/div&gt;&lt;div&gt;5、不要抱怨市场环境不好，&lt;/div&gt;&lt;div&gt;换一个环境&lt;/div&gt;&lt;div&gt;对于没有准备的人来说只是另一种低迷&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4372" y="-2060" width="778" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-36" value="阶段" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3570" y="-2160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-37" value="&lt;div&gt;第三个阶段：&lt;/div&gt;&lt;div&gt;深人学习，喜欢各种战法，&lt;/div&gt;&lt;div&gt;开始分仓，&lt;/div&gt;&lt;div&gt;不想错过每一个机会&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3770" y="-2250" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-38" value="&lt;div&gt;第四个阶段：&lt;/div&gt;&lt;div&gt;开始减法&lt;/div&gt;&lt;div&gt;融会贯通的平衡成功率和盈亏比，&lt;/div&gt;&lt;div&gt;但是反复重来，&lt;/div&gt;&lt;div&gt;痛苦蜕变&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3775" y="-2150" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-39" value="&lt;div&gt;第五个阶段：&lt;/div&gt;&lt;div&gt;放弃暴力，喜欢反复买点，&lt;/div&gt;&lt;div&gt;控仓控撤，&lt;/div&gt;&lt;div&gt;进出有据，&lt;/div&gt;&lt;div&gt;做自己的节奏&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3780" y="-2050" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-40" value="&lt;div&gt;第二个阶段：&lt;/div&gt;&lt;div&gt;开始学习，总被暴力模式吸引，&lt;/div&gt;&lt;div&gt;幸存者偏差，&lt;/div&gt;&lt;div&gt;喜欢满仓进出&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3760" y="-2350" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-41" value="&lt;div&gt;第一个阶段：&lt;/div&gt;&lt;div&gt;初入股市，被各种表象干扰，&lt;/div&gt;&lt;div&gt;喜欢追涨杀跌，&lt;/div&gt;&lt;div&gt;喜欢各种小道消息&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3762" y="-2440" width="410" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
