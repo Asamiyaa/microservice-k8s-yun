@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-04-09T01:48:54.779Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="2gn_I7B3VFzfbSoY-ONF" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-09T02:01:23.348Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="qflqdyG0lIe8Zbf1OVLK" version="21.1.5" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
-    <mxGraphModel dx="1178" dy="4038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1873" dy="4451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZMRBw58vfzprmhvN6ts3-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4950" y="1160" width="560" height="400" as="geometry" />
+          <mxGeometry x="4950" y="1450" width="560" height="400" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-233" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2720" y="870" width="120" height="80" as="geometry" />
@@ -288,8 +288,8 @@
         <mxCell id="1Og0T00IHUKX8OhshonG-252" value="确定买点" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3750" y="770" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-256" value="回踩均线" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4430" y="865" width="120" height="80" as="geometry" />
+        <mxCell id="1Og0T00IHUKX8OhshonG-256" value="回踩均线不破，且低点抬高" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="5233.5" y="920" width="106.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-257" value="股性" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3350" y="840" width="120" height="80" as="geometry" />
@@ -405,8 +405,8 @@
         <mxCell id="1Og0T00IHUKX8OhshonG-298" value="斜率" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4500" y="675" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-299" value="五日均线" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4590" y="670" width="120" height="80" as="geometry" />
+        <mxCell id="1Og0T00IHUKX8OhshonG-299" value="五日均线斜率" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="5233.5" y="735" width="109" height="45" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-302" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1Og0T00IHUKX8OhshonG-304" target="1Og0T00IHUKX8OhshonG-308" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -415,25 +415,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-304" value="建行卡" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5153" y="1315" width="120" height="80" as="geometry" />
+          <mxGeometry x="5153" y="1605" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-305" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1Og0T00IHUKX8OhshonG-306" target="1Og0T00IHUKX8OhshonG-304" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-306" value="工资" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5153" y="1465" width="120" height="80" as="geometry" />
+          <mxGeometry x="5153" y="1755" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-307" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.1;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1Og0T00IHUKX8OhshonG-308" target="1Og0T00IHUKX8OhshonG-304" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-308" value="东方财富" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5009" y="1205" width="120" height="80" as="geometry" />
+          <mxGeometry x="5009" y="1495" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-309" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.908;entryY=0.138;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1Og0T00IHUKX8OhshonG-310" target="1Og0T00IHUKX8OhshonG-304" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-310" value="同花顺" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5319" y="1205" width="120" height="80" as="geometry" />
+          <mxGeometry x="5319" y="1495" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-311" value="指标背后的思考，思考这种行为的背后人思考" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2401.5" y="1650" width="120" height="60" as="geometry" />
@@ -617,6 +617,9 @@
         <mxCell id="huEp6K7DU2roM0hbO_7R-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.383;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="huEp6K7DU2roM0hbO_7R-1" target="1Og0T00IHUKX8OhshonG-296" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="huEp6K7DU2roM0hbO_7R-1" target="zyEnr8aLNKl9iEY24u73-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="huEp6K7DU2roM0hbO_7R-1" value="执念：&lt;br&gt;0.断点看盘对情绪感知 应该假设连续性 而不是害怕。比如大盘的变化、情绪弱转强 。不要执念下午不买等&lt;br&gt;1.对大单太看重忽略启动的票、逻辑" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="4372" y="410" width="398" height="80" as="geometry" />
         </mxCell>
@@ -644,13 +647,18 @@
           <mxGeometry x="5109" y="732.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZMRBw58vfzprmhvN6ts3-3" value="承接" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5109" y="807.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="5109" y="910" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZMRBw58vfzprmhvN6ts3-4" value="资金潜伏 --&amp;gt; 资金启动" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="3430" y="1180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZMRBw58vfzprmhvN6ts3-6" value="资金流向&amp;nbsp; -&amp;nbsp; 板块效应强势形成 、 情绪周期阶段" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="5100" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZMRBw58vfzprmhvN6ts3-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4920" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZMRBw58vfzprmhvN6ts3-7" value="动 - 监控系统" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="5100" y="485" width="120" height="80" as="geometry" />
@@ -783,6 +791,42 @@
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-41" value="&lt;div&gt;第一个阶段：&lt;/div&gt;&lt;div&gt;初入股市，被各种表象干扰，&lt;/div&gt;&lt;div&gt;喜欢追涨杀跌，&lt;/div&gt;&lt;div&gt;喜欢各种小道消息&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3762" y="-2440" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-42" value="买点&amp;nbsp;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4860" y="215" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-46" value="突破" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5109" y="795" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-47" value="突破均线迅速收回" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5238" y="960" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-48" value="单子速度、大单、消耗，小单" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5242.5" y="1010" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-49" value="集合竞价点密集、匹配量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5233.5" y="840" width="106.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-50" value="开盘方向" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5236" y="880" width="106.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-51" value="直接买？首次回调买？" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5338" y="880" width="106.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-52" value="板块" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4950" y="805" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zyEnr8aLNKl9iEY24u73-53" target="1Og0T00IHUKX8OhshonG-304">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-53" value="工资" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5153" y="1460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zyEnr8aLNKl9iEY24u73-55" target="1Og0T00IHUKX8OhshonG-304">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyEnr8aLNKl9iEY24u73-55" value="蚂蚁财富" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4970" y="1605" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
