@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-09T14:55:39.721Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="W0vVYQnG4_IWYLbROEH-" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-13T14:22:22.156Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="agXvWteatL_Z64yKZ4Yj" version="21.1.5" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
-    <mxGraphModel dx="3184" dy="5111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="4451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -437,7 +437,7 @@
         <mxCell id="1Og0T00IHUKX8OhshonG-318" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1Og0T00IHUKX8OhshonG-319" target="1Og0T00IHUKX8OhshonG-315" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-319" value="b站复盘、总体逻辑&lt;br&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;p style=&quot;margin: 0; padding: 0; min-height: 24px; text-indent: 2em&quot; class=&quot;ne-p&quot; id=&quot;u5927d551&quot;&gt;水木大师兄&lt;/p&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="1Og0T00IHUKX8OhshonG-319" value="涨停复盘、涨停板块中好的个股&lt;br&gt;b站复盘、总体逻辑&lt;br&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;p style=&quot;margin: 0; padding: 0; min-height: 24px; text-indent: 2em&quot; class=&quot;ne-p&quot; id=&quot;u5927d551&quot;&gt;水木大师兄&lt;/p&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2442" y="-320" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-320" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.548;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1Og0T00IHUKX8OhshonG-321" target="1Og0T00IHUKX8OhshonG-325" edge="1">
@@ -597,7 +597,7 @@
         <mxCell id="huEp6K7DU2roM0hbO_7R-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.383;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="huEp6K7DU2roM0hbO_7R-1" target="1Og0T00IHUKX8OhshonG-296" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="huEp6K7DU2roM0hbO_7R-1" target="zyEnr8aLNKl9iEY24u73-42">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="huEp6K7DU2roM0hbO_7R-1" target="zyEnr8aLNKl9iEY24u73-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="huEp6K7DU2roM0hbO_7R-1" value="执念：&lt;br&gt;0.断点看盘对情绪感知 应该假设连续性 而不是害怕。比如大盘的变化、情绪弱转强 。不要执念下午不买等&lt;br&gt;1.对大单太看重忽略启动的票、逻辑" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -635,7 +635,7 @@
         <mxCell id="ZMRBw58vfzprmhvN6ts3-6" value="资金流向&amp;nbsp; -&amp;nbsp; 板块效应强势形成 、 情绪周期阶段" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="5100" y="620" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZMRBw58vfzprmhvN6ts3-7">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ZMRBw58vfzprmhvN6ts3-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4920" y="300" as="targetPoint" />
           </mxGeometry>
@@ -649,235 +649,235 @@
         <mxCell id="ZMRBw58vfzprmhvN6ts3-9" value="日k买点、分时买点" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5730" y="687.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-1" value="主线方向是不是清晰" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-1" value="主线方向是不是清晰" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3143" y="-1660" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-2" value="1.上升趋势的任何位置(明显加速后除外)&lt;br&gt;2.下降趋势出现底部反转信号&lt;br&gt;3.明显的恐慌之后&lt;br&gt;4.区间震荡，在区间底部获得支撑的时候" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-2" value="1.上升趋势的任何位置(明显加速后除外)&lt;br&gt;2.下降趋势出现底部反转信号&lt;br&gt;3.明显的恐慌之后&lt;br&gt;4.区间震荡，在区间底部获得支撑的时候" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="3250" y="-1790" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-3" value="大盘是属于适合做交易的环境吗" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-3" value="大盘是属于适合做交易的环境吗" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3120" y="-1790" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-4" value="1.识别市场是不是有清晰的主线，如果有，就只做主线的趋势性行情&lt;br&gt;2.如果没有可以控仓休息，或者在控制仓位的前提下选择性的做强逻辑方向的区间震荡或者底部反转等其他模式" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-4" value="1.识别市场是不是有清晰的主线，如果有，就只做主线的趋势性行情&lt;br&gt;2.如果没有可以控仓休息，或者在控制仓位的前提下选择性的做强逻辑方向的区间震荡或者底部反转等其他模式" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="3272" y="-1650" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-5" value="计划买入的股逻辑够不够强" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-5" value="计划买入的股逻辑够不够强" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3149" y="-1520" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-6" value="1.计划买入的股是基本面强劲的，有逻辑支撑的，还是纯粹的市场博弈&lt;br&gt;2.是不是属于赛道龙头、超级业绩、动量主线、有没有机构或者北上资金加持&lt;br&gt;3.坚决回避没有逻辑支撑的垃圾股、以及流动性很差的股" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-6" value="1.计划买入的股是基本面强劲的，有逻辑支撑的，还是纯粹的市场博弈&lt;br&gt;2.是不是属于赛道龙头、超级业绩、动量主线、有没有机构或者北上资金加持&lt;br&gt;3.坚决回避没有逻辑支撑的垃圾股、以及流动性很差的股" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="3278" y="-1520" width="310" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-7" value="计划买入的股，逻辑是否不是得到走势印证" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-7" value="计划买入的股，逻辑是否不是得到走势印证" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3158" y="-1410" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-8" value="1.逻辑再强，如果市场不认可，就是自己的一厢情愿&lt;br&gt;2.计划买入的股，最好是处于清晰的上升趋势(明显的加速除外)，这是优选，但是，由于清晰的上升趋势很少，我们至少要求处于基底位置(区间震荡)，这是次选&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-8" value="1.逻辑再强，如果市场不认可，就是自己的一厢情愿&lt;br&gt;2.计划买入的股，最好是处于清晰的上升趋势(明显的加速除外)，这是优选，但是，由于清晰的上升趋势很少，我们至少要求处于基底位置(区间震荡)，这是次选&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="3287" y="-1410" width="310" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-9" value="计划买入的股，有没有出现需要回避的情形" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-9" value="计划买入的股，有没有出现需要回避的情形" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3166" y="-1280" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-10" value="1.趋势性下跌&lt;br&gt;2.区间震荡向下突破&lt;br&gt;3.加速&lt;br&gt;如果处于这三种位置，不管基本面多好，逻辑多强，都要回避" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-10" value="1.趋势性下跌&lt;br&gt;2.区间震荡向下突破&lt;br&gt;3.加速&lt;br&gt;如果处于这三种位置，不管基本面多好，逻辑多强，都要回避" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="3295" y="-1280" width="310" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-11" value="当前符合买点吗？&lt;br&gt;如果符合，符合哪一类买点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-11" value="当前符合买点吗？&lt;br&gt;如果符合，符合哪一类买点" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3169" y="-1150" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-12" value="再好的股，再强的逻辑，也要等待正确的买点介入，否则，也有可能亏钱&lt;br&gt;要严格执行纪律，再好的股，符合买点才买，如果不符合买点，就要耐心等待买点出现而不是强行交易" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-12" value="再好的股，再强的逻辑，也要等待正确的买点介入，否则，也有可能亏钱&lt;br&gt;要严格执行纪律，再好的股，符合买点才买，如果不符合买点，就要耐心等待买点出现而不是强行交易" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="3298" y="-1150" width="310" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-13" value="止损点设置在哪里？" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-13" value="止损点设置在哪里？" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3169" y="-1030" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-14" value="我们不可能每次都对，市场也总有一些意想不到的事情发生，所以在买入之前就要想好，如果走势和预期相悖，在哪个位置退出？止损点设置在哪里？如果没有想好这个问题，别买任何一只股" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-14" value="我们不可能每次都对，市场也总有一些意想不到的事情发生，所以在买入之前就要想好，如果走势和预期相悖，在哪个位置退出？止损点设置在哪里？如果没有想好这个问题，别买任何一只股" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="3298" y="-1030" width="310" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-15" value="你是不是在压力下作出的思考和操作" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-15" value="你是不是在压力下作出的思考和操作" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3170" y="-890" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-16" value="人在压力下很容易违背自己的原则，产生孤注一掷(逆势加码或者死扛)，轻易放弃(恐慌割肉)，频繁交易等，容易亏钱的操作&lt;br&gt;2.压力来源于恐惧、贪婪、怕错过、侥幸等心理，长期来看，带着这种心理操作必败无疑&lt;br&gt;3.所以，如果你感觉交易前内心压力很大，就轻易不要操作，想办法调整心态，只有内心轻松，才能赢家心态" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-16" value="人在压力下很容易违背自己的原则，产生孤注一掷(逆势加码或者死扛)，轻易放弃(恐慌割肉)，频繁交易等，容易亏钱的操作&lt;br&gt;2.压力来源于恐惧、贪婪、怕错过、侥幸等心理，长期来看，带着这种心理操作必败无疑&lt;br&gt;3.所以，如果你感觉交易前内心压力很大，就轻易不要操作，想办法调整心态，只有内心轻松，才能赢家心态" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="3299" y="-890" width="331" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-17" value="交易是一件很严肃的事情，很多人都没有经过大脑思考，就轻率的进入交易&lt;br&gt;思路清晰，回答上面问题&lt;br&gt;强迫自己独立思考，最重要的是这些问题能解决情绪化和羊群心理，让你变得更加有条理，有纪律，更加知行合一" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-17" value="交易是一件很严肃的事情，很多人都没有经过大脑思考，就轻率的进入交易&lt;br&gt;思路清晰，回答上面问题&lt;br&gt;强迫自己独立思考，最重要的是这些问题能解决情绪化和羊群心理，让你变得更加有条理，有纪律，更加知行合一" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3210" y="-720" width="450" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-18" value="模式" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-18" value="模式" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="3735" y="-1900" width="835" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-19" value="重复性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-19" value="重复性" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3820" y="-1820" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-20" value="稳定性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-20" value="稳定性" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3820" y="-1730" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-21" value="可操作性性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-21" value="可操作性性" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3825" y="-1620" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-22" value="微调" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-22" value="微调" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3920" y="-1810" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-23" value="特点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-23" value="特点" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3670" y="-1730" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-24" value="趋势和情绪的平衡&lt;br&gt;发现市场偏好和变化方向来调整自己的模式适应市场" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-24" value="趋势和情绪的平衡&lt;br&gt;发现市场偏好和变化方向来调整自己的模式适应市场" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4190" y="-1820" width="340" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-25" value="选股&lt;br&gt;成功率和盈亏比的平衡，选股没有绝对，也是按市场行情变化的&lt;br&gt;2.短线模式的核心逻辑是：站在人性的角度，在最强势的核心股里面买入分歧，卖出一致" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-25" value="选股&lt;br&gt;成功率和盈亏比的平衡，选股没有绝对，也是按市场行情变化的&lt;br&gt;2.短线模式的核心逻辑是：站在人性的角度，在最强势的核心股里面买入分歧，卖出一致" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4200" y="-1720" width="340" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-26" value="人性是什么" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-26" value="人性是什么" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4710" y="-1760" width="180" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-27" value="恐惧贪婪&lt;br&gt;侥幸心理&lt;br&gt;优柔寡断&lt;br&gt;急功近利" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-27" value="恐惧贪婪&lt;br&gt;侥幸心理&lt;br&gt;优柔寡断&lt;br&gt;急功近利" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4860" y="-1780" width="180" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-28" value="为什么这里跌，为什么这里涨，环境不同可能结果不同，不能形而上学，要不断揣摩验证" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-28" value="为什么这里跌，为什么这里涨，环境不同可能结果不同，不能形而上学，要不断揣摩验证" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4910" y="-1627" width="180" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-29" value="围绕赚钱效应选择，洞察情绪套利，趋势波段，情绪趋势来选" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-29" value="围绕赚钱效应选择，洞察情绪套利，趋势波段，情绪趋势来选" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4530" y="-1707" width="180" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-30" value="操盘节奏、仓位风控" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-30" value="操盘节奏、仓位风控" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4209" y="-1570" width="340" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-31" value="反复买点、仓位风控、不意淫不后悔&lt;br&gt;分仓滚动，快进快出" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-31" value="反复买点、仓位风控、不意淫不后悔&lt;br&gt;分仓滚动，快进快出" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4549" y="-1550" width="180" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-32" value="重复" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-32" value="重复" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4850" y="-1520" width="180" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-33" value="心智磨炼" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-33" value="心智磨炼" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4220" y="-1400" width="340" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-34" value="&lt;div&gt;怎么战胜对手？&lt;/div&gt;&lt;div&gt;那就是找到最晚的刹车点，&lt;/div&gt;&lt;div&gt;找到轮胎摩擦力的极限，&lt;/div&gt;&lt;div&gt;找到你自我能力的边界&lt;/div&gt;&lt;div&gt;然后把你眼前的每一个弯都过好。&lt;/div&gt;&lt;div&gt;这不是驾驶的技术，&lt;/div&gt;&lt;div&gt;这是驾驶的艺术&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-34" value="&lt;div&gt;怎么战胜对手？&lt;/div&gt;&lt;div&gt;那就是找到最晚的刹车点，&lt;/div&gt;&lt;div&gt;找到轮胎摩擦力的极限，&lt;/div&gt;&lt;div&gt;找到你自我能力的边界&lt;/div&gt;&lt;div&gt;然后把你眼前的每一个弯都过好。&lt;/div&gt;&lt;div&gt;这不是驾驶的技术，&lt;/div&gt;&lt;div&gt;这是驾驶的艺术&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4570" y="-1400" width="290" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-35" value="&lt;div&gt;模式要解决的问题就是：&lt;/div&gt;&lt;div&gt;1、谨防认知外的冲动交易，&lt;/div&gt;&lt;div&gt;计划外交易是大亏的源泉。&lt;/div&gt;&lt;div&gt;2、进退有据，不要买入之后意淫&lt;/div&gt;&lt;div&gt;卖飞了就后悔。&lt;/div&gt;&lt;div&gt;3、成功率和盈亏比先解决一个，&lt;/div&gt;&lt;div&gt;在优化另一个&lt;br&gt;&lt;div&gt;4、&lt;/div&gt;&lt;div&gt;没有高低，只有对错&lt;/div&gt;&lt;div&gt;不追求最低，点买入，不纠结半路卖飞&lt;/div&gt;&lt;div&gt;5、不要抱怨市场环境不好，&lt;/div&gt;&lt;div&gt;换一个环境&lt;/div&gt;&lt;div&gt;对于没有准备的人来说只是另一种低迷&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-35" value="&lt;div&gt;模式要解决的问题就是：&lt;/div&gt;&lt;div&gt;1、谨防认知外的冲动交易，&lt;/div&gt;&lt;div&gt;计划外交易是大亏的源泉。&lt;/div&gt;&lt;div&gt;2、进退有据，不要买入之后意淫&lt;/div&gt;&lt;div&gt;卖飞了就后悔。&lt;/div&gt;&lt;div&gt;3、成功率和盈亏比先解决一个，&lt;/div&gt;&lt;div&gt;在优化另一个&lt;br&gt;&lt;div&gt;4、&lt;/div&gt;&lt;div&gt;没有高低，只有对错&lt;/div&gt;&lt;div&gt;不追求最低，点买入，不纠结半路卖飞&lt;/div&gt;&lt;div&gt;5、不要抱怨市场环境不好，&lt;/div&gt;&lt;div&gt;换一个环境&lt;/div&gt;&lt;div&gt;对于没有准备的人来说只是另一种低迷&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4372" y="-2060" width="778" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-36" value="阶段" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-36" value="阶段" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3570" y="-2160" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-37" value="&lt;div&gt;第三个阶段：&lt;/div&gt;&lt;div&gt;深人学习，喜欢各种战法，&lt;/div&gt;&lt;div&gt;开始分仓，&lt;/div&gt;&lt;div&gt;不想错过每一个机会&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-37" value="&lt;div&gt;第三个阶段：&lt;/div&gt;&lt;div&gt;深人学习，喜欢各种战法，&lt;/div&gt;&lt;div&gt;开始分仓，&lt;/div&gt;&lt;div&gt;不想错过每一个机会&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3770" y="-2250" width="410" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-38" value="&lt;div&gt;第四个阶段：&lt;/div&gt;&lt;div&gt;开始减法&lt;/div&gt;&lt;div&gt;融会贯通的平衡成功率和盈亏比，&lt;/div&gt;&lt;div&gt;但是反复重来，&lt;/div&gt;&lt;div&gt;痛苦蜕变&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-38" value="&lt;div&gt;第四个阶段：&lt;/div&gt;&lt;div&gt;开始减法&lt;/div&gt;&lt;div&gt;融会贯通的平衡成功率和盈亏比，&lt;/div&gt;&lt;div&gt;但是反复重来，&lt;/div&gt;&lt;div&gt;痛苦蜕变&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3775" y="-2150" width="410" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-39" value="&lt;div&gt;第五个阶段：&lt;/div&gt;&lt;div&gt;放弃暴力，喜欢反复买点，&lt;/div&gt;&lt;div&gt;控仓控撤，&lt;/div&gt;&lt;div&gt;进出有据，&lt;/div&gt;&lt;div&gt;做自己的节奏&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-39" value="&lt;div&gt;第五个阶段：&lt;/div&gt;&lt;div&gt;放弃暴力，喜欢反复买点，&lt;/div&gt;&lt;div&gt;控仓控撤，&lt;/div&gt;&lt;div&gt;进出有据，&lt;/div&gt;&lt;div&gt;做自己的节奏&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3780" y="-2050" width="410" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-40" value="&lt;div&gt;第二个阶段：&lt;/div&gt;&lt;div&gt;开始学习，总被暴力模式吸引，&lt;/div&gt;&lt;div&gt;幸存者偏差，&lt;/div&gt;&lt;div&gt;喜欢满仓进出&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-40" value="&lt;div&gt;第二个阶段：&lt;/div&gt;&lt;div&gt;开始学习，总被暴力模式吸引，&lt;/div&gt;&lt;div&gt;幸存者偏差，&lt;/div&gt;&lt;div&gt;喜欢满仓进出&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3760" y="-2350" width="410" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-41" value="&lt;div&gt;第一个阶段：&lt;/div&gt;&lt;div&gt;初入股市，被各种表象干扰，&lt;/div&gt;&lt;div&gt;喜欢追涨杀跌，&lt;/div&gt;&lt;div&gt;喜欢各种小道消息&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-41" value="&lt;div&gt;第一个阶段：&lt;/div&gt;&lt;div&gt;初入股市，被各种表象干扰，&lt;/div&gt;&lt;div&gt;喜欢追涨杀跌，&lt;/div&gt;&lt;div&gt;喜欢各种小道消息&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3762" y="-2440" width="410" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-42" value="买点&amp;nbsp;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-42" value="买点&amp;nbsp;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4860" y="215" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-46" value="突破" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-46" value="突破" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5077.5" y="870" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-47" value="突破均线迅速收回" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-47" value="突破均线迅速收回" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5204" y="1255" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-48" value="单子速度、大单、消耗，小单" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-48" value="单子速度、大单、消耗，小单" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5208.5" y="1305" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-49" value="集合竞价点密集、匹配量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-49" value="集合竞价点密集、匹配量" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5199.5" y="1085" width="106.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-50" value="开盘方向" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-50" value="开盘方向" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5202" y="1125" width="106.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-51" value="直接买？首次回调买？" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-51" value="直接买？首次回调买？" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5304" y="1125" width="106.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyEnr8aLNKl9iEY24u73-52" target="zyEnr8aLNKl9iEY24u73-64">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zyEnr8aLNKl9iEY24u73-52" target="zyEnr8aLNKl9iEY24u73-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyEnr8aLNKl9iEY24u73-52" target="zyEnr8aLNKl9iEY24u73-63">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zyEnr8aLNKl9iEY24u73-52" target="zyEnr8aLNKl9iEY24u73-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-52" value="板块&amp;nbsp;&lt;br&gt;&amp;nbsp;1.大盘&lt;br&gt;2.板块内龙头、其他个股、板块效应&lt;br&gt;3.排序、板块块排序、涨速、" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-52" value="板块&amp;nbsp;&lt;br&gt;&amp;nbsp;1.大盘&lt;br&gt;2.板块内龙头、其他个股、板块效应&lt;br&gt;3.排序、板块块排序、涨速、" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
           <mxGeometry x="4770" y="970" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zyEnr8aLNKl9iEY24u73-53" target="1Og0T00IHUKX8OhshonG-304">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zyEnr8aLNKl9iEY24u73-53" target="1Og0T00IHUKX8OhshonG-304" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-53" value="工资" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-53" value="工资" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5153" y="1460" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zyEnr8aLNKl9iEY24u73-55" target="1Og0T00IHUKX8OhshonG-304">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zyEnr8aLNKl9iEY24u73-55" target="1Og0T00IHUKX8OhshonG-304" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-55" value="蚂蚁财富" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-55" value="蚂蚁财富" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4970" y="1605" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-57" value="macd" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-57" value="macd" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5850" y="705" width="109" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-58" value="评分体系、权重体系" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-58" value="评分体系、权重体系" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4450" y="690" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-59" value="成交量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-59" value="成交量" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5197.5" y="790" width="109" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-60" value="日k 绿线" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-60" value="日k 绿线" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5199.5" y="825" width="109" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-61" value="博弈" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-61" value="博弈" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5190" y="875" width="109" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-62" value="日k \ 昨日高点、" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-62" value="日k \ 昨日高点、" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5195.25" y="915" width="109" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-63" value="满足其一" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-63" value="满足其一" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4991.5" y="1165" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-64" value="入场形态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-64" value="入场形态" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4976" y="825" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-65" value="启动、二波" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-65" value="启动、二波" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5027" y="795" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-66" value="趋势-强势" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-66" value="趋势-强势" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5027" y="885" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-68" value="延续" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-68" value="延续" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5084" y="935" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-71" value="情绪变化、炒作细节变化，比如医药、国产替代、chatgpt -算力-应用 ai+ ....、解封..." style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-71" value="情绪变化、炒作细节变化，比如医药、国产替代、chatgpt -算力-应用 ai+ ....、解封..." style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
           <mxGeometry x="3143" y="1180" width="297" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-72" value="?几种方式？" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-72" value="?几种方式？" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
           <mxGeometry x="5360" y="760" width="109" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-73" value="卖" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-73" value="卖" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4640" y="695" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-74" value="多方、空方动能&lt;br&gt;赚钱效应&lt;br&gt;博弈、概率、盈亏比&lt;br&gt;时间-决策" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-74" value="多方、空方动能&lt;br&gt;赚钱效应&lt;br&gt;博弈、概率、盈亏比&lt;br&gt;时间-决策" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5030" y="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-75" value="逻辑、题材大小、急性、chatgpt\医药、疫情放开、国产替代" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-75" value="逻辑、题材大小、急性、chatgpt\医药、疫情放开、国产替代" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4390" y="975" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-76" value="位置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-76" value="位置" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4630" y="980" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyEnr8aLNKl9iEY24u73-77" target="zyEnr8aLNKl9iEY24u73-78">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zyEnr8aLNKl9iEY24u73-77" target="zyEnr8aLNKl9iEY24u73-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-77" value="低位可以无量、高位必须放量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-77" value="低位可以无量、高位必须放量" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4590" y="1120" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-78" value="量价关系" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-78" value="量价关系" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4690" y="1160" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-79" value="量升价升&lt;br&gt;量升价升&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;量升价升&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;量升价升&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;量升价升&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-79" value="量升价升&lt;br&gt;量升价升&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;量升价升&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;量升价升&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;量升价升&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4760" y="1100" width="198" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="zyEnr8aLNKl9iEY24u73-81" value="空中加油" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyEnr8aLNKl9iEY24u73-81" value="空中加油" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5202" y="970" width="109" height="45" as="geometry" />
         </mxCell>
       </root>
