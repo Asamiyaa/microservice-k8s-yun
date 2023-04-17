@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T00:19:40.329Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="FTvovL9dnL5Cz6elXPKN" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T00:43:52.156Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="k084mCJIqD-601makDe7" version="21.1.8" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
-    <mxGraphModel dx="1687" dy="4451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="4653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -443,7 +443,7 @@
         <mxCell id="1Og0T00IHUKX8OhshonG-320" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.548;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1Og0T00IHUKX8OhshonG-321" target="1Og0T00IHUKX8OhshonG-325" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1Og0T00IHUKX8OhshonG-321" value="明日股票排序&lt;br&gt;板块排序&lt;br&gt;默念执行计划、该割哪些、该看哪些指标" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="1Og0T00IHUKX8OhshonG-321" value="&lt;font color=&quot;#ff3333&quot;&gt;明日股票排序&lt;br&gt;板块排序&lt;/font&gt;&lt;br&gt;默念执行计划、该割哪些、该看哪些指标" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3597" y="-320" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="1Og0T00IHUKX8OhshonG-322" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="1Og0T00IHUKX8OhshonG-323" target="1Og0T00IHUKX8OhshonG-321" edge="1">
