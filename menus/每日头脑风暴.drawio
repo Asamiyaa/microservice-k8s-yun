@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T00:09:44.579Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Zk2sndPOmOoa3LoTdCki" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T00:43:54.949Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="O6m-qP_h2e71Y-3kLZjs" version="21.1.8" type="github">
   <diagram name="第 1 页" id="l9BL36nRIR9fdoTfFBKx">
-    <mxGraphModel dx="2261" dy="802" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1816" dy="553" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -541,29 +541,44 @@
         <mxCell id="15fA_RjRV5b1NCo7tXWz-13" value="电力" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="293" y="230.5" width="51" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="RetNu85HS1r9F2rAQyco-1" value="传媒" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RetNu85HS1r9F2rAQyco-1" value="传媒" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="464.75" y="383" width="51" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="RetNu85HS1r9F2rAQyco-2" value="旅游、景点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="218" y="423" width="72" height="14" as="geometry" />
+        <mxCell id="RetNu85HS1r9F2rAQyco-2" value="旅游、景点" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="525.5" y="516" width="72" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="RetNu85HS1r9F2rAQyco-3" value="建筑装饰" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="149.5" y="484" width="72" height="15" as="geometry" />
+        <mxCell id="RetNu85HS1r9F2rAQyco-3" value="建筑装饰|字体头" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="134" y="445" width="72" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="RetNu85HS1r9F2rAQyco-4" value="化学制品&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225.5" y="484" width="74.5" height="14" as="geometry" />
+        <mxCell id="RetNu85HS1r9F2rAQyco-4" value="化学制品&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="116.25" y="579" width="74.5" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="RetNu85HS1r9F2rAQyco-5" value="小金属" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="149.5" y="506" width="72" height="14" as="geometry" />
+        <mxCell id="RetNu85HS1r9F2rAQyco-5" value="能源金属" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="132" y="423" width="72" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="RetNu85HS1r9F2rAQyco-9" value="CRO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225.5" y="506" width="72" height="14" as="geometry" />
+        <mxCell id="RetNu85HS1r9F2rAQyco-9" value="CRO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="116.25" y="601" width="72" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="RetNu85HS1r9F2rAQyco-10" value="电力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RetNu85HS1r9F2rAQyco-10" value="电池" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="528.5" width="72" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="RetNu85HS1r9F2rAQyco-14" value="零售" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="177.5" y="421" width="38" height="14" as="geometry" />
+        <mxCell id="RetNu85HS1r9F2rAQyco-14" value="零售" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="485" y="514" width="38" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="6MvTFMDKOMlixyZ1BpIk-1" value="半导体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="336.5" y="368" width="72" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="6MvTFMDKOMlixyZ1BpIk-2" value="创新药" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="201" y="423" width="72" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="6MvTFMDKOMlixyZ1BpIk-4" value="汽车" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="206" y="445" width="72" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="6MvTFMDKOMlixyZ1BpIk-6" value="电力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="224" y="531.75" width="72" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="6MvTFMDKOMlixyZ1BpIk-7" value="贵金属" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401" y="368" width="72" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
