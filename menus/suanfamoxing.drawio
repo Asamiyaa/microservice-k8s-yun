@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T09:01:20.887Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="-NgAhL_JxZeXS7Ubib6i" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-25T09:11:03.609Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="biogir5tvmqCgV7JrPwL" version="21.1.7" type="github">
   <diagram id="EEWpYUk2irftNLygyGdg" name="第 1 页">
     <mxGraphModel dx="1195" dy="300578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400000" pageHeight="300000" math="0" shadow="0">
       <root>
@@ -296,7 +296,7 @@
           <mxGeometry x="620.56" y="150" width="67.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="98os_m3dqyuK1vrEU4hX-22" value="有监督学习是指模型学习时有特定目标，即目标是人工标注的，主要用做分类或者回归" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="686.75" y="50" width="177.5" height="40" as="geometry" />
+          <mxGeometry x="686.75" y="60" width="177.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="98os_m3dqyuK1vrEU4hX-23" value="knn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="866.75" y="10" width="38" height="20" as="geometry" />
@@ -315,6 +315,18 @@
         </mxCell>
         <mxCell id="98os_m3dqyuK1vrEU4hX-29" value="xgboost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="866.75" y="105" width="55.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="98os_m3dqyuK1vrEU4hX-30" value="svm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="10" width="55.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="98os_m3dqyuK1vrEU4hX-31" value="朴素贝叶斯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="30" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="98os_m3dqyuK1vrEU4hX-32" value="神经网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="50" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="98os_m3dqyuK1vrEU4hX-33" value="无监督学习输入数据没有被标记，也没有确定的结果，" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="684.31" y="145" width="177.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
