@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-04-29T11:20:12.237Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="0D8FF7f9dD0WTABQ8-w2" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-29T11:21:50.564Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="VkmprtPkTNTUFIbt1I1n" version="21.2.3" type="github">
   <diagram name="第 1 页" id="NtwjsM_fb3mV0uxdRXDD">
     <mxGraphModel dx="3020" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8DVjuy1b9_jXpODUJ3VI-22" value="设计模式" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="720" width="1060" height="440" as="geometry" />
+          <mxGeometry x="30" y="750" width="1060" height="280" as="geometry" />
         </mxCell>
         <mxCell id="8DVjuy1b9_jXpODUJ3VI-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-160" y="240" width="890" height="300" as="geometry" />
@@ -67,7 +67,7 @@
         <mxCell id="8DVjuy1b9_jXpODUJ3VI-23" value="监听器：主宾不管" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="324" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8DVjuy1b9_jXpODUJ3VI-25" value="访问者 ？" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8DVjuy1b9_jXpODUJ3VI-25" value="visitor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8DVjuy1b9_jXpODUJ3VI-26" value="wrapper - decorator" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -80,10 +80,10 @@
           <mxGeometry x="324" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8DVjuy1b9_jXpODUJ3VI-29" value="supporter" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="1050" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8DVjuy1b9_jXpODUJ3VI-30" value="provider" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="990" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IgkVl0Ok6L5CEyOmN0SB-1" value="string -&amp;gt; java对象" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="444" y="490" width="110" height="40" as="geometry" />
@@ -269,10 +269,10 @@
           <mxGeometry x="1680" y="440" width="60" height="26.25" as="geometry" />
         </mxCell>
         <mxCell id="lfe7L7_-W3CcYf6JYdEf-31" value="helper" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="1010" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lfe7L7_-W3CcYf6JYdEf-32" value="resolver代替handler" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="930" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lfe7L7_-W3CcYf6JYdEf-33" value="bean" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-520" y="130" width="550" height="40" as="geometry" />
