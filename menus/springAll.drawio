@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-29T11:19:37.424Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="gSEDwxClLQgS1G0gb4R-" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-29T11:20:12.237Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="0D8FF7f9dD0WTABQ8-w2" version="21.2.3" type="github">
   <diagram name="第 1 页" id="NtwjsM_fb3mV0uxdRXDD">
     <mxGraphModel dx="3020" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -273,6 +273,15 @@
         </mxCell>
         <mxCell id="lfe7L7_-W3CcYf6JYdEf-32" value="resolver代替handler" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lfe7L7_-W3CcYf6JYdEf-33" value="bean" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="130" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lfe7L7_-W3CcYf6JYdEf-34" value="beanFactory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="100" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lfe7L7_-W3CcYf6JYdEf-35" value="Class、反射、definition、loader、parser、lifeCycle一层套一层各种前置后置包装了原始的new x()" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="30" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
