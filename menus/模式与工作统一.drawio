@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T00:43:52.156Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="k084mCJIqD-601makDe7" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-07T12:00:28.045Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Ffh5G7LV3PQrZDpHXQeH" version="21.2.9" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
-    <mxGraphModel dx="2049" dy="4653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1304" dy="4236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -698,7 +698,7 @@
           <mxGeometry x="3299" y="-890" width="331" height="110" as="geometry" />
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-17" value="交易是一件很严肃的事情，很多人都没有经过大脑思考，就轻率的进入交易&lt;br&gt;思路清晰，回答上面问题&lt;br&gt;强迫自己独立思考，最重要的是这些问题能解决情绪化和羊群心理，让你变得更加有条理，有纪律，更加知行合一" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3210" y="-720" width="450" height="80" as="geometry" />
+          <mxGeometry x="3360" y="-730" width="450" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-18" value="模式" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="3735" y="-1900" width="835" height="50" as="geometry" />
@@ -879,6 +879,15 @@
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-81" value="空中加油" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5202" y="970" width="109" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="6cugpfum-vKLVvc9rWAJ-1" value="概率、博弈、风险、节奏、自我评估与适配、等待、控制、心、" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3740" y="-730" width="450" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6cugpfum-vKLVvc9rWAJ-2" value="原则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3029" y="-1440" width="101" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="6cugpfum-vKLVvc9rWAJ-3" value="认知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3030" y="-710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
