@@ -1,143 +1,167 @@
-<mxfile host="app.diagrams.net" modified="2023-05-07T02:52:50.678Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ev5rXmF-jgfrriEpCmWP" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-07T11:52:51.911Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="-IeUHQ88PfhiHRY5P54s" version="21.2.9" type="github">
   <diagram name="第 1 页" id="5kLXWKViLDbieaWufSS7">
-    <mxGraphModel dx="2261" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-1" value="形象" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-1" value="形象" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="300" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-2" value="外在" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-2" value="外在" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="234" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-3" value="内在" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-3" value="内在" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7vm0t1rizR-KaLSvdGfu-4" target="7vm0t1rizR-KaLSvdGfu-5">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7vm0t1rizR-KaLSvdGfu-4" target="7vm0t1rizR-KaLSvdGfu-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-4" value="稳&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-4" value="稳&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="810" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7vm0t1rizR-KaLSvdGfu-5" target="7vm0t1rizR-KaLSvdGfu-4">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7vm0t1rizR-KaLSvdGfu-5" target="7vm0t1rizR-KaLSvdGfu-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-5" value="强" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-5" value="强" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="810" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-8" value="静" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-8" value="静" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="810" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-9" value="灵" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-9" value="灵" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="970" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-10" value="恋爱技能" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-10" value="恋爱技能" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="60" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-11" value="思考与行动" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-11" value="思考与行动" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="410" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-12" value="对你重要的东西是什么，努力为了什么" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-12" value="对你重要的东西是什么，努力为了什么" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="400" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-13" value="情绪" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-13" value="情绪" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="400" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-14" value="勿冷暴力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-14" value="勿冷暴力" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-15" value="控制" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-15" value="控制" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="450" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-16" value="思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-16" value="思维" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="374" y="780" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-17" value="模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-17" value="模型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="780" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-18" value="本质" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-18" value="本质" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="374" y="740" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-19" value="业力" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-19" value="业力" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="955" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-20" value="命" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-20" value="命" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="955" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-21" value="因果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-21" value="因果" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="930" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-22" value="时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-22" value="时间" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="550" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-23" value="潜意识" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-23" value="潜意识" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="550" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-24" value="悟" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-24" value="悟" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="940" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-25" value="健康" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-25" value="健康" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="610" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-26" value="学习 、成长" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-26" value="学习 、成长" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="610" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-27" value="生死" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-27" value="生死" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="1130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-28" value="快乐" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-28" value="快乐" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-29" value="勿急躁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-29" value="勿急躁" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-30" value="专注自我，当下" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-30" value="专注自我，当下" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="780" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-31" value="&lt;h1 style=&quot;margin: 0px 0px 6px; color: var(--text1); font-weight: 500; padding: 0px; font-size: 22px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; -webkit-font-smoothing: antialiased; line-height: 34px; overflow: hidden; text-overflow: ellipsis; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;video-title tit&quot; title=&quot;“心静能愈三千疾”&quot;&gt;&lt;font&gt;“心静能愈三千疾”&lt;/font&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-31" value="&lt;h1 style=&quot;margin: 0px 0px 6px; color: var(--text1); font-weight: 500; padding: 0px; font-size: 22px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; -webkit-font-smoothing: antialiased; line-height: 34px; overflow: hidden; text-overflow: ellipsis; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;video-title tit&quot; title=&quot;“心静能愈三千疾”&quot;&gt;&lt;font&gt;“心静能愈三千疾”&lt;/font&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="790" width="180" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-32" value="勿玻璃心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-32" value="勿玻璃心" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-33" value="勿大男子主义" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-33" value="勿大男子主义" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="950" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-34" value="相处" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-34" value="相处" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-35" value="监控模型 - 三个自我" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-35" value="监控模型 - 三个自我" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-140" y="780" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-36" value="复盘模型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-36" value="复盘模型" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-130" y="650" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-37" value="刻意学习 - 练习 - 正循环" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-37" value="刻意学习 - 练习 - 正循环" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-120" y="530" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-38" value="厚脸皮&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-38" value="厚脸皮&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-39" value="完全体 与 止损" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-39" value="完全体 与 止损" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-40" value="选择 - 负责" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-40" value="选择 - 负责" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="760" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-41" value="模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-41" value="模型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="550" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-42" value="环境&amp;nbsp; - 圈子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-42" value="环境&amp;nbsp; - 圈子" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="550" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-43" value="人性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-43" value="人性" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="1060" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-44" value="owner" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-44" value="owner" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="195" y="760" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-45" value="推进" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-45" value="推进" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="195" y="740" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YsT4qODFrqJ7GpB6S0Qy-1" value="头痛" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="180" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YsT4qODFrqJ7GpB6S0Qy-2" value="皮肤" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="100" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YsT4qODFrqJ7GpB6S0Qy-3" value="牙齿 - 口腔" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="222.5" y="60" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YsT4qODFrqJ7GpB6S0Qy-4" value="发型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="222.5" y="20" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YsT4qODFrqJ7GpB6S0Qy-5" value="胡子" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="-20" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YsT4qODFrqJ7GpB6S0Qy-6" value="体味" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="-60" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YsT4qODFrqJ7GpB6S0Qy-7" value="衣服" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="-100" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YsT4qODFrqJ7GpB6S0Qy-8" value="身材" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="140" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
