@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-07T02:00:28.311Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="DtVlP3LCh3hGoUB_oIiO" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-07T02:12:36.927Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="IzXjj07e26qX1GefOXWa" version="21.2.9" type="github">
   <diagram name="第 1 页" id="5kLXWKViLDbieaWufSS7">
     <mxGraphModel dx="2261" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,8 +112,17 @@
         <mxCell id="7vm0t1rizR-KaLSvdGfu-36" value="复盘模型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-130" y="650" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7vm0t1rizR-KaLSvdGfu-37" value="刻意练习 - 正循环" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-37" value="刻意学习 - 练习 - 正循环" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-38" value="厚脸皮&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-39" value="完全体 与 止损" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7vm0t1rizR-KaLSvdGfu-40" value="选择 - 负责" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="760" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
