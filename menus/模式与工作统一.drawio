@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T04:45:43.388Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ScHWGjLFtITkJlTmFRPY" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-21T04:52:28.238Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="OCHtL0rVwNXquj20E6Wd" version="21.3.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="1593" dy="5567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -904,10 +904,10 @@
         <mxCell id="3HMc31M2C9y_dZx39idH-5" value="低位-超跌、松动 - 试探？ 切换" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3738" y="-3680" width="340" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qiVgh8ej-BtGbeadIA5h-2" value="主线、热点、人气&amp;nbsp; &amp;nbsp;| 趋势不会随意产生、也不会随意消失 |新不易生，老不易死，无则守旧&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-2" value="主线、热点、人气&amp;nbsp; &amp;nbsp;| 趋势不会随意产生、也不会随意消失 |新不易生，老不易死，无则守旧&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3345" y="-2220" width="510" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qiVgh8ej-BtGbeadIA5h-3" value="河流理论 | 鹰鱼理论 |水理论&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-3" value="&lt;font color=&quot;#ff0080&quot;&gt;河流理论 | 鹰鱼理论 |水理论&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3410" y="-2530" width="520" height="260" as="geometry" />
         </mxCell>
         <mxCell id="qiVgh8ej-BtGbeadIA5h-4" value="动能" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -985,7 +985,7 @@
         <mxCell id="qiVgh8ej-BtGbeadIA5h-28" value="模式：低位、高位、接力？模板走势、挑战监管、高低切" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3680" y="-2860" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qiVgh8ej-BtGbeadIA5h-29" value="发现规律、运用规律" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-29" value="发现规律、运用规律" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3685" y="-2922" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qiVgh8ej-BtGbeadIA5h-30" value="控制住手、不要一开盘就打进去找确定性- 盘中" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1051,7 +1051,7 @@
           <mxGeometry x="3700" y="-3020" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qiVgh8ej-BtGbeadIA5h-48" value="相对确定性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3648" y="-3060" width="90" height="40" as="geometry" />
+          <mxGeometry x="3660" y="-3070" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qiVgh8ej-BtGbeadIA5h-50" value="胜率" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3545" y="-3150" width="90" height="20" as="geometry" />
@@ -1092,13 +1092,13 @@
         <mxCell id="qiVgh8ej-BtGbeadIA5h-64" value="第二天是否持续" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3510" y="-2520" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qiVgh8ej-BtGbeadIA5h-65" value="入场" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-65" value="入场" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3445" y="-3200" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qiVgh8ej-BtGbeadIA5h-66" value="看似很多票，其实有价值出手的并不多" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3447" y="-3140" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qiVgh8ej-BtGbeadIA5h-67" value="注重逻辑，逻辑是隐含的流动放方向" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-67" value="注重逻辑，逻辑是隐含的流动放方向" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3780" y="-2280" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qiVgh8ej-BtGbeadIA5h-68" value="逻辑性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1139,6 +1139,21 @@
         </mxCell>
         <mxCell id="qiVgh8ej-BtGbeadIA5h-80" value="追涨要趁早，低吸要滞后-即使是拿先手" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3935" y="-3240" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-81" value="自己问题：票太多，太乱、太杂、导致开盘乱、有些跷跷板 ，&amp;nbsp; 本质还是对自己的买入方式不自信。。如何提升买点、胜率、盈亏比呢？？？" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3272" y="-3480" width="248" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-82" value="大盘涨 - 午后，查看板块，发现半导体相似图形，介入" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3070" y="-2820" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-83" value="大盘的压制与带动" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3910" y="-2550" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-84" value="做与不做" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="3758" y="-3060" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-85" value="切勿急躁，总结最稳妥的进场方式" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="3450" y="-3070" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
