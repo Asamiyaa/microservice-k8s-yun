@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T04:23:29.500Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="xi23hjh_ONwg-6Cw6pXl" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-21T04:25:07.128Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="CHaXrsU0qRMvZf51J0S-" version="21.3.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="1593" dy="5567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -701,22 +701,22 @@
           <mxGeometry x="3360" y="-730" width="450" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-18" value="模式" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="3090" y="-2015" width="2200" height="50" as="geometry" />
+          <mxGeometry x="3090" y="-2015" width="2200" height="175" as="geometry" />
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-19" value="重复性" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3820" y="-1820" width="120" height="80" as="geometry" />
+          <mxGeometry x="3805" y="-1945" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-20" value="稳定性" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3820" y="-1730" width="120" height="80" as="geometry" />
+          <mxGeometry x="3805" y="-1883" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-21" value="可操作性性" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3825" y="-1620" width="120" height="80" as="geometry" />
+          <mxGeometry x="3800" y="-1820" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-22" value="微调" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3920" y="-1810" width="120" height="80" as="geometry" />
+          <mxGeometry x="3905" y="-1963" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-23" value="特点" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3670" y="-1730" width="120" height="80" as="geometry" />
+          <mxGeometry x="3655" y="-1883" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zyEnr8aLNKl9iEY24u73-24" value="趋势和情绪的平衡&lt;br&gt;发现市场偏好和变化方向来调整自己的模式适应市场" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4190" y="-1820" width="340" height="80" as="geometry" />
@@ -1097,6 +1097,18 @@
         </mxCell>
         <mxCell id="qiVgh8ej-BtGbeadIA5h-66" value="看似很多票，其实有价值出手的并不多" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3447" y="-3140" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-67" value="注重逻辑，逻辑是隐含的流动放方向" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3780" y="-2280" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-68" value="逻辑性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3800" y="-1756.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-69" value="可完成性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3812" y="-2015" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-70" value="动态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3890" y="-1860" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
