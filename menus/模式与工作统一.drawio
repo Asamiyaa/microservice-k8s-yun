@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T04:52:28.238Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="OCHtL0rVwNXquj20E6Wd" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-21T05:05:52.550Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="0CeMl09wAyRXdlWrC-0J" version="21.3.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="1593" dy="5567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1111,9 +1111,9 @@
           <mxGeometry x="3890" y="-1860" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qiVgh8ej-BtGbeadIA5h-71" value="辨识度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3932" y="-2270" width="90" height="40" as="geometry" />
+          <mxGeometry x="3932" y="-2290" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qiVgh8ej-BtGbeadIA5h-72" value="大单" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-72" value="大单" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3707" y="-3130" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qiVgh8ej-BtGbeadIA5h-73" value="承接" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1154,6 +1154,42 @@
         </mxCell>
         <mxCell id="qiVgh8ej-BtGbeadIA5h-85" value="切勿急躁，总结最稳妥的进场方式" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3450" y="-3070" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-86" value="细节：炒作细分、个股" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="3785" y="-2852" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-87" value="科大讯飞" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4030" y="-2298" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-88" value="大华股份" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4030" y="-2260" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-89" value="浪潮信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4030" y="-2220" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-90" value="券商、中船、中国银行、光大证券" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3150" y="-3030" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-91" value="努力与结果" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3920" y="-3170" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-92" value="个股大单占比" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2645" y="-3070" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-93" value="分时回顾看承接" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2645" y="-3030" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-94" value="大单净流入" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4000" y="-3170" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-95" value="测试：支撑、阻力、试盘" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="3850" y="-3070" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-96" value="尾盘" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2630" y="-2990" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-97" value="龙虎榜" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2635" y="-2950" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
