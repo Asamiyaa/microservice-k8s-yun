@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T02:10:15.260Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="kJ6NggmcCvK6ombzEtAM" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T02:16:17.075Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="_ItDHQR6Y1jTVSt15B27" version="21.3.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="2206" dy="5910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -988,7 +988,7 @@
         <mxCell id="2wLClMFwbhVotuMkJXd0-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qiVgh8ej-BtGbeadIA5h-29" target="2wLClMFwbhVotuMkJXd0-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qiVgh8ej-BtGbeadIA5h-29" value="发现规律、运用规律&lt;br&gt;感知" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-29" value="发现规律、运用规律&lt;br&gt;感知&lt;br&gt;发现问题、定义问题、解决问题&lt;br&gt;大胆推测、小心求证" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="2950" y="-4090" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qiVgh8ej-BtGbeadIA5h-30" value="控制住手、不要一开盘就打进去找确定性- 盘中" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1063,7 +1063,7 @@
         <mxCell id="2wLClMFwbhVotuMkJXd0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qiVgh8ej-BtGbeadIA5h-53" target="qiVgh8ej-BtGbeadIA5h-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qiVgh8ej-BtGbeadIA5h-53" value="&lt;div&gt;发现机制 - 每日复盘、同花顺&lt;/div&gt;&lt;div&gt;盘中看指数、板块变化、盘中看异动，判断是否型号才能板块效应&lt;/div&gt;&lt;div&gt;第一个上板。。。。&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-53" value="&lt;div&gt;发现机制 - 每日复盘、同花顺&lt;/div&gt;&lt;div&gt;盘中看指数、板块变化、盘中看异动，判断是否型号才能板块效应&lt;/div&gt;&lt;div&gt;第一个上板。。。。第二个确认 。&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2415" y="-2820" width="410" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qiVgh8ej-BtGbeadIA5h-54" value="&lt;div&gt;决策机制&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1215,7 +1215,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2wLClMFwbhVotuMkJXd0-9" value="1.持股数量必须控制&amp;nbsp; -- 提高买点确定性、要求自己必须思考\&amp;nbsp; &amp;nbsp;--- 用好仅有的次数&lt;br&gt;2.必须有板块效应，不能臆想；或者是个股及其本身利好，不能只看技术指标，一定要小心" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="2wLClMFwbhVotuMkJXd0-9" value="0.市场是否值得博弈、不要什么都要，是否企稳。控制住手，市场存量博弈。控制&lt;br&gt;1.持股数量必须控制&amp;nbsp; -- 提高买点确定性、要求自己必须思考\&amp;nbsp; &amp;nbsp;--- 用好仅有的次数&lt;br&gt;2.必须有板块效应，不能臆想；或者是个股及&lt;br&gt;其本身利好，不能只看技术指标，一定要小心" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3460" y="-3850" width="275" height="170" as="geometry" />
         </mxCell>
         <mxCell id="2wLClMFwbhVotuMkJXd0-15" value="盘后感知" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -1292,6 +1292,9 @@
         </mxCell>
         <mxCell id="2wLClMFwbhVotuMkJXd0-45" value="过滤系统" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3550" y="-3410" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2wLClMFwbhVotuMkJXd0-47" value="动态：根据市场情绪前后移动确认条件" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3133" y="-2962" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
