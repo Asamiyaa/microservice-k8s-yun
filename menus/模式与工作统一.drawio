@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T01:20:39.110Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="aroqJDgm8q3P5L3bjDwS" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T01:30:19.352Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="N510lw49sEbRBbNPsgAK" version="21.3.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="2206" dy="5910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -991,8 +991,8 @@
         <mxCell id="qiVgh8ej-BtGbeadIA5h-28" value="模式：低位、高位、接力？模板走势、挑战监管、高低切" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3680" y="-2860" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qiVgh8ej-BtGbeadIA5h-29" value="发现规律、运用规律" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="4160" y="-2900" width="100" height="70" as="geometry" />
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-29" value="发现规律、运用规律&lt;br&gt;感知" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="3187" y="-3830" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qiVgh8ej-BtGbeadIA5h-30" value="控制住手、不要一开盘就打进去找确定性- 盘中" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3640" y="-2650" width="90" height="40" as="geometry" />
@@ -1039,7 +1039,7 @@
         <mxCell id="qiVgh8ej-BtGbeadIA5h-42" value="止损点" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3660" y="-3190" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qiVgh8ej-BtGbeadIA5h-43" value="盘中感知" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-43" value="盘中感知" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="3123.5" y="-3047.5" width="243" height="95" as="geometry" />
         </mxCell>
         <mxCell id="qiVgh8ej-BtGbeadIA5h-44" value="博弈" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1204,7 +1204,7 @@
         <mxCell id="2wLClMFwbhVotuMkJXd0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2wLClMFwbhVotuMkJXd0-4" target="qiVgh8ej-BtGbeadIA5h-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2wLClMFwbhVotuMkJXd0-4" value="&lt;div&gt;模式内：1.涨停 - 连续一天、两天跌 、放量 、热度、底部筹码不变、绿线上升、vr线变化 、--&amp;gt; 五日弱转强&lt;/div&gt;&lt;div&gt;2.空中加油、盘中发现非常重要，次日可能没有好的买点，除非是趋势&lt;/div&gt;&lt;div&gt;3.突破、真假突破，一定是建立在对资金流向感知前提下，突破不是，比如当时用友网络突破、后来伊利集团、等好多无用、后排、小题材突破都不应该上&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2wLClMFwbhVotuMkJXd0-4" value="&lt;div&gt;模式内：1.涨停 - 连续一天、两天跌 、放量 、热度、底部筹码不变、绿线上升、vr线变化 、--&amp;gt; 五日弱转强 、交易量放大&lt;/div&gt;&lt;div&gt;2.空中加油、盘中发现非常重要，次日可能没有好的买点，除非是趋势&lt;/div&gt;&lt;div&gt;3.突破、真假突破，一定是建立在对资金流向感知前提下，突破不是，比如当时用友网络突破、后来伊利集团、等好多无用、后排、小题材突破都不应该上&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2372.5" y="-3040" width="495" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2wLClMFwbhVotuMkJXd0-6" value="盘中变化及时上车，比如中国银河" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1224,7 +1224,7 @@
         <mxCell id="2wLClMFwbhVotuMkJXd0-15" value="盘后感知" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2784.5" y="-3160" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2wLClMFwbhVotuMkJXd0-16" value="几条线必须明确、各个线重点标的&lt;br&gt;是否值得开仓，机会&lt;br&gt;顺序" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="2wLClMFwbhVotuMkJXd0-16" value="几条线必须明确、各个线重点标的&lt;br&gt;是否值得开仓，机会&lt;br&gt;顺序&lt;br&gt;梯队、位置" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3770" y="-3680" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2wLClMFwbhVotuMkJXd0-17" value="模式&amp;nbsp; -- 可以赚钱的&amp;nbsp;&lt;br&gt;信念&amp;nbsp; 而不是买入可能涨、可能跌、太多试错 5月份" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -1236,8 +1236,14 @@
         <mxCell id="2wLClMFwbhVotuMkJXd0-18" value="一定要细致，不要多，要准" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2565" y="-3110" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2wLClMFwbhVotuMkJXd0-22" value="信心" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2wLClMFwbhVotuMkJXd0-22" value="信心" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2950" y="-3100" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2wLClMFwbhVotuMkJXd0-23" value="新生、确认、强化、分歧、衰落、二次&lt;br&gt;龙头、跟风" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="3955" y="-3680" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2wLClMFwbhVotuMkJXd0-24" value="河化股份&lt;br&gt;宁波建工" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2950" y="-2962" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
