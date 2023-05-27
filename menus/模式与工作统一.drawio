@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T01:52:40.197Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="SF-4TZrBlv8eX3It1PCw" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T02:10:15.260Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="kJ6NggmcCvK6ombzEtAM" version="21.3.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="2206" dy="5910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -985,6 +985,9 @@
         <mxCell id="qiVgh8ej-BtGbeadIA5h-28" value="模式：低位、高位、接力？模板走势、挑战监管、高低切" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3680" y="-2860" width="100" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="2wLClMFwbhVotuMkJXd0-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qiVgh8ej-BtGbeadIA5h-29" target="2wLClMFwbhVotuMkJXd0-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qiVgh8ej-BtGbeadIA5h-29" value="发现规律、运用规律&lt;br&gt;感知" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="2950" y="-4090" width="320" height="60" as="geometry" />
         </mxCell>
@@ -1043,7 +1046,7 @@
           <mxGeometry x="3970" y="-2940" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qiVgh8ej-BtGbeadIA5h-47" value="等待" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3390" y="-3890" width="90" height="40" as="geometry" />
+          <mxGeometry x="3357" y="-3940" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qiVgh8ej-BtGbeadIA5h-48" value="相对确定性" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3660" y="-3070" width="90" height="40" as="geometry" />
@@ -1198,7 +1201,7 @@
         <mxCell id="2wLClMFwbhVotuMkJXd0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2wLClMFwbhVotuMkJXd0-4" target="qiVgh8ej-BtGbeadIA5h-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2wLClMFwbhVotuMkJXd0-4" value="&lt;div&gt;模式内：1.涨停 - 连续一天、两天跌 、放量 、热度、底部筹码不变、绿线上升、vr线变化 、--&amp;gt; 五日弱转强 、交易量放大&lt;/div&gt;&lt;div&gt;2.空中加油、盘中发现非常重要，次日可能没有好的买点，除非是趋势&lt;/div&gt;&lt;div&gt;3.突破、真假突破，一定是建立在对资金流向感知前提下，突破不是，比如当时用友网络突破、后来伊利集团、等好多无用、后排、小题材突破都不应该上&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2wLClMFwbhVotuMkJXd0-4" value="&lt;div&gt;模式内：1.涨停 - 连续一天、两天跌 、放量 、热度、底部筹码不变、绿线上升、vr线变化 、--&amp;gt; 五日弱转强 、交易量放大&lt;/div&gt;&lt;div&gt;2.空中加油、盘中发现非常重要，次日可能没有好的买点，除非是趋势&amp;nbsp; -- 上板的票？&lt;/div&gt;&lt;div&gt;3.突破、真假突破，一定是建立在对资金流向感知前提下，突破不是，比如当时用友网络突破、后来伊利集团、等好多无用、后排、小题材突破都不应该上&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2372.5" y="-3040" width="495" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2wLClMFwbhVotuMkJXd0-6" value="盘中变化及时上车，比如中国银河" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1239,17 +1242,17 @@
         <mxCell id="2wLClMFwbhVotuMkJXd0-24" value="河化股份&lt;br&gt;宁波建工" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2950" y="-2962" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2wLClMFwbhVotuMkJXd0-25" value="&lt;div&gt;趋势形成：&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="2wLClMFwbhVotuMkJXd0-25" value="&lt;div&gt;趋势形成：大盘的压制 、 独立于大盘的能力&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="3020" y="-3280" width="410" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2wLClMFwbhVotuMkJXd0-26" value="新题材 vs老题材&amp;nbsp;&lt;br&gt;大题材 vs 小题材(旅游等就是小题材、ai就是大题材)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3492" y="-3560" width="248" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="2wLClMFwbhVotuMkJXd0-28" value="炒作特点：小市值、极值模式、底部震荡、大市值(中国银行)&lt;br&gt;中字头、反抽(ai) 、试错、趋势形成&lt;br&gt;挑战监管(东方热电)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3217" y="-4140" width="213" height="80" as="geometry" />
+        <mxCell id="2wLClMFwbhVotuMkJXd0-28" value="炒作特点：小市值、极值模式、底部震荡、大市值(中国银行)&lt;br&gt;中字头、反抽(ai) 、试错、趋势形成&lt;br&gt;挑战监管(东方热电)、688/300 、次新股、题材、趋势(新能源) 、 机构vs游资 、研报" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3217" y="-4150" width="273" height="90" as="geometry" />
         </mxCell>
         <mxCell id="2wLClMFwbhVotuMkJXd0-29" value="龙头 - 切换(新题材、超跌)-补涨" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3440" y="-4140" width="213" height="80" as="geometry" />
+          <mxGeometry x="3494" y="-4140" width="213" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2wLClMFwbhVotuMkJXd0-30" value="组合 ： ai + 传媒 、 ai+教育&amp;nbsp;&lt;br&gt;ai + 中字头" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3340" y="-4050" width="130" height="60" as="geometry" />
@@ -1260,14 +1263,35 @@
         <mxCell id="2wLClMFwbhVotuMkJXd0-32" value="&amp;nbsp;&amp;nbsp;乱买导致困在烂摊子里，错过了剑桥、金桥、拓维等真正值得博弈的票" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="3730" y="-3770" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="2wLClMFwbhVotuMkJXd0-33" value="周复盘：看板块的周线、感知市场轮动、比如半导体、电力(夏天)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2wLClMFwbhVotuMkJXd0-33" value="周复盘：看板块的周线、感知市场轮动、比如半导体、电力(夏天)&lt;br&gt;淘股吧：大家讨论最多的 比如中字头 ..." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2442" y="-3360" width="388" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2wLClMFwbhVotuMkJXd0-34" value="低吸只吸：当前热、刚刚热且跌到企稳的，不做左侧，比如自己低吸了那么多电力 亚玛顿、杉杉股份、隆基绿能、当电力来临时却没有涨，跌起来却没落下。。所以多看少动，风来了再决定谁是龙头" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="3777" y="-3580" width="248" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2wLClMFwbhVotuMkJXd0-35" value="博弈" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3335" y="-3910" width="90" height="40" as="geometry" />
+          <mxGeometry x="3269" y="-3940" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2wLClMFwbhVotuMkJXd0-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2wLClMFwbhVotuMkJXd0-37" target="qiVgh8ej-BtGbeadIA5h-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2wLClMFwbhVotuMkJXd0-37" value="规律 、 维度(多维、合理) - 准确&amp;nbsp; &amp;nbsp; -&amp;nbsp; 验证 - 运用&amp;nbsp; - 感知&lt;br&gt;大师兄" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2765" y="-3830" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2wLClMFwbhVotuMkJXd0-41" value="压制大盘的原因：疫情、美债、战争" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3205" y="-4000" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2wLClMFwbhVotuMkJXd0-42" value="取舍" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3447" y="-3940" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2wLClMFwbhVotuMkJXd0-43" value="明确的细节计划" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="3010" y="-3087.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2wLClMFwbhVotuMkJXd0-44" value="爆量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3580" y="-2890" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2wLClMFwbhVotuMkJXd0-45" value="过滤系统" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3550" y="-3410" width="230" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
