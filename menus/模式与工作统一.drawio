@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T01:14:39.896Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="vx6tkuPZWLaguwWfVzDi" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T01:15:07.814Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="P-9_Bk1PzqwO3_9xLtiT" version="21.3.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="2206" dy="5910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1227,7 +1227,7 @@
         <mxCell id="2wLClMFwbhVotuMkJXd0-16" value="几条线必须明确、各个线重点标的&lt;br&gt;是否值得开仓，机会" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3770" y="-3680" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2wLClMFwbhVotuMkJXd0-17" value="模式&amp;nbsp;&lt;br&gt;信念&amp;nbsp; 而不是买入可能涨、可能跌、太多试错 5月份" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="2wLClMFwbhVotuMkJXd0-17" value="模式&amp;nbsp; -- 可以赚钱的&amp;nbsp;&lt;br&gt;信念&amp;nbsp; 而不是买入可能涨、可能跌、太多试错 5月份" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2870" y="-3020" width="220" height="55" as="geometry" />
         </mxCell>
       </root>
