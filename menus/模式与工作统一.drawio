@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T02:33:14.805Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Y05vJLqYy5PgUVutqVLE" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T02:44:11.340Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="RDuReXF0VJkWBhAT4q2E" version="21.3.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
-    <mxGraphModel dx="4097" dy="8136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="6991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1224,7 +1224,7 @@
         <mxCell id="2wLClMFwbhVotuMkJXd0-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2wLClMFwbhVotuMkJXd0-9" target="6cugpfum-vKLVvc9rWAJ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2wLClMFwbhVotuMkJXd0-9" value="0.市场是否值得博弈、不要什么都要，是否企稳。控制住手，市场存量博弈。控制&lt;br&gt;1.持股数量必须控制&amp;nbsp; -- 提高买点确定性、要求自己必须思考\&amp;nbsp; &amp;nbsp;--- 用好仅有的次数&lt;br&gt;2.必须有板块效应，不能臆想；或者是个股及&lt;br&gt;其本身利好，不能只看技术指标，一定要小心" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="2wLClMFwbhVotuMkJXd0-9" value="0.市场是否值得博弈、不要什么都要，是否企稳。控制住手，市场存量博弈。控制&lt;br&gt;1.持股数量必须控制&amp;nbsp; -- 提高买点确定性、要求自己必须思考\&amp;nbsp; &amp;nbsp;--- 用好仅有的次数&lt;br&gt;2.必须有板块效应，不能臆想；或者是个股及&lt;br&gt;其本身利好，不能只看技术指标，一定要小心&lt;br&gt;3.市场强势时，做强势突破；弱势时不做或者等待拐点、低吸核心票(该跌不跌、高人气)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3457.5" y="-3850" width="275" height="170" as="geometry" />
         </mxCell>
         <mxCell id="2wLClMFwbhVotuMkJXd0-15" value="盘后感知" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
