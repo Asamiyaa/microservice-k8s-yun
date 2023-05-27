@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T01:34:55.282Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="NSQVqF2-0ugwuUwWRN9D" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T01:42:58.252Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="74k7Bu4nS4Zb1725chD-" version="21.3.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="2206" dy="5910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -992,7 +992,7 @@
           <mxGeometry x="3680" y="-2860" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qiVgh8ej-BtGbeadIA5h-29" value="发现规律、运用规律&lt;br&gt;感知" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="3187" y="-3830" width="320" height="60" as="geometry" />
+          <mxGeometry x="3180" y="-3960" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qiVgh8ej-BtGbeadIA5h-30" value="控制住手、不要一开盘就打进去找确定性- 盘中" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3640" y="-2650" width="90" height="40" as="geometry" />
@@ -1218,7 +1218,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2wLClMFwbhVotuMkJXd0-9" value="1.持股数量必须控制&amp;nbsp; -- 提高买点确定性、要求自己必须思考" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="2wLClMFwbhVotuMkJXd0-9" value="1.持股数量必须控制&amp;nbsp; -- 提高买点确定性、要求自己必须思考\&amp;nbsp; &amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3455.5" y="-3730" width="275" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2wLClMFwbhVotuMkJXd0-15" value="盘后感知" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -1250,6 +1250,24 @@
         </mxCell>
         <mxCell id="2wLClMFwbhVotuMkJXd0-26" value="新题材 vs老题材&amp;nbsp;&lt;br&gt;大题材 vs 小题材(旅游等就是小题材、ai就是大题材)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3492" y="-3560" width="248" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2wLClMFwbhVotuMkJXd0-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3425" y="-4020" width="545" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="2wLClMFwbhVotuMkJXd0-28" value="炒作特点：小市值、极值模式、底部震荡、大市值(中国银行)&lt;br&gt;中字头、反抽(ai) 、试错、趋势形成&lt;br&gt;挑战监管(东方热电)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3447" y="-4010" width="213" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2wLClMFwbhVotuMkJXd0-29" value="龙头 - 切换(新题材、超跌)-补涨" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3670" y="-4010" width="213" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2wLClMFwbhVotuMkJXd0-30" value="组合 ： ai + 传媒 、 ai+教育&amp;nbsp;&lt;br&gt;ai + 中字头" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3570" y="-3920" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2wLClMFwbhVotuMkJXd0-31" value="炒作细分：ai中水冷服务器、数据要素、应用电商、显卡、工业富联制造、.....传媒、教育..." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3760" y="-3930" width="172" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2wLClMFwbhVotuMkJXd0-32" value="&amp;nbsp;&amp;nbsp;乱买导致困在烂摊子里，错过了剑桥、金桥、拓维等真正值得博弈的票" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="3730" y="-3770" width="210" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
