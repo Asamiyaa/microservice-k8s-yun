@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T01:30:19.352Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="N510lw49sEbRBbNPsgAK" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T01:30:56.365Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="jKj4dWsg0nUxxFqq-50x" version="21.3.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="2206" dy="5910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1244,6 +1244,9 @@
         </mxCell>
         <mxCell id="2wLClMFwbhVotuMkJXd0-24" value="河化股份&lt;br&gt;宁波建工" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2950" y="-2962" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2wLClMFwbhVotuMkJXd0-25" value="&lt;div&gt;趋势形成：&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="3020" y="-3280" width="410" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
