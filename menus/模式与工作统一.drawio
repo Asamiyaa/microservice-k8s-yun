@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T01:42:58.252Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="74k7Bu4nS4Zb1725chD-" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T01:45:56.052Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ctTJyYiMXoUd88Zv5qYA" version="21.3.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="2206" dy="5910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1268,6 +1268,12 @@
         </mxCell>
         <mxCell id="2wLClMFwbhVotuMkJXd0-32" value="&amp;nbsp;&amp;nbsp;乱买导致困在烂摊子里，错过了剑桥、金桥、拓维等真正值得博弈的票" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="3730" y="-3770" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2wLClMFwbhVotuMkJXd0-33" value="周复盘：看板块的周线、感知市场轮动、比如半导体、电力(夏天)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2442" y="-3360" width="388" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2wLClMFwbhVotuMkJXd0-34" value="低吸只吸：当前热、刚刚热且跌到企稳的，不做左侧，比如自己低吸了那么多电力 亚玛顿、杉杉股份、隆基绿能、当电力来临时却没有涨，跌起来却没落下。。所以多看少动，风来了再决定谁是龙头" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="3777" y="-3580" width="248" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
