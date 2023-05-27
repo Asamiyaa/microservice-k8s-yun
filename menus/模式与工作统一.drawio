@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T01:31:37.533Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ZndroNcXnW_9nGtxn5gr" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T01:34:55.282Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="NSQVqF2-0ugwuUwWRN9D" version="21.3.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="2206" dy="5910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -998,7 +998,7 @@
           <mxGeometry x="3640" y="-2650" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qiVgh8ej-BtGbeadIA5h-31" value="集合竞价" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3862" y="-2840" width="90" height="40" as="geometry" />
+          <mxGeometry x="3515" y="-2870" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qiVgh8ej-BtGbeadIA5h-32" value="开盘？条件单？直接" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3855" y="-2800" width="90" height="40" as="geometry" />
@@ -1066,7 +1066,7 @@
         <mxCell id="2wLClMFwbhVotuMkJXd0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qiVgh8ej-BtGbeadIA5h-53" target="qiVgh8ej-BtGbeadIA5h-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qiVgh8ej-BtGbeadIA5h-53" value="&lt;div&gt;发现机制 - 每日复盘、同花顺&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qiVgh8ej-BtGbeadIA5h-53" value="&lt;div&gt;发现机制 - 每日复盘、同花顺&lt;/div&gt;&lt;div&gt;盘中看指数、板块变化、盘中看异动，判断是否型号才能板块效应&lt;/div&gt;&lt;div&gt;第一个上板。。。。&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2415" y="-2820" width="410" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qiVgh8ej-BtGbeadIA5h-54" value="&lt;div&gt;决策机制&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1247,6 +1247,9 @@
         </mxCell>
         <mxCell id="2wLClMFwbhVotuMkJXd0-25" value="&lt;div&gt;趋势形成：&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="3020" y="-3280" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2wLClMFwbhVotuMkJXd0-26" value="新题材 vs老题材&amp;nbsp;&lt;br&gt;大题材 vs 小题材(旅游等就是小题材、ai就是大题材)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3492" y="-3560" width="248" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
