@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T02:48:10.876Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="P7dSDduz1Gb2w0TUeaT3" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T02:59:11.481Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="6Fu7K5AFswGLv7zvWbFY" version="21.3.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
-    <mxGraphModel dx="1593" dy="6736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="6689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1287,7 +1287,7 @@
         <mxCell id="2wLClMFwbhVotuMkJXd0-37" value="规律 、 维度(多维、合理) - 准确&amp;nbsp; &amp;nbsp; -&amp;nbsp; 验证 - 运用&amp;nbsp; - 感知&lt;br&gt;大师兄" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2765" y="-3830" width="410" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2wLClMFwbhVotuMkJXd0-41" value="压制大盘的原因：疫情、美债、战争" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2wLClMFwbhVotuMkJXd0-41" value="压制大盘的原因：疫情、美债、战争、人民币升值" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3065" y="-4250" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2wLClMFwbhVotuMkJXd0-42" value="取舍" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
