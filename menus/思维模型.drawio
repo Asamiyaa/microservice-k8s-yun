@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T10:23:41.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="FjEw-ewQtUM0gU1BpSNl" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T10:24:18.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="VigF_CA0o1pFpvOYJ7CU" version="21.4.0" type="github">
   <diagram name="第 1 页" id="YvtEZz4fDpHej9pVCONi">
     <mxGraphModel dx="1793" dy="2172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-64" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="92" y="260" width="855" height="125" as="geometry" />
-        </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-63" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="92" y="130" width="855" height="125" as="geometry" />
         </mxCell>
@@ -16,32 +13,8 @@
         <mxCell id="yrJ8rADurVAFEkHN2O-o-46" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="95" y="-240" width="855" height="235" as="geometry" />
         </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-45" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="-525" width="770" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="-390" width="770" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-4" value="系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="134" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-5" value="结构化" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-7" value="模型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-8" value="决策" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="625" y="-170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-9" value="风口" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294" y="-370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-10" value="杠杆" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="-370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-11" value="自由" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="-510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yrJ8rADurVAFEkHN2O-o-12" target="yrJ8rADurVAFEkHN2O-o-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -61,32 +34,14 @@
         <mxCell id="yrJ8rADurVAFEkHN2O-o-15" value="创造" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="185" y="-120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-19" value="迁移" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-30" value="博弈" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="10" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-31" value="拉开人与人的差异" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="-500" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-49" value="批判" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="454" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-56" value="惯性 - 趋势&lt;br&gt;任何一种趋势，要改变原先的状态都不能立竿见影，其效果总是滞后的，越大的趋势越是如此" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="10" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-57" value="弯道超车" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="10" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-59" value="升维" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-60" value="降维" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-61" value="回溯 、重新定义问题(思维定势)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="725" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-69" value="概率" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="10" width="120" height="60" as="geometry" />
@@ -525,6 +480,9 @@
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-150" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;恐惧与游戏者心态&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="2880" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-151" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;升维&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="2530" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
