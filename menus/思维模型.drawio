@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T10:10:45.848Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="wJENpxYJszYZwaCfOqIX" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T10:11:15.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="6XlD-_i93xA5fmyy2hwE" version="21.4.0" type="github">
   <diagram name="第 1 页" id="YvtEZz4fDpHej9pVCONi">
     <mxGraphModel dx="2620" dy="2172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -581,6 +581,42 @@
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-133" value="关联" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2660" y="2690" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-135" value="STAR" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="1800" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-136" value="28原则" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="1800" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-137" value="复盘" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2153.0000000000005" y="1863.5882160707442" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-138" value="飞轮效应" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="1880" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-139" value="效率" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="1800" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-140" value="PDCA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="1800" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-141" value="PDCA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="1800" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-142" value="5W2H" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="1730" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-143" value="SWART" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="1730" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-144" value="PDCA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="1730" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-145" value="SWOT" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="1730" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-146" value="时间管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="1730" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
