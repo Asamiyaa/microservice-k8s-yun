@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T10:15:00.677Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="j6jQqaDmWHa_BNloNOrf" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T10:22:10.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="XFD4gefHXNJHY1XajpbG" version="21.4.0" type="github">
   <diagram name="第 1 页" id="YvtEZz4fDpHej9pVCONi">
     <mxGraphModel dx="2620" dy="2172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -342,7 +342,7 @@
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-52" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;抽象&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="705" y="2600" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="z8WvKWM3-rtfyO4jZk8O-53" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;感知&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-53" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;感知 - 洞察力&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="2600" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-54" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;正循环&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -620,6 +620,9 @@
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-147" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;归纳-系统-结构-分层 - 关联&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="2680" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-148" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;p style=&quot;margin: 0; padding: 0; min-height: 24px; text-indent: 2em; margin-left: 2em&quot; class=&quot;ne-p&quot; id=&quot;u5ca5fe3c&quot;&gt;系统思维(模型) -- 逻辑思维(要素、流程、假设) --  多维、多元(发散、论证、环境) -- 迁移(关联、刻意练习)&lt;/p&gt;&lt;p style=&quot;margin: 0; padding: 0; min-height: 24px; text-indent: 2em; margin-left: 2em&quot; class=&quot;ne-p&quot; id=&quot;u6198b246&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;执行(回溯、自律、时间、反馈、指标、) -- 复盘&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="2660" width="340" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
