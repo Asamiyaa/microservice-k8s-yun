@@ -1,15 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T10:22:10.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="XFD4gefHXNJHY1XajpbG" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T10:23:13.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="qDrDQlat7k44nLN7bNCR" version="21.4.0" type="github">
   <diagram name="第 1 页" id="YvtEZz4fDpHej9pVCONi">
-    <mxGraphModel dx="2620" dy="2172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="2172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-66" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-175" y="387.5" width="855" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-65" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="92" y="522" width="855" height="125" as="geometry" />
-        </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-64" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="92" y="260" width="855" height="125" as="geometry" />
         </mxCell>
@@ -28,23 +22,11 @@
         <mxCell id="yrJ8rADurVAFEkHN2O-o-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="-390" width="770" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-1" value="学习" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="560" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-2" value="专注" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="560" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-3" value="组块" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="560" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-4" value="系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="134" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-5" value="结构化" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-6" value="复杂性思维 - 跨学科" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-7" value="模型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="140" width="120" height="60" as="geometry" />
@@ -96,41 +78,14 @@
         <mxCell id="yrJ8rADurVAFEkHN2O-o-21" value="复盘" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1330" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="yrJ8rADurVAFEkHN2O-o-22" target="yrJ8rADurVAFEkHN2O-o-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-22" value="兴趣" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="690" width="110" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-24" value="时间" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1440" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-26" value="本质" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="850" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-27" value="反证&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="yrJ8rADurVAFEkHN2O-o-28" target="yrJ8rADurVAFEkHN2O-o-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-28" value="多维度" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-30" value="博弈" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-31" value="拉开人与人的差异" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="-500" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="yrJ8rADurVAFEkHN2O-o-32" target="yrJ8rADurVAFEkHN2O-o-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-32" value="自我感知" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="850" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-33" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;ul style=&quot;margin: 0; padding-left: 23px&quot; class=&quot;ne-ul&quot;&gt;&lt;li id=&quot;uc30e6d70&quot;&gt;对自己的言行举止都是无意识的、凭自己喜好&lt;/li&gt;&lt;li id=&quot;uc17edd8b&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;思考自己为为什么这么做，自我反省的阶段，向内求&lt;/span&gt;&lt;/li&gt;&lt;li id=&quot;u63547b23&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;接受自己的不完美，不与自己对抗、心态平和、情绪稳定、做自己的主人&lt;/span&gt;&lt;/li&gt;&lt;li id=&quot;u4344cce0&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;自我认知和情绪控制、行动执行力变得超强、会管理好自己的心态和时间、自律、有能力用大脑意识控制自己的言行举止、做到知行合一&lt;/span&gt;&lt;/li&gt;&lt;li id=&quot;ubfca6bf3&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;极度专注能力、忘我的境界、个人魅力、领袖的智慧&lt;/span&gt;&lt;/li&gt;&lt;li id=&quot;ucda49014&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;慈悲、造福大众&lt;/span&gt;&lt;/li&gt;&lt;li id=&quot;uc3cded7e&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;自己人生目标、如果你不能解决问题、你就会成为一个问题&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="475" y="750" width="410" height="260" as="geometry" />
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yrJ8rADurVAFEkHN2O-o-35" target="yrJ8rADurVAFEkHN2O-o-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -150,26 +105,17 @@
         <mxCell id="yrJ8rADurVAFEkHN2O-o-47" value="渴望的、待实现的" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1030" y="190" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-48" value="多元" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-49" value="批判" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="454" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-50" value="刻意练习" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1570" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-51" value="强者思维" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-210" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="yrJ8rADurVAFEkHN2O-o-52" target="yrJ8rADurVAFEkHN2O-o-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-52" value="游戏者" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1290" y="420" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-54" value="禁止受害者思维" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-56" value="惯性 - 趋势&lt;br&gt;任何一种趋势，要改变原先的状态都不能立竿见影，其效果总是滞后的，越大的趋势越是如此" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="10" width="210" height="60" as="geometry" />
@@ -188,9 +134,6 @@
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-61" value="回溯 、重新定义问题(思维定势)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="725" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yrJ8rADurVAFEkHN2O-o-68" value="洞察力" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yrJ8rADurVAFEkHN2O-o-69" value="概率" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="10" width="120" height="60" as="geometry" />
@@ -623,6 +566,9 @@
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-148" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;p style=&quot;margin: 0; padding: 0; min-height: 24px; text-indent: 2em; margin-left: 2em&quot; class=&quot;ne-p&quot; id=&quot;u5ca5fe3c&quot;&gt;系统思维(模型) -- 逻辑思维(要素、流程、假设) --  多维、多元(发散、论证、环境) -- 迁移(关联、刻意练习)&lt;/p&gt;&lt;p style=&quot;margin: 0; padding: 0; min-height: 24px; text-indent: 2em; margin-left: 2em&quot; class=&quot;ne-p&quot; id=&quot;u6198b246&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;执行(回溯、自律、时间、反馈、指标、) -- 复盘&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1250" y="2660" width="340" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-149" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;强者 - 跨学科 - 多元&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1191" y="2430" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
