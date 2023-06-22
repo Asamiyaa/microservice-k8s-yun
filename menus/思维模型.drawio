@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T09:29:53.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="LaVFx8JwmrkEV2k494H6" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T09:35:16.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="_3_CLAF00pTivWczwvCZ" version="21.4.0" type="github">
   <diagram name="第 1 页" id="YvtEZz4fDpHej9pVCONi">
     <mxGraphModel dx="2620" dy="2172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -196,202 +196,253 @@
           <mxGeometry x="660" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2100" width="1420" height="200" as="geometry" />
+          <mxGeometry x="140" y="2780" width="1420" height="200" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-2" value="心智模型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="175" y="2100" width="60" height="30" as="geometry" />
+          <mxGeometry x="155" y="2780" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1350" width="1420" height="230" as="geometry" />
+          <mxGeometry x="140" y="2030" width="1420" height="230" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1060" width="1420" height="200" as="geometry" />
+          <mxGeometry x="140" y="1740" width="1420" height="200" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-6" value="模型准则" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="175" y="1070" width="60" height="30" as="geometry" />
+          <mxGeometry x="155" y="1750" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-7" value="&lt;div class=&quot;lake-content&quot;&gt;信念和价值观&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="2130" width="100" height="50" as="geometry" />
+          <mxGeometry x="190" y="2810" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-8" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;经验和知识&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="2130" width="100" height="50" as="geometry" />
+          <mxGeometry x="345" y="2810" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-9" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;推理和逻辑&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="2130" width="100" height="50" as="geometry" />
+          <mxGeometry x="1020" y="2810" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-10" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;观念和偏见&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="2130" width="100" height="50" as="geometry" />
+          <mxGeometry x="520" y="2810" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-11" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;期望和预设&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="715" y="2130" width="100" height="50" as="geometry" />
+          <mxGeometry x="695" y="2810" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-12" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;模式识别和归纳&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="2130" width="100" height="50" as="geometry" />
+          <mxGeometry x="850" y="2810" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-14" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;情感和情绪&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="2130" width="100" height="50" as="geometry" />
+          <mxGeometry x="1200" y="2810" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-15" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;沟通和表达&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1375" y="2130" width="100" height="50" as="geometry" />
+          <mxGeometry x="1355" y="2810" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-16" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;p style=&quot;margin: 0; padding: 0; min-height: 24px&quot; class=&quot;ne-p&quot; id=&quot;u2ad12d49&quot;&gt;心智模型是指一个人用来理解和解释世界的认知框架和思维模式。心智模型影响着一个人对事物的看法、态度和行为，是人们认知和行动的基础。&lt;/p&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="365" y="2270" width="990" height="40" as="geometry" />
+          <mxGeometry x="345" y="2950" width="990" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-17" value="思维陷阱" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1390" width="60" height="30" as="geometry" />
+          <mxGeometry x="150" y="2070" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-18" value="&lt;div class=&quot;lake-content&quot;&gt;信念和价值观&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1430" width="100" height="50" as="geometry" />
+          <mxGeometry x="190" y="2110" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-20" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;确认偏误&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1430" width="100" height="50" as="geometry" />
+          <mxGeometry x="190" y="2110" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-21" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;选择性记忆&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="1430" width="100" height="50" as="geometry" />
+          <mxGeometry x="345" y="2110" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-22" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;顺应偏误&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="1430" width="100" height="50" as="geometry" />
+          <mxGeometry x="1020" y="2110" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-23" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;羊群效应&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1430" width="100" height="50" as="geometry" />
+          <mxGeometry x="520" y="2110" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-24" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;后悔避免&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="715" y="1430" width="100" height="50" as="geometry" />
+          <mxGeometry x="695" y="2110" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-25" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;沉没成本&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="1430" width="100" height="50" as="geometry" />
+          <mxGeometry x="850" y="2110" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-26" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;排除异己&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="1430" width="100" height="50" as="geometry" />
+          <mxGeometry x="1200" y="2110" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-27" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;先入为主&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1375" y="1430" width="100" height="50" as="geometry" />
+          <mxGeometry x="1355" y="2110" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-28" value="&lt;div class=&quot;lake-content&quot;&gt;信念和价值观&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1500" width="100" height="50" as="geometry" />
+          <mxGeometry x="190" y="2180" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-29" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;静态思考&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1500" width="100" height="50" as="geometry" />
+          <mxGeometry x="190" y="2180" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-30" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;个人化偏见&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="1500" width="100" height="50" as="geometry" />
+          <mxGeometry x="345" y="2180" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-31" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="1500" width="100" height="50" as="geometry" />
+          <mxGeometry x="1020" y="2180" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-32" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;归因错误&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1500" width="100" height="50" as="geometry" />
+          <mxGeometry x="520" y="2180" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-33" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;确认偏差&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="715" y="1500" width="100" height="50" as="geometry" />
+          <mxGeometry x="695" y="2180" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-34" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;幸存者偏差&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="1500" width="100" height="50" as="geometry" />
+          <mxGeometry x="850" y="2180" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-35" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="1500" width="100" height="50" as="geometry" />
+          <mxGeometry x="1200" y="2180" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-36" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1375" y="1500" width="100" height="50" as="geometry" />
+          <mxGeometry x="1355" y="2180" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-37" value="&lt;div class=&quot;lake-content&quot;&gt;信念和价值观&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1100" width="100" height="50" as="geometry" />
+          <mxGeometry x="190" y="1780" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-38" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;SWOT分析&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1100" width="100" height="50" as="geometry" />
+          <mxGeometry x="190" y="1780" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-39" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;五力分析&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="1100" width="100" height="50" as="geometry" />
+          <mxGeometry x="345" y="1780" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-40" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;时间管理矩阵&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="1100" width="100" height="50" as="geometry" />
+          <mxGeometry x="1020" y="1780" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-41" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;四象限分析&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1100" width="100" height="50" as="geometry" />
+          <mxGeometry x="520" y="1780" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-42" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;因果分析&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="715" y="1100" width="100" height="50" as="geometry" />
+          <mxGeometry x="695" y="1780" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-43" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;扁平化组织结构&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="1100" width="100" height="50" as="geometry" />
+          <mxGeometry x="850" y="1780" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-44" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;PDCA循环&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="1100" width="100" height="50" as="geometry" />
+          <mxGeometry x="1200" y="1780" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="z8WvKWM3-rtfyO4jZk8O-45" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1375" y="1100" width="100" height="50" as="geometry" />
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-45" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;smart原则&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1355" y="1780" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-46" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1880" width="1420" height="200" as="geometry" />
+          <mxGeometry x="140" y="2560" width="1420" height="200" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-47" value="基础思维模型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="185" y="1890" width="60" height="30" as="geometry" />
+          <mxGeometry x="165" y="2570" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-48" value="&lt;div class=&quot;lake-content&quot;&gt;分类 - 分组&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1920" width="100" height="50" as="geometry" />
+          <mxGeometry x="200" y="2600" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-49" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;排序&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="1920" width="100" height="50" as="geometry" />
+          <mxGeometry x="355" y="2600" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-50" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;复盘&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="1920" width="100" height="50" as="geometry" />
+          <mxGeometry x="1030" y="2600" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-51" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;关系 - 关联&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1920" width="100" height="50" as="geometry" />
+          <mxGeometry x="530" y="2600" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-52" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;缩放&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="725" y="1920" width="100" height="50" as="geometry" />
+          <mxGeometry x="705" y="2600" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-53" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;感知&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1920" width="100" height="50" as="geometry" />
+          <mxGeometry x="860" y="2600" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-54" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;正循环&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="1920" width="100" height="50" as="geometry" />
+          <mxGeometry x="1210" y="2600" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-55" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;兼容并包&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1385" y="1920" width="100" height="50" as="geometry" />
+          <mxGeometry x="1365" y="2600" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-56" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1630" width="1420" height="200" as="geometry" />
+          <mxGeometry x="140" y="2310" width="1420" height="200" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-57" value="思维模型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="185" y="1640" width="60" height="30" as="geometry" />
+          <mxGeometry x="165" y="2320" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-58" value="&lt;div class=&quot;lake-content&quot;&gt;锚定效应&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1670" width="100" height="50" as="geometry" />
+          <mxGeometry x="200" y="2350" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-59" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;光环效用&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="1670" width="100" height="50" as="geometry" />
+          <mxGeometry x="355" y="2350" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-60" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="1670" width="100" height="50" as="geometry" />
+          <mxGeometry x="1030" y="2350" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-61" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;逆反心理&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1670" width="100" height="50" as="geometry" />
+          <mxGeometry x="530" y="2350" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-62" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="725" y="1670" width="100" height="50" as="geometry" />
+          <mxGeometry x="705" y="2350" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-63" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;邓宁-克鲁格效用&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1670" width="100" height="50" as="geometry" />
+          <mxGeometry x="860" y="2350" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-64" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="1670" width="100" height="50" as="geometry" />
+          <mxGeometry x="1210" y="2350" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-65" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1385" y="1670" width="100" height="50" as="geometry" />
+          <mxGeometry x="1365" y="2350" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-66" value="&lt;div class=&quot;lake-content&quot;&gt;风险与博弈&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="2000" width="100" height="50" as="geometry" />
+          <mxGeometry x="200" y="2680" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-67" value="&lt;div class=&quot;lake-content&quot;&gt;杠杆&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="2000" width="100" height="50" as="geometry" />
+          <mxGeometry x="355" y="2680" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-68" value="&lt;div class=&quot;lake-content&quot;&gt;杠杆&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="2000" width="100" height="50" as="geometry" />
+          <mxGeometry x="530" y="2680" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z8WvKWM3-rtfyO4jZk8O-69" value="&lt;div class=&quot;lake-content&quot;&gt;乐观 - 悲观&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="2200" width="100" height="50" as="geometry" />
+          <mxGeometry x="190" y="2880" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-70" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1510" width="1420" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-71" value="模型准则" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="1520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-73" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;刻意练习&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="1530" width="471" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-74" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;导师思维&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1540" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-75" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;时间管理矩阵&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1550" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-76" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;四象限分析&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1610" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-77" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;因果分析&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="1550" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-78" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;扁平化组织结构&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1550" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-79" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;PDCA循环&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1550" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-80" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;smart原则&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1355" y="1550" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-81" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;及时反馈&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="1560" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-82" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;突破瓶颈&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="1640" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-83" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;足够时间&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1620" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-84" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;目标拆解&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="1560" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-85" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;专注投入&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1540" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-86" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;建立模型&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1640" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8WvKWM3-rtfyO4jZk8O-87" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;及时修正&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1620" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
