@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T08:57:42.657Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_GH0VCFAkCgiVRw4IpNh" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-25T08:57:58.441Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="KMNvhKU63pkGBkyeJ9Ww" version="21.5.0" type="github">
   <diagram name="第 1 页" id="rTPwLOT8dQKmeTv-qtUL">
     <mxGraphModel dx="1816" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="470" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M46LtMXxfjl9Ee6TElll-3" value="稳定输出" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="350" width="120" height="80" as="geometry" />
+          <mxGeometry x="470" y="360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="M46LtMXxfjl9Ee6TElll-4" value="特征" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="350" width="120" height="80" as="geometry" />
@@ -59,13 +59,13 @@
           <mxGeometry x="290" y="730" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M46LtMXxfjl9Ee6TElll-19" value="复盘" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="440" width="80" height="30" as="geometry" />
+          <mxGeometry x="490" y="450" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M46LtMXxfjl9Ee6TElll-20" value="小心调试" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="490" width="80" height="30" as="geometry" />
+          <mxGeometry x="490" y="500" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M46LtMXxfjl9Ee6TElll-21" value="正循环" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="540" width="80" height="30" as="geometry" />
+          <mxGeometry x="490" y="550" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M46LtMXxfjl9Ee6TElll-22" value="时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="140" height="30" as="geometry" />
@@ -77,22 +77,22 @@
           <mxGeometry x="-10" y="350" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="M46LtMXxfjl9Ee6TElll-25" value="问题分析" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="585" width="80" height="30" as="geometry" />
+          <mxGeometry x="490" y="595" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M46LtMXxfjl9Ee6TElll-26" value="匹配" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="440" width="80" height="30" as="geometry" />
+          <mxGeometry x="590" y="450" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M46LtMXxfjl9Ee6TElll-27" value="编排" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="490" width="80" height="30" as="geometry" />
+          <mxGeometry x="590" y="500" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M46LtMXxfjl9Ee6TElll-28" value="类似同花顺一样，可操作性、闹钟、顺序" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="530" width="120" height="40" as="geometry" />
+          <mxGeometry x="590" y="540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M46LtMXxfjl9Ee6TElll-29" value="发现规律，然后运用规律&lt;br&gt;规律是本质的，必然的和稳定的联系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="190" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M46LtMXxfjl9Ee6TElll-31" value="工业级" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M46LtMXxfjl9Ee6TElll-32" value="周期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="190" width="330" height="60" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry x="-40" y="480" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M46LtMXxfjl9Ee6TElll-36" value="计划" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="585" width="80" height="30" as="geometry" />
+          <mxGeometry x="600" y="595" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M46LtMXxfjl9Ee6TElll-37" value="问题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="480" width="80" height="30" as="geometry" />
