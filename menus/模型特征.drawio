@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T08:51:30.215Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="uuuzbyoV8o0tMPrkskiy" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-25T08:54:40.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6TZj2c1bLizIW1NhFuwG" version="21.5.0" type="github">
   <diagram name="第 1 页" id="rTPwLOT8dQKmeTv-qtUL">
     <mxGraphModel dx="1816" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           <mxGeometry x="450" y="540" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M46LtMXxfjl9Ee6TElll-22" value="时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="170" width="140" height="30" as="geometry" />
+          <mxGeometry x="280" y="120" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M46LtMXxfjl9Ee6TElll-23" value="meta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="280" width="120" height="60" as="geometry" />
@@ -84,6 +84,18 @@
         </mxCell>
         <mxCell id="M46LtMXxfjl9Ee6TElll-27" value="编排" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="490" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M46LtMXxfjl9Ee6TElll-28" value="类似同花顺一样，可操作性、闹钟、顺序" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="530" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M46LtMXxfjl9Ee6TElll-29" value="发现规律，然后运用规律&lt;br&gt;规律是本质的，必然的和稳定的联系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M46LtMXxfjl9Ee6TElll-31" value="工业级" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M46LtMXxfjl9Ee6TElll-32" value="周期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="190" width="330" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
