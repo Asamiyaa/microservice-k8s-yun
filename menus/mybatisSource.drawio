@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-02T02:30:51.376Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="J-aoQWU3kZ2-o_5AIjGs" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-02T02:31:59.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ViUEADrg2drIeFf4iSbz" version="21.5.2" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
     <mxGraphModel dx="3221" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -248,16 +248,22 @@
           <mxGeometry x="-150" y="2410" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-t_0zNogTuECqLu2dfNV-89" value="Builder" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="75" y="1060.5" width="160" height="50" as="geometry" />
+          <mxGeometry x="50" y="1060.5" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-t_0zNogTuECqLu2dfNV-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-t_0zNogTuECqLu2dfNV-93" target="-t_0zNogTuECqLu2dfNV-108">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-t_0zNogTuECqLu2dfNV-93" value="Configration" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="1110.5" width="115" height="69" as="geometry" />
         </mxCell>
         <mxCell id="-t_0zNogTuECqLu2dfNV-94" value="bingding" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="1070" width="120" height="80" as="geometry" />
+          <mxGeometry x="-330" y="989" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-t_0zNogTuECqLu2dfNV-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-t_0zNogTuECqLu2dfNV-95" target="-t_0zNogTuECqLu2dfNV-108">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-t_0zNogTuECqLu2dfNV-95" value="mapper" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-5" y="1410" width="120" height="60" as="geometry" />
+          <mxGeometry x="-190" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-t_0zNogTuECqLu2dfNV-97" value="test" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-253" y="-530" width="120" height="80" as="geometry" />
@@ -285,6 +291,9 @@
         </mxCell>
         <mxCell id="-t_0zNogTuECqLu2dfNV-105" value="其他多属性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="312.5" y="1150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-t_0zNogTuECqLu2dfNV-108" value="SqlSessionFactory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7.5" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
