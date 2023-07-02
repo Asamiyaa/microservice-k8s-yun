@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-02T04:34:26.344Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="KBkk9QvKA4wWdetsvCBO" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-02T04:44:33.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="t-IQS4l3w1sufj1_kwAZ" version="21.5.2" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
     <mxGraphModel dx="2909" dy="2241" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -654,6 +654,27 @@
         </mxCell>
         <mxCell id="-t_0zNogTuECqLu2dfNV-231" value="XparseParser" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="4730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-t_0zNogTuECqLu2dfNV-236" value="MetaClass" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="4590" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-t_0zNogTuECqLu2dfNV-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-t_0zNogTuECqLu2dfNV-237" target="-t_0zNogTuECqLu2dfNV-236">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-t_0zNogTuECqLu2dfNV-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-t_0zNogTuECqLu2dfNV-237" target="-t_0zNogTuECqLu2dfNV-239">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-t_0zNogTuECqLu2dfNV-237" value="元数据设计、从高维" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="4740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-t_0zNogTuECqLu2dfNV-239" value="MetaObject" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="4590" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-t_0zNogTuECqLu2dfNV-241" value="submitted" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="4420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-t_0zNogTuECqLu2dfNV-242" value="更加细分的场景测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="4400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
