@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-02T01:34:52.707Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="I4gpF6iuCpcb0QbEHuyu" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-02T01:50:30.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9DpQWqkWRYYImeUth0Xo" version="21.5.2" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
     <mxGraphModel dx="2822" dy="2197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -163,6 +163,9 @@
         <mxCell id="-t_0zNogTuECqLu2dfNV-48" value="Tree" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-413" y="730" width="160" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="-t_0zNogTuECqLu2dfNV-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-t_0zNogTuECqLu2dfNV-51" target="-t_0zNogTuECqLu2dfNV-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-t_0zNogTuECqLu2dfNV-51" value="SqlCommand" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="560" width="120" height="60" as="geometry" />
         </mxCell>
@@ -189,6 +192,45 @@
         </mxCell>
         <mxCell id="-t_0zNogTuECqLu2dfNV-61" value="command" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="520" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-t_0zNogTuECqLu2dfNV-63" value="registry" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="630" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-t_0zNogTuECqLu2dfNV-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-t_0zNogTuECqLu2dfNV-65" target="-t_0zNogTuECqLu2dfNV-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-t_0zNogTuECqLu2dfNV-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-t_0zNogTuECqLu2dfNV-65" target="-t_0zNogTuECqLu2dfNV-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-t_0zNogTuECqLu2dfNV-65" value="keyGenerator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413.5" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-t_0zNogTuECqLu2dfNV-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.032;entryY=0.578;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-t_0zNogTuECqLu2dfNV-66" target="-t_0zNogTuECqLu2dfNV-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-t_0zNogTuECqLu2dfNV-66" value="metaObject" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-t_0zNogTuECqLu2dfNV-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-t_0zNogTuECqLu2dfNV-67" target="-t_0zNogTuECqLu2dfNV-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-t_0zNogTuECqLu2dfNV-67" value="getValue" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="775" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-t_0zNogTuECqLu2dfNV-68" value="递归" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="500" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-t_0zNogTuECqLu2dfNV-70" value="PropertyTokenizer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-t_0zNogTuECqLu2dfNV-73" value="SqlCommand" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-t_0zNogTuECqLu2dfNV-76" value="Reflector" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-t_0zNogTuECqLu2dfNV-77" value="reflect、invoker" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="670" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
