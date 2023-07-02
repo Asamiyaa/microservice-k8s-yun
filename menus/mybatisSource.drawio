@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-02T02:53:41.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6s6X9sV2_CsB1Wy-8sW5" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-02T02:54:05.327Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="mjbWJ842swLdU4eAxi3O" version="21.5.2" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
     <mxGraphModel dx="3221" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -339,7 +339,7 @@
         <mxCell id="-t_0zNogTuECqLu2dfNV-126" value="builder" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-350" y="1840" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-t_0zNogTuECqLu2dfNV-128" value="1.从源码的测试框架中看到代码意图、segment" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="-t_0zNogTuECqLu2dfNV-128" value="1.从源码的测试框架中看到代码意图、segment&lt;br&gt;2.框架本身的维度拆分" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-435" y="-680" width="465" height="90" as="geometry" />
         </mxCell>
       </root>
