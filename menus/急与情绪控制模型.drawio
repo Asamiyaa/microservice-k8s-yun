@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-15T02:45:42.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="RXjOYCqWnAGTkx53kSgk" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-15T02:47:46.407Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="8pu69YKqqhM-5acOG0NN" version="21.6.2" type="github">
   <diagram name="第 1 页" id="Y9jgXnM3lNwyWh5a8e2h">
     <mxGraphModel dx="2049" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,6 +30,14 @@
         </mxCell>
         <mxCell id="xid45OQ-tQ_rR6GMD2_A-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xid45OQ-tQ_rR6GMD2_A-5" target="xid45OQ-tQ_rR6GMD2_A-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xid45OQ-tQ_rR6GMD2_A-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xid45OQ-tQ_rR6GMD2_A-5" target="xid45OQ-tQ_rR6GMD2_A-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="100" />
+              <mxPoint x="90" y="740" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="xid45OQ-tQ_rR6GMD2_A-5" value="身体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="70" width="120" height="60" as="geometry" />
@@ -99,6 +107,15 @@
         </mxCell>
         <mxCell id="xid45OQ-tQ_rR6GMD2_A-31" value="父母的时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xid45OQ-tQ_rR6GMD2_A-36" value="目前强力制约" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xid45OQ-tQ_rR6GMD2_A-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xid45OQ-tQ_rR6GMD2_A-38" target="xid45OQ-tQ_rR6GMD2_A-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xid45OQ-tQ_rR6GMD2_A-38" value="家庭幸福吗？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
