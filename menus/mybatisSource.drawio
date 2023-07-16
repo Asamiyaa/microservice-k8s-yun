@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-07-16T03:12:08.471Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="e9L8_wzbH_87lmeVgLIC" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-16T03:15:53.597Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="kEeurkkfB1j3_B30bjnT" version="21.6.2" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
     <mxGraphModel dx="2739" dy="3407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QAMTljGxe7YIgGND1Eox-256" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="3530" y="3610" width="670" height="740" as="geometry" />
+        </mxCell>
         <mxCell id="QAMTljGxe7YIgGND1Eox-209" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="4740" y="-290" width="440" height="587.5" as="geometry" />
         </mxCell>
@@ -1233,6 +1236,9 @@
         <mxCell id="QAMTljGxe7YIgGND1Eox-83" value="CacheOperation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2460" y="2714" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QAMTljGxe7YIgGND1Eox-265" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QAMTljGxe7YIgGND1Eox-85" target="QAMTljGxe7YIgGND1Eox-264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QAMTljGxe7YIgGND1Eox-85" value="ClassUtils" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5835" y="3130" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1674,6 +1680,33 @@
         </mxCell>
         <mxCell id="QAMTljGxe7YIgGND1Eox-253" value="CurrencyStyleFormatter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8120" y="3240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QAMTljGxe7YIgGND1Eox-255" value="instrument" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3580" y="3670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QAMTljGxe7YIgGND1Eox-257" value="SimpleInstrumentableClassLoader" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3660" y="3800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QAMTljGxe7YIgGND1Eox-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QAMTljGxe7YIgGND1Eox-258" target="QAMTljGxe7YIgGND1Eox-257">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QAMTljGxe7YIgGND1Eox-258" value="WeavingTransformer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3860" y="3800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QAMTljGxe7YIgGND1Eox-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QAMTljGxe7YIgGND1Eox-260" target="QAMTljGxe7YIgGND1Eox-261">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QAMTljGxe7YIgGND1Eox-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QAMTljGxe7YIgGND1Eox-260" target="QAMTljGxe7YIgGND1Eox-258">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QAMTljGxe7YIgGND1Eox-260" value="ReflectiveLoadTimeWeaver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4040" y="3800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QAMTljGxe7YIgGND1Eox-261" value="LoadTimeWeaver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4040" y="3700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QAMTljGxe7YIgGND1Eox-264" value="getMethodIfAvailable" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="5835" y="3230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
