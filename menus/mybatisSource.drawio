@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-07-16T01:31:36.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="b6M-zZ6IHZypTD__HXwh" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-16T01:32:54.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="j542bGIwp4luwpY4xZkW" version="21.6.2" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
-    <mxGraphModel dx="3033" dy="3572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="3282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QAMTljGxe7YIgGND1Eox-209" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="4750" y="-277.5" width="440" height="535" as="geometry" />
+          <mxGeometry x="4740" y="-290" width="440" height="587.5" as="geometry" />
         </mxCell>
         <mxCell id="QAMTljGxe7YIgGND1Eox-170" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="3280" y="1860" width="940" height="1260" as="geometry" />
@@ -1590,6 +1590,9 @@
         <mxCell id="QAMTljGxe7YIgGND1Eox-220" value="BeanDefinitionRegistry" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4560" y="-220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QAMTljGxe7YIgGND1Eox-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QAMTljGxe7YIgGND1Eox-223" target="QAMTljGxe7YIgGND1Eox-228">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QAMTljGxe7YIgGND1Eox-223" value="registerBeanDefinition" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="4760" y="130" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1598,6 +1601,9 @@
         </mxCell>
         <mxCell id="QAMTljGxe7YIgGND1Eox-224" value="BeanFactory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4980" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QAMTljGxe7YIgGND1Eox-228" value="BeanDefinitionHolder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4760" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
