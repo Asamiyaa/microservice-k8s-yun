@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T06:10:58.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="K_8Xot3nEyIxYTFTCw-N" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T06:12:34.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="A33vxn9vJjFJbsAkj6UP" version="21.6.1" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
     <mxGraphModel dx="7223" dy="3031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1739,7 +1739,7 @@
           <mxGeometry x="1450" y="3580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QAMTljGxe7YIgGND1Eox-279" value="Executor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2100" y="3920" width="250" height="220" as="geometry" />
+          <mxGeometry x="2100" y="3920" width="280" height="490" as="geometry" />
         </mxCell>
         <mxCell id="QAMTljGxe7YIgGND1Eox-280" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="1450" y="5550" width="900" height="1840" as="geometry" />
@@ -1853,6 +1853,15 @@
         </mxCell>
         <mxCell id="Smix1w-jynpbsp-549lH-37" value="CompletableFuture" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2060" y="4148" width="120" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Smix1w-jynpbsp-549lH-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Smix1w-jynpbsp-549lH-38" target="Smix1w-jynpbsp-549lH-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Smix1w-jynpbsp-549lH-38" value="ListenableFuture" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="4214" width="120" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Smix1w-jynpbsp-549lH-39" value="addCallback" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="4290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
