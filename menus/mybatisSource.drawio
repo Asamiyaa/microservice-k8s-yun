@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T08:34:23.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="WgLq076U3ph70YRD0NtE" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T08:37:14.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Zk5dFnlZ8E1aEHlXsJSa" version="21.6.1" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
     <mxGraphModel dx="7701" dy="3262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1960,6 +1960,18 @@
         </mxCell>
         <mxCell id="Smix1w-jynpbsp-549lH-78" value="parse" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1760" y="5370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Smix1w-jynpbsp-549lH-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Smix1w-jynpbsp-549lH-80" target="Smix1w-jynpbsp-549lH-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Smix1w-jynpbsp-549lH-80" value="ParameterizedCronTriggerTest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="5440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Smix1w-jynpbsp-549lH-81" value="@ParameterizedTest(name = &quot;[{index}] localDateTime[{0}], time zone[{1}]&quot;)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="5445" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Smix1w-jynpbsp-549lH-83" value="根据场景设计实现" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2075" y="5380" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
