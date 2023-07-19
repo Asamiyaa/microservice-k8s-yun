@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T06:12:34.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="A33vxn9vJjFJbsAkj6UP" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T06:36:54.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CH9-bjkw596QLko-4dJT" version="21.6.1" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
-    <mxGraphModel dx="7223" dy="3031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7036" dy="2941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1035,7 +1035,7 @@
         <mxCell id="QAMTljGxe7YIgGND1Eox-1" value="CandidateComponentsIndexproperty" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3400" y="-700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QAMTljGxe7YIgGND1Eox-3" value="org.assertJ 包作为test的测试助手&amp;nbsp; -- &lt;font color=&quot;#ff6666&quot;&gt;只有完整、健全的测试系统才说明对分支思考完整&lt;/font&gt;&lt;br&gt;org.mockito" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QAMTljGxe7YIgGND1Eox-3" value="org.assertJ 包作为test的测试助手&amp;nbsp; -- &lt;font color=&quot;#ff6666&quot;&gt;只有完整、健全的测试系统才说明对分支思考完整&lt;/font&gt;&lt;br&gt;org.mockito&lt;br&gt;查看测试案例，体会不同的测试维度、精准" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3490" y="-1520" width="470" height="100" as="geometry" />
         </mxCell>
         <mxCell id="QAMTljGxe7YIgGND1Eox-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="QAMTljGxe7YIgGND1Eox-4" target="QAMTljGxe7YIgGND1Eox-5" edge="1">
@@ -1862,6 +1862,30 @@
         </mxCell>
         <mxCell id="Smix1w-jynpbsp-549lH-39" value="addCallback" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="2060" y="4290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Smix1w-jynpbsp-549lH-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Smix1w-jynpbsp-549lH-42" target="Smix1w-jynpbsp-549lH-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Smix1w-jynpbsp-549lH-42" value="EnableAsyncTests" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="4390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Smix1w-jynpbsp-549lH-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Smix1w-jynpbsp-549lH-43" target="Smix1w-jynpbsp-549lH-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Smix1w-jynpbsp-549lH-43" value="ctx.register" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="4480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Smix1w-jynpbsp-549lH-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Smix1w-jynpbsp-549lH-45" target="Smix1w-jynpbsp-549lH-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Smix1w-jynpbsp-549lH-45" value="AsyncConfig&lt;br&gt;&lt;div&gt;@Configuration&lt;/div&gt;&lt;div&gt;@EnableAsync&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="4480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Smix1w-jynpbsp-549lH-48" value="refresh()" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="4580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Smix1w-jynpbsp-549lH-50" value="proxy" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="4570" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
