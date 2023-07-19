@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T08:21:12.735Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="z2ypitxGyJ-UQghJ5tzr" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T08:26:15.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_2-1aQ8yKdK7LxKx0B_s" version="21.6.1" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
-    <mxGraphModel dx="7382" dy="3108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7838" dy="3328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1945,6 +1945,9 @@
         </mxCell>
         <mxCell id="Smix1w-jynpbsp-549lH-74" value="ExecutorConfigurationSupport" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2330" y="4440" width="120" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Smix1w-jynpbsp-549lH-75" value="new AnnotationConfigApplicationContext(ExecutorConfig.class)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3590" y="-680" width="210" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
