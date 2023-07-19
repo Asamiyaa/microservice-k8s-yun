@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T06:36:54.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CH9-bjkw596QLko-4dJT" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T06:45:18.751Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="X7-ARF-YYQUQBTEhFkGe" version="21.6.1" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
-    <mxGraphModel dx="7036" dy="2941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7582" dy="3204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1733,7 +1733,7 @@
           <mxGeometry x="2380" y="3620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QAMTljGxe7YIgGND1Eox-277" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
-          <mxGeometry x="1450" y="3600" width="900" height="1840" as="geometry" />
+          <mxGeometry x="1440" y="3660" width="900" height="1840" as="geometry" />
         </mxCell>
         <mxCell id="QAMTljGxe7YIgGND1Eox-278" value="scheduling" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1450" y="3580" width="120" height="60" as="geometry" />
@@ -1886,6 +1886,18 @@
         </mxCell>
         <mxCell id="Smix1w-jynpbsp-549lH-50" value="proxy" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1640" y="4570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Smix1w-jynpbsp-549lH-51" value="regist" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="4420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Smix1w-jynpbsp-549lH-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Smix1w-jynpbsp-549lH-53" target="Smix1w-jynpbsp-549lH-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Smix1w-jynpbsp-549lH-53" value="EnabledForTestGroups" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1534" y="4780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Smix1w-jynpbsp-549lH-54" value="TestGroupsCondition" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1534" y="4910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
