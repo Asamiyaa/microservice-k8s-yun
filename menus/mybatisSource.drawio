@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T06:56:57.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="wvfFrgESldqDMSqJDyjL" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T08:05:20.040Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="TRFXvjUcrFrF1aErQ2Gw" version="21.6.1" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
     <mxGraphModel dx="7582" dy="3204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1858,7 +1858,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Smix1w-jynpbsp-549lH-38" value="ListenableFuture" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2060" y="4214" width="120" height="52" as="geometry" />
+          <mxGeometry x="2050" y="4228" width="120" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Smix1w-jynpbsp-549lH-39" value="addCallback" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="2060" y="4290" width="120" height="60" as="geometry" />
@@ -1933,6 +1933,12 @@
         </mxCell>
         <mxCell id="Smix1w-jynpbsp-549lH-62" value="TriggerTask" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1790" y="5085" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Smix1w-jynpbsp-549lH-67" value="AsyncListenableTaskExecutor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="4440" width="120" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Smix1w-jynpbsp-549lH-68" value="扩展领域的能力" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="4370" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
