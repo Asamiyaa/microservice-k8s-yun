@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T08:05:20.040Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="TRFXvjUcrFrF1aErQ2Gw" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T08:21:12.735Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="z2ypitxGyJ-UQghJ5tzr" version="21.6.1" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
-    <mxGraphModel dx="7582" dy="3204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7382" dy="3108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1035,7 +1035,7 @@
         <mxCell id="QAMTljGxe7YIgGND1Eox-1" value="CandidateComponentsIndexproperty" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3400" y="-700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QAMTljGxe7YIgGND1Eox-3" value="org.assertJ 包作为test的测试助手&amp;nbsp; -- &lt;font color=&quot;#ff6666&quot;&gt;只有完整、健全的测试系统才说明对分支思考完整&lt;/font&gt;&lt;br&gt;org.mockito&lt;br&gt;查看测试案例，体会不同的测试维度、精准" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QAMTljGxe7YIgGND1Eox-3" value="org.assertJ 包作为test的测试助手&amp;nbsp; -- &lt;font color=&quot;#ff6666&quot;&gt;只有完整、健全的测试系统才说明对分支思考完整&lt;/font&gt;&lt;br&gt;org.mockito --&amp;nbsp;MockitoCore&lt;br&gt;查看测试案例，体会不同的测试维度、精准" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3490" y="-1520" width="470" height="100" as="geometry" />
         </mxCell>
         <mxCell id="QAMTljGxe7YIgGND1Eox-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="QAMTljGxe7YIgGND1Eox-4" target="QAMTljGxe7YIgGND1Eox-5" edge="1">
@@ -1739,7 +1739,7 @@
           <mxGeometry x="1450" y="3580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QAMTljGxe7YIgGND1Eox-279" value="Executor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2100" y="3920" width="280" height="490" as="geometry" />
+          <mxGeometry x="2100" y="3920" width="280" height="610" as="geometry" />
         </mxCell>
         <mxCell id="QAMTljGxe7YIgGND1Eox-280" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="1450" y="5550" width="900" height="1840" as="geometry" />
@@ -1935,10 +1935,16 @@
           <mxGeometry x="1790" y="5085" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Smix1w-jynpbsp-549lH-67" value="AsyncListenableTaskExecutor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2050" y="4440" width="120" height="52" as="geometry" />
+          <mxGeometry x="2060" y="4440" width="120" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Smix1w-jynpbsp-549lH-68" value="扩展领域的能力" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1960" y="4370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Smix1w-jynpbsp-549lH-73" value="TaskExecutorAdapter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="4440" width="120" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Smix1w-jynpbsp-549lH-74" value="ExecutorConfigurationSupport" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2330" y="4440" width="120" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
