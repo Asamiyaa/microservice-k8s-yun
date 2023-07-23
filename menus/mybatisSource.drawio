@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T02:19:53.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="nEF-vQuSFafgVHGTQcf8" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-23T02:22:04.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="pB3q7D0Hbkay6YMGOFaq" version="21.6.5" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
     <mxGraphModel dx="7838" dy="3419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1751,7 +1751,7 @@
           <mxGeometry x="1500" y="5600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QAMTljGxe7YIgGND1Eox-282" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
-          <mxGeometry x="2390" y="5560" width="900" height="1840" as="geometry" />
+          <mxGeometry x="2380" y="5560" width="900" height="1840" as="geometry" />
         </mxCell>
         <mxCell id="QAMTljGxe7YIgGND1Eox-283" value="validation" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2440" y="5610" width="120" height="60" as="geometry" />
@@ -2080,6 +2080,12 @@
         <mxCell id="aecnsLNt_90Ft0fDxqmB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Smix1w-jynpbsp-549lH-124" target="aecnsLNt_90Ft0fDxqmB-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aecnsLNt_90Ft0fDxqmB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Smix1w-jynpbsp-549lH-124" target="aecnsLNt_90Ft0fDxqmB-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aecnsLNt_90Ft0fDxqmB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Smix1w-jynpbsp-549lH-124" target="aecnsLNt_90Ft0fDxqmB-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Smix1w-jynpbsp-549lH-124" value="Validator" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2862" y="5960" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2124,6 +2130,12 @@
         </mxCell>
         <mxCell id="aecnsLNt_90Ft0fDxqmB-15" value="doWithAnnotations" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="2730" y="6740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aecnsLNt_90Ft0fDxqmB-17" value="BeanValidationPostProcessor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2590" y="5960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aecnsLNt_90Ft0fDxqmB-19" value="ValidatorFactory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2862" y="5860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
