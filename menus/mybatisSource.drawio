@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T02:59:23.151Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="w4BdeU0gzVqH7G5RbH0W" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-23T03:00:23.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="BNKvQ8VLFFvnYa42wqjv" version="21.6.5" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
-    <mxGraphModel dx="7838" dy="3419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9374" dy="4231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2319,6 +2319,9 @@
         </mxCell>
         <mxCell id="aecnsLNt_90Ft0fDxqmB-86" value="testMethodValidationInterceptor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2830" y="6030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aecnsLNt_90Ft0fDxqmB-87" value="T /&amp;nbsp; Class" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2960" y="6070" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
