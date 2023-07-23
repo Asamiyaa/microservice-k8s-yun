@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T02:56:01.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="dYaC7LDtiUZr4Gc6m8ww" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-23T02:59:23.151Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="w4BdeU0gzVqH7G5RbH0W" version="21.6.5" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
     <mxGraphModel dx="7838" dy="3419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2108,7 +2108,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aecnsLNt_90Ft0fDxqmB-5" value="xxxValidator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2862" y="6080" width="120" height="60" as="geometry" />
+          <mxGeometry x="2862" y="6110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aecnsLNt_90Ft0fDxqmB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aecnsLNt_90Ft0fDxqmB-8" target="aecnsLNt_90Ft0fDxqmB-13">
           <mxGeometry relative="1" as="geometry" />
@@ -2299,11 +2299,26 @@
         <mxCell id="aecnsLNt_90Ft0fDxqmB-76" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3628" y="7680" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aecnsLNt_90Ft0fDxqmB-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aecnsLNt_90Ft0fDxqmB-80" target="aecnsLNt_90Ft0fDxqmB-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aecnsLNt_90Ft0fDxqmB-80" value="ProxyFactory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2710" y="7040" width="120" height="60" as="geometry" />
+          <mxGeometry x="2920" y="7080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aecnsLNt_90Ft0fDxqmB-81" value="ProxyFactory" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="3360" y="2268" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aecnsLNt_90Ft0fDxqmB-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aecnsLNt_90Ft0fDxqmB-82" target="aecnsLNt_90Ft0fDxqmB-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aecnsLNt_90Ft0fDxqmB-82" value="MethodValidationTests" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2710" y="7020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aecnsLNt_90Ft0fDxqmB-83" value="testMethodValidationInterceptor" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="2710" y="7140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aecnsLNt_90Ft0fDxqmB-86" value="testMethodValidationInterceptor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2830" y="6030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
