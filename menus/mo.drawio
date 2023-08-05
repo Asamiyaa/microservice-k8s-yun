@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-05T08:49:57.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="wr6jarZ-Dzdpt1unZ7HK" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-05T10:10:38.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="atjStLst7n0CfG4L-D_W" version="21.6.6" type="github">
   <diagram name="第 1 页" id="dakM9nL8LV4iqTdno8jL">
     <mxGraphModel dx="2261" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,6 +105,12 @@
         </mxCell>
         <mxCell id="mPqD-2F0gGFnDQa81UJL-35" value="身体恢复" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mPqD-2F0gGFnDQa81UJL-36" value="成功自我管理的29个工具" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mPqD-2F0gGFnDQa81UJL-37" value="https://www.bilibili.com/video/BV1nP411e73w/?spm_id_from=333.999.0.0&amp;amp;vd_source=1138e0bd4d669ff2571d56c9377aa33d" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
