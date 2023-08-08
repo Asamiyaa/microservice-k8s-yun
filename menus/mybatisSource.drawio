@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T12:29:38.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="jl5oY7F-uPqd9gTK_roM" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-08T12:30:27.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="fJG5YoXT5T_ypj-sbT2K" version="21.6.6" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
-    <mxGraphModel dx="7382" dy="3136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7298" dy="3094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -847,9 +847,6 @@
         </mxCell>
         <mxCell id="uNMvcfVTF8z_Bjln0qWo-38" value="ApplicaitionStartup" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4800" y="-1270" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uNMvcfVTF8z_Bjln0qWo-43" value="spring-bean" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4960" y="-1080" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uNMvcfVTF8z_Bjln0qWo-44" value="spring-aot" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3670" y="-1050" width="120" height="80" as="geometry" />
@@ -2730,7 +2727,7 @@
           <mxGeometry x="4600" y="2740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y9ixvMJV9s3GdmSo0fTp-3" value="spring-bean" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
-          <mxGeometry x="4040" y="-1380" width="120" height="80" as="geometry" />
+          <mxGeometry x="4962" y="-1400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="y9ixvMJV9s3GdmSo0fTp-5" value="spring - el" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="5450" y="-1400" width="120" height="80" as="geometry" />
