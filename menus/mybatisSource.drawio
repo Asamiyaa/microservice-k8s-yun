@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T11:59:25.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="HWINKXkkH19TTHqNr3H_" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-08T12:02:28.754Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="WxoeOZnQcDAcs71n2lDp" version="21.6.6" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
-    <mxGraphModel dx="7223" dy="3056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7582" dy="3236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="y9ixvMJV9s3GdmSo0fTp-9" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="-1240" width="700" height="690" as="geometry" />
+        </mxCell>
         <mxCell id="y9ixvMJV9s3GdmSo0fTp-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="5480" y="-1340" width="1150" height="1190" as="geometry" />
         </mxCell>
@@ -13,7 +16,7 @@
         <mxCell id="aecnsLNt_90Ft0fDxqmB-28" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="3160" y="11592" width="1310" height="1840" as="geometry" />
         </mxCell>
-        <mxCell id="aecnsLNt_90Ft0fDxqmB-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
+        <mxCell id="aecnsLNt_90Ft0fDxqmB-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="4700" y="8782" width="3860" height="920" as="geometry" />
         </mxCell>
         <mxCell id="QAMTljGxe7YIgGND1Eox-256" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
@@ -26,7 +29,7 @@
           <mxGeometry x="3200" y="4260" width="940" height="1260" as="geometry" />
         </mxCell>
         <mxCell id="QAMTljGxe7YIgGND1Eox-67" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
-          <mxGeometry x="3380" y="-330" width="1130" height="420" as="geometry" />
+          <mxGeometry x="3380" y="-330" width="1350" height="3330" as="geometry" />
         </mxCell>
         <mxCell id="QAMTljGxe7YIgGND1Eox-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="QAMTljGxe7YIgGND1Eox-30" target="QAMTljGxe7YIgGND1Eox-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2740,7 +2743,7 @@
         <mxCell id="aecnsLNt_90Ft0fDxqmB-223" value="CachedIntrospectionResults.clearClassLoader(getClassLoader())" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="4600" y="2740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y9ixvMJV9s3GdmSo0fTp-3" value="bean" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+        <mxCell id="y9ixvMJV9s3GdmSo0fTp-3" value="spring-bean" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="4040" y="-1380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="y9ixvMJV9s3GdmSo0fTp-5" value="spring - el" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
@@ -2751,6 +2754,9 @@
         </mxCell>
         <mxCell id="y9ixvMJV9s3GdmSo0fTp-7" value="spirng -core" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="4660" y="8750" width="150" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="y9ixvMJV9s3GdmSo0fTp-10" value="spirng - context" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="3290" y="-370" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
