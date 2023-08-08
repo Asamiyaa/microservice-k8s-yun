@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T12:13:28.226Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="S5oZtuV-WDYbuaXcXcss" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-08T12:13:58.456Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="vOFaE5nMA8_0_vr9EJLt" version="21.6.6" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
-    <mxGraphModel dx="7505" dy="3133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7849" dy="3292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1146,9 +1146,6 @@
         </mxCell>
         <mxCell id="QAMTljGxe7YIgGND1Eox-44" value="LifeCycle" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3650" y="-260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QAMTljGxe7YIgGND1Eox-46" value="phase" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="4800" y="9107" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QAMTljGxe7YIgGND1Eox-47" value="ClassPathResource" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3500" y="-260" width="120" height="60" as="geometry" />
@@ -2794,6 +2791,9 @@
         </mxCell>
         <mxCell id="y9ixvMJV9s3GdmSo0fTp-26" value="Parser" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="8220" y="8912" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y9ixvMJV9s3GdmSo0fTp-27" value="phase" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="4770" y="9032" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
