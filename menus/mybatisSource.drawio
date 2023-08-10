@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T11:24:39.535Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="eX9df8-WDA0YZS3fjUQr" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T11:46:00.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="rY0AZEUvcFCV1_otYJRt" version="21.6.7" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
-    <mxGraphModel dx="7995" dy="3443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7382" dy="3136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1586,7 +1586,7 @@
         <mxCell id="QAMTljGxe7YIgGND1Eox-204" value="套了一层&lt;br&gt;TopsyTurvyAspect" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3160" y="4450" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QAMTljGxe7YIgGND1Eox-205" value="lock" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QAMTljGxe7YIgGND1Eox-205" value="lock" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="6570" y="9102" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QAMTljGxe7YIgGND1Eox-206" value="CounterAtAspectJAspect" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2751,7 +2751,7 @@
           <mxGeometry x="2240" y="10932" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="y9ixvMJV9s3GdmSo0fTp-15" value="spring -aop" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
-          <mxGeometry x="3170" y="4190" width="120" height="80" as="geometry" />
+          <mxGeometry x="3160" y="4190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="y9ixvMJV9s3GdmSo0fTp-16" value="spring -core" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
           <mxGeometry x="2110" y="4190" width="120" height="80" as="geometry" />
@@ -2821,6 +2821,9 @@
         </mxCell>
         <mxCell id="P7NMpo0bIgJ4ojJG0RI6-1" value="接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3530" y="5440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P7NMpo0bIgJ4ojJG0RI6-2" value="aop-1.png查看到底有哪些使用，扩展点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="3170" y="4270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
