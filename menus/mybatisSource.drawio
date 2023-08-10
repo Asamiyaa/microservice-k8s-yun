@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T11:54:55.916Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="D8VM3w-k5af0GNxuBSOp" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T12:22:33.468Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="-19c2D1pUIANDJlPNWdQ" version="21.6.7" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
-    <mxGraphModel dx="7298" dy="3094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7582" dy="3236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2817,7 +2817,7 @@
           <mxGeometry x="4090" y="250" width="100" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="y9ixvMJV9s3GdmSo0fTp-38" value="切面" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
-          <mxGeometry x="3120" y="4110" width="120" height="80" as="geometry" />
+          <mxGeometry x="3090" y="4130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P7NMpo0bIgJ4ojJG0RI6-1" value="接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3530" y="5440" width="120" height="60" as="geometry" />
@@ -2866,6 +2866,12 @@
         </mxCell>
         <mxCell id="P7NMpo0bIgJ4ojJG0RI6-10" value="Method" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3390" y="4670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P7NMpo0bIgJ4ojJG0RI6-16" value="结构化" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="3350" y="4200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P7NMpo0bIgJ4ojJG0RI6-17" value="多维度" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="3490" y="4200" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
