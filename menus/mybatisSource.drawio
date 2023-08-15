@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T11:19:56.307Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ZtfJTCKu-UJ6M4AuOcAx" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-15T11:20:29.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="KKK2Stfh4z3aS419NVkE" version="21.6.7" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
-    <mxGraphModel dx="7036" dy="2962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7582" dy="3236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2868,13 +2868,13 @@
           <mxGeometry x="3390" y="4670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P7NMpo0bIgJ4ojJG0RI6-16" value="结构化" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
-          <mxGeometry x="3350" y="4200" width="120" height="80" as="geometry" />
+          <mxGeometry x="3308" y="4200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P7NMpo0bIgJ4ojJG0RI6-17" value="多维度" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
-          <mxGeometry x="3490" y="4200" width="120" height="80" as="geometry" />
+          <mxGeometry x="3452" y="4200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qmVQg4nHXsxwUoLReQ_7-1" value="代理" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="3090" y="4050" width="120" height="80" as="geometry" />
+          <mxGeometry x="3030" y="4050" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
