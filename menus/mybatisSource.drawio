@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T12:46:52.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="gXR0Ksnf9th0d2h6-Nor" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-15T12:47:38.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="4GeXAZ3tOAaapNYML0du" version="21.6.7" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
-    <mxGraphModel dx="7223" dy="3056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7838" dy="3364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2926,6 +2926,9 @@
         </mxCell>
         <mxCell id="qmVQg4nHXsxwUoLReQ_7-18" value="parse string --&amp;gt; &lt;br&gt;填充到对应类属性 --&amp;gt;&lt;br&gt;类关联、方法调用动起来" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="4429" y="4180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qmVQg4nHXsxwUoLReQ_7-19" value="Shadow" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4105" y="5210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
