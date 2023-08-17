@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T08:17:46.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="YB-pqJutlkLKYzhdNmBL" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T08:37:41.843Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="rCuWrPacBgocSNO2KoTY" version="21.6.8" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
     <mxGraphModel dx="6984" dy="2936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2953,6 +2953,15 @@
         </mxCell>
         <mxCell id="9_QLV1RdepD8b3Pd06M6-9" value="从String到对象解析一定会有树解析的 --&amp;gt; 比如pointCut内容解析" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="4770" y="4200" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9_QLV1RdepD8b3Pd06M6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9_QLV1RdepD8b3Pd06M6-10" target="9_QLV1RdepD8b3Pd06M6-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_QLV1RdepD8b3Pd06M6-10" value="DynamicMatchingProxy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="5070" y="4030" width="140" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="9_QLV1RdepD8b3Pd06M6-11" value="testDynamicMatchingProxy" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="5080" y="4140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
