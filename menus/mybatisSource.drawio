@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T12:18:43.079Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="gLwym5vKWIsatA_EZZT6" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T12:54:17.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="iJsBz8oVGNVEOoCyqvEo" version="21.6.8" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
-    <mxGraphModel dx="7476" dy="3183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7155" dy="3022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="3160" y="11592" width="1310" height="1840" as="geometry" />
         </mxCell>
         <mxCell id="aecnsLNt_90Ft0fDxqmB-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
-          <mxGeometry x="4700" y="8782" width="3860" height="920" as="geometry" />
+          <mxGeometry x="4700" y="8782" width="4360" height="920" as="geometry" />
         </mxCell>
         <mxCell id="QAMTljGxe7YIgGND1Eox-256" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="3380" y="9042" width="900" height="1840" as="geometry" />
@@ -3046,6 +3046,15 @@
         </mxCell>
         <mxCell id="9_QLV1RdepD8b3Pd06M6-44" value="BeforeAdvice" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4420" y="4320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9_QLV1RdepD8b3Pd06M6-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9_QLV1RdepD8b3Pd06M6-46" target="9_QLV1RdepD8b3Pd06M6-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9_QLV1RdepD8b3Pd06M6-46" value="ObjectUtils" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8640" y="8990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9_QLV1RdepD8b3Pd06M6-47" value="safe...." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="8640" y="9092" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
