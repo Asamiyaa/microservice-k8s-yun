@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T11:40:19.939Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="0rJDioFLZaMG-f4jxSxm" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-19T11:42:00.032Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="lBCKRGW3Tw7JMgqDIFL6" version="21.6.8" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
     <mxGraphModel dx="8809" dy="6609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3414,14 +3414,26 @@
         <mxCell id="8di-NbfdjqFPhxdM_hi6-141" value="UserTransaction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2280" y="2540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8di-NbfdjqFPhxdM_hi6-145" target="8di-NbfdjqFPhxdM_hi6-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8di-NbfdjqFPhxdM_hi6-145" value="TransactionTemplate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2210" y="2300" width="120" height="60" as="geometry" />
+          <mxGeometry x="2210" y="2240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8di-NbfdjqFPhxdM_hi6-148" value="PlatformTransactionManager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2050" y="2660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8di-NbfdjqFPhxdM_hi6-150" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2230" y="2660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8di-NbfdjqFPhxdM_hi6-152" target="8di-NbfdjqFPhxdM_hi6-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-152" value="execute" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="2240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-154" value="TransactionCallback" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2590" y="2240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
