@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T12:03:09.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="bNdzKGmzOx_lHP-oXK94" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-19T12:04:52.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="7AR13cmjtrd-RwFe9tcL" version="21.6.8" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
     <mxGraphModel dx="9130" dy="6789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3475,6 +3475,9 @@
         <mxCell id="8di-NbfdjqFPhxdM_hi6-170" value="this" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="1940" y="2470" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8di-NbfdjqFPhxdM_hi6-171" target="8di-NbfdjqFPhxdM_hi6-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8di-NbfdjqFPhxdM_hi6-171" value="doInTransaction" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="2790" y="2240" width="120" height="60" as="geometry" />
         </mxCell>
@@ -3492,6 +3495,9 @@
         </mxCell>
         <mxCell id="8di-NbfdjqFPhxdM_hi6-177" value="savePoint模式" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="1790" y="2340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-178" value="不同情况会做什么？" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="2970" y="2220" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
