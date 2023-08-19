@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T01:48:55.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="SsBjL3O4LCTq882jEunq" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-19T01:51:58.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="aIa4PSZ_sgGxuMtq87wK" version="21.6.8" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
     <mxGraphModel dx="7476" dy="3282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3017,7 +3017,7 @@
         <mxCell id="9_QLV1RdepD8b3Pd06M6-34" value="spirng -test" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
           <mxGeometry x="4610" y="9990" width="150" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="9_QLV1RdepD8b3Pd06M6-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9_QLV1RdepD8b3Pd06M6-35" target="9_QLV1RdepD8b3Pd06M6-40" edge="1">
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9_QLV1RdepD8b3Pd06M6-35" target="8di-NbfdjqFPhxdM_hi6-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9_QLV1RdepD8b3Pd06M6-35" value="Assertions" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -3035,8 +3035,11 @@
         <mxCell id="9_QLV1RdepD8b3Pd06M6-39" value="1.自动化 -&amp;nbsp; 快速迭代&lt;br&gt;2.从不同维度、细节切割" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="4710" y="9908" width="150" height="82" as="geometry" />
         </mxCell>
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9_QLV1RdepD8b3Pd06M6-40" target="8di-NbfdjqFPhxdM_hi6-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9_QLV1RdepD8b3Pd06M6-40" value="isThrownBy" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="4805" y="10240" width="120" height="60" as="geometry" />
+          <mxGeometry x="4805" y="10300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9_QLV1RdepD8b3Pd06M6-43" value="泛型取名 - 阿里search流程" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="5190" y="10190" width="150" height="82" as="geometry" />
@@ -3106,6 +3109,15 @@
         </mxCell>
         <mxCell id="8di-NbfdjqFPhxdM_hi6-17" value="ComponentDefinition" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5580" y="10450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8di-NbfdjqFPhxdM_hi6-19" target="9_QLV1RdepD8b3Pd06M6-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-19" value="assertThatExceptionOfType" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="4805" y="10202" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-20" value="satisfies" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="4805" y="10402" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
