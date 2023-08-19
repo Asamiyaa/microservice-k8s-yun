@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T12:51:12.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="COuCYQr4IU4dIZ8zF3l0" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-19T12:53:54.151Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="nKrujXh0pilS4_isxmla" version="21.6.8" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
-    <mxGraphModel dx="9833" dy="7182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9492" dy="6991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3628,6 +3628,9 @@
         </mxCell>
         <mxCell id="8di-NbfdjqFPhxdM_hi6-225" value="框架 vs 业务代码： &lt;br&gt;1.有返回&amp;nbsp; 框架许多都是复杂的对象间对象引用，所以需要的东西怎么获取，对api的要求，关联组合使用是重要的；需要熟悉程度&lt;br&gt;2.涉及的面广、类多、流程长、每个部分的深度深" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1675" y="1770" width="730" height="159" as="geometry" />
+        </mxCell>
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-226" value="DataSourceUtil" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="2690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
