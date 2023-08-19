@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T12:24:24.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="XYNkWLM94-35sxh_ydW0" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-19T12:25:43.920Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="LxE9jUXFCqJxqxYL3Zl8" version="21.6.8" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
     <mxGraphModel dx="9492" dy="6991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3400,9 +3400,6 @@
         <mxCell id="8di-NbfdjqFPhxdM_hi6-136" value="JtaTransactionManager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2210" y="2420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8di-NbfdjqFPhxdM_hi6-138" value="ExpectedLookupTemplate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2440" y="2420" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="8di-NbfdjqFPhxdM_hi6-141" value="UserTransaction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2280" y="2540" width="120" height="60" as="geometry" />
         </mxCell>
@@ -3590,8 +3587,11 @@
         <mxCell id="8di-NbfdjqFPhxdM_hi6-210" value="从事物对象中获取connHolder" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="1450" y="2783" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8di-NbfdjqFPhxdM_hi6-212" value="问题：事务本质是savePoint / try..catch吗？" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-212" value="问题：事务本质是savePoint / try..catch吗？" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1430" y="2385" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-213" value="问题：如何控制并发的，毕竟数据库的并发大，也是性能瓶颈" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="3070" y="2368" width="200" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
