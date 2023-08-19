@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T12:04:52.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="7AR13cmjtrd-RwFe9tcL" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-19T12:09:41.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="A8xnDAQgWi8MZwqagSa3" version="21.6.8" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
-    <mxGraphModel dx="9130" dy="6789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9355" dy="6914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3415,11 +3415,14 @@
         <mxCell id="8di-NbfdjqFPhxdM_hi6-145" value="TransactionTemplate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2210" y="2240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8di-NbfdjqFPhxdM_hi6-148" target="8di-NbfdjqFPhxdM_hi6-181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8di-NbfdjqFPhxdM_hi6-148" value="PlatformTransactionManager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2050" y="2660" width="120" height="60" as="geometry" />
+          <mxGeometry x="2040" y="2700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8di-NbfdjqFPhxdM_hi6-150" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2230" y="2660" width="120" height="60" as="geometry" />
+          <mxGeometry x="2230" y="2700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8di-NbfdjqFPhxdM_hi6-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8di-NbfdjqFPhxdM_hi6-152" target="8di-NbfdjqFPhxdM_hi6-154">
           <mxGeometry relative="1" as="geometry" />
@@ -3498,6 +3501,33 @@
         </mxCell>
         <mxCell id="8di-NbfdjqFPhxdM_hi6-178" value="不同情况会做什么？" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="2970" y="2220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-180" value="JdbcTransactionManager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="2980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8di-NbfdjqFPhxdM_hi6-181" target="8di-NbfdjqFPhxdM_hi6-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-181" value="DataSourceTransactionManager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="2830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8di-NbfdjqFPhxdM_hi6-182" target="8di-NbfdjqFPhxdM_hi6-181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-182" value="DataSource" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="2780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8di-NbfdjqFPhxdM_hi6-183" target="8di-NbfdjqFPhxdM_hi6-181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-183" value="doCommit" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="2863" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8di-NbfdjqFPhxdM_hi6-184" target="8di-NbfdjqFPhxdM_hi6-181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-184" value="..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="2940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
