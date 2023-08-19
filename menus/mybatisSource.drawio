@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T11:58:01.903Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="QvtwGin6-bUN7lt_o-Yd" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-19T11:59:06.831Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="-CmiWSYKui_9xZuzqFfZ" version="21.6.8" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
     <mxGraphModel dx="9130" dy="6789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3427,6 +3427,9 @@
         <mxCell id="8di-NbfdjqFPhxdM_hi6-152" value="execute" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="2400" y="2240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8di-NbfdjqFPhxdM_hi6-154" target="8di-NbfdjqFPhxdM_hi6-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8di-NbfdjqFPhxdM_hi6-154" value="TransactionCallback" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2590" y="2240" width="120" height="60" as="geometry" />
         </mxCell>
@@ -3465,6 +3468,15 @@
         </mxCell>
         <mxCell id="8di-NbfdjqFPhxdM_hi6-167" value="transactionManager.getTransaction" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1890" y="2540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-169" value="manager" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="2470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-170" value="this" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="2470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-171" value="doInTransaction" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="2790" y="2240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
