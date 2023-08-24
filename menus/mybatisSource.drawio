@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T12:30:17.255Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="guv9UCJRSOZFjuSL1nJg" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T12:57:18.513Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="bUc-kCZ4n6TEOdXWT4U1" version="21.6.8" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
-    <mxGraphModel dx="8952" dy="6601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="12223" dy="8238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3374,7 +3374,7 @@
           <mxGeometry x="2140" y="2540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8di-NbfdjqFPhxdM_hi6-130" value="MockingProgress" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5460" y="9140" width="120" height="60" as="geometry" />
+          <mxGeometry x="5560" y="8942" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8di-NbfdjqFPhxdM_hi6-132" value="高维度抽象" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="5210" y="8270" width="150" height="82" as="geometry" />
@@ -3691,6 +3691,9 @@
         </mxCell>
         <mxCell id="4beQf-f4jG3WdmsGfUwV-2" value="TransactionPhase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5316" y="7132" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4beQf-f4jG3WdmsGfUwV-3" value="when" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="5376" y="9140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
