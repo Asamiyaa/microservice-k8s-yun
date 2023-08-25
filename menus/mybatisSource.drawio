@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T05:55:35.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="C-HJ8pICGu3RjGG4rYYJ" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-25T05:57:06.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="AhyIxJoHn8K0f5RjACd5" version="21.6.8" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
-    <mxGraphModel dx="10630" dy="7441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9649" dy="6950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3773,6 +3773,12 @@
         </mxCell>
         <mxCell id="4beQf-f4jG3WdmsGfUwV-28" value="mysql" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-6940" y="10522" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4beQf-f4jG3WdmsGfUwV-29" value="极客时间: mysql" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-6740" y="10690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4beQf-f4jG3WdmsGfUwV-30" value="https://ecomputernotes.com/database-system/rdbms/transaction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-6740" y="10810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
