@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T07:35:09.344Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="UleUVIdKTHozGKG_sftK" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-25T07:37:54.446Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Mv_PZxu7HUuXKKSefaMH" version="21.6.8" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
-    <mxGraphModel dx="8809" dy="6529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8399" dy="6324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3836,6 +3836,18 @@
         </mxCell>
         <mxCell id="4beQf-f4jG3WdmsGfUwV-48" value="spring更业务、场景、将其他细节融合、放在合适，如何组织完成" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2530" y="3470" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4beQf-f4jG3WdmsGfUwV-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4beQf-f4jG3WdmsGfUwV-49" target="4beQf-f4jG3WdmsGfUwV-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4beQf-f4jG3WdmsGfUwV-49" value="RollbackRuleAttribute" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="3400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4beQf-f4jG3WdmsGfUwV-50" value="getDepth" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="3500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4beQf-f4jG3WdmsGfUwV-52" value="递归" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="3427" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
