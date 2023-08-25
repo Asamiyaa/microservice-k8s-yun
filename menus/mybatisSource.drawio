@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T05:30:33.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Yy7go9928ShD5D4UBpB5" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-25T05:34:22.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="JU2d6GekIDLajCi671WT" version="21.6.8" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
     <mxGraphModel dx="9130" dy="6690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3322,7 +3322,7 @@
         <mxCell id="8di-NbfdjqFPhxdM_hi6-97" value="编程式" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1975" y="2180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8di-NbfdjqFPhxdM_hi6-98" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="y9ixvMJV9s3GdmSo0fTp-17" target="y9ixvMJV9s3GdmSo0fTp-17" edge="1">
+        <mxCell id="8di-NbfdjqFPhxdM_hi6-98" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="4beQf-f4jG3WdmsGfUwV-15" target="y9ixvMJV9s3GdmSo0fTp-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2645" y="3800" as="sourcePoint" />
             <mxPoint x="3240" y="3250" as="targetPoint" />
@@ -3726,8 +3726,20 @@
         <mxCell id="4beQf-f4jG3WdmsGfUwV-14" value="TransactionContext" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1870" y="2700" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4beQf-f4jG3WdmsGfUwV-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="y9ixvMJV9s3GdmSo0fTp-17" target="4beQf-f4jG3WdmsGfUwV-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2070" y="3950" as="sourcePoint" />
+            <mxPoint x="2070" y="2110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4beQf-f4jG3WdmsGfUwV-15" value="枝叶结构" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="2620" width="120" height="80" as="geometry" />
+          <mxGeometry x="1990" y="2630" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4beQf-f4jG3WdmsGfUwV-18" value="volatile" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="2660" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4beQf-f4jG3WdmsGfUwV-19" value="Mono" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="2570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
