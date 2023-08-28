@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T06:10:52.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="q6apLIDX9mXuUr18zItK" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-28T06:12:39.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="1YjpM7ZwE36wJZ8fth--" version="21.6.8" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
-    <mxGraphModel dx="9492" dy="6871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9236" dy="6743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3918,7 +3918,7 @@
           <mxGeometry x="-5827.5" y="1330" width="120" height="85" as="geometry" />
         </mxCell>
         <mxCell id="4beQf-f4jG3WdmsGfUwV-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-5920" y="3615" width="1850" height="710" as="geometry" />
+          <mxGeometry x="-5920" y="3615" width="2210" height="710" as="geometry" />
         </mxCell>
         <mxCell id="4beQf-f4jG3WdmsGfUwV-78" value="connnect" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="-2710" y="1920" width="120" height="80" as="geometry" />
@@ -4080,6 +4080,12 @@
         </mxCell>
         <mxCell id="4beQf-f4jG3WdmsGfUwV-134" value="核心的" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1410" y="3621.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4beQf-f4jG3WdmsGfUwV-135" value="AbstractEntityManagerFactoryIntegrationTests" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4220" y="3641.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4beQf-f4jG3WdmsGfUwV-136" value="集成了事务和entity管理" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="-4130" y="3580" width="170" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
