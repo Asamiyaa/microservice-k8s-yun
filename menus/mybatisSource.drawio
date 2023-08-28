@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T03:20:08.350Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="mKnJGTezRSEVIudNojpy" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-28T03:26:36.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="TLB1pJhAz4XeKvpPngYX" version="21.6.8" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
-    <mxGraphModel dx="9036" dy="6643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9130" dy="6690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,6 +22,9 @@
               <mxPoint x="-5034" y="3549" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4beQf-f4jG3WdmsGfUwV-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8di-NbfdjqFPhxdM_hi6-106" target="4beQf-f4jG3WdmsGfUwV-74">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8di-NbfdjqFPhxdM_hi6-106" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2650" y="1990" width="1610" height="3130" as="geometry" />
@@ -3902,6 +3905,12 @@
         </mxCell>
         <mxCell id="4beQf-f4jG3WdmsGfUwV-72" value="failMode" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2530" y="2368" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4beQf-f4jG3WdmsGfUwV-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-5810" y="1400" width="1532" height="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="4beQf-f4jG3WdmsGfUwV-76" value="spring - oxm&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="-5785" y="1315" width="120" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
