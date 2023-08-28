@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T06:21:41.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="9Ifc_IY_rzfl0jfoqxWh" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-28T06:22:36.920Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Yf7gDMLSx4O7I1NNDtMO" version="21.6.8" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
     <mxGraphModel dx="8877" dy="6563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4099,14 +4099,26 @@
         <mxCell id="4beQf-f4jG3WdmsGfUwV-140" value="countRowsInTable" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="-3860" y="3750" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4beQf-f4jG3WdmsGfUwV-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4beQf-f4jG3WdmsGfUwV-141" target="4beQf-f4jG3WdmsGfUwV-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4beQf-f4jG3WdmsGfUwV-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4beQf-f4jG3WdmsGfUwV-141" target="4beQf-f4jG3WdmsGfUwV-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4beQf-f4jG3WdmsGfUwV-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4beQf-f4jG3WdmsGfUwV-141" target="4beQf-f4jG3WdmsGfUwV-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4beQf-f4jG3WdmsGfUwV-141" value="AbstractEntityManagerFactoryBean" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-4210" y="3860" width="120" height="60" as="geometry" />
+          <mxGeometry x="-4190" y="3860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4beQf-f4jG3WdmsGfUwV-142" value="JpaVendorAdapter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-4210" y="3935" width="120" height="60" as="geometry" />
+          <mxGeometry x="-4360" y="3938" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4beQf-f4jG3WdmsGfUwV-143" value="AsyncTaskExecutor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-4040" y="3932" width="120" height="60" as="geometry" />
+          <mxGeometry x="-4040" y="3940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4beQf-f4jG3WdmsGfUwV-144" value="afterPropertiesSet" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-4190" y="4032" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
