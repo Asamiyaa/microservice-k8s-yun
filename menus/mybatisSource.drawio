@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T06:53:45.589Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="MpMzx_rQyliVU5jO1q_-" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T06:54:13.767Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="0qYKYi8VKol3_rmjjOxy" version="21.6.9" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
     <mxGraphModel dx="10344" dy="6469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4204,7 +4204,7 @@
         <mxCell id="l4Z3RmZKh4ggxeyyKLHs-24" value="Constable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9330" y="7547" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l4Z3RmZKh4ggxeyyKLHs-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l4Z3RmZKh4ggxeyyKLHs-31" value="xml 四种解析方式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-5910" y="1869" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l4Z3RmZKh4ggxeyyKLHs-32" value="JSON" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
