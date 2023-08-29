@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T12:48:42.619Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="sLqelPNksifaYR85BMy7" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T12:52:46.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="2ZN6O-GP0Oo9sSEf2Pd-" version="21.6.9" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
-    <mxGraphModel dx="11487" dy="7042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="10531" dy="6563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4341,6 +4341,9 @@
         </mxCell>
         <mxCell id="9wCNc7TgL3ZWxjF9t8A2-8" value="各种各样的config更灵活，更多样，api重要性" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="-4700" y="2180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9wCNc7TgL3ZWxjF9t8A2-9" value="区分开领域比如oxm\orm\jms这些领域自身完成与spring对应得模块做了什么东西，做了什么融合，不要把复杂度融合在一起" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="-2520" y="1910" width="280" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
