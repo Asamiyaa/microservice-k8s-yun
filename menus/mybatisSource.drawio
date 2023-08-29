@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T12:37:32.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="wdGBlkB3ULfv2a-x66Zp" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T12:40:54.403Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="1sKwFX7JREe5KrRcHpyC" version="21.6.9" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
-    <mxGraphModel dx="9671" dy="6132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="11146" dy="6871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1703,8 +1703,11 @@
         <mxCell id="QAMTljGxe7YIgGND1Eox-240" value="ConfigurableListableBeanFactory" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4650" y="-920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QAMTljGxe7YIgGND1Eox-241" value="TypeConverter" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="6290" y="7422" width="120" height="60" as="geometry" />
+        <mxCell id="l4Z3RmZKh4ggxeyyKLHs-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="QAMTljGxe7YIgGND1Eox-241" target="l4Z3RmZKh4ggxeyyKLHs-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QAMTljGxe7YIgGND1Eox-241" value="SingletonSupplier" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="5910" y="7682" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QAMTljGxe7YIgGND1Eox-242" value="validate" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8540" y="7112" width="120" height="60" as="geometry" />
@@ -4312,8 +4315,14 @@
         <mxCell id="l4Z3RmZKh4ggxeyyKLHs-67" value="XStreamMarshaller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-5360" y="1945" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l4Z3RmZKh4ggxeyyKLHs-68" value="spring融合自身和第三方关键类" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+        <mxCell id="l4Z3RmZKh4ggxeyyKLHs-68" value="spring融合自身和第三方关键类、关联第三方扩展和配置入口" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="-5270" y="1900" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l4Z3RmZKh4ggxeyyKLHs-69" value="Supplier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5910" y="7562" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l4Z3RmZKh4ggxeyyKLHs-71" value="函数式编程" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="6035" y="7540" width="150" height="82" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
