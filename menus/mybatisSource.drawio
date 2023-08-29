@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T12:16:56.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="m3CP7xSF8JEiMgfBoJry" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T12:19:10.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="CNPrpXBieAWwGeVfUvuf" version="21.6.9" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
     <mxGraphModel dx="10086" dy="6340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4302,6 +4302,9 @@
         </mxCell>
         <mxCell id="l4Z3RmZKh4ggxeyyKLHs-64" value="约束检查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-5705" y="2070" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l4Z3RmZKh4ggxeyyKLHs-65" value="schema\ element\name\attribute...&lt;br&gt;这些都是多场景下高层抽象，name=xx才是业务逻辑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="-5580" y="1930" width="180" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
