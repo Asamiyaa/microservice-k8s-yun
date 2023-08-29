@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T12:57:52.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="fOaJuyldOZ8DhZJJ2DWS" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T13:02:52.675Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="yWAGsy1fbBOd1yZ7eR4A" version="21.6.9" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
-    <mxGraphModel dx="10531" dy="6563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="11704" dy="7150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4368,6 +4368,18 @@
         </mxCell>
         <mxCell id="9wCNc7TgL3ZWxjF9t8A2-15" value="包装了哪些jms领域，添加了哪些扩展" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-7500" y="1960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9wCNc7TgL3ZWxjF9t8A2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9wCNc7TgL3ZWxjF9t8A2-18" target="9wCNc7TgL3ZWxjF9t8A2-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9wCNc7TgL3ZWxjF9t8A2-18" value="应用场景 - 机会&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="-7390" y="1570" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="9wCNc7TgL3ZWxjF9t8A2-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9wCNc7TgL3ZWxjF9t8A2-19" target="9wCNc7TgL3ZWxjF9t8A2-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9wCNc7TgL3ZWxjF9t8A2-19" value="领域深入- api深入" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="-7400" y="1675" width="120" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
