@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T09:06:34.376Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="537GsFGyiqg8g48rmUGa" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-31T09:08:21.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="AYUSThKeu10SMfQWdtd0" version="21.6.9" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
-    <mxGraphModel dx="10086" dy="6340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="10344" dy="6469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4446,6 +4446,12 @@
         </mxCell>
         <mxCell id="M8iuMe-IMWZG0On1thj8-25" value="InvocableHandlerMethod" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-7240" y="2360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M8iuMe-IMWZG0On1thj8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M8iuMe-IMWZG0On1thj8-27" target="M8iuMe-IMWZG0On1thj8-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M8iuMe-IMWZG0On1thj8-27" value="JmsListenerEndpointRegistry" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-8410" y="2190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
