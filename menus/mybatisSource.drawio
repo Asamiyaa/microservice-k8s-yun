@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T09:01:19.429Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="eRWFoZpXI1TEcncP9kyw" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-31T09:01:50.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ZXx7g6jvsnvPowqqap9L" version="21.6.9" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
     <mxGraphModel dx="10690" dy="6643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4382,7 +4382,7 @@
           <mxGeometry x="-7400" y="1675" width="120" height="85" as="geometry" />
         </mxCell>
         <mxCell id="M8iuMe-IMWZG0On1thj8-1" value="ConnectionFactory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-8040" y="2030" width="120" height="60" as="geometry" />
+          <mxGeometry x="-8040" y="1990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M8iuMe-IMWZG0On1thj8-2" value="JMSContext" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-7600" y="2110" width="120" height="60" as="geometry" />
@@ -4424,13 +4424,19 @@
           <mxGeometry x="5640" y="7190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="M8iuMe-IMWZG0On1thj8-17" value="config" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-8040" y="2110" width="120" height="60" as="geometry" />
+          <mxGeometry x="-8040" y="2085" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M8iuMe-IMWZG0On1thj8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="M8iuMe-IMWZG0On1thj8-18" target="M8iuMe-IMWZG0On1thj8-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M8iuMe-IMWZG0On1thj8-18" value="AbstractJmsListenerEndpoint" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-8200" y="2180" width="120" height="60" as="geometry" />
+          <mxGeometry x="-8200" y="2190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M8iuMe-IMWZG0On1thj8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="M8iuMe-IMWZG0On1thj8-19" target="M8iuMe-IMWZG0On1thj8-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M8iuMe-IMWZG0On1thj8-19" value="MethodJmsListenerEndpoint" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-8190" y="2278" width="120" height="60" as="geometry" />
+          <mxGeometry x="-8200" y="2278" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
