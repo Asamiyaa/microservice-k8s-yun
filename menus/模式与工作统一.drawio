@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-02T11:34:02.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="jQTT7Sr910F6XAlsurkF" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-02T11:39:11.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="MIz5glLpnPaic6v4k4a4" version="21.7.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="2049" dy="9329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1549,6 +1549,36 @@
         </mxCell>
         <mxCell id="e26l6gzYnwZctOa03r_0-58" value="看懂、宁错过，不乱做" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="5111.5" y="-1660" width="180" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="e26l6gzYnwZctOa03r_0-59" value="周期与周期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4520" y="-2490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e26l6gzYnwZctOa03r_0-60" value="龙与龙" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4700" y="-2490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e26l6gzYnwZctOa03r_0-61" value="板块与板块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4880" y="-2490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e26l6gzYnwZctOa03r_0-62" value="板块与个股" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4630" y="-2420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e26l6gzYnwZctOa03r_0-63" value="个股与个股" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4802" y="-2420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e26l6gzYnwZctOa03r_0-64" value="个股梯队" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4528" y="-2330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e26l6gzYnwZctOa03r_0-65" value="买卖点-前后置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4682" y="-2330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e26l6gzYnwZctOa03r_0-66" value="股性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4838" y="-2330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e26l6gzYnwZctOa03r_0-67" value="七步走" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5000" y="-2330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e26l6gzYnwZctOa03r_0-68" value="空仓" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="5093" y="-1540" width="180" height="87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
