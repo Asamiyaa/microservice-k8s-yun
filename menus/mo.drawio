@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-02T02:05:05.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="alvqJPGGJiRVdG_Ij8fu" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-02T02:05:34.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="pcJdfL6xR8ayiqdSeL9f" version="21.6.8" type="github">
   <diagram name="第 1 页" id="dakM9nL8LV4iqTdno8jL">
     <mxGraphModel dx="4530" dy="3484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -506,7 +506,10 @@
           <mxGeometry x="-1470" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GELnBLUwRaVNjKj48eEg-77" value="无需学习、无需动脑" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1270" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1270" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GELnBLUwRaVNjKj48eEg-78" value="售货员&lt;br&gt;教师...." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
