@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-02T11:39:11.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="MIz5glLpnPaic6v4k4a4" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-02T11:42:54.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="HL_ppA-UEeLBVnzalLIS" version="21.7.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="2049" dy="9329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1565,7 +1565,7 @@
         <mxCell id="e26l6gzYnwZctOa03r_0-63" value="个股与个股" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4802" y="-2420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e26l6gzYnwZctOa03r_0-64" value="个股梯队" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e26l6gzYnwZctOa03r_0-64" value="个股梯队" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="4528" y="-2330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e26l6gzYnwZctOa03r_0-65" value="买卖点-前后置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1579,6 +1579,18 @@
         </mxCell>
         <mxCell id="e26l6gzYnwZctOa03r_0-68" value="空仓" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="5093" y="-1540" width="180" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="e26l6gzYnwZctOa03r_0-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.897;entryY=0.489;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="e26l6gzYnwZctOa03r_0-69" target="e26l6gzYnwZctOa03r_0-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e26l6gzYnwZctOa03r_0-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="e26l6gzYnwZctOa03r_0-69" target="e26l6gzYnwZctOa03r_0-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e26l6gzYnwZctOa03r_0-69" value="关联：英伟达与鸿博； 政策与券商、中迪投资与金科股份、我乐家具(高度板)带动家具爆发" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="4780" y="-3095" width="390" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="e26l6gzYnwZctOa03r_0-71" value="关联 -&amp;nbsp; 逻辑 - 资金强度(业绩预增、首板值不值？)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="5270" y="-3095" width="390" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
