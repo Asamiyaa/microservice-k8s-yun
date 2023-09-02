@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-02T11:19:28.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Qqmhfh1ILQI2l_5VeZbd" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-02T11:21:25.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="vGmz20nvUn5sOQahfbHt" version="21.7.2" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="2390" dy="9520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1540,6 +1540,9 @@
         </mxCell>
         <mxCell id="e26l6gzYnwZctOa03r_0-54" value="核心标的" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4450" y="-3330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e26l6gzYnwZctOa03r_0-56" value="及时发现龙头 -&amp;gt; 确认板块趋势形成 -&amp;gt; 关联个股 、强度、涨速、股性 -&amp;gt; 买点 -&amp;gt;&amp;nbsp; 仓位" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="4226" y="-3125" width="520" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
