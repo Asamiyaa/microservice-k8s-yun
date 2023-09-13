@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T02:23:39.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="xk7KhDdzQXDK_ZP8AEhn" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-13T09:02:01.974Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="rSG8YptaYnXuBP3XkMIz" version="21.7.4" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
-    <mxGraphModel dx="12289" dy="7477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="10531" dy="6529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4462,20 +4462,41 @@
         <mxCell id="M8iuMe-IMWZG0On1thj8-32" value="@SendTo" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-7910" y="2300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="937spBYFe3ZuMCMDogs0-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="13710" y="-5010" width="120" height="60" as="geometry" />
+        <mxCell id="937spBYFe3ZuMCMDogs0-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
+          <mxGeometry x="13560" y="-5140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="937spBYFe3ZuMCMDogs0-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="13790" y="-4980" width="120" height="60" as="geometry" />
+        <mxCell id="937spBYFe3ZuMCMDogs0-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="13790" y="-5120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="937spBYFe3ZuMCMDogs0-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="13990" y="-4930" width="120" height="60" as="geometry" />
+        <mxCell id="937spBYFe3ZuMCMDogs0-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="13780" y="-5270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="937spBYFe3ZuMCMDogs0-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="14370" y="-5020" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="937spBYFe3ZuMCMDogs0-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="937spBYFe3ZuMCMDogs0-6" value="AbstractInvoicePDFService" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="14120" y="-5120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vwk0Dr6cILaZWIITuo69-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-8350" y="-1380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vwk0Dr6cILaZWIITuo69-2" value="multiDoParseInvoice0" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="14110" y="-5010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vwk0Dr6cILaZWIITuo69-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vwk0Dr6cILaZWIITuo69-3" target="Vwk0Dr6cILaZWIITuo69-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vwk0Dr6cILaZWIITuo69-3" value="einvoiceXmlParse" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="13950" y="-4890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vwk0Dr6cILaZWIITuo69-4" value="ofdParse" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="14120" y="-4890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vwk0Dr6cILaZWIITuo69-5" value="nontaxXbrlParse" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="14300" y="-4890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vwk0Dr6cILaZWIITuo69-6" value="pdfParse" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="14490" y="-4890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vwk0Dr6cILaZWIITuo69-7" value="ElectricInvoiceParse" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="13950" y="-4760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
