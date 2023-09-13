@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T09:25:12.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ikEhAHATgeoix-tAIhdF" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-13T09:32:05.649Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Ru8UW9ZM5MfJ9mcKTtZW" version="21.7.4" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
     <mxGraphModel dx="10531" dy="6529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4576,7 +4576,7 @@
         <mxCell id="Vwk0Dr6cILaZWIITuo69-28" value="itext7" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="14430" y="-4610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vwk0Dr6cILaZWIITuo69-33" value="reader /document&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vwk0Dr6cILaZWIITuo69-33" value="reader /document /path" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="14560" y="-5000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vwk0Dr6cILaZWIITuo69-34" value="xml领域知识" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -4623,6 +4623,15 @@
         </mxCell>
         <mxCell id="Vwk0Dr6cILaZWIITuo69-49" value="InvoiceAttrExtractor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="14590" y="-4160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vwk0Dr6cILaZWIITuo69-51" value="TextChunk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14100" y="-3980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vwk0Dr6cILaZWIITuo69-52" value="TextRenderInfo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14270" y="-4500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vwk0Dr6cILaZWIITuo69-53" value="这些类是如何引入的，如何知道做什么？" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14240" y="-4450" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
