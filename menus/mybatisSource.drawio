@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T09:32:05.649Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Ru8UW9ZM5MfJ9mcKTtZW" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-13T09:33:09.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="2mRIEOTRiLKueWNguO3L" version="21.7.4" type="github">
   <diagram name="第 1 页" id="P6MMy8REn1qfdok3NRzG">
     <mxGraphModel dx="10531" dy="6529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4462,15 +4462,6 @@
         <mxCell id="M8iuMe-IMWZG0On1thj8-32" value="@SendTo" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-7910" y="2300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="937spBYFe3ZuMCMDogs0-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="13560" y="-5140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="937spBYFe3ZuMCMDogs0-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="13790" y="-5120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="937spBYFe3ZuMCMDogs0-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="13780" y="-5270" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Vwk0Dr6cILaZWIITuo69-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="937spBYFe3ZuMCMDogs0-6" target="Vwk0Dr6cILaZWIITuo69-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -4539,7 +4530,7 @@
         </mxCell>
         <mxCell id="Vwk0Dr6cILaZWIITuo69-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vwk0Dr6cILaZWIITuo69-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="14180" y="-4180" as="targetPoint" />
+            <mxPoint x="14180" y="-4040" as="targetPoint" />
             <Array as="points">
               <mxPoint x="14180" y="-4330" />
               <mxPoint x="14181" y="-4330" />
@@ -4550,7 +4541,7 @@
           <mxGeometry x="14120" y="-4540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vwk0Dr6cILaZWIITuo69-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="13940" y="-3990" width="610" height="140" as="geometry" />
+          <mxGeometry x="13940" y="-4030" width="610" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Vwk0Dr6cILaZWIITuo69-16" value="解析模板 tpl" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="13930" y="-4110" width="120" height="80" as="geometry" />
@@ -4579,7 +4570,7 @@
         <mxCell id="Vwk0Dr6cILaZWIITuo69-33" value="reader /document /path" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="14560" y="-5000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vwk0Dr6cILaZWIITuo69-34" value="xml领域知识" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vwk0Dr6cILaZWIITuo69-34" value="xml领域知识" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="14480" y="-5050" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vwk0Dr6cILaZWIITuo69-35" value="LocationTextExtractionStrategy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -4630,8 +4621,11 @@
         <mxCell id="Vwk0Dr6cILaZWIITuo69-52" value="TextRenderInfo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="14270" y="-4500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vwk0Dr6cILaZWIITuo69-53" value="这些类是如何引入的，如何知道做什么？" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vwk0Dr6cILaZWIITuo69-53" value="这些类是如何引入的，如何知道做什么？" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="14240" y="-4450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vwk0Dr6cILaZWIITuo69-54" value="税务发票解析 - 领域" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="13630" y="-5150" width="360" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
