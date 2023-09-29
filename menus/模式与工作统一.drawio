@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T02:03:19.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="pUDtVuskdE9fseYy_LVo" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-29T02:07:23.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="-TQYqTuug0-BR5TAB6TA" version="21.7.5" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="2206" dy="9457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1602,7 +1602,7 @@
           <mxGeometry x="4780" y="-2940" width="390" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6700" y="-3900" width="2190" height="1780" as="geometry" />
+          <mxGeometry x="6700" y="-3900" width="2190" height="2150" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=608.5714285714286;endSize=56.08571428571429;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1912,8 +1912,8 @@
         <mxCell id="xT1zu_FiUNel5pAausdl-107" value="情绪标、高度标开的咋样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7460" y="-3065" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xT1zu_FiUNel5pAausdl-108" value="弱转强？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7635" y="-3120" width="120" height="60" as="geometry" />
+        <mxCell id="xT1zu_FiUNel5pAausdl-108" value="弱转强？" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="7620" y="-3110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-109" value="行情 - 板块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7310" y="-2975" width="120" height="60" as="geometry" />
@@ -2119,7 +2119,7 @@
         <mxCell id="xT1zu_FiUNel5pAausdl-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xT1zu_FiUNel5pAausdl-182" target="xT1zu_FiUNel5pAausdl-161">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xT1zu_FiUNel5pAausdl-182" value="择股、择时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xT1zu_FiUNel5pAausdl-182" value="择股、择时" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
           <mxGeometry x="6980" y="-2690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-183" value="身位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2184,6 +2184,42 @@
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-208" value="条件单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7090" y="-2240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-209" value="出手时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6920" y="-1970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-210" value="盈亏比" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7120" y="-1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-211" value="依据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7120" y="-2060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-212" value="次日？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7300" y="-2060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-213" value="冷静 、没有被冲昏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7120" y="-1900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-215" value="为什么不像别人半路那样，自己总是买在高点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="7160" y="-1840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-216" value="别臆想瞎开仓、走出来再说" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7340" y="-1900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-217" value="看懂" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7470" y="-1900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-218" value="试盘？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7980" y="-1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-219" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="7740" y="-3147.5" width="120" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-220" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="7740" y="-3091.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-221" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="7740" y="-3047.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
