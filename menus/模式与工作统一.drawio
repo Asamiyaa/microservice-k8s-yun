@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T01:55:23.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="dRkocwoeA2zcATCW98Cn" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-29T01:56:41.910Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="gc_TyMrsT4iG2VneDF98" version="21.7.5" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="2206" dy="9457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2151,6 +2151,9 @@
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-196" value="导致后续感觉很懂，盘中无法判定走势" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="6820" y="-3580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-197" value="弱势下： 妖股 -202309 、 医药、黄金-防御 、 上个周期-环保" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="7650" y="-3230" width="230" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
