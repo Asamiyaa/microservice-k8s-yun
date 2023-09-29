@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T02:08:30.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Gjt8dSFWtGjR3bFXazLK" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-29T02:12:26.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="5rpTVDdjcCygU3Gvknmk" version="21.7.5" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="2206" dy="9457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2183,7 +2183,7 @@
           <mxGeometry x="7250" y="-2350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-208" value="条件单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7090" y="-2240" width="120" height="60" as="geometry" />
+          <mxGeometry x="7323" y="-2510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-209" value="出手时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6920" y="-1970" width="120" height="60" as="geometry" />
@@ -2229,6 +2229,42 @@
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-224" value="对手盘思维 - 如果持筹者、如果持币者" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="7640" y="-1900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-225" value="分时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7110" y="-2240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-227" value="抢筹" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7230" y="-2260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-228" value="承接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7230" y="-2190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-229" value="大单连续" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7330" y="-2280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-230" value="后续有跟风" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7443" y="-2280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-231" value="快速吃掉" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7537" y="-2280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-232" value="价格跳跃" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7640" y="-2280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-233" value="柚子引导逻辑、跟随走出来逻辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8130" y="-1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-234" value="反包板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8130" y="-3005" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-235" value="T字板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8120" y="-2935" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-236" value="空间板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8110" y="-2845" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-237" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8110" y="-2775" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
