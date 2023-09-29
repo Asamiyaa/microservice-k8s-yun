@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T01:22:30.091Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="dNPzLhv3_Li-XvgxNKl_" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-29T01:23:49.685Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Mxm-ic4UywC3t1MYIzjm" version="21.7.5" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="2049" dy="9366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1965,7 +1965,22 @@
           <mxGeometry x="8550" y="-2670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-131" value="不要一直抱怨、当真的走出来的时候你敢上吗？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8020" y="-3890" width="240" height="75" as="geometry" />
+          <mxGeometry x="7915" y="-3877.5" width="240" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-132" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8370" y="-2590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-133" value="精伦电子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8570" y="-2620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-134" value="弱势行情、量化、政策无效 -&amp;nbsp; 挑战监管" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8740" y="-2690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-135" value="过节龙" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8740" y="-2620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-136" value="一般低于总龙" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8740" y="-2745" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
