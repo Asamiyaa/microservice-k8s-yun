@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T01:11:25.911Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Gq5rBlVLO9rYu3x4byAj" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-29T01:11:59.139Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="V2oze0YeVtwtIXX5zoIs" version="21.7.5" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
-    <mxGraphModel dx="2049" dy="9366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="9563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1865,7 +1865,7 @@
         <mxCell id="xT1zu_FiUNel5pAausdl-95" value="手法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="6570" y="-2805" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xT1zu_FiUNel5pAausdl-97" value="大盘好转，不管是否冲高回落，已有的仓位都应该积极做T ,0927 错过了隆基绿能" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+        <mxCell id="xT1zu_FiUNel5pAausdl-97" value="大盘好转，不管是否冲高回落，已有的仓位都应该积极做T ,0927 错过了隆基绿能&lt;br&gt;不要太像开仓一样纠结 买入点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="6616" y="-2890" width="230" height="90" as="geometry" />
         </mxCell>
       </root>
