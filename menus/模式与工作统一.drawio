@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T01:50:32.526Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="7gNN0HfwmQDR0q5djEr9" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-29T01:51:20.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="8muVMgeC2l9RCLxO5vHz" version="21.7.5" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
-    <mxGraphModel dx="3187" dy="10023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="9055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2056,7 +2056,7 @@
         <mxCell id="xT1zu_FiUNel5pAausdl-163" value="辨识度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8310" y="-2440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xT1zu_FiUNel5pAausdl-164" value="形态 - 突破&amp;nbsp; - U&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xT1zu_FiUNel5pAausdl-164" value="形态 - 突破&amp;nbsp; - U&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="8415" y="-2440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-165" value="量能 - 高位、低位不同解释，与近期涨停对比，超过太多可能是庄出货" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2065,7 +2065,7 @@
         <mxCell id="xT1zu_FiUNel5pAausdl-166" value="连续放量- 关注" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="8765" y="-2440" width="215" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="xT1zu_FiUNel5pAausdl-167" value="低位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xT1zu_FiUNel5pAausdl-167" value="低位" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="8430" y="-2350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-168" value="压力位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2121,6 +2121,9 @@
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-185" value="封单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8740" y="-2510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-186" value="市值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8850" y="-2510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
