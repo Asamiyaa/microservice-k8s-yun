@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T01:51:50.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="1szfY2apN-k0oMJu2AJh" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-29T01:52:51.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="7qzz7mBv6Tb3LbCJa0Bl" version="21.7.5" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="1509" dy="9055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2127,6 +2127,12 @@
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-187" value="筹码 - 套牢盘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8290" y="-2338" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-188" value="案例分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8910" y="-2318" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-189" value="0928亿道信息为什么炸了" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9065" y="-2298" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
