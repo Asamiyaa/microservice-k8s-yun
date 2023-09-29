@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T01:31:55.811Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="veR4REXbHl7r4n6t8mw8" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-29T01:32:37.346Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="egChL60bkydUciGPUQmF" version="21.7.5" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
-    <mxGraphModel dx="1687" dy="9157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="9366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1781,7 +1781,7 @@
         <mxCell id="xT1zu_FiUNel5pAausdl-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xT1zu_FiUNel5pAausdl-60" target="xT1zu_FiUNel5pAausdl-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xT1zu_FiUNel5pAausdl-60" value="打板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xT1zu_FiUNel5pAausdl-60" value="打板" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="8110" y="-3430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-62" value="如何注意到" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2014,6 +2014,9 @@
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-150" value="情绪好应该怎么做，情绪不好呢，如何做&lt;br&gt;弱势下：降低仓位、确定性提高、买点后移" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="7537" y="-3352.5" width="320" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-151" value="任何妖股都是从首版开始的" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="8270" y="-3440" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
