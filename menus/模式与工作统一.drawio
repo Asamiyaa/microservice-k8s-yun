@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T01:08:48.837Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="JOXUrazUsYswbk63qLZ6" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-29T01:11:25.911Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Gq5rBlVLO9rYu3x4byAj" version="21.7.5" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="2049" dy="9366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1451,6 +1451,9 @@
         <mxCell id="e26l6gzYnwZctOa03r_0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="e26l6gzYnwZctOa03r_0-15" target="e26l6gzYnwZctOa03r_0-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e26l6gzYnwZctOa03r_0-15" target="xT1zu_FiUNel5pAausdl-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e26l6gzYnwZctOa03r_0-15" value="做T" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5890" y="-3530" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1846,6 +1849,24 @@
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-90" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;情绪感知 - 预期 - 快速建立关联 - 杀伐果断&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="6670" y="-3860" width="420" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-91" value="板块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6930" y="-2962" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-92" value="主线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7150" y="-2983" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-93" value="次线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7150" y="-2905" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-94" value="最近的医药" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7310" y="-2902" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-95" value="手法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="6570" y="-2805" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-97" value="大盘好转，不管是否冲高回落，已有的仓位都应该积极做T ,0927 错过了隆基绿能" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="6616" y="-2890" width="230" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
