@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T01:53:24.703Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="RVydfC0nW3AgwVnyn7Ej" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-29T01:54:39.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="JVKBsoRQFV5mIybbMjgs" version="21.7.5" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="1793" dy="9218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1873,6 +1873,9 @@
         <mxCell id="xT1zu_FiUNel5pAausdl-90" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;情绪感知 - 预期 - 快速建立关联 - 杀伐果断&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="6670" y="-4020" width="420" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xT1zu_FiUNel5pAausdl-91" target="xT1zu_FiUNel5pAausdl-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-91" value="板块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6930" y="-2962" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2110,8 +2113,11 @@
         <mxCell id="xT1zu_FiUNel5pAausdl-181" value="异动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7100" y="-2550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xT1zu_FiUNel5pAausdl-182" value="异动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7100" y="-2460" width="120" height="60" as="geometry" />
+        <mxCell id="xT1zu_FiUNel5pAausdl-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xT1zu_FiUNel5pAausdl-182" target="xT1zu_FiUNel5pAausdl-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-182" value="择股、择时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6980" y="-2690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-183" value="身位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8310" y="-2510" width="120" height="60" as="geometry" />
@@ -2136,6 +2142,9 @@
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-190" value="tag： 低价、次新、" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7220" y="-2952" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-194" value="涨速" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="7500" y="-2560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
