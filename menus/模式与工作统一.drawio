@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T00:59:33.895Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="nSiejp1HIM0ZlMnPyoGv" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-29T01:02:09.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="f06IXZ8oAPFgJip9BOOJ" version="21.7.5" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="2049" dy="9366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1596,7 +1596,7 @@
           <mxGeometry x="4780" y="-2940" width="390" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6680" y="-3905" width="2190" height="1250" as="geometry" />
+          <mxGeometry x="6700" y="-3900" width="2190" height="1250" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=608.5714285714286;endSize=56.08571428571429;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1700,32 +1700,35 @@
         <mxCell id="xT1zu_FiUNel5pAausdl-37" value="涨幅 vs 辨识度 - 自己只能看到走出来的，这种极值就是涨停，5个多点， 如何更早跟踪到有主力行为的呢？" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="7635" y="-3830" width="280" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xT1zu_FiUNel5pAausdl-38" target="xT1zu_FiUNel5pAausdl-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xT1zu_FiUNel5pAausdl-38" target="xT1zu_FiUNel5pAausdl-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-38" value="走出来" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="7840" y="-3830" width="280" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="xT1zu_FiUNel5pAausdl-39" value="打板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8160" y="-3170" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-40" value="有板块效应" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8150" y="-3047.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="8205" y="-3220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xT1zu_FiUNel5pAausdl-41" target="xT1zu_FiUNel5pAausdl-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-41" value="无板块效应" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8280" y="-3047.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="8210" y="-3107.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xT1zu_FiUNel5pAausdl-42" target="xT1zu_FiUNel5pAausdl-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-42" value="超预期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8450" y="-3047.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="8440" y="-3107.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-44" value="合力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7500" y="-3830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-46" value="案例" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8650" y="-3110" width="120" height="60" as="geometry" />
+          <mxGeometry x="8610" y="-3107.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-47" value="常青" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8780" y="-3155" width="120" height="60" as="geometry" />
@@ -1753,6 +1756,39 @@
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-56" value="冠石科技" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8280" y="-3690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xT1zu_FiUNel5pAausdl-58" target="xT1zu_FiUNel5pAausdl-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-58" value="早起参与" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7990" y="-3575" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-60" value="打板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8110" y="-3430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-62" value="如何注意到" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8000" y="-3320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-63" value="什么能打、什么不能打" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8190" y="-3320" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-64" value="仓位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8410" y="-3320" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-65" value="五个点跟踪" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8000" y="-3215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-66" value="情绪" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8410" y="-3230" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-67" value="形态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8520" y="-3230" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-68" value="分时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8650" y="-3230" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-69" value="二板就应该注意到了" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8325" y="-3080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
