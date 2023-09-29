@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T01:49:44.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="kqBh3A98jg-xoDZcPZ6Y" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-29T01:50:32.526Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="7gNN0HfwmQDR0q5djEr9" version="21.7.5" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
-    <mxGraphModel dx="1793" dy="9218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3187" dy="10023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1613,7 +1613,7 @@
         <mxCell id="xT1zu_FiUNel5pAausdl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xT1zu_FiUNel5pAausdl-4" target="xT1zu_FiUNel5pAausdl-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xT1zu_FiUNel5pAausdl-4" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;周期理论&amp;nbsp; 8月&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xT1zu_FiUNel5pAausdl-4" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;周期理论&amp;nbsp; 8月&amp;nbsp; - 周期下运行&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7070" y="-3695" width="790" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-5" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;市场强弱理论&amp;nbsp; 9月&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2118,6 +2118,9 @@
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-184" value="涨停时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8420" y="-2510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-185" value="封单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8740" y="-2510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
