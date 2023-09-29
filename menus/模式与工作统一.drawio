@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T01:23:49.685Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Mxm-ic4UywC3t1MYIzjm" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-29T01:27:02.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="643D3xD6rfNPfcVHnv1A" version="21.7.5" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
-    <mxGraphModel dx="2049" dy="9366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="9563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1482,7 +1482,7 @@
           <mxGeometry x="5349" y="-3810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e26l6gzYnwZctOa03r_0-31" value="联动、看高做低" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5240" y="-3460" width="120" height="60" as="geometry" />
+          <mxGeometry x="5229" y="-3460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e26l6gzYnwZctOa03r_0-32" value="启动、半路" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4930" y="-3460" width="120" height="60" as="geometry" />
@@ -1625,7 +1625,7 @@
         <mxCell id="xT1zu_FiUNel5pAausdl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xT1zu_FiUNel5pAausdl-7" target="xT1zu_FiUNel5pAausdl-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xT1zu_FiUNel5pAausdl-7" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;发现&lt;font color=&quot;#ff3333&quot;&gt;因果&lt;/font&gt;过滤，建立关联&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="xT1zu_FiUNel5pAausdl-7" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;发现&lt;font color=&quot;#ff3333&quot;&gt;因果&lt;/font&gt;过滤，建立关联、找到确定性&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="6670" y="-3940" width="420" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xT1zu_FiUNel5pAausdl-8" target="xT1zu_FiUNel5pAausdl-10">
@@ -1704,7 +1704,7 @@
           <mxGeometry x="8160" y="-4170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-37" value="涨幅 vs 辨识度 - 自己只能看到走出来的，这种极值就是涨停，5个多点， 如何更早跟踪到有主力行为的呢？" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
-          <mxGeometry x="7635" y="-3830" width="280" height="110" as="geometry" />
+          <mxGeometry x="7610" y="-3840" width="305" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xT1zu_FiUNel5pAausdl-38" target="xT1zu_FiUNel5pAausdl-52">
           <mxGeometry relative="1" as="geometry" />
@@ -1981,6 +1981,18 @@
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-136" value="一般低于总龙" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8740" y="-2745" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-137" value="臆想与盘面" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="8930" y="-3120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-138" value="捷荣这么高，一定会兑现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9040" y="-3170" width="170" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-139" value="市场萎靡这么长时间了，一直低吸很快会反弹" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9040" y="-3100" width="170" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-140" value="半路追涨、意淫低吸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9040" y="-3031.25" width="170" height="62.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
