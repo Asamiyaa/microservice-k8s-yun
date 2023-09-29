@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T02:15:57.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="o3JknUYCk_vlKBA-J4nL" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-29T02:19:49.476Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="80pz7txph80rE9VMax6l" version="21.7.5" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="2206" dy="9457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2264,10 +2264,22 @@
           <mxGeometry x="8110" y="-2845" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-237" value="1+!&amp;nbsp; N字板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8110" y="-2775" width="120" height="60" as="geometry" />
+          <mxGeometry x="8110" y="-2760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-238" value="封单、漏单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8550" y="-2278" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-239" value="大盘爆-涨1个多点，自己觉得次日分歧会跌所以当日不买，傻逼，这中情况不买，跌的时候你买？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9050" y="-2700" width="170" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-240" value="惯性 - 打板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9290" y="-2702.5" width="170" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-241" value="次日是涨，但无买点，随时可能兑现" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="7130" y="-3655" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-242" value="新题材板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8100" y="-2640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
