@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T02:07:40.387Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="rm6wlGCf0oalXcNXbegu" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-29T02:08:30.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Gjt8dSFWtGjR3bFXazLK" version="21.7.5" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="2206" dy="9457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2223,6 +2223,12 @@
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-222" value="to补充" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="7857" y="-3160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-223" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8030" y="-2290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-224" value="对手盘思维 - 如果持筹者、如果持币者" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="7640" y="-1900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
