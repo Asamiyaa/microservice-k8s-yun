@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T01:27:06.057Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="SrRLo3cdfdmx-ehQBNa3" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-29T01:28:47.448Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="JzVHnX4NWXeiX2c9dnfi" version="21.7.5" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
     <mxGraphModel dx="1687" dy="9157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1916,7 +1916,10 @@
         <mxCell id="xT1zu_FiUNel5pAausdl-110" value="行业、概念排名" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7443" y="-2975" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xT1zu_FiUNel5pAausdl-111" value="弱势下仓位满仓" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xT1zu_FiUNel5pAausdl-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xT1zu_FiUNel5pAausdl-111" target="xT1zu_FiUNel5pAausdl-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-111" value="弱势下仓位满仓" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="8535" y="-3380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-112" value="鱼水鹰" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1993,6 +1996,12 @@
         </mxCell>
         <mxCell id="xT1zu_FiUNel5pAausdl-140" value="半路追涨、意淫低吸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9040" y="-3031.25" width="170" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-144" value="如何定义自己的行情，而不是没感知，瞎操作" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="8890" y="-3420" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xT1zu_FiUNel5pAausdl-146" value="不遵循隔日原则、不止损(。。光电。。) 、 其他" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9040" y="-2962" width="170" height="62.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
