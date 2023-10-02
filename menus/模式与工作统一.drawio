@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T02:53:04.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="jiZjnO2f_wdNIXJ4Jlsj" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-02T02:54:32.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ZlTeMXnG8ezJYAaOJoke" version="22.0.0" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
-    <mxGraphModel dx="749" dy="9046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1187" dy="9550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2388,6 +2388,12 @@
         </mxCell>
         <mxCell id="iXEjfgeEV5HtxNKEt5AV-37" value="毅力" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8090" y="3200" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iXEjfgeEV5HtxNKEt5AV-39" value="空仓" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7320" y="2840" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iXEjfgeEV5HtxNKEt5AV-40" value="通过规则过滤指定的票，让自选盯盘固定" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7420" y="2830" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
