@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T02:38:53.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="tQUmcX5TbQ8lKp8dMSdH" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-02T02:48:31.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="WNCvyvdD2weGwet6B7_3" version="22.0.0" type="github">
   <diagram name="第 1 页" id="xATeJDS6ImTI5s4wcXWG">
-    <mxGraphModel dx="7120" dy="16383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="791" dy="9094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2288,7 +2288,61 @@
           <mxGeometry x="7010" y="-3012" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iXEjfgeEV5HtxNKEt5AV-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8280" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="6670" y="935" width="3970" height="3450" as="geometry" />
+        </mxCell>
+        <mxCell id="iXEjfgeEV5HtxNKEt5AV-2" value="难点在哪里" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7380" y="3640" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iXEjfgeEV5HtxNKEt5AV-5" value="类比：医生、律师 --&amp;gt; 专家 -- 时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7323" y="3580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iXEjfgeEV5HtxNKEt5AV-6" value="专业性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7465" y="3580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iXEjfgeEV5HtxNKEt5AV-7" value="面对不确定，处理风险、收益" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7420" y="3540" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iXEjfgeEV5HtxNKEt5AV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iXEjfgeEV5HtxNKEt5AV-8" target="iXEjfgeEV5HtxNKEt5AV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXEjfgeEV5HtxNKEt5AV-8" value="特点：九死一生，挤不进去就是死" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7425" y="3490" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iXEjfgeEV5HtxNKEt5AV-9" value="努力洞见各种交易真相" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7330" y="3340" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iXEjfgeEV5HtxNKEt5AV-10" value="相对确定" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7315" y="3540" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iXEjfgeEV5HtxNKEt5AV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.625;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iXEjfgeEV5HtxNKEt5AV-12" target="iXEjfgeEV5HtxNKEt5AV-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXEjfgeEV5HtxNKEt5AV-12" value="洞察力 - 本质" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7230" y="3300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iXEjfgeEV5HtxNKEt5AV-13" value="认知&amp;nbsp; - 认识的层次、深度、不同场景下自洽、以及变种" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7250" y="3190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iXEjfgeEV5HtxNKEt5AV-15" value="轻仓分散" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7210" y="3150" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iXEjfgeEV5HtxNKEt5AV-16" value="系统化" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7270" y="3150" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iXEjfgeEV5HtxNKEt5AV-18" value="止损" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7330" y="3150" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iXEjfgeEV5HtxNKEt5AV-19" value="趋势跟踪" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7390" y="3150" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iXEjfgeEV5HtxNKEt5AV-20" value="阶段亏损" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7450" y="3150" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iXEjfgeEV5HtxNKEt5AV-21" value="利润奔跑" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7510" y="3150" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iXEjfgeEV5HtxNKEt5AV-22" value="资金管理..." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7570" y="3150" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
