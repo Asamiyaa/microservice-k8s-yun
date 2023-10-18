@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T23:27:22.126Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="GG2JV6iCIZkxsyxfe4no" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T23:29:34.255Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="7OaYX4kJy_muQCGYAxed" version="22.0.4" type="github">
   <diagram name="第 1 页" id="9s1VPIeq_v-_TXC7DsHF">
-    <mxGraphModel dx="2501" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2501" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,14 +81,20 @@
         <mxCell id="wxvswGCCUYtLGTAwDzYO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VjmW1VvgR2xWZ0-0AJjw-22" target="wxvswGCCUYtLGTAwDzYO-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wxvswGCCUYtLGTAwDzYO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VjmW1VvgR2xWZ0-0AJjw-22" target="wxvswGCCUYtLGTAwDzYO-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VjmW1VvgR2xWZ0-0AJjw-22" value="notify" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="870" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="870" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wxvswGCCUYtLGTAwDzYO-1" value="zixuangu(盘中思考）&lt;br&gt;ruohzuanqiang&lt;br&gt;..." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="530" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wxvswGCCUYtLGTAwDzYO-2" value="google插件核心标的&lt;br&gt;(盘中手动查看承接）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wxvswGCCUYtLGTAwDzYO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wxvswGCCUYtLGTAwDzYO-5" target="wxvswGCCUYtLGTAwDzYO-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wxvswGCCUYtLGTAwDzYO-5" value="zhangting&lt;br&gt;&amp;gt;8&lt;br&gt;zhaban" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="280" width="120" height="60" as="geometry" />
@@ -112,7 +118,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wxvswGCCUYtLGTAwDzYO-12" value="google插件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="870" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wxvswGCCUYtLGTAwDzYO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wxvswGCCUYtLGTAwDzYO-16" target="wxvswGCCUYtLGTAwDzYO-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wxvswGCCUYtLGTAwDzYO-16" value="持仓 - T" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wxvswGCCUYtLGTAwDzYO-18" value="打板&lt;br&gt;T" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wxvswGCCUYtLGTAwDzYO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wxvswGCCUYtLGTAwDzYO-21" target="wxvswGCCUYtLGTAwDzYO-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wxvswGCCUYtLGTAwDzYO-21" value="手机查看" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wxvswGCCUYtLGTAwDzYO-22" value="资金流入&lt;br&gt;涨跌家数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wxvswGCCUYtLGTAwDzYO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.457;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wxvswGCCUYtLGTAwDzYO-22" target="wxvswGCCUYtLGTAwDzYO-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
