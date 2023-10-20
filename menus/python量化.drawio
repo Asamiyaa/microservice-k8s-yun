@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T08:07:33.976Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="fOMtC8VSzjVg31CVbkxa" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T08:08:23.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="e0Kh2G8gVCQdMhJX7CVU" version="22.0.5" type="github">
   <diagram name="第 1 页" id="9s1VPIeq_v-_TXC7DsHF">
     <mxGraphModel dx="2261" dy="1887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,7 +114,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wxvswGCCUYtLGTAwDzYO-7" value="盘中其他数据(zixuan、ruozhuanqiang、renqibang、&lt;br&gt;&amp;gt;5" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="870" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="870" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wxvswGCCUYtLGTAwDzYO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="wxvswGCCUYtLGTAwDzYO-9" target="wxvswGCCUYtLGTAwDzYO-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -132,12 +132,6 @@
         </mxCell>
         <mxCell id="wxvswGCCUYtLGTAwDzYO-10" value="低吸（核心）&lt;br&gt;追涨（未实现）- 异动点" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1230" y="130" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wxvswGCCUYtLGTAwDzYO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wxvswGCCUYtLGTAwDzYO-12" target="wxvswGCCUYtLGTAwDzYO-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wxvswGCCUYtLGTAwDzYO-12" value="google插件" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="870" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wxvswGCCUYtLGTAwDzYO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wxvswGCCUYtLGTAwDzYO-16" target="wxvswGCCUYtLGTAwDzYO-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -217,6 +211,9 @@
         </mxCell>
         <mxCell id="ubSvVCL0LmsI3uZUjsA9-3" value="1 . 条件单 -&amp;nbsp; 梯队(自己提前过滤、一进二看好的就提前设置单子)因为即使看到自己也无法看排单、封单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="310" y="420" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ubSvVCL0LmsI3uZUjsA9-5" value="0.google插件&amp;nbsp; 前一天准备随时看的核心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="310" y="540" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
