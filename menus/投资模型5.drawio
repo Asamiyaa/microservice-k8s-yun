@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T23:14:46.602Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.8" etag="ZxGqH4DxUITmE-dgPVD0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-25T23:18:14.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="w9_XrUT0QRxggsepFiK3" version="22.0.8" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-9" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="280" y="50" width="510" height="307.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-8" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="60" y="50" width="210" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-1" target="Gqe8VwMSzwfpg7zT9i1C-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-1" value="周期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-2" target="Gqe8VwMSzwfpg7zT9i1C-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-2" target="Gqe8VwMSzwfpg7zT9i1C-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-2" target="Gqe8VwMSzwfpg7zT9i1C-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-2" value="资金流向 、 大单净额" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-3" target="Gqe8VwMSzwfpg7zT9i1C-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-3" value="打板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-4" value="低吸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-6" value="追涨" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-7" value="打板模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-14" value="todo:1.加入案例感知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-15" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="810" y="50" width="350" height="303.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-17" value="龙" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="170" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-18" value="绿线 0.3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="200" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-19" value="当日红线、小于近日、昨日一半" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="270" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
