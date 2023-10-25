@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T23:20:22.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="t6-qzNYlDsWMMIqmdt4-" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-25T23:44:50.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="lucFtJdt-Gq8JBb19RUH" version="22.0.8" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
-    <mxGraphModel dx="1434" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="Gqe8VwMSzwfpg7zT9i1C-22" value="区分趋势、上涨、下跌、震荡、后两者必须做物理隔离、降低仓位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-25" value="复盘：当日、次日计划 ==todo:盘中分歧转一致&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-280" width="350" height="303.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
