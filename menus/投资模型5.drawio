@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-28T06:42:52.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="UrBvXG797Cn8NAG2ck0O" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-28T06:43:01.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="OdVEJviq_r4mmaW869GP" version="22.0.8" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
     <mxGraphModel dx="2739" dy="2273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -298,7 +298,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3b5u9iy_GeAOWJdaI9El-64" value="发现机制" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="420" width="120" height="80" as="geometry" />
+          <mxGeometry x="544" y="420" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3b5u9iy_GeAOWJdaI9El-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3b5u9iy_GeAOWJdaI9El-68" target="3b5u9iy_GeAOWJdaI9El-18">
           <mxGeometry relative="1" as="geometry" />
@@ -335,9 +335,6 @@
         </mxCell>
         <mxCell id="3b5u9iy_GeAOWJdaI9El-86" value="尊重盘面，分歧一致，高切低？" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="223.75" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="3b5u9iy_GeAOWJdaI9El-87" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3b5u9iy_GeAOWJdaI9El-88" value="盈亏比 、 胜率、仓位" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" width="120" height="80" as="geometry" />
