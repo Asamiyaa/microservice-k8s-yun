@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-28T06:27:21.234Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="-UZ6ifT6bOD_xQHUSnLp" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-28T06:28:05.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="bBQGv2lf2g03BB7xIPgV" version="22.0.8" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
     <mxGraphModel dx="2876" dy="2352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -258,14 +258,6 @@
         <mxCell id="3b5u9iy_GeAOWJdaI9El-52" value="上面操作是监控、提示系统，量化是全自动，无需人脑、情绪，模式是更精准的。当前系统只是辅助" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="420" y="1830" width="610" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3b5u9iy_GeAOWJdaI9El-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3b5u9iy_GeAOWJdaI9El-54">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="304" y="1219.5294117647059" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3b5u9iy_GeAOWJdaI9El-54" value="短线精灵&lt;br&gt;市场动态机会，但太乱如何并入？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="24" y="1190" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="3b5u9iy_GeAOWJdaI9El-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3b5u9iy_GeAOWJdaI9El-16" target="3b5u9iy_GeAOWJdaI9El-56">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="364" y="880" as="sourcePoint" />
@@ -328,6 +320,9 @@
         </mxCell>
         <mxCell id="3b5u9iy_GeAOWJdaI9El-77" value="核心锚" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="1570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3b5u9iy_GeAOWJdaI9El-78" value="qstock" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
