@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-28T06:28:05.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="bBQGv2lf2g03BB7xIPgV" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-28T06:28:46.226Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="6e8ZVgZJtoLDcOEkM45A" version="22.0.8" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
     <mxGraphModel dx="2876" dy="2352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -239,12 +239,6 @@
         </mxCell>
         <mxCell id="3b5u9iy_GeAOWJdaI9El-47" value="下单&lt;br&gt;checklist&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1514" y="1120" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3b5u9iy_GeAOWJdaI9El-48" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="904" y="1280" as="sourcePoint" />
-            <mxPoint x="954" y="1230" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="3b5u9iy_GeAOWJdaI9El-49" value="1.动态、市场风格tag&amp;nbsp; &lt;br&gt;2.建立链接 验证 不是臆想 (板块间、个股间、叠加、信号）&lt;br&gt;3.周期结合操作(if..if...做低吸、打板、追涨套利.止盈、止损&lt;br&gt;题材结合梯队（圣龙因为题材板块带动梯队-高标上板，后面圣龙高标带动汽车走强）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="874" y="750" width="600" height="90" as="geometry" />
