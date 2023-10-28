@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-28T06:28:46.226Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="6e8ZVgZJtoLDcOEkM45A" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-28T06:29:23.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="D5o173WaMj4NsRS6spXn" version="22.0.8" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
-    <mxGraphModel dx="2876" dy="2352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3695" dy="2825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
           <mxGeometry x="900" y="-350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gqe8VwMSzwfpg7zT9i1C-15" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
-          <mxGeometry x="810" y="50" width="350" height="303.75" as="geometry" />
+          <mxGeometry x="1409" y="53.75" width="350" height="303.75" as="geometry" />
         </mxCell>
         <mxCell id="Gqe8VwMSzwfpg7zT9i1C-17" value="龙" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="170" width="90" height="20" as="geometry" />
@@ -65,13 +65,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gqe8VwMSzwfpg7zT9i1C-20" value="资金管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="820" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="1419" y="163.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gqe8VwMSzwfpg7zT9i1C-21" value="动态、试盘仓和重仓个股、盈亏比 vs 胜率" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="1599" y="233.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gqe8VwMSzwfpg7zT9i1C-22" value="区分趋势、上涨、下跌、震荡、后两者必须做物理隔离、降低仓位" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="1599" y="103.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gqe8VwMSzwfpg7zT9i1C-25" value="复盘：当日、次日计划 ==todo:盘中分歧转一致&lt;br&gt;if...if ...&lt;br&gt;排序、分组、重排、粗排i、精排&lt;br&gt;&lt;br&gt;标准：印到脑子了，不思考直接决策" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="410" y="-280" width="350" height="303.75" as="geometry" />
@@ -235,6 +235,9 @@
           <mxGeometry x="1114" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3b5u9iy_GeAOWJdaI9El-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.457;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3b5u9iy_GeAOWJdaI9El-45" target="3b5u9iy_GeAOWJdaI9El-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3b5u9iy_GeAOWJdaI9El-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="3b5u9iy_GeAOWJdaI9El-47" target="Gqe8VwMSzwfpg7zT9i1C-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3b5u9iy_GeAOWJdaI9El-47" value="下单&lt;br&gt;checklist&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
