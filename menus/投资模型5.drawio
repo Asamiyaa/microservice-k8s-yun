@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-28T07:01:58.671Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="VWiZuYb_KUXHLegvY4qA" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-28T07:02:25.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="wMw2nmEnZFnq_a8zkZuX" version="22.0.8" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
-    <mxGraphModel dx="7720" dy="5577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5822" dy="4481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1145,7 +1145,7 @@
         <mxCell id="3b5u9iy_GeAOWJdaI9El-354" value="人在压力下很容易违背自己的原则，产生孤注一掷(逆势加码或者死扛)，轻易放弃(恐慌割肉)，频繁交易等，容易亏钱的操作&lt;br&gt;2.压力来源于恐惧、贪婪、怕错过、侥幸等心理，长期来看，带着这种心理操作必败无疑&lt;br&gt;3.所以，如果你感觉交易前内心压力很大，就轻易不要操作，想办法调整心态，只有内心轻松，才能赢家心态" style="ellipse;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="2509" y="1500" width="331" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="3b5u9iy_GeAOWJdaI9El-355" value="原则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3b5u9iy_GeAOWJdaI9El-355" value="checklist" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2240" y="630" width="100" height="990" as="geometry" />
         </mxCell>
       </root>
