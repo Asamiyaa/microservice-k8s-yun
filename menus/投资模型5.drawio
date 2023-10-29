@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-29T03:30:04.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="KFeqdUyPuQer6iWHUzLk" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-29T04:06:24.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="AsJLekwDQBBu170IpTDC" version="22.0.8" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
     <mxGraphModel dx="17492" dy="4190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -342,7 +342,7 @@
         <mxCell id="3b5u9iy_GeAOWJdaI9El-78" value="qstock" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3b5u9iy_GeAOWJdaI9El-82" value="预期&lt;br&gt;抗住分歧" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3b5u9iy_GeAOWJdaI9El-82" value="预期&lt;br&gt;抗住分歧、断板" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3b5u9iy_GeAOWJdaI9El-86" value="尊重盘面，分歧一致，高切低？" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2719,6 +2719,9 @@
         </mxCell>
         <mxCell id="xT7n4Xwm2ZcGxZs6Pejo-4" value="一进二、二进三" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="905" y="203.75" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xT7n4Xwm2ZcGxZs6Pejo-5" value="套利标打板小心注意板块和龙关系，周期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="805" y="315.62" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
