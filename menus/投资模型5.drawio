@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-29T04:40:56.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Jejs3JgMLOdeFmmcLgOR" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-29T04:46:40.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="wXgrBIGssQ9YTLB37MPB" version="22.0.8" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
     <mxGraphModel dx="18171" dy="4678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2728,6 +2728,9 @@
         </mxCell>
         <mxCell id="xT7n4Xwm2ZcGxZs6Pejo-7" value="强制取钱，降低仓位、灵活动态仓位&amp;nbsp; 。 10月份行情不好自己还是满仓，导致亏损" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1980" y="25.620000000000005" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xT7n4Xwm2ZcGxZs6Pejo-8" value="大盘震荡、降低仓位、减少打板。买点后移" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="15.620000000000005" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
