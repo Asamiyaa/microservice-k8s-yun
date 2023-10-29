@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-29T03:22:48.675Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="YUcah1D6lMytD1IGB3-L" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-29T03:24:53.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="msI-gJunxGF0T-fPEcdv" version="22.0.8" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
     <mxGraphModel dx="17578" dy="4252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,13 +70,13 @@
         <mxCell id="Gqe8VwMSzwfpg7zT9i1C-15" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="1800" y="48.13" width="350" height="303.75" as="geometry" />
         </mxCell>
-        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-17" value="龙" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="815" y="170" width="90" height="20" as="geometry" />
+        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-17" value="龙、非周期内不操作，尾盘操作被套，弱势票" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="797.5" y="158.13" width="145" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-18" value="绿线 0.3" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="815" y="200" width="90" height="20" as="geometry" />
+        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-18" value="绿线 0.3、连续红柱" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="797.5" y="203.75" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-19" value="当日红线、小于近日、昨日一半" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-19" value="当日红线、小于近日、昨日一半(出货少)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="805" y="270" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gqe8VwMSzwfpg7zT9i1C-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-20" target="Gqe8VwMSzwfpg7zT9i1C-22" edge="1">
@@ -2716,6 +2716,9 @@
         </mxCell>
         <mxCell id="xT7n4Xwm2ZcGxZs6Pejo-2" value="周期形成和街结束判据&lt;br&gt;https://www.yuque.com/asamiya/msvqvi/pkfbu8800s4mgp65" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="275.62" width="80" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="xT7n4Xwm2ZcGxZs6Pejo-4" value="一进二、二进三" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="905" y="203.75" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
