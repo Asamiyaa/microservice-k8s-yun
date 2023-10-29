@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-29T04:57:38.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="b3lrUl6slTC58Z8fECWQ" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-29T05:12:44.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="TtZ9qUN7lehynK09hQ0b" version="22.0.8" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
-    <mxGraphModel dx="18171" dy="4678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="17682" dy="4327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2734,6 +2734,9 @@
         </mxCell>
         <mxCell id="xT7n4Xwm2ZcGxZs6Pejo-9" value="分时抢筹和承接&lt;br&gt;https://www.yuque.com/asamiya/msvqvi/absxcf0vt3cpau1x" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="985" y="223.75" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xT7n4Xwm2ZcGxZs6Pejo-10" value="市场正好恢复，所以模型看起来好，后续行情震荡，这个操作要小心" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="444" y="45.62" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
