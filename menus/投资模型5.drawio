@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-04T09:17:04.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="aam3SGB2njk3taVl_7yj" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-04T09:19:52.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="gSfsipRE0TY7CKndGhCd" version="22.0.8" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
     <mxGraphModel dx="18133" dy="4427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2794,6 +2794,9 @@
         </mxCell>
         <mxCell id="ux1P-nw25vE3XXC57Ogx-25" value="可操作性&lt;br&gt;模型就像河流一样，连通，孤岛没有意义，增加复杂度" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1174" y="-580" width="286" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1P-nw25vE3XXC57Ogx-27" value="去弱留强" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="68" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
