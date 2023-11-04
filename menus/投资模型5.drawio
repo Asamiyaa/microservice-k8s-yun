@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-04T08:04:55.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="B-FKx_lfBZHYiwhofYQA" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-04T08:06:33.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Pzge0WvEYHDyskjNYfen" version="22.0.8" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
     <mxGraphModel dx="18133" dy="4427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2745,6 +2745,9 @@
             <mxPoint x="-580" y="376.64705882352973" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ux1P-nw25vE3XXC57Ogx-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ux1P-nw25vE3XXC57Ogx-9" target="ux1P-nw25vE3XXC57Ogx-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ux1P-nw25vE3XXC57Ogx-9" value="1.资金流向&amp;nbsp; (早盘接力、梯队氛围、板块涨幅、盘中涨跌家数、流入金额百亿、北向、涨跌停对比、昨日连板、炸板、盘中涨停家数、涨停概念&lt;br&gt;昨日连板、昨日晋级)&lt;br&gt;1.1.增量资金&amp;nbsp; &amp;nbsp;1.2.资金操作意图，自己是否想入场，感知市场情绪、感知资金行为&lt;br&gt;2.赚钱效应&amp;nbsp; tag&amp;nbsp; 市场风格&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;2.1负反馈，打板和接力，所以选择低吸，但是低吸容易一直补，注意补的节奏&lt;br&gt;2.2 大票 vs 题材 、指数、题材是否分离、指数、题材关联度，是否带动拖累&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="-1120" y="370" width="770" height="141.38" as="geometry" />
         </mxCell>
@@ -2768,6 +2771,9 @@
         </mxCell>
         <mxCell id="ux1P-nw25vE3XXC57Ogx-16" value="策略的适用场景，比如试验的筹码峰、量化特点、大单净量...如何识别和叠加过滤？？？" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="90" y="90" width="250" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1P-nw25vE3XXC57Ogx-17" value="资金" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="33.129999999999995" width="210" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
