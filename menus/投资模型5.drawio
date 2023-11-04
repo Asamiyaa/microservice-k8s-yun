@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-04T09:47:19.800Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Ej0_sRDEEeWCvKgvfOOc" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-04T09:48:37.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="hqzg80i5rHiPXhSFgs6K" version="22.0.8" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
     <mxGraphModel dx="18227" dy="4481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2751,7 +2751,7 @@
         <mxCell id="ux1P-nw25vE3XXC57Ogx-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ux1P-nw25vE3XXC57Ogx-9" target="ux1P-nw25vE3XXC57Ogx-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ux1P-nw25vE3XXC57Ogx-9" value="1.资金流向&amp;nbsp; (早盘接力、梯队氛围、板块涨幅、盘中涨跌家数、流入金额百亿、北向、涨跌停对比、昨日连板、炸板、盘中涨停家数、涨停概念&lt;br&gt;昨日连板、昨日晋级、涨停原因 - 推测方向 - 资金。题材介入深度。。。也就是趋势不会轻易形成（套利标。2—3天）（3进4。带动板块），什么标志着趋势结束（三个标识）)&amp;nbsp; - 像水一样的流动性&lt;br&gt;1.1.增量资金&amp;nbsp; &amp;nbsp;1.2.资金操作意图，自己是否想入场，感知市场情绪、感知资金行为&lt;br&gt;2.赚钱效应&amp;nbsp; tag&amp;nbsp; 市场风格&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;2.1负反馈，打板和接力，所以选择低吸，但是低吸容易一直补，注意补的节奏&lt;br&gt;2.2 大票 vs 题材 、指数、题材是否分离、指数、题材关联度，是否带动拖累&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+        <mxCell id="ux1P-nw25vE3XXC57Ogx-9" value="1.资金流向&amp;nbsp; (早盘接力、梯队氛围、板块涨幅、盘中涨跌家数、流入金额百亿、北向、涨跌停对比、昨日连板、炸板、盘中涨停家数、涨停概念&lt;br&gt;昨日连板、昨日晋级、涨停原因 - 推测方向 - 资金。题材介入深度。。。也就是趋势不会轻易形成（套利标。2—3天）（3进4。带动板块），什么标志着趋势结束（三个标识）)&amp;nbsp; - 像水一样的流动性&lt;br&gt;1.1.增量资金&amp;nbsp; &amp;nbsp;1.2.资金操作意图，自己是否想入场，感知市场情绪、感知资金行为&lt;br&gt;2.赚钱效应&amp;nbsp; tag&amp;nbsp; 市场风格 ： 例子：天龙=打高度＞龙字辈＞消费电子＞汽车配件＞芯片&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;2.1负反馈，打板和接力，所以选择低吸，但是低吸容易一直补，注意补的节奏&lt;br&gt;2.2 大票 vs 题材 、指数、题材是否分离、指数、题材关联度，是否带动拖累&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="-1120" y="370" width="770" height="141.38" as="geometry" />
         </mxCell>
         <mxCell id="ux1P-nw25vE3XXC57Ogx-10" value="集合竞价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
