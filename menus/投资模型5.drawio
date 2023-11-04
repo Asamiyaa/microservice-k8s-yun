@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-04T08:02:14.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Sr6QKEn3Gxs7b0WwvlM5" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-04T08:04:55.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="B-FKx_lfBZHYiwhofYQA" version="22.0.8" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
-    <mxGraphModel dx="18746" dy="4781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="18133" dy="4427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2745,7 +2745,7 @@
             <mxPoint x="-580" y="376.64705882352973" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ux1P-nw25vE3XXC57Ogx-9" value="1.资金流向&amp;nbsp; (早盘接力、梯队氛围、板块涨幅、盘中涨跌家数、流入金额百亿、北向、涨跌停对比、昨日连板、炸板)&lt;br&gt;1.1.增量资金&amp;nbsp; &amp;nbsp;1.2.资金操作意图，自己是否想入场，感知市场情绪、感知资金行为&lt;br&gt;2.赚钱效应&amp;nbsp; tag&amp;nbsp; 市场风格&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;2.1负反馈，打板和接力，所以选择低吸，但是低吸容易一直补，注意补的节奏&lt;br&gt;2.2 大票 vs 题材 、指数、题材是否分离、指数、题材关联度，是否带动拖累&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+        <mxCell id="ux1P-nw25vE3XXC57Ogx-9" value="1.资金流向&amp;nbsp; (早盘接力、梯队氛围、板块涨幅、盘中涨跌家数、流入金额百亿、北向、涨跌停对比、昨日连板、炸板、盘中涨停家数、涨停概念&lt;br&gt;昨日连板、昨日晋级)&lt;br&gt;1.1.增量资金&amp;nbsp; &amp;nbsp;1.2.资金操作意图，自己是否想入场，感知市场情绪、感知资金行为&lt;br&gt;2.赚钱效应&amp;nbsp; tag&amp;nbsp; 市场风格&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;2.1负反馈，打板和接力，所以选择低吸，但是低吸容易一直补，注意补的节奏&lt;br&gt;2.2 大票 vs 题材 、指数、题材是否分离、指数、题材关联度，是否带动拖累&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="-1120" y="370" width="770" height="141.38" as="geometry" />
         </mxCell>
         <mxCell id="ux1P-nw25vE3XXC57Ogx-10" value="集合竞价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
