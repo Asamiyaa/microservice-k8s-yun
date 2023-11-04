@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-04T07:50:42.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zI24_7De63Xe9mb7e7RZ" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-04T07:52:28.622Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="i_wU2LUdNgxQZ-LldEaH" version="22.0.8" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
-    <mxGraphModel dx="18227" dy="4481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="18589" dy="4690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2762,6 +2762,9 @@
         </mxCell>
         <mxCell id="ux1P-nw25vE3XXC57Ogx-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.625;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ux1P-nw25vE3XXC57Ogx-10" target="3b5u9iy_GeAOWJdaI9El-82">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1P-nw25vE3XXC57Ogx-15" value="1.一字板、涨停&lt;br&gt;2.高开、新、旧&lt;br&gt;3.弱转强&lt;br&gt;4.放量、放成交额&lt;br&gt;5.最后一秒上翘&lt;br&gt;&lt;br&gt;2.板块涨幅" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="-164.38" width="580" height="134.38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
