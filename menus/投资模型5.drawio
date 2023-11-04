@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-04T08:31:00.387Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="qp1q0s3XOn-W_SSX2PXd" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-04T08:31:16.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3H20t7KzQep8h0uZ-wE9" version="22.0.8" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
     <mxGraphModel dx="22276" dy="6819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2786,11 +2786,11 @@
         <mxCell id="ux1P-nw25vE3XXC57Ogx-20" value="周期是由资金顶出来&lt;br&gt;周期只是更大的可能性，但资金是决定性" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-764" y="107.81" width="250" height="75.62" as="geometry" />
         </mxCell>
-        <mxCell id="ux1P-nw25vE3XXC57Ogx-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ux1P-nw25vE3XXC57Ogx-21" target="ux1P-nw25vE3XXC57Ogx-22">
+        <mxCell id="ux1P-nw25vE3XXC57Ogx-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ux1P-nw25vE3XXC57Ogx-21" target="3b5u9iy_GeAOWJdaI9El-355">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ux1P-nw25vE3XXC57Ogx-21" value="尾盘思考维度：梯队、热点板块的低位(博弈次日板块发酵-趋弱留强)、情绪题材转折" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="3010" width="610" height="634" as="geometry" />
+          <mxGeometry x="2950" y="-128.87" width="610" height="634" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
