@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-11T08:41:51.513Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7F5lXp8ASODxrMfwo-uc" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-11T08:42:15.265Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vhuwFmaPT32l5ECaiU9d" version="22.1.0" type="github">
   <diagram name="第 1 页" id="wRgRv8rGRIX4Yconnfli">
     <mxGraphModel dx="2514" dy="2131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,16 +71,16 @@
           <mxGeometry x="150" y="-20" width="460" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tp0rJ0lwHulD0GU-RbSi-20" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;进攻、防守&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="10" width="80" height="40" as="geometry" />
+          <mxGeometry x="160" y="30" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tp0rJ0lwHulD0GU-RbSi-21" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;变速&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="10" width="80" height="40" as="geometry" />
+          <mxGeometry x="260" y="30" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tp0rJ0lwHulD0GU-RbSi-22" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;角度&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="30" width="80" height="40" as="geometry" />
+          <mxGeometry x="480" y="30" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tp0rJ0lwHulD0GU-RbSi-23" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;搭档配合&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="40" width="80" height="40" as="geometry" />
+          <mxGeometry x="355" y="30" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tp0rJ0lwHulD0GU-RbSi-24" value="&lt;div class=&quot;lake-content&quot;&gt;耐力、爆发力、速度和灵活性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="500" width="210" height="40" as="geometry" />
@@ -116,16 +116,16 @@
           <mxGeometry x="435" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tp0rJ0lwHulD0GU-RbSi-41" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;握拍&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="-10" width="80" height="40" as="geometry" />
+          <mxGeometry x="440" y="-10" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tp0rJ0lwHulD0GU-RbSi-42" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;击球&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="-10" width="80" height="40" as="geometry" />
+          <mxGeometry x="500" y="-10" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tp0rJ0lwHulD0GU-RbSi-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tp0rJ0lwHulD0GU-RbSi-43" target="tp0rJ0lwHulD0GU-RbSi-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tp0rJ0lwHulD0GU-RbSi-43" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;对手站位&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="-10" width="80" height="40" as="geometry" />
+          <mxGeometry x="630" y="-10" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
