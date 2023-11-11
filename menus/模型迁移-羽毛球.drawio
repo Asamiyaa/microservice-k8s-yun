@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-11T08:40:18.282Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="YtyEX0_xDRDE6SH9lTqF" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-11T08:41:10.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="lD6nwM5UfSrBf4c2KzY7" version="22.1.0" type="github">
   <diagram name="第 1 页" id="wRgRv8rGRIX4Yconnfli">
-    <mxGraphModel dx="2261" dy="1987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2022" dy="1851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,10 +77,10 @@
           <mxGeometry x="280" y="10" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tp0rJ0lwHulD0GU-RbSi-22" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;角度&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="10" width="80" height="40" as="geometry" />
+          <mxGeometry x="415" y="30" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tp0rJ0lwHulD0GU-RbSi-23" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;搭档配合&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="10" width="80" height="40" as="geometry" />
+          <mxGeometry x="520" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tp0rJ0lwHulD0GU-RbSi-24" value="&lt;div class=&quot;lake-content&quot;&gt;耐力、爆发力、速度和灵活性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="500" width="210" height="40" as="geometry" />
@@ -114,6 +114,12 @@
         </mxCell>
         <mxCell id="tp0rJ0lwHulD0GU-RbSi-39" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;杀球&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tp0rJ0lwHulD0GU-RbSi-41" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;握拍&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-10" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tp0rJ0lwHulD0GU-RbSi-42" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;击球&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-10" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
