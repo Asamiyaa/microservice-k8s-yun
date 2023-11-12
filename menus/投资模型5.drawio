@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-05T03:10:12.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NzJ9jiM8RrEAmdXIc4en" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-12T02:47:57.375Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="V4_6cLBYeQJzuiTVzmRh" version="22.1.0" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
-    <mxGraphModel dx="18589" dy="4690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="18589" dy="4676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gqe8VwMSzwfpg7zT9i1C-9" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
-          <mxGeometry x="455" y="50" width="510" height="307.5" as="geometry" />
+          <mxGeometry x="200" y="50" width="765" height="307.5" as="geometry" />
         </mxCell>
         <mxCell id="3b5u9iy_GeAOWJdaI9El-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-8" target="Gqe8VwMSzwfpg7zT9i1C-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -55,7 +55,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Gqe8VwMSzwfpg7zT9i1C-2" value="资金流向 、 大单净额" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="465" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gqe8VwMSzwfpg7zT9i1C-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-3" target="Gqe8VwMSzwfpg7zT9i1C-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2741,7 +2741,7 @@
           <mxGeometry x="985" y="223.75" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xT7n4Xwm2ZcGxZs6Pejo-10" value="市场正好恢复，所以模型看起来好，后续行情震荡，这个操作要小心" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="444" y="45.62" width="120" height="80" as="geometry" />
+          <mxGeometry x="193" y="20.619999999999997" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ux1P-nw25vE3XXC57Ogx-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ux1P-nw25vE3XXC57Ogx-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2773,7 +2773,7 @@
           <mxGeometry x="-510" y="-170" width="460" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ux1P-nw25vE3XXC57Ogx-16" value="策略的适用场景，比如试验的筹码峰、量化特点、大单净量...如何识别和叠加过滤？？？&lt;br&gt;1102：尾盘又加了一笔：锦江酒店10日线理论。次日不行&lt;br&gt;姚技科技符合分时、日k ,题材周期，博弈次日传媒上涨，次日因为周期而跌不行" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="70" width="370" height="76" as="geometry" />
+          <mxGeometry x="-155" y="70" width="370" height="76" as="geometry" />
         </mxCell>
         <mxCell id="ux1P-nw25vE3XXC57Ogx-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ux1P-nw25vE3XXC57Ogx-17" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2814,11 +2814,28 @@
         <mxCell id="ux1P-nw25vE3XXC57Ogx-31" value="20231103：资金流出、涨跌幅涨多，后来带动了资金流入。。迷惑了导致早盘打扮不敢上仓位；能理解为跌不动，所以满足其一就行？" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="-1120" y="530" width="770" height="40.62" as="geometry" />
         </mxCell>
-        <mxCell id="95IESheFgFvSxLJk8HMM-1" value="低吸模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="95IESheFgFvSxLJk8HMM-1" value="低吸模型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1295" y="170" width="126" height="68.75" as="geometry" />
         </mxCell>
-        <mxCell id="95IESheFgFvSxLJk8HMM-2" value="追涨模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="95IESheFgFvSxLJk8HMM-2" value="追涨模型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1295" y="274.12" width="130" height="68.5" as="geometry" />
+        </mxCell>
+        <mxCell id="q7YFMD39klpyVLXQZ11j-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="q7YFMD39klpyVLXQZ11j-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="183.85714285714494" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q7YFMD39klpyVLXQZ11j-1" value="死循环0.管住手，止损坚决，没有大亏钱并且向上就因为怕看不到导致提前卖出，错误。设置条件单 1.市场最高标套利 2.市场最高标争夺 3.混沌下老龙&lt;br&gt;死循环：10点左右看条件选股，大单流入，小单流出那个。看有没有好方向&amp;nbsp;&lt;br&gt;死循环：量化柚子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-34" y="354.62" width="436" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="q7YFMD39klpyVLXQZ11j-3" value="盘中死循环系统" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q7YFMD39klpyVLXQZ11j-6" value="核心模式(市场绕不过，比如捷荣、塞力斯、高新发展...)&lt;br&gt;平推模式" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="484" y="80" width="120" height="248" as="geometry" />
+        </mxCell>
+        <mxCell id="q7YFMD39klpyVLXQZ11j-7" value="板块确认：梯队完整(1.龙头、跟风、2.300 3.中军)&lt;br&gt;涨停带动效果&lt;br&gt;其他板块反应也就是市场总体环境" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="345" y="80" width="120" height="245.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
