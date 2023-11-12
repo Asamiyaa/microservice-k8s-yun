@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-12T03:24:23.520Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="oGDQgqncA5GTq_dm2uUh" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-12T03:27:34.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="gkZSZY-ugTKYBBJYYzmH" version="22.1.0" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
-    <mxGraphModel dx="18746" dy="4765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="18589" dy="4676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2826,7 +2826,7 @@
         <mxCell id="q7YFMD39klpyVLXQZ11j-3" value="盘中死循环系统" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="463.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="q7YFMD39klpyVLXQZ11j-6" value="核心模式(市场绕不过，比如捷荣、塞力斯、高新发展...高位看核心，看逻辑，看辨识度)&lt;br&gt;平推模式(低位看驱动，看逻辑，看周期节点，看性价比&amp;nbsp;)" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+        <mxCell id="q7YFMD39klpyVLXQZ11j-6" value="核心模式(市场绕不过，比如捷荣、塞力斯、高新发展...高位看核心，看逻辑，看辨识度&amp;nbsp; ---龙头买不进再买套利：捷荣和华英套利。。市场偏好：畏高。。主线分歧老龙模式，小心)&lt;br&gt;平推模式(低位看驱动，看逻辑，看周期节点，看性价比&amp;nbsp;)" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="484" y="80" width="120" height="248" as="geometry" />
         </mxCell>
         <mxCell id="q7YFMD39klpyVLXQZ11j-7" value="板块确认：梯队完整(1.龙头、跟风、2.300 3.中军)&lt;br&gt;涨停带动效果&lt;br&gt;其他板块反应也就是市场总体环境&lt;br&gt;&lt;br&gt;板块变弱：炸板、封单减少" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
@@ -2850,7 +2850,7 @@
         <mxCell id="q7YFMD39klpyVLXQZ11j-12" value="不要纠结于错失，积极快速思考，应变" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1010" y="100" width="220" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="q7YFMD39klpyVLXQZ11j-13" value="市场、资金、情绪感知" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+        <mxCell id="q7YFMD39klpyVLXQZ11j-13" value="市场、资金、情绪感知&lt;br&gt;市场几条线，强弱如何" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="210" y="82.88" width="120" height="245.62" as="geometry" />
         </mxCell>
       </root>
