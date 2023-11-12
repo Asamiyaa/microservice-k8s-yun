@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-12T03:45:45.580Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6oge8BqYJrnq7kgoYiMI" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-12T14:50:58.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="uQ1ubnSnqPbHplkzgbPg" version="22.1.0" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
     <mxGraphModel dx="18589" dy="4676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2820,40 +2820,40 @@
         <mxCell id="95IESheFgFvSxLJk8HMM-2" value="追涨模型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1295" y="274.12" width="130" height="68.5" as="geometry" />
         </mxCell>
-        <mxCell id="q7YFMD39klpyVLXQZ11j-1" value="死循环0.管住手，止损坚决，没有大亏钱并且向上就因为怕看不到导致提前卖出，错误。&lt;br&gt;设置条件单，不要因为不耐烦而抛掉，错过福晶等大肉&lt;br&gt;1.市场最高标套利 2.市场最高标争夺 &lt;br&gt;3.混沌下老龙、抱团、上个周期妖股、防御:医药、黄金&lt;br&gt;死循环：10点左右看条件选股，大单流入，小单流出那个。看有没有好方向&amp;nbsp;&lt;br&gt;死循环：量化柚子&lt;br&gt;不及预期的票，板块盘中转强，比如1109的算力，四川长虹等" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q7YFMD39klpyVLXQZ11j-1" value="死循环0.管住手，止损坚决，没有大亏钱并且向上就因为怕看不到导致提前卖出，错误。&lt;br&gt;设置条件单，不要因为不耐烦而抛掉，错过福晶等大肉&lt;br&gt;1.市场最高标套利 2.市场最高标争夺 &lt;br&gt;3.混沌下老龙、抱团、上个周期妖股、防御:医药、黄金&lt;br&gt;死循环：10点左右看条件选股，大单流入，小单流出那个。看有没有好方向&amp;nbsp;&lt;br&gt;死循环：连续四天流入&amp;nbsp;&lt;br&gt;死循环：量化柚子&lt;br&gt;不及预期的票，板块盘中转强，比如1109的算力，四川长虹等&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="524.62" width="436" height="141" as="geometry" />
         </mxCell>
-        <mxCell id="q7YFMD39klpyVLXQZ11j-3" value="盘中死循环系统" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q7YFMD39klpyVLXQZ11j-3" value="盘中死循环系统" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="463.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="q7YFMD39klpyVLXQZ11j-6" value="核心模式(市场绕不过，比如捷荣、塞力斯、高新发展...高位看核心，看逻辑，看辨识度&amp;nbsp; ---龙头买不进再买套利：捷荣和华英套利。。市场偏好：畏高。。主线分歧老龙模式，小心 - 巨轮操作错误)&lt;br&gt;平推模式(低位看驱动，看逻辑，看周期节点，看性价比&amp;nbsp;)" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+        <mxCell id="q7YFMD39klpyVLXQZ11j-6" value="核心模式(市场绕不过，比如捷荣、塞力斯、高新发展...高位看核心，看逻辑，看辨识度&amp;nbsp; ---龙头买不进再买套利：捷荣和华英套利。。市场偏好：畏高。。主线分歧老龙模式，小心 - 巨轮操作错误)&lt;br&gt;平推模式(低位看驱动，看逻辑，看周期节点，看性价比&amp;nbsp;)" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="484" y="80" width="120" height="248" as="geometry" />
         </mxCell>
-        <mxCell id="q7YFMD39klpyVLXQZ11j-7" value="板块确认：梯队完整(1.龙头、跟风、2.300 3.中军)&lt;br&gt;涨停带动效果&lt;br&gt;其他板块反应也就是市场总体环境&lt;br&gt;&lt;br&gt;子余买入太平洋，重仓，中军，当日券商梯队是完整的。所以可以稳&lt;br&gt;&lt;br&gt;板块变弱：炸板、封单减少" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+        <mxCell id="q7YFMD39klpyVLXQZ11j-7" value="板块确认：梯队完整(1.龙头、跟风、2.300 3.中军)&lt;br&gt;涨停带动效果&lt;br&gt;其他板块反应也就是市场总体环境&lt;br&gt;&lt;br&gt;子余买入太平洋，重仓，中军，当日券商梯队是完整的。所以可以稳&lt;br&gt;&lt;br&gt;板块变弱：炸板、封单减少" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="345" y="80" width="120" height="245.62" as="geometry" />
         </mxCell>
-        <mxCell id="q7YFMD39klpyVLXQZ11j-8" value="客观，自己是悲观主义者，错失机会。1.我为什么认为会高开低走 2.如果看出来是高开高走选择什么票 3.靠什么看出来 4.早盘的传媒为什么没有及时进入？&lt;br&gt;市场增量资金进入、上涨家数，自己为什么还是认为会下跌？？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q7YFMD39klpyVLXQZ11j-8" value="客观，自己是悲观主义者，错失机会。1.我为什么认为会高开低走 2.如果看出来是高开高走选择什么票 3.靠什么看出来 4.早盘的传媒为什么没有及时进入？&lt;br&gt;市场增量资金进入、上涨家数，自己为什么还是认为会下跌？？" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-310" y="370" width="210" height="146.19" as="geometry" />
         </mxCell>
-        <mxCell id="q7YFMD39klpyVLXQZ11j-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-3" target="q7YFMD39klpyVLXQZ11j-9">
+        <mxCell id="q7YFMD39klpyVLXQZ11j-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-3" target="q7YFMD39klpyVLXQZ11j-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="765" y="110" as="sourcePoint" />
             <mxPoint x="1295" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q7YFMD39klpyVLXQZ11j-9" value="排版 - 封板后板块带动作用，封单情况(增大最好)，抛压消化速度，单子大小" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q7YFMD39klpyVLXQZ11j-9" value="排版 - 封板后板块带动作用，封单情况(增大最好)，抛压消化速度，单子大小" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="772.5" y="90" width="227.5" height="33.5" as="geometry" />
         </mxCell>
-        <mxCell id="q7YFMD39klpyVLXQZ11j-11" value="扫板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q7YFMD39klpyVLXQZ11j-11" value="扫板" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="772.5" y="60" width="83" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q7YFMD39klpyVLXQZ11j-12" value="不要纠结于错失，积极快速思考，应变" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q7YFMD39klpyVLXQZ11j-12" value="不要纠结于错失，积极快速思考，应变" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1010" y="100" width="220" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="q7YFMD39klpyVLXQZ11j-13" value="市场、资金、情绪感知&lt;br&gt;市场几条线，强弱如何" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+        <mxCell id="q7YFMD39klpyVLXQZ11j-13" value="市场、资金、情绪感知&lt;br&gt;市场几条线，强弱如何" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="210" y="82.88" width="120" height="245.62" as="geometry" />
         </mxCell>
-        <mxCell id="q7YFMD39klpyVLXQZ11j-14" value="回封" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q7YFMD39klpyVLXQZ11j-14" value="回封" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="777" y="125.62" width="83" height="30" as="geometry" />
         </mxCell>
       </root>
