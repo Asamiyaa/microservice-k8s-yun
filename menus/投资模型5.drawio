@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-12T03:13:48.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="RRpAM5562PaNFffYNrDB" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-12T03:15:21.461Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="P6sJ-Ic5GiufX1Oi3hMc" version="22.1.0" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
-    <mxGraphModel dx="18452" dy="4598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="17906" dy="4286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,7 +70,7 @@
           <mxGeometry x="645" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gqe8VwMSzwfpg7zT9i1C-7" value="打板模型&lt;br&gt;https://www.yuque.com/asamiya/msvqvi/dtugctpllw9mcrte" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1295" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="1294" y="77.22" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gqe8VwMSzwfpg7zT9i1C-14" value="todo:1.加入案例感知" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="970" width="120" height="60" as="geometry" />
@@ -2789,7 +2789,7 @@
         <mxCell id="ux1P-nw25vE3XXC57Ogx-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ux1P-nw25vE3XXC57Ogx-21" target="3b5u9iy_GeAOWJdaI9El-355" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ux1P-nw25vE3XXC57Ogx-21" value="尾盘思考维度：梯队、热点板块的低位(博弈次日板块发酵-趋弱留强)、情绪题材转折、先手&lt;br&gt;大单连续流入，但未涨" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
+        <mxCell id="ux1P-nw25vE3XXC57Ogx-21" value="尾盘思考维度：梯队、晋级 vs 断板(补涨、高切低、内外切)&lt;br&gt;热点板块的低位(博弈次日板块发酵-趋弱留强)、情绪题材转折、先手&lt;br&gt;大单连续流入，但未涨" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="2564.5" y="137.22" width="565.5" height="122.56" as="geometry" />
         </mxCell>
         <mxCell id="ux1P-nw25vE3XXC57Ogx-25" value="可操作性&lt;br&gt;模型就像河流一样，连通，孤岛没有意义，增加复杂度" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
