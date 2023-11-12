@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-12T03:15:21.461Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="P6sJ-Ic5GiufX1Oi3hMc" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-12T03:17:13.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0X84gMXFVYdOpxAoflIQ" version="22.1.0" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
-    <mxGraphModel dx="17906" dy="4286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="19727" dy="5325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2851,6 +2851,9 @@
         </mxCell>
         <mxCell id="q7YFMD39klpyVLXQZ11j-11" value="扫板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="772.5" y="60" width="83" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7YFMD39klpyVLXQZ11j-12" value="不要纠结于错失，积极快速思考，应变" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="100" width="220" height="96" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
