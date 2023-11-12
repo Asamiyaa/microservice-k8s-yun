@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-12T03:43:57.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="XUhXykMoNXcsAKFmQSNR" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-12T03:45:45.580Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6oge8BqYJrnq7kgoYiMI" version="22.1.0" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
     <mxGraphModel dx="18589" dy="4676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2852,6 +2852,9 @@
         </mxCell>
         <mxCell id="q7YFMD39klpyVLXQZ11j-13" value="市场、资金、情绪感知&lt;br&gt;市场几条线，强弱如何" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="210" y="82.88" width="120" height="245.62" as="geometry" />
+        </mxCell>
+        <mxCell id="q7YFMD39klpyVLXQZ11j-14" value="回封" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="777" y="125.62" width="83" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
