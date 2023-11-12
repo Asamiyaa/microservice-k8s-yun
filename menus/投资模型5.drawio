@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-12T03:08:11.001Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_aeytvw3FF6cQ-SK8nDj" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-12T03:13:26.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FIncYWa7JJQSUjSqwCdc" version="22.1.0" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
-    <mxGraphModel dx="18133" dy="4416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="18452" dy="4598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,7 +87,7 @@
         <mxCell id="Gqe8VwMSzwfpg7zT9i1C-17" value="龙、非周期内不操作，尾盘操作被套，弱势票" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="797.5" y="158.13" width="145" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-18" value="绿线 0.3、连续红柱" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Gqe8VwMSzwfpg7zT9i1C-18" value="飞龙：绿线 0.3、连续红柱" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="797.5" y="203.75" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Gqe8VwMSzwfpg7zT9i1C-19" value="当日红线、小于近日、昨日一半(出货少)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
