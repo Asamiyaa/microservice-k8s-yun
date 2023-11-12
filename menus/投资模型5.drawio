@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-12T03:17:13.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0X84gMXFVYdOpxAoflIQ" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-12T03:19:07.165Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0XTq1RokVPO0NFQ3Jw0B" version="22.1.0" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
     <mxGraphModel dx="19727" dy="5325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2820,16 +2820,11 @@
         <mxCell id="95IESheFgFvSxLJk8HMM-2" value="追涨模型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1295" y="274.12" width="130" height="68.5" as="geometry" />
         </mxCell>
-        <mxCell id="q7YFMD39klpyVLXQZ11j-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="q7YFMD39klpyVLXQZ11j-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="183.85714285714494" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="q7YFMD39klpyVLXQZ11j-1" value="死循环0.管住手，止损坚决，没有大亏钱并且向上就因为怕看不到导致提前卖出，错误。&lt;br&gt;设置条件单 &lt;br&gt;1.市场最高标套利 2.市场最高标争夺 &lt;br&gt;3.混沌下老龙、抱团、上个周期妖股、防御:医药、黄金&lt;br&gt;死循环：10点左右看条件选股，大单流入，小单流出那个。看有没有好方向&amp;nbsp;&lt;br&gt;死循环：量化柚子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-34" y="354.62" width="436" height="141" as="geometry" />
+        <mxCell id="q7YFMD39klpyVLXQZ11j-1" value="死循环0.管住手，止损坚决，没有大亏钱并且向上就因为怕看不到导致提前卖出，错误。&lt;br&gt;设置条件单，不要因为不耐烦而抛掉，错过福晶等大肉&lt;br&gt;1.市场最高标套利 2.市场最高标争夺 &lt;br&gt;3.混沌下老龙、抱团、上个周期妖股、防御:医药、黄金&lt;br&gt;死循环：10点左右看条件选股，大单流入，小单流出那个。看有没有好方向&amp;nbsp;&lt;br&gt;死循环：量化柚子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="524.62" width="436" height="141" as="geometry" />
         </mxCell>
         <mxCell id="q7YFMD39klpyVLXQZ11j-3" value="盘中死循环系统" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="300" width="120" height="80" as="geometry" />
+          <mxGeometry x="610" y="463.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q7YFMD39klpyVLXQZ11j-6" value="核心模式(市场绕不过，比如捷荣、塞力斯、高新发展...高位看核心，看逻辑，看辨识度)&lt;br&gt;平推模式(低位看驱动，看逻辑，看周期节点，看性价比&amp;nbsp;)" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="484" y="80" width="120" height="248" as="geometry" />
