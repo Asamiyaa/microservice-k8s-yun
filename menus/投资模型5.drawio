@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-12T03:21:21.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VEWMOxs1SzG1JzjeCwhN" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-12T03:22:10.708Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="OXlXCcjbrbYZPaXcso6h" version="22.1.0" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
     <mxGraphModel dx="18746" dy="4765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2820,7 +2820,7 @@
         <mxCell id="95IESheFgFvSxLJk8HMM-2" value="追涨模型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1295" y="274.12" width="130" height="68.5" as="geometry" />
         </mxCell>
-        <mxCell id="q7YFMD39klpyVLXQZ11j-1" value="死循环0.管住手，止损坚决，没有大亏钱并且向上就因为怕看不到导致提前卖出，错误。&lt;br&gt;设置条件单，不要因为不耐烦而抛掉，错过福晶等大肉&lt;br&gt;1.市场最高标套利 2.市场最高标争夺 &lt;br&gt;3.混沌下老龙、抱团、上个周期妖股、防御:医药、黄金&lt;br&gt;死循环：10点左右看条件选股，大单流入，小单流出那个。看有没有好方向&amp;nbsp;&lt;br&gt;死循环：量化柚子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q7YFMD39klpyVLXQZ11j-1" value="死循环0.管住手，止损坚决，没有大亏钱并且向上就因为怕看不到导致提前卖出，错误。&lt;br&gt;设置条件单，不要因为不耐烦而抛掉，错过福晶等大肉&lt;br&gt;1.市场最高标套利 2.市场最高标争夺 &lt;br&gt;3.混沌下老龙、抱团、上个周期妖股、防御:医药、黄金&lt;br&gt;死循环：10点左右看条件选股，大单流入，小单流出那个。看有没有好方向&amp;nbsp;&lt;br&gt;死循环：量化柚子&lt;br&gt;不及预期的票，板块盘中转强，比如1109的算力，四川长虹等" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="524.62" width="436" height="141" as="geometry" />
         </mxCell>
         <mxCell id="q7YFMD39klpyVLXQZ11j-3" value="盘中死循环系统" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
