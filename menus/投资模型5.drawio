@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T12:38:16.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="1HQrSdrUw9LMqhlZz5MU" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T12:39:50.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="9w2l1e65J0qH3p6EO__c" version="22.1.0" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
-    <mxGraphModel dx="23710" dy="7097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="20637" dy="5558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2733,7 +2733,7 @@
           <mxGeometry x="-1120" y="370" width="770" height="141.38" as="geometry" />
         </mxCell>
         <mxCell id="ux1P-nw25vE3XXC57Ogx-10" value="集合竞价" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-420" y="-390.3800000000001" width="320" height="146" as="geometry" />
+          <mxGeometry x="-365" y="-340" width="230" height="95.62" as="geometry" />
         </mxCell>
         <mxCell id="ux1P-nw25vE3XXC57Ogx-12" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.417;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="ux1P-nw25vE3XXC57Ogx-8" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2765,7 +2765,7 @@
           <mxGeometry x="-764" y="107.81" width="250" height="75.62" as="geometry" />
         </mxCell>
         <mxCell id="ux1P-nw25vE3XXC57Ogx-21" value="尾盘思考维度：&lt;br&gt;1.梯队、晋级 vs 断板(补涨、高切低、内外切)&lt;br&gt;2.热点板块的低位(博弈次日板块发酵-趋弱留强)、情绪题材转折、先手&lt;br&gt;3.大单连续流入，但未涨" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
-          <mxGeometry x="1217.25" y="-714.38" width="572.75" height="270" as="geometry" />
+          <mxGeometry x="1207.25" y="-190" width="572.75" height="155.62" as="geometry" />
         </mxCell>
         <mxCell id="ux1P-nw25vE3XXC57Ogx-25" value="可操作性&lt;br&gt;模型就像河流一样，连通，孤岛没有意义，增加复杂度" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-1460" y="-759.88" width="286" height="111" as="geometry" />
@@ -2837,7 +2837,13 @@
         <mxCell id="ihHBnnKWMKTRdFVBqoj7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.372;entryY=0.49;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-25" target="ux1P-nw25vE3XXC57Ogx-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ihHBnnKWMKTRdFVBqoj7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.897;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ux1P-nw25vE3XXC57Ogx-21" target="Gqe8VwMSzwfpg7zT9i1C-9">
+        <mxCell id="ihHBnnKWMKTRdFVBqoj7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ihHBnnKWMKTRdFVBqoj7-14" target="ux1P-nw25vE3XXC57Ogx-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ihHBnnKWMKTRdFVBqoj7-14" value="尾盘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="-343" width="230" height="101.62" as="geometry" />
+        </mxCell>
+        <mxCell id="ihHBnnKWMKTRdFVBqoj7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.893;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ux1P-nw25vE3XXC57Ogx-21" target="Gqe8VwMSzwfpg7zT9i1C-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
