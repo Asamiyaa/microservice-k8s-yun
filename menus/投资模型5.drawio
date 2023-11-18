@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T12:57:35.974Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="08d8vjsjCvyVQ9VJHzJe" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-18T10:20:38.091Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="USfed6tY6G-qUPm7dGOf" version="22.1.3" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
-    <mxGraphModel dx="20637" dy="5558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="18589" dy="4676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="3b5u9iy_GeAOWJdaI9El-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-9" target="Gqe8VwMSzwfpg7zT9i1C-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ihHBnnKWMKTRdFVBqoj7-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-9" target="ihHBnnKWMKTRdFVBqoj7-24">
+        <mxCell id="ihHBnnKWMKTRdFVBqoj7-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-9" target="ihHBnnKWMKTRdFVBqoj7-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1650" y="170" />
@@ -84,7 +84,7 @@
         <mxCell id="Gqe8VwMSzwfpg7zT9i1C-14" value="todo:1.加入案例感知" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ihHBnnKWMKTRdFVBqoj7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-15" target="3b5u9iy_GeAOWJdaI9El-47">
+        <mxCell id="ihHBnnKWMKTRdFVBqoj7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-15" target="3b5u9iy_GeAOWJdaI9El-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gqe8VwMSzwfpg7zT9i1C-15" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
@@ -99,13 +99,13 @@
         <mxCell id="Gqe8VwMSzwfpg7zT9i1C-19" value="当日红线、小于近日、昨日一半(出货少)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="805" y="270" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ihHBnnKWMKTRdFVBqoj7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-20" target="ihHBnnKWMKTRdFVBqoj7-20">
+        <mxCell id="ihHBnnKWMKTRdFVBqoj7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-20" target="ihHBnnKWMKTRdFVBqoj7-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ihHBnnKWMKTRdFVBqoj7-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-20" target="ihHBnnKWMKTRdFVBqoj7-23">
+        <mxCell id="ihHBnnKWMKTRdFVBqoj7-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-20" target="ihHBnnKWMKTRdFVBqoj7-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ihHBnnKWMKTRdFVBqoj7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-20" target="ihHBnnKWMKTRdFVBqoj7-21">
+        <mxCell id="ihHBnnKWMKTRdFVBqoj7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-20" target="ihHBnnKWMKTRdFVBqoj7-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gqe8VwMSzwfpg7zT9i1C-20" value="资金管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2756,7 +2756,7 @@
         <mxCell id="ux1P-nw25vE3XXC57Ogx-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.625;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ux1P-nw25vE3XXC57Ogx-10" target="3b5u9iy_GeAOWJdaI9El-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ux1P-nw25vE3XXC57Ogx-15" value="1.一字板、涨停&lt;br&gt;2.热点票、板块决定当日情绪 - 从‘接力’中感知&lt;br&gt;3.弱转强&amp;nbsp; 1；注意平开，或者低开太多都有机会&amp;nbsp; &amp;nbsp;2.昨日弱，今日高开、集合抢筹，开盘向上...&lt;br&gt;4.放量、放成交额&lt;br&gt;5.最后一秒上翘" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
+        <mxCell id="ux1P-nw25vE3XXC57Ogx-15" value="1.一字板、涨停&lt;br&gt;2.热点票、板块决定当日情绪 - 从‘接力’中感知&lt;br&gt;3.弱转强&amp;nbsp; 1；注意平开，或者低开太多都有机会&amp;nbsp; &amp;nbsp;2.昨日弱，今日高开、集合抢筹，开盘向上...&lt;br&gt;4.放量、放成交额&lt;br&gt;5.最后一秒上翘&lt;br&gt;6.留票-不隔日必须有足够的理由，结合指数安全性，否则小心。指数。大多数时间是垃圾" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="-510" y="-170" width="460" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ux1P-nw25vE3XXC57Ogx-16" value="策略的适用场景，比如试验的筹码峰、量化特点、大单净量...如何识别和叠加过滤？？？&lt;br&gt;1102：尾盘又加了一笔：锦江酒店10日线理论。次日不行&lt;br&gt;姚技科技符合分时、日k ,题材周期，博弈次日传媒上涨，次日因为周期而跌不行" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -2840,43 +2840,43 @@
         <mxCell id="q7YFMD39klpyVLXQZ11j-14" value="回封" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="777" y="125.62" width="83" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ihHBnnKWMKTRdFVBqoj7-2" value="理性" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ihHBnnKWMKTRdFVBqoj7-2" value="理性" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-360" y="320.12" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ihHBnnKWMKTRdFVBqoj7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.372;entryY=0.49;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-25" target="ux1P-nw25vE3XXC57Ogx-22">
+        <mxCell id="ihHBnnKWMKTRdFVBqoj7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.372;entryY=0.49;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-25" target="ux1P-nw25vE3XXC57Ogx-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ihHBnnKWMKTRdFVBqoj7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ihHBnnKWMKTRdFVBqoj7-14" target="ux1P-nw25vE3XXC57Ogx-21">
+        <mxCell id="ihHBnnKWMKTRdFVBqoj7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ihHBnnKWMKTRdFVBqoj7-14" target="ux1P-nw25vE3XXC57Ogx-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ihHBnnKWMKTRdFVBqoj7-14" value="尾盘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ihHBnnKWMKTRdFVBqoj7-14" value="尾盘" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1380" y="-343" width="230" height="101.62" as="geometry" />
         </mxCell>
-        <mxCell id="ihHBnnKWMKTRdFVBqoj7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.893;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ux1P-nw25vE3XXC57Ogx-21" target="Gqe8VwMSzwfpg7zT9i1C-9">
+        <mxCell id="ihHBnnKWMKTRdFVBqoj7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.893;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ux1P-nw25vE3XXC57Ogx-21" target="Gqe8VwMSzwfpg7zT9i1C-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ihHBnnKWMKTRdFVBqoj7-17" value="周期阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ihHBnnKWMKTRdFVBqoj7-17" value="周期阶段" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2390" y="260.12" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ihHBnnKWMKTRdFVBqoj7-18" value="因果强弱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ihHBnnKWMKTRdFVBqoj7-18" value="因果强弱" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2380" y="95.62" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ihHBnnKWMKTRdFVBqoj7-19" value="胜率与盈亏比" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ihHBnnKWMKTRdFVBqoj7-19" value="胜率与盈亏比" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2380" y="148.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ihHBnnKWMKTRdFVBqoj7-20" value="行情不好" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ihHBnnKWMKTRdFVBqoj7-20" value="行情不好" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2240" y="-84.38" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ihHBnnKWMKTRdFVBqoj7-21" value="行情明确" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ihHBnnKWMKTRdFVBqoj7-21" value="行情明确" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2240" y="260.12" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ihHBnnKWMKTRdFVBqoj7-22" value="试盘仓和重仓个股" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ihHBnnKWMKTRdFVBqoj7-22" value="试盘仓和重仓个股" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2380" y="45" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ihHBnnKWMKTRdFVBqoj7-23" value="行情不明确" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ihHBnnKWMKTRdFVBqoj7-23" value="行情不明确" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2240" y="86" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ihHBnnKWMKTRdFVBqoj7-24" value="动态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ihHBnnKWMKTRdFVBqoj7-24" value="动态" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2080" y="135.62" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
