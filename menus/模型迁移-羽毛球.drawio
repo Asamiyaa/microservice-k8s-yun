@@ -1,29 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2023-11-18T09:28:50.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="XkVpu3_LTb-y4YvMxm4j" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-18T09:29:49.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="GI-mOKVr5Tk4C_H9vHb4" version="22.1.3" type="github">
   <diagram name="第 1 页" id="wRgRv8rGRIX4Yconnfli">
     <mxGraphModel dx="2514" dy="2131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tp0rJ0lwHulD0GU-RbSi-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="tp0rJ0lwHulD0GU-RbSi-1" target="tp0rJ0lwHulD0GU-RbSi-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="tp0rJ0lwHulD0GU-RbSi-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="tp0rJ0lwHulD0GU-RbSi-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="535" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="tp0rJ0lwHulD0GU-RbSi-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="425" width="460" height="125" as="geometry" />
+          <mxGeometry x="150" y="440" width="460" height="235" as="geometry" />
         </mxCell>
         <mxCell id="tp0rJ0lwHulD0GU-RbSi-3" value="平衡" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="440" width="80" height="40" as="geometry" />
+          <mxGeometry x="170" y="565" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tp0rJ0lwHulD0GU-RbSi-4" value="敏捷" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="440" width="80" height="40" as="geometry" />
+          <mxGeometry x="290" y="565" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tp0rJ0lwHulD0GU-RbSi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.875;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tp0rJ0lwHulD0GU-RbSi-7" target="tp0rJ0lwHulD0GU-RbSi-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tp0rJ0lwHulD0GU-RbSi-7" value="协调" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="440" width="80" height="40" as="geometry" />
+          <mxGeometry x="400" y="565" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tp0rJ0lwHulD0GU-RbSi-8" value="腰不痛" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="500" width="80" height="40" as="geometry" />
+          <mxGeometry x="490" y="625" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tp0rJ0lwHulD0GU-RbSi-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="tp0rJ0lwHulD0GU-RbSi-9" target="tp0rJ0lwHulD0GU-RbSi-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -82,7 +84,7 @@
           <mxGeometry x="390" y="-410.06" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tp0rJ0lwHulD0GU-RbSi-24" value="&lt;div class=&quot;lake-content&quot;&gt;耐力、爆发力、速度和灵活性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="500" width="210" height="40" as="geometry" />
+          <mxGeometry x="250" y="625" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tp0rJ0lwHulD0GU-RbSi-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tp0rJ0lwHulD0GU-RbSi-25" target="tp0rJ0lwHulD0GU-RbSi-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -184,6 +186,18 @@
         </mxCell>
         <mxCell id="3woCyHlaDUpGIK_526us-20" value="平挡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="279" y="170" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3woCyHlaDUpGIK_526us-21" value="柔韧、跨度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="510" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3woCyHlaDUpGIK_526us-22" value="弹跳" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="564" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3woCyHlaDUpGIK_526us-23" value="轻盈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="510" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3woCyHlaDUpGIK_526us-24" value="爆发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="510" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
