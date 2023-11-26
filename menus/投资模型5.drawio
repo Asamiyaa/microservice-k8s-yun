@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-11-24T15:52:54.333Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="p5JBOW4dycTqo9HhiEJ9" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-26T01:21:38.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="XlsyjYzfCJu5AWB0mHPZ" version="22.1.4" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
-    <mxGraphModel dx="18746" dy="4584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="20125" dy="5552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OygSNnMGasFQpYP67Yyt-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-435" y="785.62" width="2720" height="1345" as="geometry" />
+        </mxCell>
         <mxCell id="ux1P-nw25vE3XXC57Ogx-22" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="-1370" y="-677.12" width="5250" height="1450" as="geometry" />
         </mxCell>
@@ -2881,8 +2884,14 @@
         <mxCell id="ihHBnnKWMKTRdFVBqoj7-24" value="动态" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2080" y="135.62" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pBuSmwiYSLHICS0OVUXa-1" value="知识图谱&lt;br&gt;https://www.yuque.com/asamiya/msvqvi/uqzsn7f7tnww4em1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="pBuSmwiYSLHICS0OVUXa-1" value="知识图谱&lt;br&gt;https://www.yuque.com/asamiya/msvqvi/uqzsn7f7tnww4em1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="350" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OygSNnMGasFQpYP67Yyt-1" value="异动精灵" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="878.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OygSNnMGasFQpYP67Yyt-3" value="如何聚合使其具有生产力" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="890" width="170" height="129" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
