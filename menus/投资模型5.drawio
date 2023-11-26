@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T09:28:51.510Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_jiSdqKhGsQ-HffkXqIu" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-26T09:32:07.232Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="w_Dco_fSO0jNEsfl2TKO" version="22.1.4" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
-    <mxGraphModel dx="22276" dy="6779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="18589" dy="4676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2898,6 +2898,12 @@
         </mxCell>
         <mxCell id="OygSNnMGasFQpYP67Yyt-5" value="条件单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2030" y="873.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OygSNnMGasFQpYP67Yyt-6" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="52.81" width="240" height="294.38" as="geometry" />
+        </mxCell>
+        <mxCell id="OygSNnMGasFQpYP67Yyt-7" value="混战&amp;nbsp; vs 多线 vs 单子&lt;br&gt;趋势 vs&amp;nbsp; 轮动&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="164" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
