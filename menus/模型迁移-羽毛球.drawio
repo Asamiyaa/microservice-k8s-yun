@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T10:50:18.237Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ubnCb8_FWwZHWfRQa3xZ" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-02T10:57:32.005Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vOSmFblL8FdZge41JHgH" version="22.1.5" type="github">
   <diagram name="第 1 页" id="wRgRv8rGRIX4Yconnfli">
     <mxGraphModel dx="2259" dy="1976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -216,16 +216,25 @@
           <mxGeometry x="490" y="-90" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3woCyHlaDUpGIK_526us-33" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;控球、落点、角度&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="320" y="-150" width="260" height="30" as="geometry" />
+          <mxGeometry x="330" y="-120" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3woCyHlaDUpGIK_526us-34" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;反复、时间、练习、反馈&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-96" y="-260" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="XUEUr0aU9454i78122fU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XUEUr0aU9454i78122fU-1" target="XUEUr0aU9454i78122fU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XUEUr0aU9454i78122fU-1" value="击打点，挥拍动作和球的轨迹交点，类似买点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="325" y="-190" width="130" height="40" as="geometry" />
+          <mxGeometry x="325" y="-160" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XUEUr0aU9454i78122fU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XUEUr0aU9454i78122fU-2" target="XUEUr0aU9454i78122fU-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XUEUr0aU9454i78122fU-2" value="连贯性、重心，后续计划和预判，类似仓位" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="470" y="-190" width="145" height="40" as="geometry" />
+          <mxGeometry x="414" y="-200" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XUEUr0aU9454i78122fU-4" value="刻意练习步伐和挥拍转体动作" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-180" width="85" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
