@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T11:21:07.079Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="dN_oNIsiePRHv6976vRy" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-03T11:21:21.158Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="sNfezy0lJJyTO_XKH5XK" version="22.1.5" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
     <mxGraphModel dx="18478" dy="4599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2914,7 +2914,7 @@
         <mxCell id="-djD2epGBmc7InBQP_nY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-djD2epGBmc7InBQP_nY-1" target="-djD2epGBmc7InBQP_nY-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-djD2epGBmc7InBQP_nY-1" value="1.非理想化(核心未动？长安汽车)&lt;br&gt;2.板块中部分标的，比如高标，反包动，但是没有形成大的效应，高标和其他龙卡来卡去，是否上？(东安动力)&lt;br&gt;3.1201高位卡位(主线汽车有消息就是主线，轮动就是高切低)，低位月初高低切的ai应用，更多从技术角度吸核心平铺" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+        <mxCell id="-djD2epGBmc7InBQP_nY-1" value="1.非理想化(核心未动？长安汽车)&lt;br&gt;2.板块中部分标的，比如高标，反包动，但是没有形成大的效应，高标和其他龙卡来卡去，是否上？(东安动力)&lt;br&gt;3.1201高位卡位(主线汽车有消息就是主线，轮动就是高切低所以ai是轮动)，低位月初高低切的ai应用，更多从技术角度吸核心平铺" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="335.62" width="132.5" height="194.38" as="geometry" />
         </mxCell>
         <mxCell id="-djD2epGBmc7InBQP_nY-2" value="试盘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
