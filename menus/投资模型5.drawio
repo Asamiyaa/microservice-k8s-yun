@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T23:49:00.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="qJekQ1zDG-nNm2sDxJzJ" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-03T00:35:31.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4fe5bLH2SqYjOHStFp_T" version="22.1.5" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
     <mxGraphModel dx="18478" dy="4599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,10 +94,10 @@
           <mxGeometry x="2070" y="-120" width="500" height="530" as="geometry" />
         </mxCell>
         <mxCell id="Gqe8VwMSzwfpg7zT9i1C-17" value="龙、非周期内不操作，尾盘操作被套，弱势票" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="797.5" y="158.13" width="145" height="30" as="geometry" />
+          <mxGeometry x="787.5" y="164" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gqe8VwMSzwfpg7zT9i1C-18" value="非龙：绿线 0.3、连续红柱" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="797.5" y="203.75" width="90" height="20" as="geometry" />
+          <mxGeometry x="890" y="240.62" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Gqe8VwMSzwfpg7zT9i1C-19" value="当日红线、小于近日、昨日一半(出货少)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="805" y="270" width="110" height="30" as="geometry" />
@@ -2716,7 +2716,7 @@
           <mxGeometry x="-480" y="274.12" width="80" height="46" as="geometry" />
         </mxCell>
         <mxCell id="xT7n4Xwm2ZcGxZs6Pejo-4" value="一进二、二进三" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="905" y="203.75" width="90" height="20" as="geometry" />
+          <mxGeometry x="787.5" y="208.49" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xT7n4Xwm2ZcGxZs6Pejo-5" value="套利标打板小心注意板块和龙关系，周期" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="805" y="315.62" width="110" height="30" as="geometry" />
@@ -2728,7 +2728,7 @@
           <mxGeometry x="2360" y="-64.38" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xT7n4Xwm2ZcGxZs6Pejo-9" value="分时抢筹和承接&lt;br&gt;https://www.yuque.com/asamiya/msvqvi/absxcf0vt3cpau1x" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="985" y="223.75" width="145" height="30" as="geometry" />
+          <mxGeometry x="1015" y="200" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xT7n4Xwm2ZcGxZs6Pejo-10" value="市场正好恢复，所以模型看起来好，后续行情震荡，这个操作要小心" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="193" y="20.619999999999997" width="120" height="80" as="geometry" />
@@ -2907,6 +2907,12 @@
         </mxCell>
         <mxCell id="-djD2epGBmc7InBQP_nY-1" value="1.非理想化(核心未动？长安汽车)&lt;br&gt;2.板块中部分标的，比如高标，反包动，但是没有形成大的效应，高标和其他龙卡来卡去，是否上？(东安动力)" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="335.62" width="125" height="134.38" as="geometry" />
+        </mxCell>
+        <mxCell id="-djD2epGBmc7InBQP_nY-2" value="试盘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="794" y="238.75" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-djD2epGBmc7InBQP_nY-3" value="节奏、分时更重要，比如捷荣、圣龙、天龙、高新发展、银宝山新，节奏不对" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="955" y="160" width="195" height="28.49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
