@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T00:35:31.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4fe5bLH2SqYjOHStFp_T" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-03T00:42:41.568Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="sSVaUbr6X1ANQ1K7-uj9" version="22.1.5" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
     <mxGraphModel dx="18478" dy="4599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2905,6 +2905,9 @@
         <mxCell id="OygSNnMGasFQpYP67Yyt-7" value="混战&amp;nbsp; vs 多线 vs 单子&lt;br&gt;趋势 vs&amp;nbsp; 轮动&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
           <mxGeometry x="-1240" y="164" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-djD2epGBmc7InBQP_nY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-djD2epGBmc7InBQP_nY-1" target="-djD2epGBmc7InBQP_nY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-djD2epGBmc7InBQP_nY-1" value="1.非理想化(核心未动？长安汽车)&lt;br&gt;2.板块中部分标的，比如高标，反包动，但是没有形成大的效应，高标和其他龙卡来卡去，是否上？(东安动力)" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="335.62" width="125" height="134.38" as="geometry" />
         </mxCell>
@@ -2912,7 +2915,13 @@
           <mxGeometry x="794" y="238.75" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-djD2epGBmc7InBQP_nY-3" value="节奏、分时更重要，比如捷荣、圣龙、天龙、高新发展、银宝山新，节奏不对" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="955" y="160" width="195" height="28.49" as="geometry" />
+          <mxGeometry x="962.5" y="170.01" width="195" height="28.49" as="geometry" />
+        </mxCell>
+        <mxCell id="-djD2epGBmc7InBQP_nY-5" value="非理想模式下，自己认为长安汽车衡核心没起来，认为汽车结束，其实龙头东安没死，板块还有活动，这里低吸的老龙形态未破位，所以应该拿着而不是看到补涨就走" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="736" y="369.12" width="304" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="-djD2epGBmc7InBQP_nY-6" value="切换低吸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="138.5" width="80" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
