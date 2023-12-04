@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T11:21:21.158Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="sNfezy0lJJyTO_XKH5XK" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T13:09:55.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="TpFp0KKh3Qj2aNcSvWjD" version="22.1.5" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
     <mxGraphModel dx="18478" dy="4599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2928,6 +2928,9 @@
         </mxCell>
         <mxCell id="-djD2epGBmc7InBQP_nY-6" value="切换低吸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="138.5" width="80" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="-djD2epGBmc7InBQP_nY-9" value="1.将龙头关联的板块涨的股放入感知中，即有助于判断板块，又能作为买入标的&lt;br&gt;2.收集完成后，进行分组、排序、重排、&lt;br&gt;3.加入人气榜&lt;br&gt;4.建立关联，预演，股叠加，形成脑突" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="333" y="-264.38" width="502" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
