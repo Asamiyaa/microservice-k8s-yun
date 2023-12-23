@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-12-23T03:21:44.491Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="MDDb2_kVsZr0xTCfLf2o" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-23T03:28:56.476Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="5xyZV7Z9EyNI0WvlhysH" version="22.1.11" type="github">
   <diagram name="第 1 页" id="kLjvijDGY5FAPCBdxR8w">
-    <mxGraphModel dx="1647" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1647" dy="2046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rY2a-0D2FH5p_1JAKFG8-1" value="心态稳" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rY2a-0D2FH5p_1JAKFG8-1" value="心态稳、不急躁、不惧怕(别人女生都能，我为什么不能；保险；战胜)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="490" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rY2a-0D2FH5p_1JAKFG8-2" value="身体稳" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -27,6 +27,48 @@
         </mxCell>
         <mxCell id="rY2a-0D2FH5p_1JAKFG8-8" value="动态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY2a-0D2FH5p_1JAKFG8-9" value="车内开关认识与使用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rY2a-0D2FH5p_1JAKFG8-10" value="车行驶、驾驶、变速、视觉原理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rY2a-0D2FH5p_1JAKFG8-11" value="方向盘、放松、脚不要乱、档位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="410" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rY2a-0D2FH5p_1JAKFG8-12" value="车距、前后左右、车感(其实就是量化后的感知，比如A柱)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="290" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rY2a-0D2FH5p_1JAKFG8-13" value="跟车、红绿灯、会车、超车" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="290" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rY2a-0D2FH5p_1JAKFG8-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="170" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rY2a-0D2FH5p_1JAKFG8-15" value="非正常态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY2a-0D2FH5p_1JAKFG8-16" value="高速：微调、双手保持直线，让速不让道，大货车，超车加速" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="rY2a-0D2FH5p_1JAKFG8-17" value="半坡启动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="290" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rY2a-0D2FH5p_1JAKFG8-18" value="雨雪天(灯光使用、车辆性能、行车小心)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="180" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="rY2a-0D2FH5p_1JAKFG8-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="60" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rY2a-0D2FH5p_1JAKFG8-20" value="遇到紧急情况：剐蹭、撞车、步骤：报保险、报交警、... 正常" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="72.5" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="rY2a-0D2FH5p_1JAKFG8-21" value="升级" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rY2a-0D2FH5p_1JAKFG8-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-60" width="400" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
