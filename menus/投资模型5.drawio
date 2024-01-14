@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T13:10:01.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="m6LuH5Pi4lMMfHm-cXI4" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-14T12:31:37.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="CXYrOw13C4cjWiYCk0Eo" version="22.1.18" type="github">
   <diagram name="第 1 页" id="y5jETXpf-k1WF732A3_M">
-    <mxGraphModel dx="19285" dy="5054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="18187" dy="4384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,10 +93,10 @@
         <mxCell id="Gqe8VwMSzwfpg7zT9i1C-15" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="2070" y="-120" width="500" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="-djD2epGBmc7InBQP_nY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-17" target="-djD2epGBmc7InBQP_nY-3">
+        <mxCell id="-djD2epGBmc7InBQP_nY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-17" target="-djD2epGBmc7InBQP_nY-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-djD2epGBmc7InBQP_nY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-17" target="-djD2epGBmc7InBQP_nY-6">
+        <mxCell id="-djD2epGBmc7InBQP_nY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Gqe8VwMSzwfpg7zT9i1C-17" target="-djD2epGBmc7InBQP_nY-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gqe8VwMSzwfpg7zT9i1C-17" value="龙、非周期内不操作，尾盘操作被套，弱势票" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2911,26 +2911,35 @@
         <mxCell id="OygSNnMGasFQpYP67Yyt-7" value="混战&amp;nbsp; vs 多线 vs 单子&lt;br&gt;趋势 vs&amp;nbsp; 轮动&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
           <mxGeometry x="-1240" y="164" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-djD2epGBmc7InBQP_nY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-djD2epGBmc7InBQP_nY-1" target="-djD2epGBmc7InBQP_nY-3">
+        <mxCell id="-djD2epGBmc7InBQP_nY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="-djD2epGBmc7InBQP_nY-1" target="-djD2epGBmc7InBQP_nY-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-djD2epGBmc7InBQP_nY-1" value="1.非理想化(核心未动？长安汽车)&lt;br&gt;2.板块中部分标的，比如高标，反包动，但是没有形成大的效应，高标和其他龙卡来卡去，是否上？(东安动力)&lt;br&gt;3.1201高位卡位(主线汽车有消息就是主线，轮动就是高切低所以ai是轮动)，低位月初高低切的ai应用，更多从技术角度吸核心平铺" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+        <mxCell id="-djD2epGBmc7InBQP_nY-1" value="1.非理想化(核心未动？长安汽车)&lt;br&gt;2.板块中部分标的，比如高标，反包动，但是没有形成大的效应，高标和其他龙卡来卡去，是否上？(东安动力)&lt;br&gt;3.1201高位卡位(主线汽车有消息就是主线，轮动就是高切低所以ai是轮动)，低位月初高低切的ai应用，更多从技术角度吸核心平铺" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="347.5" y="335.62" width="132.5" height="194.38" as="geometry" />
         </mxCell>
-        <mxCell id="-djD2epGBmc7InBQP_nY-2" value="试盘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-djD2epGBmc7InBQP_nY-2" value="试盘" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="794" y="238.75" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-djD2epGBmc7InBQP_nY-3" value="节奏、分时更重要，比如捷荣、圣龙、天龙、高新发展、银宝山新，节奏不对" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-djD2epGBmc7InBQP_nY-3" value="节奏、分时更重要，比如捷荣、圣龙、天龙、高新发展、银宝山新，节奏不对" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="962.5" y="170.01" width="195" height="28.49" as="geometry" />
         </mxCell>
-        <mxCell id="-djD2epGBmc7InBQP_nY-5" value="非理想模式下，自己认为长安汽车衡核心没起来，认为汽车结束，其实龙头东安没死，板块还有活动，这里低吸的老龙形态未破位，所以应该拿着而不是看到补涨就走" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-djD2epGBmc7InBQP_nY-5" value="非理想模式下，自己认为长安汽车衡核心没起来，认为汽车结束，其实龙头东安没死，板块还有活动，这里低吸的老龙形态未破位，所以应该拿着而不是看到补涨就走" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="736" y="370" width="304" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="-djD2epGBmc7InBQP_nY-6" value="切换低吸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-djD2epGBmc7InBQP_nY-6" value="切换低吸" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="138.5" width="80" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="-djD2epGBmc7InBQP_nY-9" value="1.将龙头关联的板块涨的股放入感知中，即有助于判断板块，又能作为买入标的&lt;br&gt;2.收集完成后，进行分组、排序、重排、&lt;br&gt;3.加入人气榜&lt;br&gt;4.建立关联，预演，股叠加，形成脑突" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="-djD2epGBmc7InBQP_nY-9" value="1.将龙头关联的板块涨的股放入感知中，即有助于判断板块，又能作为买入标的&lt;br&gt;2.收集完成后，进行分组、排序、重排、&lt;br&gt;3.加入人气榜&lt;br&gt;4.建立关联，预演，股叠加，形成脑突" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="333" y="-264.38" width="502" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="MQMt5au2wvV9NVdnbjFP-1" value="2024&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5690" y="-1920" width="1700" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="MQMt5au2wvV9NVdnbjFP-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20108.47" y="450.71000000000004" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MQMt5au2wvV9NVdnbjFP-3" value="纪律" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6490" y="-301" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
