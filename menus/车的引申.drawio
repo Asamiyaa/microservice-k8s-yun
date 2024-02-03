@@ -1,104 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T07:11:03.849Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0k9fNCzEJ1HOugzBjvu3" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-03T07:17:34.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="H2_rNJKxlBQP2iK9t3Z9" version="23.1.1" type="github">
   <diagram name="第 1 页" id="VAB1zHAYgtzuu6P7h81c">
     <mxGraphModel dx="2261" dy="1884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uFKIykFMjI2DQzVtqrAB-1" value="车" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="374" y="380" width="80" height="80" as="geometry" />
+          <mxGeometry x="560" y="420" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-2" value="计划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-3" value="买" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-4" value="练" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-5" value="上牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="1103" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uFKIykFMjI2DQzVtqrAB-6" value="保养" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="uFKIykFMjI2DQzVtqrAB-6" value="质保 - 政策" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-7" value="路线规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-8" value="练习步骤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-9" value="指标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="1033" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-10" value="车管所" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="1183" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-11" value="高速" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-12" value="调试、融合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="685" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-13" value="决策：让人代上牌；plan B就会让有更好的决策，冲击A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="-10" width="120" height="60" as="geometry" />
+          <mxGeometry x="1103" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-14" value="用处" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="-10" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-15" value="回家，老人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-16" value="自己价值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="-170" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-17" value="扩大范围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="-170" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-18" value="旅游周边" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="-110" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-19" value="房子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-20" value="北京 、 天津" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="-50" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-21" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;p style=&quot;margin: 0; padding: 0; min-height: 24px&quot; class=&quot;ne-p&quot; id=&quot;u05e1744e&quot;&gt;B ： 花钱上牌 ， A : 自己上牌&lt;/p&gt;&lt;p style=&quot;margin: 0; padding: 0; min-height: 24px&quot; class=&quot;ne-p&quot; id=&quot;u7025eb1e&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;B: 天津牌   A:北京牌&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="-80" width="120" height="60" as="geometry" />
+          <mxGeometry x="1103" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-22" value="别人的生活方式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-23" value="从车看天津城市、别人逛街等生活" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-24" value="从车看时间、精力、节点的不足" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-25" value="&lt;div&gt;● 新的方式总想借助外力，需要外人帮助，不能自己一个人去买车，上牌照&amp;nbsp; ==&amp;gt;&amp;nbsp; 股票向内求，其他比如买车等向外求 。 从思想到实际行动过程转变，不要停留在思想&lt;/div&gt;&lt;div&gt;● 不懂得积极向别人询问，增加扩展点；扩大决策依据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="610" width="300" height="80" as="geometry" />
+          <mxGeometry x="40" y="560" width="300" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-26" value="动力：串并联" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-27" value="其他" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="474" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-28" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;p style=&quot;margin: 0; padding: 0; min-height: 24px&quot; class=&quot;ne-p&quot; id=&quot;u05e1744e&quot;&gt;从股票、车看如何婚姻、房子这种大决策下的复杂性和操作；&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0; padding: 0; min-height: 24px&quot; class=&quot;ne-p&quot; id=&quot;u05e1744e&quot;&gt;没有提前计划的弊端；&lt;/p&gt;&lt;p style=&quot;margin: 0; padding: 0; min-height: 24px&quot; class=&quot;ne-p&quot; id=&quot;u05e1744e&quot;&gt;一个人思考不全问题&lt;br&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="-190" width="370" height="70" as="geometry" />
+          <mxGeometry x="953" y="-40" width="370" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-29" value="1.落户时就应该摇号，无计划&lt;br&gt;2.五年就应该摇北京指标&amp;nbsp; &amp;nbsp;悲观式生活&lt;br&gt;3.&lt;div class=&quot;lake-content&quot;&gt;身生活，早点布局&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="993" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-30" value="或者先上老家牌照，摇天津指标，到之后切，这样多个天津指标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="-60" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-31" value="上班路线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="474" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-32" value="车对比" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
