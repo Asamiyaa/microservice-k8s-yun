@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T07:10:42.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="XGIzhsNlxrdYgLniXd5c" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-03T07:11:03.849Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0k9fNCzEJ1HOugzBjvu3" version="23.1.1" type="github">
   <diagram name="第 1 页" id="VAB1zHAYgtzuu6P7h81c">
     <mxGraphModel dx="2261" dy="1884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,6 +96,9 @@
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-31" value="上班路线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uFKIykFMjI2DQzVtqrAB-32" value="车对比" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
