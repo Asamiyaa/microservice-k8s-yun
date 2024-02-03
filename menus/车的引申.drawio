@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T07:04:21.564Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2GBi1Tz-jJxtNBGkbxfw" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-03T07:05:27.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4dITa_KsXmyo4GJgAIrq" version="23.1.1" type="github">
   <diagram name="第 1 页" id="VAB1zHAYgtzuu6P7h81c">
     <mxGraphModel dx="2261" dy="1884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
           <mxGeometry x="620" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-12" value="调试、融合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-13" value="决策：让人代上牌；plan B就会让有更好的决策，冲击A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="-10" width="120" height="60" as="geometry" />
@@ -78,6 +78,12 @@
         </mxCell>
         <mxCell id="uFKIykFMjI2DQzVtqrAB-25" value="&lt;div&gt;● 新的方式总想借助外力，需要外人帮助，不能自己一个人去买车，上牌照&amp;nbsp; ==&amp;gt;&amp;nbsp; 股票向内求，其他比如买车等向外求 。 从思想到实际行动过程转变，不要停留在思想&lt;/div&gt;&lt;div&gt;● 不懂得积极向别人询问，增加扩展点；扩大决策依据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="610" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uFKIykFMjI2DQzVtqrAB-26" value="动力：串并联" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uFKIykFMjI2DQzVtqrAB-27" value="其他" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
