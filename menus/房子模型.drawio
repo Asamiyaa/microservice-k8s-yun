@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-17T06:53:21.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="oJRBcmD3-G0J2C7G3R_8" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-17T06:57:40.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="uRMe2zDi_RmFl8fvONU_" version="22.1.18" type="github">
   <diagram name="第 1 页" id="0W91C3PbgdAE5NpCYlRA">
     <mxGraphModel dx="1373" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,7 +66,7 @@
         <mxCell id="n-2S2OkUwP-vMv7FcT2x-21" value="社会舆论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="170" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n-2S2OkUwP-vMv7FcT2x-23" value="前几年房价高涨、大跃进" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="n-2S2OkUwP-vMv7FcT2x-23" value="泡沫&lt;br&gt;前几年房价高涨、大跃进" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="80" y="260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n-2S2OkUwP-vMv7FcT2x-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="n-2S2OkUwP-vMv7FcT2x-25" target="n-2S2OkUwP-vMv7FcT2x-7">
