@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-02-17T06:42:24.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="tgMbpSPEk4_9V68MksyF" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-17T06:44:40.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="xT5ZDvT60c2-5C_LSRT9" version="22.1.18" type="github">
   <diagram name="第 1 页" id="0W91C3PbgdAE5NpCYlRA">
     <mxGraphModel dx="1373" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="n-2S2OkUwP-vMv7FcT2x-1" value="房价" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="350" y="170" width="80" height="80" as="geometry" />
+          <mxGeometry x="430" y="220" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n-2S2OkUwP-vMv7FcT2x-2" value="入场点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="255" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n-2S2OkUwP-vMv7FcT2x-3" value="价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="60" width="50" height="30" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="290" y="60" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n-2S2OkUwP-vMv7FcT2x-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="60" width="50" height="30" as="geometry" />
+          <mxGeometry x="360" y="60" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n-2S2OkUwP-vMv7FcT2x-7" value="经济周期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="350" width="120" height="60" as="geometry" />
@@ -33,6 +33,24 @@
         </mxCell>
         <mxCell id="n-2S2OkUwP-vMv7FcT2x-11" value="产业结构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-2S2OkUwP-vMv7FcT2x-12" value="观察点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="200" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n-2S2OkUwP-vMv7FcT2x-13" value="二手房挂牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="170" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n-2S2OkUwP-vMv7FcT2x-14" value="成交地价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="170" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n-2S2OkUwP-vMv7FcT2x-17" value="政策" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="170" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n-2S2OkUwP-vMv7FcT2x-18" value="总趋势：核心城市群的核心地段，三四线城市已无机会" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="290" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n-2S2OkUwP-vMv7FcT2x-19" value="规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="130" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
