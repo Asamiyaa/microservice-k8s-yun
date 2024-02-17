@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-17T06:44:40.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="xT5ZDvT60c2-5C_LSRT9" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-17T06:45:07.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="nv32ZhAuov3VrDd7l-7Y" version="22.1.18" type="github">
   <diagram name="第 1 页" id="0W91C3PbgdAE5NpCYlRA">
     <mxGraphModel dx="1373" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,6 +51,12 @@
         </mxCell>
         <mxCell id="n-2S2OkUwP-vMv7FcT2x-19" value="规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="130" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n-2S2OkUwP-vMv7FcT2x-20" value="破产公司" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="170" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n-2S2OkUwP-vMv7FcT2x-21" value="社会舆论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="170" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
