@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-17T07:07:19.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="5mEKP7VgahtBQiR6y243" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-17T07:11:17.800Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="cHWor1j04hRHY5yUQ4hE" version="22.1.18" type="github">
   <diagram name="第 1 页" id="0W91C3PbgdAE5NpCYlRA">
-    <mxGraphModel dx="1373" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2200" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,6 +75,9 @@
         <mxCell id="n-2S2OkUwP-vMv7FcT2x-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="n-2S2OkUwP-vMv7FcT2x-23" target="n-2S2OkUwP-vMv7FcT2x-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="n-2S2OkUwP-vMv7FcT2x-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="n-2S2OkUwP-vMv7FcT2x-23" target="n-2S2OkUwP-vMv7FcT2x-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n-2S2OkUwP-vMv7FcT2x-23" value="泡沫&lt;br&gt;前几年房价高涨、大跃进" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="80" y="260" width="80" height="80" as="geometry" />
         </mxCell>
@@ -113,6 +116,9 @@
         </mxCell>
         <mxCell id="n-2S2OkUwP-vMv7FcT2x-37" value="白条、票据、债务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="320" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n-2S2OkUwP-vMv7FcT2x-39" value="房价涨回去幻觉，就像股票一样" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="260" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
