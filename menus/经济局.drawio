@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T13:52:20.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="lQgZFTWEHagEvJRuowkQ" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-18T13:54:20.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Sn0-VNsgkcorELAARHsh" version="23.1.5" type="github">
   <diagram name="第 1 页" id="w_fv1ki4N4NbiQBaw7l7">
     <mxGraphModel dx="326" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -339,11 +339,17 @@
         <mxCell id="MN-8AOheH6blsc34Ahsq-117" value="房企 -&amp;nbsp; 银行 -&amp;nbsp; 城投公司债务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="-730" width="150" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="MN-8AOheH6blsc34Ahsq-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MN-8AOheH6blsc34Ahsq-118" target="MN-8AOheH6blsc34Ahsq-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MN-8AOheH6blsc34Ahsq-118" value="一二线政策缓解、三四线压力增大，加大分化、经济强，买家增加；经济弱，买家少" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="-690" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MN-8AOheH6blsc34Ahsq-119" value="导致人口结构变化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="-610" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MN-8AOheH6blsc34Ahsq-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MN-8AOheH6blsc34Ahsq-120" target="MN-8AOheH6blsc34Ahsq-124">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MN-8AOheH6blsc34Ahsq-120" value="过度增加借贷，导致资产负债表失控，经不起调整" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="-650" width="150" height="40" as="geometry" />
@@ -354,8 +360,14 @@
         <mxCell id="MN-8AOheH6blsc34Ahsq-122" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="-660" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MN-8AOheH6blsc34Ahsq-123" value="房票制度 -&amp;gt;&amp;nbsp; 政府回收老房子改造公租房等，以时间换空间、上一轮是货币制度(助涨助跌)，房票制度抑制价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MN-8AOheH6blsc34Ahsq-123" value="房票制度 -&amp;gt;&amp;nbsp; 政府回收老房子改造公租房等，以时间换空间、上一轮是货币制度(助涨助跌)，房票制度抑制价格()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="-720" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MN-8AOheH6blsc34Ahsq-124" value="房票制度、去库存，让房价企稳" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="-715" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MN-8AOheH6blsc34Ahsq-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.079;entryY=0.225;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MN-8AOheH6blsc34Ahsq-117" target="MN-8AOheH6blsc34Ahsq-124">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
