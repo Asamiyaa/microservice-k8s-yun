@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T12:00:30.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="7gGd6KD61d2aAd9A9WJX" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-18T12:03:44.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Zy_JwMvIbsMYGa2e9p-Q" version="23.1.5" type="github">
   <diagram name="第 1 页" id="w_fv1ki4N4NbiQBaw7l7">
     <mxGraphModel dx="564" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,15 +53,15 @@
           <mxGeometry x="490" y="620" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MN-8AOheH6blsc34Ahsq-19" value="信贷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="540" width="70" height="40" as="geometry" />
+          <mxGeometry x="780" y="275" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MN-8AOheH6blsc34Ahsq-20" value="地产" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="600" width="70" height="40" as="geometry" />
+          <mxGeometry x="780" y="335" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MN-8AOheH6blsc34Ahsq-21" value="政策 - 像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="490" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MN-8AOheH6blsc34Ahsq-23" value="风气 - 政治 而不是经济，不敢破局，问责" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MN-8AOheH6blsc34Ahsq-23" value="法律界定规则确定，而非朝令夕改" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="480" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
