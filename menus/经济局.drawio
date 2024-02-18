@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T12:25:15.091Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="s6ziRuArT7pdk3bWECy1" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-18T12:26:21.685Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="yEyf7M6X512f6A_TWqZ5" version="23.1.5" type="github">
   <diagram name="第 1 页" id="w_fv1ki4N4NbiQBaw7l7">
     <mxGraphModel dx="564" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
           <mxGeometry x="930" y="190" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MN-8AOheH6blsc34Ahsq-20" value="地产" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="190" width="70" height="40" as="geometry" />
+          <mxGeometry x="1230" y="180" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MN-8AOheH6blsc34Ahsq-21" value="政策 - 像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="490" width="70" height="40" as="geometry" />
@@ -124,11 +124,25 @@
         <mxCell id="MN-8AOheH6blsc34Ahsq-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MN-8AOheH6blsc34Ahsq-46" target="MN-8AOheH6blsc34Ahsq-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MN-8AOheH6blsc34Ahsq-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MN-8AOheH6blsc34Ahsq-46" target="MN-8AOheH6blsc34Ahsq-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="815" y="370" />
+              <mxPoint x="1265" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MN-8AOheH6blsc34Ahsq-46" value="罚末收入，地方财政" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="520" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MN-8AOheH6blsc34Ahsq-47" value="交警、城管" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="600" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MN-8AOheH6blsc34Ahsq-49" value="税收改革" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="270" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MN-8AOheH6blsc34Ahsq-50" value="包干制" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="270" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
