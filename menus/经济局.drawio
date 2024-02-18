@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T13:14:38.394Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="aHdGtHcN9Rtt4is8wD01" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-18T13:17:49.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="GKx0tOg8t1PNnRl-zlb_" version="23.1.5" type="github">
   <diagram name="第 1 页" id="w_fv1ki4N4NbiQBaw7l7">
     <mxGraphModel dx="816" dy="2044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -284,6 +284,9 @@
         </mxCell>
         <mxCell id="MN-8AOheH6blsc34Ahsq-98" value="对人员处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="80" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MN-8AOheH6blsc34Ahsq-99" value="失业、无法拽钱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="80" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
