@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T13:11:11.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="KxAKpELyHojXJbyzvHn5" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-18T13:14:03.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="TsKBA7NoIMr4cH77INeT" version="23.1.5" type="github">
   <diagram name="第 1 页" id="w_fv1ki4N4NbiQBaw7l7">
     <mxGraphModel dx="816" dy="2044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -240,8 +240,8 @@
         <mxCell id="MN-8AOheH6blsc34Ahsq-81" value="地方政府" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="390" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MN-8AOheH6blsc34Ahsq-84" value="通缩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="-110" width="70" height="40" as="geometry" />
+        <mxCell id="MN-8AOheH6blsc34Ahsq-84" value="城投债" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="50" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MN-8AOheH6blsc34Ahsq-85" value="1988&amp;nbsp; 双轨制、差价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="-180" width="70" height="40" as="geometry" />
@@ -259,10 +259,10 @@
           <mxGeometry x="1250" y="-110" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MN-8AOheH6blsc34Ahsq-90" value="避免一刀切，一阵风，避免人口问题、房地产问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="60" width="70" height="40" as="geometry" />
+          <mxGeometry x="1140" y="30" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MN-8AOheH6blsc34Ahsq-91" value="长期战略-变成短期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="50" width="70" height="40" as="geometry" />
+          <mxGeometry x="1250" y="30" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MN-8AOheH6blsc34Ahsq-92" value="国企三角债，东北，半拉子工程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="-40" width="70" height="40" as="geometry" />
@@ -275,6 +275,15 @@
         </mxCell>
         <mxCell id="MN-8AOheH6blsc34Ahsq-95" value="清债" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="-40" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MN-8AOheH6blsc34Ahsq-96" value="通缩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="50" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MN-8AOheH6blsc34Ahsq-97" value="需要停止、还贷，城投债，避免债务扩大" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="80" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MN-8AOheH6blsc34Ahsq-98" value="对人员处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="80" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
