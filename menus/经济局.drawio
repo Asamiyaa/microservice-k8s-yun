@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T11:54:59.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="LH8rJ3Y5RgKzPkeL7xOr" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-18T11:58:26.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="j0WNzbwuY8z0wPL9kUc6" version="23.1.5" type="github">
   <diagram name="第 1 页" id="w_fv1ki4N4NbiQBaw7l7">
     <mxGraphModel dx="564" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="MN-8AOheH6blsc34Ahsq-2" value="经济恶化" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="380" y="370" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MN-8AOheH6blsc34Ahsq-3" value="政策 - 像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="520" width="70" height="40" as="geometry" />
+        <mxCell id="MN-8AOheH6blsc34Ahsq-3" value="风气 - 政治 而不是经济，不敢破局，" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="520" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MN-8AOheH6blsc34Ahsq-4" value="闭关锁国" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="620" width="70" height="40" as="geometry" />
@@ -57,6 +57,9 @@
         </mxCell>
         <mxCell id="MN-8AOheH6blsc34Ahsq-20" value="地产" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="585" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MN-8AOheH6blsc34Ahsq-21" value="政策 - 像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="520" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
