@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T13:27:35.186Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="a1lLkkJ6McWE49_dCKPj" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-18T13:29:58.596Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="0PDamroURVLyfaG7j1D7" version="23.1.5" type="github">
   <diagram name="第 1 页" id="w_fv1ki4N4NbiQBaw7l7">
-    <mxGraphModel dx="563" dy="1772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="466" dy="1669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -295,7 +295,7 @@
           <mxGeometry x="860" y="-220" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MN-8AOheH6blsc34Ahsq-102" value="当下问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="-440" width="70" height="40" as="geometry" />
+          <mxGeometry x="940" y="-410" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MN-8AOheH6blsc34Ahsq-103" value="债务和房价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="-460" width="70" height="40" as="geometry" />
@@ -314,6 +314,18 @@
         </mxCell>
         <mxCell id="MN-8AOheH6blsc34Ahsq-109" value="上市减持" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="-350" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MN-8AOheH6blsc34Ahsq-110" value="房地产" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="-680" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MN-8AOheH6blsc34Ahsq-111" value="去库存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="-740" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MN-8AOheH6blsc34Ahsq-112" value="2015涨价去库存，安置房" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-780" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MN-8AOheH6blsc34Ahsq-113" value="2024" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-740" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
