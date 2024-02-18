@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T14:00:31.803Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="22WLJK0j9LLrheu6eluV" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-18T14:02:08.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="I7U7Uo-Pn2TcwtO2Qam2" version="23.1.5" type="github">
   <diagram name="第 1 页" id="w_fv1ki4N4NbiQBaw7l7">
     <mxGraphModel dx="326" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -357,6 +357,9 @@
         <mxCell id="MN-8AOheH6blsc34Ahsq-121" value="经济规律 - 介入太早导致节点错误" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="-840" width="150" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="MN-8AOheH6blsc34Ahsq-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MN-8AOheH6blsc34Ahsq-122" target="MN-8AOheH6blsc34Ahsq-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MN-8AOheH6blsc34Ahsq-122" value="条款设置苛刻，滋生腐败等&lt;br&gt;拒绝用房票，允许流通，拆迁款补偿不足" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="-660" width="150" height="40" as="geometry" />
         </mxCell>
@@ -371,6 +374,9 @@
         </mxCell>
         <mxCell id="MN-8AOheH6blsc34Ahsq-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.587;entryY=1.051;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MN-8AOheH6blsc34Ahsq-122" target="MN-8AOheH6blsc34Ahsq-124">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MN-8AOheH6blsc34Ahsq-129" value="小心黄牛进场，激活房票倒卖，促使房价推动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="-660" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
