@@ -1,9 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T08:39:50.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Zk878epzuswvHJx0zrmo" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T08:46:18.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NLnxIQvVSY6TTWH1SgNf" version="23.1.6" type="github">
   <diagram name="第 1 页" id="KEMMI0yfq3c-ek_gplTg">
-    <mxGraphModel dx="1434" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="skOWN3L53YkmH7YidaTr-1" value="急、焦虑" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="300" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="skOWN3L53YkmH7YidaTr-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="skOWN3L53YkmH7YidaTr-2" target="skOWN3L53YkmH7YidaTr-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="490" />
+              <mxPoint x="270" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="skOWN3L53YkmH7YidaTr-2" value="1.戾气重&lt;br&gt;2.身体压力&lt;br&gt;3.开车急&lt;br&gt;4.交易急，想赚快钱，不能稳定" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="390" width="90" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="skOWN3L53YkmH7YidaTr-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="skOWN3L53YkmH7YidaTr-4" target="skOWN3L53YkmH7YidaTr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="skOWN3L53YkmH7YidaTr-4" value="1.&lt;span style=&quot;background-color: initial;&quot;&gt;年龄焦虑，30而立，而自己什么也没有&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.能力&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; class=&quot;ne-text&quot;&gt;，没有副业，交易无法支撑；不能稳定复利&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;婚姻，对吗，是不是落后了&lt;br&gt;4.工作，随时被裁&lt;br&gt;5.&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;身体&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 222, 40);&quot; class=&quot;ne-text&quot;&gt;健康&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;6.&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;父母年龄，家人健康&lt;br&gt;7.财富&amp;nbsp; 房产&amp;nbsp; 保险&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="222.5" width="300" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="skOWN3L53YkmH7YidaTr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="skOWN3L53YkmH7YidaTr-6" target="skOWN3L53YkmH7YidaTr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="skOWN3L53YkmH7YidaTr-6" value="&lt;span style=&quot;background-color: initial;&quot;&gt;1.觉醒太晚&amp;nbsp; 2022/23年(职业规划、婚姻、健康)&lt;br&gt;2.经济下行、通缩&lt;br&gt;3.A计划失败&amp;nbsp; 哥；启动B计划&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="222.5" width="300" height="205" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
