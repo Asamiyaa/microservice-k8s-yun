@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T08:49:22.740Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9UQ2BO-RLHgQ4o2MDI96" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T09:49:28.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cdIYYNyCOVryDT0omKtt" version="23.1.6" type="github">
   <diagram name="第 1 页" id="KEMMI0yfq3c-ek_gplTg">
     <mxGraphModel dx="1195" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,11 +36,29 @@
         <mxCell id="skOWN3L53YkmH7YidaTr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="skOWN3L53YkmH7YidaTr-8" target="skOWN3L53YkmH7YidaTr-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="skOWN3L53YkmH7YidaTr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="skOWN3L53YkmH7YidaTr-8" target="skOWN3L53YkmH7YidaTr-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="skOWN3L53YkmH7YidaTr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="skOWN3L53YkmH7YidaTr-8" target="skOWN3L53YkmH7YidaTr-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="skOWN3L53YkmH7YidaTr-8" value="破局" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="770" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="skOWN3L53YkmH7YidaTr-10" value="1.认知、成熟、慢下来、冷静、自我感知" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="690" width="90" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="skOWN3L53YkmH7YidaTr-12" value="婚姻" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="950" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="skOWN3L53YkmH7YidaTr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="skOWN3L53YkmH7YidaTr-13" target="skOWN3L53YkmH7YidaTr-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="skOWN3L53YkmH7YidaTr-13" value="财富" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="950" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="skOWN3L53YkmH7YidaTr-16" value="房产&lt;br&gt;保险" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1030" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
