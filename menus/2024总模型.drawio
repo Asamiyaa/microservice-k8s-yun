@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T00:06:30.631Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ZaRN2oN-fxRCI5id3kYH" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-25T00:08:48.709Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="hKsgBY9uAFWdkTuWOoM0" version="23.1.5" type="github">
   <diagram name="第 1 页" id="5kPvABFZM2XCfgbRumEY">
     <mxGraphModel dx="1647" dy="2046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,6 +21,11 @@
         <mxCell id="vfnut27rzNC3C2sS1f0M-2" value="2023模型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="540" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="vfnut27rzNC3C2sS1f0M-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vfnut27rzNC3C2sS1f0M-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vfnut27rzNC3C2sS1f0M-5" value="经济" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="200" width="120" height="80" as="geometry" />
         </mxCell>
@@ -35,6 +40,18 @@
         </mxCell>
         <mxCell id="vfnut27rzNC3C2sS1f0M-10" value="婚姻" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="-50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vfnut27rzNC3C2sS1f0M-11" value="新引入，核心&lt;br&gt;经济模型是对大环境把控，也是对上面模型的指引" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vfnut27rzNC3C2sS1f0M-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vfnut27rzNC3C2sS1f0M-12" target="vfnut27rzNC3C2sS1f0M-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vfnut27rzNC3C2sS1f0M-12" value="思维陷阱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vfnut27rzNC3C2sS1f0M-15" value="1.锚定效应&lt;br&gt;2.不客观，臆想，&lt;br&gt;3.趋势形成后不及时纠错&lt;br&gt;4.恐惧、贪婪" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="150" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
