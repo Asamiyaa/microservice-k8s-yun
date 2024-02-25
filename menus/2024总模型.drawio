@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T00:30:01.499Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="1s-m1ZGSsDG6KXoXgiRO" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-25T00:31:13.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="SO0MbO5sBN2P3mi2_ckT" version="23.1.5" type="github">
   <diagram name="第 1 页" id="5kPvABFZM2XCfgbRumEY">
     <mxGraphModel dx="3180" dy="2422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -83,6 +83,9 @@
         <mxCell id="vfnut27rzNC3C2sS1f0M-22" value="急" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-150" y="520" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="vfnut27rzNC3C2sS1f0M-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vfnut27rzNC3C2sS1f0M-30" target="vfnut27rzNC3C2sS1f0M-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vfnut27rzNC3C2sS1f0M-30" value="决策" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="230" width="120" height="80" as="geometry" />
         </mxCell>
@@ -98,6 +101,9 @@
         </mxCell>
         <mxCell id="vfnut27rzNC3C2sS1f0M-29" value="1.各种指标，量化&lt;br&gt;2.不同领域不同的级别和影响性，决策也是，切换道不同的领域划分周期、级别、策略" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="220" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vfnut27rzNC3C2sS1f0M-32" value="具体的策略" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="230" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
