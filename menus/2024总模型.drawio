@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T14:25:28.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="gkxmBqaYW22grHnIGInJ" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-25T14:25:56.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="92iHd5nf3IMkcNYTFFb2" version="23.1.5" type="github">
   <diagram name="第 1 页" id="5kPvABFZM2XCfgbRumEY">
     <mxGraphModel dx="2396" dy="2004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,9 +65,6 @@
         </mxCell>
         <mxCell id="vfnut27rzNC3C2sS1f0M-12" value="思维陷阱" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="480" y="80" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="vfnut27rzNC3C2sS1f0M-15" value="1.锚定效应&lt;br&gt;2.不客观，臆想，&lt;br&gt;3.趋势形成后不及时纠错&lt;br&gt;4.恐惧、贪婪" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="40" width="150" height="220" as="geometry" />
         </mxCell>
         <mxCell id="vfnut27rzNC3C2sS1f0M-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="vfnut27rzNC3C2sS1f0M-30" target="vfnut27rzNC3C2sS1f0M-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
