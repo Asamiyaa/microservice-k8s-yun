@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T14:23:11.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="cXds_dybZvQCs9WrkSHu" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-25T14:23:52.165Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="oJ-uYy1bM1k3JBw_VMkV" version="23.1.5" type="github">
   <diagram name="第 1 页" id="5kPvABFZM2XCfgbRumEY">
     <mxGraphModel dx="2765" dy="2201" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="89" y="-280" width="650" height="180" as="geometry" />
         </mxCell>
         <mxCell id="vfnut27rzNC3C2sS1f0M-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="89" y="-470" width="650" height="180" as="geometry" />
+          <mxGeometry x="89" y="-580" width="650" height="290" as="geometry" />
         </mxCell>
         <mxCell id="vfnut27rzNC3C2sS1f0M-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="vfnut27rzNC3C2sS1f0M-1" target="vfnut27rzNC3C2sS1f0M-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -40,13 +40,13 @@
           <mxGeometry x="460" y="-220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vfnut27rzNC3C2sS1f0M-9" value="房产" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="520" y="-460" width="120" height="80" as="geometry" />
+          <mxGeometry x="515" y="-540" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vfnut27rzNC3C2sS1f0M-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vfnut27rzNC3C2sS1f0M-10" target="vfnut27rzNC3C2sS1f0M-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vfnut27rzNC3C2sS1f0M-10" value="婚姻" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="169" y="-460" width="120" height="80" as="geometry" />
+          <mxGeometry x="160" y="-540" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vfnut27rzNC3C2sS1f0M-11" value="新引入，核心&lt;br&gt;经济模型是对大环境把控，也是对上面模型的指引" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="169" y="320" width="120" height="80" as="geometry" />
@@ -112,11 +112,17 @@
         <mxCell id="vfnut27rzNC3C2sS1f0M-34" value="1.超级大脑计划 - 模型迁移&lt;br&gt;2.车决策的复盘&lt;br&gt;3.时间、系统 融合复杂性&lt;br&gt;&lt;div&gt;4.周复盘、日复盘&lt;/div&gt;&lt;div&gt;5.自我感知、因果关系、j敬畏&lt;/div&gt;&lt;div&gt;控制\合力、强者思维、冰山理论&lt;/div&gt;&lt;div&gt;6.道法术器&lt;/div&gt;&lt;div&gt;7.除了生死，都是小事.生死疲劳&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="469" y="610" width="161" height="225" as="geometry" />
         </mxCell>
+        <mxCell id="gugDeLTd5zRvmmeXxmUr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vfnut27rzNC3C2sS1f0M-35" target="vfnut27rzNC3C2sS1f0M-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vfnut27rzNC3C2sS1f0M-35" value="边界扩展感受真实的世界" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="-380" width="120" height="80" as="geometry" />
+          <mxGeometry x="160" y="-410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gugDeLTd5zRvmmeXxmUr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vfnut27rzNC3C2sS1f0M-37" target="vfnut27rzNC3C2sS1f0M-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vfnut27rzNC3C2sS1f0M-37" value="资产" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="-380" width="120" height="80" as="geometry" />
+          <mxGeometry x="515" y="-410" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vfnut27rzNC3C2sS1f0M-38" value="行动&lt;br&gt;纪律" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-100" y="80" width="120" height="80" as="geometry" />
