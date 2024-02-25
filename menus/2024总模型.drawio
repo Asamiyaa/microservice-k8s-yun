@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T14:23:52.165Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="oJ-uYy1bM1k3JBw_VMkV" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-25T14:24:16.830Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="qyopcjg6MtTcED95GJ-a" version="23.1.5" type="github">
   <diagram name="第 1 页" id="5kPvABFZM2XCfgbRumEY">
     <mxGraphModel dx="2765" dy="2201" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vfnut27rzNC3C2sS1f0M-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="89" y="-280" width="650" height="180" as="geometry" />
+          <mxGeometry x="24" y="-245" width="650" height="130" as="geometry" />
         </mxCell>
         <mxCell id="vfnut27rzNC3C2sS1f0M-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="89" y="-580" width="650" height="290" as="geometry" />
+          <mxGeometry x="24" y="-585" width="650" height="290" as="geometry" />
         </mxCell>
         <mxCell id="vfnut27rzNC3C2sS1f0M-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="vfnut27rzNC3C2sS1f0M-1" target="vfnut27rzNC3C2sS1f0M-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -66,7 +66,7 @@
         <mxCell id="vfnut27rzNC3C2sS1f0M-15" value="1.锚定效应&lt;br&gt;2.不客观，臆想，&lt;br&gt;3.趋势形成后不及时纠错&lt;br&gt;4.恐惧、贪婪" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="40" width="150" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="vfnut27rzNC3C2sS1f0M-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.401;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="vfnut27rzNC3C2sS1f0M-30" target="vfnut27rzNC3C2sS1f0M-17" edge="1">
+        <mxCell id="vfnut27rzNC3C2sS1f0M-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="vfnut27rzNC3C2sS1f0M-30" target="vfnut27rzNC3C2sS1f0M-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vfnut27rzNC3C2sS1f0M-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="vfnut27rzNC3C2sS1f0M-22" target="vfnut27rzNC3C2sS1f0M-1" edge="1">
