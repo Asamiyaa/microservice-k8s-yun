@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T14:22:46.672Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="D-qDeZL-geXKzCm9knpj" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-25T14:23:11.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="cXds_dybZvQCs9WrkSHu" version="23.1.5" type="github">
   <diagram name="第 1 页" id="5kPvABFZM2XCfgbRumEY">
     <mxGraphModel dx="2765" dy="2201" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,12 +27,6 @@
         <mxCell id="vfnut27rzNC3C2sS1f0M-2" value="2023模型" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="289" y="680" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vfnut27rzNC3C2sS1f0M-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="444.5" y="120" as="targetPoint" />
-            <mxPoint x="384.5" y="120" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gugDeLTd5zRvmmeXxmUr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vfnut27rzNC3C2sS1f0M-5" target="vfnut27rzNC3C2sS1f0M-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -56,11 +50,6 @@
         </mxCell>
         <mxCell id="vfnut27rzNC3C2sS1f0M-11" value="新引入，核心&lt;br&gt;经济模型是对大环境把控，也是对上面模型的指引" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="169" y="320" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="vfnut27rzNC3C2sS1f0M-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vfnut27rzNC3C2sS1f0M-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="384.5" y="120" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="gugDeLTd5zRvmmeXxmUr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vfnut27rzNC3C2sS1f0M-12" target="vfnut27rzNC3C2sS1f0M-32">
           <mxGeometry relative="1" as="geometry">
