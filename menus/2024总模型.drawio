@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T00:31:13.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="SO0MbO5sBN2P3mi2_ckT" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-25T00:38:59.062Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Bx8Xb00KJZWU_s220Rl2" version="23.1.5" type="github">
   <diagram name="第 1 页" id="5kPvABFZM2XCfgbRumEY">
     <mxGraphModel dx="3180" dy="2422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,6 +104,9 @@
         </mxCell>
         <mxCell id="vfnut27rzNC3C2sS1f0M-32" value="具体的策略" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vfnut27rzNC3C2sS1f0M-34" value="1.超级大脑计划&lt;br&gt;2.车决策的复盘&lt;br&gt;3.时间&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="469" y="605" width="120" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
