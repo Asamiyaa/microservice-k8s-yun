@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T00:15:01.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="7dfqx1iF5ibLzztCx9CU" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-25T00:19:32.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="9z66oX82sr7Y-kdWVKdp" version="23.1.5" type="github">
   <diagram name="第 1 页" id="5kPvABFZM2XCfgbRumEY">
-    <mxGraphModel dx="2474" dy="2046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3180" dy="2422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,11 +65,11 @@
         <mxCell id="vfnut27rzNC3C2sS1f0M-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.401;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vfnut27rzNC3C2sS1f0M-5" target="vfnut27rzNC3C2sS1f0M-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vfnut27rzNC3C2sS1f0M-21" value="现状" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="460" width="120" height="80" as="geometry" />
+        <mxCell id="vfnut27rzNC3C2sS1f0M-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vfnut27rzNC3C2sS1f0M-22" target="vfnut27rzNC3C2sS1f0M-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vfnut27rzNC3C2sS1f0M-22" value="焦虑原因及分析" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="460" width="120" height="80" as="geometry" />
+        <mxCell id="vfnut27rzNC3C2sS1f0M-22" value="急" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="520" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
