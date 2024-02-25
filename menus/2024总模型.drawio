@@ -1,9 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T00:04:38.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.5" etag="pDrtwFEE9Xbq-XFuxt0P" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-25T00:06:30.631Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ZaRN2oN-fxRCI5id3kYH" version="23.1.5" type="github">
   <diagram name="第 1 页" id="5kPvABFZM2XCfgbRumEY">
-    <mxGraphModel>
+    <mxGraphModel dx="1647" dy="2046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vfnut27rzNC3C2sS1f0M-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vfnut27rzNC3C2sS1f0M-1" target="vfnut27rzNC3C2sS1f0M-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vfnut27rzNC3C2sS1f0M-1" value="身体" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vfnut27rzNC3C2sS1f0M-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vfnut27rzNC3C2sS1f0M-2" target="vfnut27rzNC3C2sS1f0M-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vfnut27rzNC3C2sS1f0M-4" value="继承、细化、落地" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vfnut27rzNC3C2sS1f0M-3">
+          <mxGeometry x="0.1108" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vfnut27rzNC3C2sS1f0M-2" value="2023模型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vfnut27rzNC3C2sS1f0M-5" value="经济" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vfnut27rzNC3C2sS1f0M-7" value="职业" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vfnut27rzNC3C2sS1f0M-8" value="交易" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vfnut27rzNC3C2sS1f0M-9" value="房产" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vfnut27rzNC3C2sS1f0M-10" value="婚姻" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-50" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
