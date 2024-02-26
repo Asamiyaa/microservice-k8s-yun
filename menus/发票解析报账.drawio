@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T08:06:17.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pDHDDVkNnxLF6ooFrOAB" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T08:07:58.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pju8oCQHnLtAk-ZXGw9f" version="23.1.6" type="github">
   <diagram name="第 1 页" id="LcFfP4WHZknCO7OTZUt_">
     <mxGraphModel dx="1140" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="53p3_R9chKMu2HoMt915-4" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;外部系统&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="53p3_R9chKMu2HoMt915-4" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;外部系统&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="190" y="430" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="53p3_R9chKMu2HoMt915-5" value="个人票夹" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -161,19 +161,19 @@
         <mxCell id="53p3_R9chKMu2HoMt915-83" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="290" y="500" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="53p3_R9chKMu2HoMt915-84" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;发票解析服务&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="53p3_R9chKMu2HoMt915-84" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;发票解析服务&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="270" y="430" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="53p3_R9chKMu2HoMt915-85" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;发票查验服务&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="53p3_R9chKMu2HoMt915-85" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;发票查验服务&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="360" y="430" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="53p3_R9chKMu2HoMt915-86" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;进项电子票据中心&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="53p3_R9chKMu2HoMt915-86" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;进项电子票据中心&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="441" y="430" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="53p3_R9chKMu2HoMt915-87" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;进项业务台账&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="53p3_R9chKMu2HoMt915-87" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;进项业务台账&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="540" y="430" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="53p3_R9chKMu2HoMt915-89" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="53p3_R9chKMu2HoMt915-89" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;图片上传报账&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="420" width="550" height="670" as="geometry" />
         </mxCell>
       </root>
