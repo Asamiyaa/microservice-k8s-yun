@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T01:37:19.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ONUlztACH6cOPI1INJZf" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T02:45:32.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="W13deyDMSDty7D_jfmSV" version="24.2.3" type="github">
   <diagram name="第 1 页" id="cFIGKGqqaDF6kSXo0E1u">
     <mxGraphModel dx="1588" dy="1961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,6 +75,9 @@
         </mxCell>
         <mxCell id="xZaFet4aV3dl0UE3ZgOh-26" value="这就是解决趋势的前排，后排问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="260" width="200" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="xZaFet4aV3dl0UE3ZgOh-27" value="1.如何处理掉手中的垃圾票。&lt;div&gt;2.如何判断趋势的前排、后排&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="930" y="590" width="200" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
