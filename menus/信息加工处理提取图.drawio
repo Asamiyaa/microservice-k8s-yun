@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T01:33:43.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-0W2aXJV25uGnxDFGEto" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T01:35:11.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jfiZEZ2kZmjZGH97YZgL" version="24.2.3" type="github">
   <diagram name="第 1 页" id="cFIGKGqqaDF6kSXo0E1u">
     <mxGraphModel dx="1323" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,8 +25,41 @@
         <mxCell id="xZaFet4aV3dl0UE3ZgOh-7" value="if / else&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="120" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xZaFet4aV3dl0UE3ZgOh-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xZaFet4aV3dl0UE3ZgOh-10" value="不可能三角" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xZaFet4aV3dl0UE3ZgOh-11" value="模式手法操作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xZaFet4aV3dl0UE3ZgOh-12" value="低吸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xZaFet4aV3dl0UE3ZgOh-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xZaFet4aV3dl0UE3ZgOh-13" target="xZaFet4aV3dl0UE3ZgOh-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xZaFet4aV3dl0UE3ZgOh-13" value="追涨" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xZaFet4aV3dl0UE3ZgOh-14" value="打板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xZaFet4aV3dl0UE3ZgOh-15" value="两个买点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xZaFet4aV3dl0UE3ZgOh-17" value="低吸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xZaFet4aV3dl0UE3ZgOh-18" value="晋级率&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xZaFet4aV3dl0UE3ZgOh-19" value="盈亏比" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xZaFet4aV3dl0UE3ZgOh-20" value="胜率" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xZaFet4aV3dl0UE3ZgOh-21" value="时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
