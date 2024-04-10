@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T01:37:08.879Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4_209G2WXRg4dzJSOLwZ" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T01:37:19.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ONUlztACH6cOPI1INJZf" version="24.2.3" type="github">
   <diagram name="第 1 页" id="cFIGKGqqaDF6kSXo0E1u">
     <mxGraphModel dx="1588" dy="1961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="707" y="120" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xZaFet4aV3dl0UE3ZgOh-10" value="不可能三角" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xZaFet4aV3dl0UE3ZgOh-11" value="模式手法操作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" width="120" height="60" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="540" y="-370" width="610" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xZaFet4aV3dl0UE3ZgOh-26" value="这就是解决趋势的前排，后排问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="280" width="180" height="180" as="geometry" />
+          <mxGeometry x="930" y="260" width="200" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
