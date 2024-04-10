@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T01:35:56.157Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Xvwxrgc_UP2d6AYFw6zT" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T01:36:24.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="IYVtijXFq3VddvFN_lmm" version="24.2.3" type="github">
   <diagram name="第 1 页" id="cFIGKGqqaDF6kSXo0E1u">
-    <mxGraphModel dx="1323" dy="1829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1588" dy="1961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,9 +44,9 @@
           <mxGeometry x="1170" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xZaFet4aV3dl0UE3ZgOh-15" value="两个买点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="1350" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xZaFet4aV3dl0UE3ZgOh-17" value="低吸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xZaFet4aV3dl0UE3ZgOh-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xZaFet4aV3dl0UE3ZgOh-18" value="晋级率&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -66,6 +66,12 @@
         </mxCell>
         <mxCell id="xZaFet4aV3dl0UE3ZgOh-23" value="梯队" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="310" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xZaFet4aV3dl0UE3ZgOh-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xZaFet4aV3dl0UE3ZgOh-24" target="xZaFet4aV3dl0UE3ZgOh-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xZaFet4aV3dl0UE3ZgOh-24" value="经济模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-370" width="610" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
