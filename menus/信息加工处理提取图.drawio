@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T01:36:24.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="IYVtijXFq3VddvFN_lmm" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T01:37:08.879Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4_209G2WXRg4dzJSOLwZ" version="24.2.3" type="github">
   <diagram name="第 1 页" id="cFIGKGqqaDF6kSXo0E1u">
     <mxGraphModel dx="1588" dy="1961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,17 +49,17 @@
         <mxCell id="xZaFet4aV3dl0UE3ZgOh-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xZaFet4aV3dl0UE3ZgOh-18" value="晋级率&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xZaFet4aV3dl0UE3ZgOh-18" value="晋级率&lt;div&gt;封板率&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xZaFet4aV3dl0UE3ZgOh-19" value="盈亏比" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xZaFet4aV3dl0UE3ZgOh-20" value="胜率" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xZaFet4aV3dl0UE3ZgOh-21" value="时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="1010" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xZaFet4aV3dl0UE3ZgOh-22" value="周期、级别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="-180" width="610" height="70" as="geometry" />
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="xZaFet4aV3dl0UE3ZgOh-24" value="经济模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="-370" width="610" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xZaFet4aV3dl0UE3ZgOh-26" value="这就是解决趋势的前排，后排问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="280" width="180" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
