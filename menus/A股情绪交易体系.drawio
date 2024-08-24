@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-24T08:54:37.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="bJLqNJi_Dtpu7nkR1xCR" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-24T08:55:11.684Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="U0CLNwTtg3LozgTMC-1w" version="24.0.0" type="github">
   <diagram name="第 1 页" id="4kmrlVD3004NO4oH6EjP">
     <mxGraphModel dx="3572" dy="2567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,6 +133,9 @@
               <mxPoint x="1064" y="370" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-34" value="板块题材强度不同，预期不同" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="-339.5" width="520" height="179" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
