@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-08-24T09:28:58.266Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="4i9Ia4WASWqpOjURHPV9" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-24T10:16:26.157Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Y9AiWWuav3ZbV-w7MGKo" version="24.0.0" type="github">
   <diagram name="第 1 页" id="4kmrlVD3004NO4oH6EjP">
-    <mxGraphModel dx="2765" dy="2156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3572" dy="2567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,13 +69,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-20" value="如何确认趋势形成：" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-20" value="如何确认趋势形成：&lt;div&gt;趋势形成后选择前后排？&lt;/div&gt;&lt;div&gt;买点在哪里？盯盘？&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="750" width="120" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-21" value="还没带动后排，能买吗，失败率高" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="540" width="120" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-22" value="高开、或者一字能买吗？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="330" width="120" height="370" as="geometry" />
         </mxCell>
         <mxCell id="YwcNQk0zMhC-_pPFWzVF-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -137,7 +137,7 @@
         <mxCell id="YwcNQk0zMhC-_pPFWzVF-34" value="周期、风口、板块题材强度不同，预期不同、时间节点不同：2024年过年雪球敲出....每年过年都有行情" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-410" y="-339.5" width="520" height="179" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-35" value="&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;&quot;&gt;构建一个多层、立体的龙头体系&lt;/p&gt;&lt;p data-indentation=&quot;1&quot; class=&quot;&quot;&gt;&lt;/p&gt;&lt;p data-indentation=&quot;1&quot; class=&quot;&quot;&gt;周期内，混沌中的走出逻辑&lt;/p&gt;&lt;p data-indentation=&quot;1&quot; class=&quot;&quot;&gt;三少：级别，节点、&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-35" value="&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;&quot;&gt;构建一个多层、立体的龙头体系&lt;/p&gt;&lt;p data-indentation=&quot;1&quot; class=&quot;&quot;&gt;&lt;/p&gt;&lt;p data-indentation=&quot;1&quot; class=&quot;&quot;&gt;周期内，混沌中的走出逻辑&lt;/p&gt;&lt;p data-indentation=&quot;1&quot; class=&quot;&quot;&gt;三少：级别，节点、&lt;/p&gt;&lt;p data-indentation=&quot;1&quot; class=&quot;&quot;&gt;投机、情绪环境感知：涨跌停、tag&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="260" y="-1020" width="1010" height="180" as="geometry" />
         </mxCell>
       </root>
