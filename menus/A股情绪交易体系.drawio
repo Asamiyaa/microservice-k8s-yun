@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2024-08-24T08:42:27.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="cLX9xWBNr7UcVXyw2Mfa" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-24T08:46:29.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="aeloEFbgFKRy0a4rctX4" version="24.0.0" type="github">
   <diagram name="第 1 页" id="4kmrlVD3004NO4oH6EjP">
     <mxGraphModel dx="2745" dy="2567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="250" width="130" height="280" as="geometry" />
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-1" value="特征：无辨识度的首板、消息催化的首板、" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="130" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-2" value="特征：一进二，无带动性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="120" width="130" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-3" value="特征：三板关键" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="-70" width="130" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-4" value="代表：大众、正丹" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-4" value="代表：大众、正丹&lt;div&gt;特征：十日线、抱团标的、&lt;/div&gt;&lt;div&gt;带领tag: 启明信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="-390" width="270" height="280" as="geometry" />
         </mxCell>
         <mxCell id="YwcNQk0zMhC-_pPFWzVF-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -25,7 +25,7 @@
         <mxCell id="YwcNQk0zMhC-_pPFWzVF-7" value="分歧转一致、加速" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="-121" width="210" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-8" value="特征：如果龙很高后排有带动，此时龙不走坏就可以，正常分歧。&lt;div&gt;注意新的领涨龙，&lt;/div&gt;&lt;div&gt;注意新的发酵分偏&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="-280" width="130" height="280" as="geometry" />
         </mxCell>
         <mxCell id="YwcNQk0zMhC-_pPFWzVF-9" value="分化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
