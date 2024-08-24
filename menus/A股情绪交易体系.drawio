@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-08-24T08:57:29.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="GAU6OG7UqG0YESEx1C9W" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-24T09:11:35.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="mY17vx1wD_oxRXQjZ65y" version="24.0.0" type="github">
   <diagram name="第 1 页" id="4kmrlVD3004NO4oH6EjP">
-    <mxGraphModel dx="3572" dy="2567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2765" dy="2156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,7 +134,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-34" value="板块题材强度不同，预期不同、时间节点不同：2024年过年雪球敲出....每年过年都有行情" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-34" value="周期、风口、板块题材强度不同，预期不同、时间节点不同：2024年过年雪球敲出....每年过年都有行情" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-410" y="-339.5" width="520" height="179" as="geometry" />
         </mxCell>
         <mxCell id="YwcNQk0zMhC-_pPFWzVF-35" value="&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;&quot;&gt;构建一个多层、立体的龙头体系&lt;/p&gt;&lt;p data-indentation=&quot;1&quot; class=&quot;&quot;&gt;&lt;/p&gt;&lt;p data-indentation=&quot;1&quot; class=&quot;&quot;&gt;周期内，混沌中的走出逻辑&lt;/p&gt;&lt;p data-indentation=&quot;1&quot; class=&quot;&quot;&gt;三少：级别，节点、&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
