@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-24T10:54:00.711Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="GFAhotE3C4T-Gcsp-Slh" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-24T10:58:10.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="g-Ht3I0HP_Bx0W-N19h7" version="24.0.0" type="github">
   <diagram name="第 1 页" id="4kmrlVD3004NO4oH6EjP">
     <mxGraphModel dx="2145" dy="1840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="YwcNQk0zMhC-_pPFWzVF-3" value="特征：三板关键" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="-70" width="130" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-4" value="代表：大众、正丹&lt;div&gt;特征：十日线、抱团标的、&lt;/div&gt;&lt;div&gt;带领tag: 启明信息&lt;/div&gt;&lt;div&gt;注意分离：大众和金龙轮流、大众没有带动性单独走抱团逻辑&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-4" value="代表：大众、正丹&lt;div&gt;特征：十日线、抱团标的、&lt;/div&gt;&lt;div&gt;带领tag: 启明信息&lt;/div&gt;&lt;div&gt;注意分离：大众和金龙轮流、大众没有带动性单独走抱团逻辑&lt;/div&gt;&lt;div&gt;龙的特征是什么：腾达科技和这些区别&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="-390" width="270" height="280" as="geometry" />
         </mxCell>
         <mxCell id="YwcNQk0zMhC-_pPFWzVF-5" value="特征：温和走、A杀必须走，短线情绪" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
