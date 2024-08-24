@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2024-08-24T08:35:08.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.0.0" etag="yyoyYWMK3kFHx9-X5gID" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-24T08:42:23.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="kYOhE0JoORyrSrN-x8_3" version="24.0.0" type="github">
   <diagram name="第 1 页" id="4kmrlVD3004NO4oH6EjP">
-    <mxGraphModel>
+    <mxGraphModel dx="2745" dy="2567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="250" width="130" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="120" width="130" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-70" width="130" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-4" value="代表：大众、正丹" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="-390" width="270" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="-175" width="130" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-6" value="混沌，看不懂，老周期退潮" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="30" width="280" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-7" value="分歧转一致、加速" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-121" width="210" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-280" width="130" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-9" value="分化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-360" width="210" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-10" value="高位筑顶" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="827" y="-500" width="210" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-11" value="代表：捷荣、正丹" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="-650" width="130" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-12" value="挑战异动、二波" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="-720" width="210" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-13" value="A杀" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="-240" width="210" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-14" value="特征：老龙的范畴小心&lt;div&gt;节点：&lt;/div&gt;&lt;div&gt;代表：圣龙股份、天龙、捷荣技术、腾达股份&lt;/div&gt;&lt;div&gt;失败：中央商场&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="100" width="130" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-15" value="反抽" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="20" width="210" height="51" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
