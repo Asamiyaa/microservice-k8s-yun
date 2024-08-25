@@ -158,6 +158,23 @@
         <mxCell id="2aED74v7W1yeTDfPMXjl-4" value="&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;盘中，关键性事件、AB间正反关系、&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;动态图谱、链接、随着时间形成的图谱、热门股等行层的图谱&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="840" width="120" height="370" as="geometry" />
         </mxCell>
+        <mxCell id="2aED74v7W1yeTDfPMXjl-5" value="&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;涨停是需要关注的&lt;/span&gt;谁对盘面影响大。。。比如锦龙股份&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1760" width="120" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="2aED74v7W1yeTDfPMXjl-6" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-100" y="2060" as="sourcePoint" />
+            <mxPoint x="1000" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="1245" />
+              <mxPoint x="710" y="1240" />
+              <mxPoint x="680" y="1150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2aED74v7W1yeTDfPMXjl-7" value="静态" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1630" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
