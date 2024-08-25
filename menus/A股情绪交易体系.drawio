@@ -1,55 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2024-08-24T11:20:06.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="FI6JsmDK6iHmhklOlGeM" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="4kmrlVD3004NO4oH6EjP">
-    <mxGraphModel dx="2145" dy="1840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2765" dy="2156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-1" value="特征：无辨识度的首板、消息催化的首板、" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-1" value="特征：无辨识度的首板、消息催化的首板、" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="280" width="130" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-2" value="特征：一进二，无带动性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-2" value="特征：一进二，无带动性" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="120" width="130" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-3" value="特征：三板关键" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-3" value="特征：三板关键" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="-70" width="130" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-4" value="代表：大众、正丹&lt;div&gt;特征：十日线、抱团标的、&lt;/div&gt;&lt;div&gt;带领tag: 启明信息&lt;/div&gt;&lt;div&gt;注意分离：大众和金龙轮流、大众没有带动性单独走抱团逻辑&lt;/div&gt;&lt;div&gt;龙的特征是什么：腾达科技和这些区别&lt;/div&gt;&lt;div&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;第一波带动的票再次开始涨：星网宇达&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-4" value="代表：大众、正丹&lt;div&gt;特征：十日线、抱团标的、&lt;/div&gt;&lt;div&gt;带领tag: 启明信息&lt;/div&gt;&lt;div&gt;注意分离：大众和金龙轮流、大众没有带动性单独走抱团逻辑&lt;/div&gt;&lt;div&gt;龙的特征是什么：腾达科技和这些区别&lt;/div&gt;&lt;div&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;第一波带动的票再次开始涨：星网宇达&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="-390" width="270" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-5" value="特征：温和走、A杀必须走，短线情绪" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-5" value="特征：温和走、A杀必须走，短线情绪" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1220" y="-175" width="130" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-6" value="混沌，看不懂，老周期退潮" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-6" value="混沌，看不懂，老周期退潮" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="30" width="280" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-7" value="分歧转一致、加速" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-7" value="分歧转一致、加速" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="-121" width="210" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-8" value="特征：如果龙很高后排有带动，此时龙不走坏就可以，正常分歧。&lt;div&gt;注意新的领涨龙，&lt;/div&gt;&lt;div&gt;注意新的发酵分偏&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-8" value="特征：如果龙很高后排有带动，此时龙不走坏就可以，正常分歧。&lt;div&gt;注意新的领涨龙，&lt;/div&gt;&lt;div&gt;注意新的发酵分偏&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="-280" width="130" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-9" value="分化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-9" value="分化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="414" y="-360" width="210" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-10" value="高位筑顶" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-10" value="高位筑顶" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="827" y="-500" width="210" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-11" value="代表：捷荣、正丹" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-11" value="代表：捷荣、正丹" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1210" y="-850" width="130" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-12" value="挑战异动、二波" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-12" value="挑战异动、二波" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1170" y="-720" width="210" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-13" value="A杀" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-13" value="A杀" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1170" y="-240" width="210" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-14" value="特征：老龙的范畴小心&lt;div&gt;节点：&lt;/div&gt;&lt;div&gt;代表：圣龙股份、天龙、捷荣技术、腾达股份&lt;/div&gt;&lt;div&gt;失败：中央商场&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-14" value="特征：老龙的范畴小心&lt;div&gt;节点：&lt;/div&gt;&lt;div&gt;代表：圣龙股份、天龙、捷荣技术、腾达股份&lt;/div&gt;&lt;div&gt;失败：中央商场&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1550" y="100" width="130" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-15" value="反抽" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-15" value="反抽" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1500" y="20" width="210" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-17" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-17" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="670" as="sourcePoint" />
             <mxPoint x="860" y="-60" as="targetPoint" />
@@ -60,7 +60,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-19" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-19" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1030" y="-50" as="sourcePoint" />
             <mxPoint x="1630" y="390" as="targetPoint" />
@@ -69,22 +69,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-20" value="如何确认趋势形成：&lt;div&gt;趋势形成后选择前后排？&lt;/div&gt;&lt;div&gt;买点在哪里？盯盘？&lt;/div&gt;&lt;div&gt;套利的票赚不到钱，特别是龙头板后炸开0724国新文化、通业科技&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;场内多个题材关系，多个题材的龙是否值的上，有龙在这些板块龙能上吗&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-20" value="如何确认趋势形成：&lt;div&gt;趋势形成后选择前后排？&lt;/div&gt;&lt;div&gt;买点在哪里？盯盘？&lt;/div&gt;&lt;div&gt;套利的票赚不到钱，特别是龙头板后炸开0724国新文化、通业科技&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;场内多个题材关系，多个题材的龙是否值的上，有龙在这些板块龙能上吗&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="750" width="120" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-21" value="还没带动后排，能买吗，失败率高" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-21" value="还没带动后排，能买吗，失败率高&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;排撤单技巧&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="540" width="120" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-22" value="高开、或者一字能买吗？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-22" value="高开、或者一字能买吗？" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="330" width="120" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-23" value="锚失效，后排能上吗&lt;div&gt;是否带动了新的tag,不跌停就不是失效，正常板块内轮动或者分歧&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;换着当龙：金龙和大众、中晶和北岭&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-23" value="锚失效，后排能上吗&lt;div&gt;是否带动了新的tag,不跌停就不是失效，正常板块内轮动或者分歧&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;换着当龙：金龙和大众、中晶和北岭&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="140" width="120" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="885" y="10" width="120" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-25" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-25" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1160" y="-380" as="sourcePoint" />
             <mxPoint x="1570" y="-730" as="targetPoint" />
@@ -93,28 +93,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-26" value="多板块周期叠加" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-26" value="多板块周期叠加" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-80" y="-650" width="520" height="179" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-27" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="-140" as="sourcePoint" />
             <mxPoint x="780" y="-190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.454;exitY=1.039;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YwcNQk0zMhC-_pPFWzVF-26">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.454;exitY=1.039;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="YwcNQk0zMhC-_pPFWzVF-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="-430" as="sourcePoint" />
             <mxPoint x="290" y="-400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-29" value="模式与买点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-29" value="模式与买点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="885" y="510" width="165" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1560" y="430" width="120" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-32" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-32" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="1150" as="sourcePoint" />
             <mxPoint x="920" y="420" as="targetPoint" />
@@ -125,7 +125,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-33" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-33" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1054" y="420" as="sourcePoint" />
             <mxPoint x="1654" y="860" as="targetPoint" />
@@ -134,17 +134,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-34" value="周期、风口、板块题材强度不同，预期不同、时间节点不同：2024年过年雪球敲出....每年过年都有行情&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;通过认知判定消息的级别是否足够、容量大小，是否能承接上一个题材&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-34" value="周期、风口、板块题材强度不同，预期不同、时间节点不同：2024年过年雪球敲出....每年过年都有行情&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;通过认知判定消息的级别是否足够、容量大小，是否能承接上一个题材&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-410" y="-339.5" width="520" height="179" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-35" value="&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;&quot;&gt;构建一个多层、立体的龙头体系&lt;/p&gt;&lt;p data-indentation=&quot;1&quot; class=&quot;&quot;&gt;&lt;/p&gt;&lt;p data-indentation=&quot;1&quot; class=&quot;&quot;&gt;周期内，混沌中的走出逻辑&lt;/p&gt;&lt;p data-indentation=&quot;1&quot; class=&quot;&quot;&gt;三少：级别，节点、&lt;/p&gt;&lt;p data-indentation=&quot;1&quot; class=&quot;&quot;&gt;投机、情绪环境感知：涨跌停、tag&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-35" value="&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;&quot;&gt;构建一个多层、立体的龙头体系&lt;/p&gt;&lt;p data-indentation=&quot;1&quot; class=&quot;&quot;&gt;&lt;/p&gt;&lt;p data-indentation=&quot;1&quot; class=&quot;&quot;&gt;周期内，混沌中的走出逻辑&lt;/p&gt;&lt;p data-indentation=&quot;1&quot; class=&quot;&quot;&gt;三少：级别，节点、&lt;/p&gt;&lt;p data-indentation=&quot;1&quot; class=&quot;&quot;&gt;投机、情绪环境感知：涨跌停、tag&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="260" y="-1020" width="1010" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-37" value="&lt;p data-pm-slice=&quot;0 0 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="790" width="375" height="170" as="geometry" />
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-37" value="&lt;p data-pm-slice=&quot;0 0 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="2030" width="375" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="YwcNQk0zMhC-_pPFWzVF-38" value="&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;涨停是需要关注的&lt;/span&gt;谁对盘面影响大。。。比如锦龙股份&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1290" width="120" height="370" as="geometry" />
+        <mxCell id="YwcNQk0zMhC-_pPFWzVF-38" value="&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;涨停是需要关注的&lt;/span&gt;谁对盘面影响大。。。比如锦龙股份&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="1250" width="120" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="2aED74v7W1yeTDfPMXjl-1" value="&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;操作计划：&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;操作中：看不过来，持仓以及新的票，从多个维度来的，比如竞价、热门股，涨速榜，涨停，如何抓到&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;要不要做T,已有票的操作是不是激进些&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;预期和操盘开出来，不及预期到底要止损还是等拉下高点出&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;超预期该竞价上、出，还是等开盘，比如0823深证华强、启明信息、0823常山北明&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="1720" width="120" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="2aED74v7W1yeTDfPMXjl-2" value="&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;竞价&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;一字板 - 方向 0823启明信息、0814卓翼科技、昨日封单、今日封单&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;龙头股表现，预期内分歧，超预期高开-等开盘带动或者高兑现、这里有个高多少问题，太高不行，适中要观察开盘上拉，太低看是否向上拉&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;最强板块&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;竞价金额、抢筹&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1384" width="120" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="2aED74v7W1yeTDfPMXjl-3" value="&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;早盘激烈争夺，各个方向，到底上哪个，哪个值得博弈？&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;盘中观察，风格偏向，是否带动了新题材、是否回去炒老题材、&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;感知强弱 - 难点 -必须根据自己的系统确定是否有买入的盈亏点&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1030" width="120" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="2aED74v7W1yeTDfPMXjl-4" value="&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;盘中，关键性事件、AB间正反关系、&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; data-indentation=&quot;1&quot; class=&quot;ltr-element&quot;&gt;动态图谱、链接、随着时间形成的图谱、热门股等行层的图谱&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="840" width="120" height="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
