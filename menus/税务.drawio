@@ -1,9 +1,130 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="hU8h15TXKBp5cfAPjpD7">
-    <mxGraphModel>
+    <mxGraphModel dx="950" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TG9bKjdflRixPEkzkRRa-1" value="开票" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="506" y="20" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="TG9bKjdflRixPEkzkRRa-2" value="发票流转给受票方" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="458" y="119" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="TG9bKjdflRixPEkzkRRa-3" value="受票方查验发票" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="466" y="218" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="TG9bKjdflRixPEkzkRRa-4" value="受票方确认发票信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="450" y="317" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="TG9bKjdflRixPEkzkRRa-5" value="发票用途确认" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="479" y="416" width="147" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="TG9bKjdflRixPEkzkRRa-6" value="勾选抵扣" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="613" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="TG9bKjdflRixPEkzkRRa-7" value="不抵扣" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="610" y="613" width="109" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="TG9bKjdflRixPEkzkRRa-8" value="纳税申报时抵扣进项税额" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="273" y="712" width="238" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="TG9bKjdflRixPEkzkRRa-9" value="特殊情况: 转出" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="128" y="811" width="157" height="157" as="geometry" />
+        </mxCell>
+        <mxCell id="TG9bKjdflRixPEkzkRRa-10" value="进项税额转出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1018" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="TG9bKjdflRixPEkzkRRa-11" value="历史存档或留存备查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="561" y="712" width="206" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="TG9bKjdflRixPEkzkRRa-12" value="内销转出口处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="227" y="1018" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="TG9bKjdflRixPEkzkRRa-13" value="出口转内销处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1018" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="TG9bKjdflRixPEkzkRRa-14" value="完成当期申报" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="334" y="865" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="TG9bKjdflRixPEkzkRRa-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="TG9bKjdflRixPEkzkRRa-1" target="TG9bKjdflRixPEkzkRRa-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TG9bKjdflRixPEkzkRRa-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="TG9bKjdflRixPEkzkRRa-2" target="TG9bKjdflRixPEkzkRRa-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TG9bKjdflRixPEkzkRRa-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="TG9bKjdflRixPEkzkRRa-3" target="TG9bKjdflRixPEkzkRRa-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TG9bKjdflRixPEkzkRRa-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="TG9bKjdflRixPEkzkRRa-4" target="TG9bKjdflRixPEkzkRRa-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TG9bKjdflRixPEkzkRRa-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="TG9bKjdflRixPEkzkRRa-5" target="TG9bKjdflRixPEkzkRRa-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="392" y="588" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TG9bKjdflRixPEkzkRRa-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.94;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="TG9bKjdflRixPEkzkRRa-5" target="TG9bKjdflRixPEkzkRRa-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="664" y="588" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TG9bKjdflRixPEkzkRRa-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="TG9bKjdflRixPEkzkRRa-6" target="TG9bKjdflRixPEkzkRRa-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TG9bKjdflRixPEkzkRRa-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.11;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="TG9bKjdflRixPEkzkRRa-8" target="TG9bKjdflRixPEkzkRRa-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="206" y="786" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TG9bKjdflRixPEkzkRRa-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.98;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="TG9bKjdflRixPEkzkRRa-9" target="TG9bKjdflRixPEkzkRRa-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="99" y="993" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TG9bKjdflRixPEkzkRRa-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="TG9bKjdflRixPEkzkRRa-7" target="TG9bKjdflRixPEkzkRRa-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TG9bKjdflRixPEkzkRRa-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.98;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="TG9bKjdflRixPEkzkRRa-9" target="TG9bKjdflRixPEkzkRRa-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="314" y="993" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TG9bKjdflRixPEkzkRRa-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.66;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="TG9bKjdflRixPEkzkRRa-9" target="TG9bKjdflRixPEkzkRRa-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="537" y="993" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TG9bKjdflRixPEkzkRRa-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.54;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="TG9bKjdflRixPEkzkRRa-8" target="TG9bKjdflRixPEkzkRRa-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="413" y="786" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
