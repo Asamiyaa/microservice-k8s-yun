@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="第 1 页" id="hVXwJrMXX0ssOfp9rYNk">
-    <mxGraphModel dx="14598" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="15438" dy="2304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4346,6 +4346,36 @@
         </mxCell>
         <mxCell id="F1iVXxPJUSdubmlJLsjF-1038" value=" **消息类型**：  &#xa;     - 业绩超预期（如净利润增长＞50%）、政策红利（如新能源补贴）。  &#xa;   - **消息时效**：  &#xa;     - 消息发布时间≤3天，且非“旧闻二次炒作”。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-6960" y="3708.25" width="340" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1039" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="F1iVXxPJUSdubmlJLsjF-1042" target="F1iVXxPJUSdubmlJLsjF-1043" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1040" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="F1iVXxPJUSdubmlJLsjF-1042" target="F1iVXxPJUSdubmlJLsjF-1045" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1041" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="F1iVXxPJUSdubmlJLsjF-1042" target="F1iVXxPJUSdubmlJLsjF-1047" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1042" value="买入策略与风控" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-7398" y="3910" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1043" value="买入时点选择&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-7918" y="4070.5" width="172" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1044" value=" **激进型**：  &#xa;     开盘价直接买入（需满足：竞价量达标+板块强度前3）。  &#xa;   - **稳健型**：  &#xa;     等待回踩分时均线且缩量时介入（如开盘后10分钟回踩均线不破）。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-7988" y="4148.25" width="340" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1045" value="   仓位管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-7398" y="4070.5" width="172" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1046" value="- **首次建仓**：总仓位≤10%，止损设为缺口下沿-1%。  &#xa;   - **加仓条件**：  &#xa;     股价突破开盘后高点且成交量持续放大（如突破时量能＞前5分钟均量2倍）。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-7468" y="4148.25" width="340" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1047" value="   卖出纪律" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-6938" y="4070.5" width="172" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1048" value=" - **止损规则**：  &#xa;     - 跌破缺口下沿且30分钟未收回，立即止损。  &#xa;   - **止盈规则**：  &#xa;     - 盈利5%后减半仓，剩余仓位跌破分时均线全出。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-7008" y="4148.25" width="340" height="77.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
