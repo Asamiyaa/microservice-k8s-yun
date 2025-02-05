@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="第 1 页" id="hVXwJrMXX0ssOfp9rYNk">
-    <mxGraphModel dx="18968" dy="5290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="16419" dy="3978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4756,6 +4756,9 @@
         </mxCell>
         <mxCell id="F1iVXxPJUSdubmlJLsjF-1176" value="&lt;li&gt;&lt;strong&gt;盘中选股&lt;/strong&gt;侧重于&lt;strong&gt;技术突破&lt;/strong&gt;和&lt;strong&gt;情绪放大&lt;/strong&gt;，通过实时捕捉市场波动和热点板块进行短期交易。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;盘后选股&lt;/strong&gt;则通过&lt;strong&gt;日线突破&lt;/strong&gt;、&lt;strong&gt;支撑回撤&lt;/strong&gt;等技术形态结合资金流向和情绪分析，预测次日走强的股票。&lt;/li&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-1290" y="-1730" width="540" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1177" value="如何盘中监测符合自己交易系统的股票，动态选出并提醒" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1739" y="-1500" width="561" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
