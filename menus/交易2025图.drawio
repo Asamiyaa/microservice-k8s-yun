@@ -3458,9 +3458,6 @@
         <mxCell id="F1iVXxPJUSdubmlJLsjF-817" value="跟随大于预测" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="642" y="-96" width="92" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="F1iVXxPJUSdubmlJLsjF-818" value="跟随大于预测" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="737" y="-96" width="92" height="54" as="geometry" />
-        </mxCell>
         <mxCell id="F1iVXxPJUSdubmlJLsjF-819" value="禁止情绪化" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="734" y="-96" width="92" height="54" as="geometry" />
         </mxCell>
