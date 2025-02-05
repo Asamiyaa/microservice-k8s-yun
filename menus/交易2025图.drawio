@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="第 1 页" id="hVXwJrMXX0ssOfp9rYNk">
-    <mxGraphModel dx="15281" dy="2223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="14598" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4240,7 +4240,7 @@
         <mxCell id="F1iVXxPJUSdubmlJLsjF-1012" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-989" target="F1iVXxPJUSdubmlJLsjF-1007">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F1iVXxPJUSdubmlJLsjF-989" value="竞价阶段分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-989" value="竞价阶段分析" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-7300" y="2310" width="172" height="54" as="geometry" />
         </mxCell>
         <mxCell id="F1iVXxPJUSdubmlJLsjF-990" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.554;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-969" target="F1iVXxPJUSdubmlJLsjF-979">
@@ -4290,7 +4290,7 @@
         <mxCell id="F1iVXxPJUSdubmlJLsjF-1016" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="F1iVXxPJUSdubmlJLsjF-1017" target="F1iVXxPJUSdubmlJLsjF-1024" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F1iVXxPJUSdubmlJLsjF-1017" value="开盘后确认信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1017" value="开盘后确认信号" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-7334" y="2910" width="172" height="54" as="geometry" />
         </mxCell>
         <mxCell id="F1iVXxPJUSdubmlJLsjF-1018" value="量价配合规则" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -4316,6 +4316,42 @@
         </mxCell>
         <mxCell id="F1iVXxPJUSdubmlJLsjF-1025" value="**板块强度**：  &#xa;     - 所属板块开盘30分钟涨幅＞1%，且至少3只成分股涨幅＞5%。  &#xa;   - **龙头地位**：  &#xa;     - 该股为板块内竞价涨幅前2名，且开盘后涨幅保持前三。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-6944" y="3148.25" width="340" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1027" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="F1iVXxPJUSdubmlJLsjF-1030" target="F1iVXxPJUSdubmlJLsjF-1031" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1028" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="F1iVXxPJUSdubmlJLsjF-1030" target="F1iVXxPJUSdubmlJLsjF-1034" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1029" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="F1iVXxPJUSdubmlJLsjF-1030" target="F1iVXxPJUSdubmlJLsjF-1037" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1030" value="高开不回落的核心条件" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-7350" y="3470" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1031" value="&#xa;技术面支撑&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-7870" y="3630.5" width="172" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1032" value=" **缺口位置**：  &#xa;     - 跳空高开突破关键阻力位（如年线、平台高点），且缺口≥2%。  &#xa;   - **均线系统**：  &#xa;     - 股价站稳5日、10日均线，且均线呈多头排列。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-7940" y="3708.25" width="340" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1033" value=" **危险信号**：  &#xa;     - 开盘后量能快速萎缩（如首分钟量能占前5分钟50%以上）。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-7940" y="3826.5" width="340" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1034" value="  资金面证据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-7350" y="3630.5" width="172" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1035" value=" **主力成本**：  &#xa;     - 筹码分布显示高开位上方无密集套牢区（通过同花顺筹码峰功能查看）。  &#xa;   - **机构参与**：  &#xa;     - 龙虎榜显示近期有机构席位净买入（需前一日有上榜记录）。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-7420" y="3708.25" width="340" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1036" value="**主力控盘迹象**：  &#xa;     - 分时图呈现“台阶式上涨”，回调缩量、拉升放量。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-7420" y="3826.5" width="340" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1037" value="  消息面质量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-6890" y="3630.5" width="172" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1038" value=" **消息类型**：  &#xa;     - 业绩超预期（如净利润增长＞50%）、政策红利（如新能源补贴）。  &#xa;   - **消息时效**：  &#xa;     - 消息发布时间≤3天，且非“旧闻二次炒作”。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-6960" y="3708.25" width="340" height="77.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
