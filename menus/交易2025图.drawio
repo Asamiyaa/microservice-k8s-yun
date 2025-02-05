@@ -4335,17 +4335,11 @@
         <mxCell id="F1iVXxPJUSdubmlJLsjF-1032" value=" **缺口位置**：  &#xa;     - 跳空高开突破关键阻力位（如年线、平台高点），且缺口≥2%。  &#xa;   - **均线系统**：  &#xa;     - 股价站稳5日、10日均线，且均线呈多头排列。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-7940" y="3708.25" width="340" height="77.5" as="geometry" />
         </mxCell>
-        <mxCell id="F1iVXxPJUSdubmlJLsjF-1033" value=" **危险信号**：  &#xa;     - 开盘后量能快速萎缩（如首分钟量能占前5分钟50%以上）。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-7940" y="3826.5" width="340" height="77.5" as="geometry" />
-        </mxCell>
         <mxCell id="F1iVXxPJUSdubmlJLsjF-1034" value="  资金面证据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-7350" y="3630.5" width="172" height="46" as="geometry" />
         </mxCell>
         <mxCell id="F1iVXxPJUSdubmlJLsjF-1035" value=" **主力成本**：  &#xa;     - 筹码分布显示高开位上方无密集套牢区（通过同花顺筹码峰功能查看）。  &#xa;   - **机构参与**：  &#xa;     - 龙虎榜显示近期有机构席位净买入（需前一日有上榜记录）。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-7420" y="3708.25" width="340" height="77.5" as="geometry" />
-        </mxCell>
-        <mxCell id="F1iVXxPJUSdubmlJLsjF-1036" value="**主力控盘迹象**：  &#xa;     - 分时图呈现“台阶式上涨”，回调缩量、拉升放量。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-7420" y="3826.5" width="340" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="F1iVXxPJUSdubmlJLsjF-1037" value="  消息面质量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-6890" y="3630.5" width="172" height="46" as="geometry" />
