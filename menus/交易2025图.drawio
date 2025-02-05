@@ -4242,6 +4242,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-998" value="跳空高开的类型与底层逻辑" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-7150" y="1772" width="172" height="54" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
