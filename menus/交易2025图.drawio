@@ -4377,6 +4377,21 @@
         <mxCell id="F1iVXxPJUSdubmlJLsjF-1048" value=" - **止损规则**：  &#xa;     - 跌破缺口下沿且30分钟未收回，立即止损。  &#xa;   - **止盈规则**：  &#xa;     - 盈利5%后减半仓，剩余仓位跌破分时均线全出。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-7008" y="4148.25" width="340" height="77.5" as="geometry" />
         </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1050" value="工具与数据清单" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-7430" y="4350" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1051" value="1. **必备工具**：  &#xa;   - Level-2行情（看十档挂单、逐笔成交）  &#xa;   - 同花顺问财（筛选“跳空高开+成交量＞5%+板块热度”）  " style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-7770" y="4490" width="340" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1052" value="**监测指标**：  &#xa;   - 竞价量比、开盘5分钟量能、板块涨幅排名  " style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-7294" y="4500" width="340" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1053" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.406;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-1050" target="F1iVXxPJUSdubmlJLsjF-1051">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1054" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.567;entryY=-0.032;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-1050" target="F1iVXxPJUSdubmlJLsjF-1052">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
