@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="第 1 页" id="hVXwJrMXX0ssOfp9rYNk">
-    <mxGraphModel dx="17329" dy="3278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="15281" dy="2223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4058,7 +4058,7 @@
         <mxCell id="F1iVXxPJUSdubmlJLsjF-950" value="开盘高开低开定方向" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-6274" y="1668" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F1iVXxPJUSdubmlJLsjF-951" value="是否跳空高开？" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-951" value="是否跳空高开？" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-5941" y="1836.5" width="172" height="54" as="geometry" />
         </mxCell>
         <mxCell id="F1iVXxPJUSdubmlJLsjF-952" value="是否放量（竞价量＞前一日2倍）？" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -4231,8 +4231,17 @@
         <mxCell id="F1iVXxPJUSdubmlJLsjF-988" value="若高开缺口伴随放量且不回补，视为强势信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-6900" y="2058.5" width="172" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1010" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-989" target="F1iVXxPJUSdubmlJLsjF-999">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1011" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-989" target="F1iVXxPJUSdubmlJLsjF-1002">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1012" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-989" target="F1iVXxPJUSdubmlJLsjF-1007">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F1iVXxPJUSdubmlJLsjF-989" value="竞价阶段分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-6990" y="2489.5" width="172" height="54" as="geometry" />
+          <mxGeometry x="-7300" y="2310" width="172" height="54" as="geometry" />
         </mxCell>
         <mxCell id="F1iVXxPJUSdubmlJLsjF-990" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.554;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-969" target="F1iVXxPJUSdubmlJLsjF-979">
           <mxGeometry relative="1" as="geometry">
@@ -4244,6 +4253,33 @@
         </mxCell>
         <mxCell id="F1iVXxPJUSdubmlJLsjF-998" value="跳空高开的类型与底层逻辑" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-7150" y="1772" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-999" value="量价匹配度（核心指标）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-7820" y="2470.5" width="172" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1000" value="合格标准： - **竞价成交量**＞前一日竞价量的2倍，且＞前一日总成交量的5%。  &#xa;     - **量比**＞3（开盘后流动性充足）。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-7890" y="2548.25" width="340" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1001" value="  - **危险信号**：  &#xa;     - 高开3%以上，但竞价量＜前一日20%（无量高开易回落）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-7890" y="2666.5" width="340" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1002" value="挂单行为验证主力意图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-7300" y="2470.5" width="172" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1003" value="买盘强度**：  &#xa;     - 9:20后买一挂单持续增加（如从1000手增至5000手），卖盘稀疏。  &#xa;     - 卖一挂单被大单快速吃掉（如9:24卖一2000手被分4笔500手成交）。  " style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-7370" y="2548.25" width="340" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1004" value="**撤单陷阱**：  &#xa;     - 9:15-9:19买一挂大单，9:20后突然撤单导致价格回落（诱多信号）。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-7370" y="2666.5" width="340" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1007" value="价格稳定性观察" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-6840" y="2470.5" width="172" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1008" value="- **健康路径**：  &#xa;     9:20后价格稳步抬升，波动幅度＜1%（如从+2%→+3%→+3.5%）。  " style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-6910" y="2548.25" width="340" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1009" value=" - **异常路径**：  &#xa;     9:20后价格剧烈波动（如从+5%→+2%→+4%），反映多空分歧。  " style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-6910" y="2666.5" width="340" height="77.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
