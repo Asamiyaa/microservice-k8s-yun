@@ -4302,23 +4302,20 @@
         <mxCell id="F1iVXxPJUSdubmlJLsjF-1020" value=" **危险信号**：  &#xa;     - 开盘后量能快速萎缩（如首分钟量能占前5分钟50%以上）。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-7924" y="3266.5" width="340" height="77.5" as="geometry" />
         </mxCell>
-        <mxCell id="F1iVXxPJUSdubmlJLsjF-1021" value="挂单行为验证主力意图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1021" value=" 资金流向监测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-7334" y="3070.5" width="172" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="F1iVXxPJUSdubmlJLsjF-1022" value="买盘强度**：  &#xa;     - 9:20后买一挂单持续增加（如从1000手增至5000手），卖盘稀疏。  &#xa;     - 卖一挂单被大单快速吃掉（如9:24卖一2000手被分4笔500手成交）。  " style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1022" value="*大单净流入**：  &#xa;     - 开盘30分钟内大单（单笔≥50万元）净流入＞流通市值的0.5%。  " style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-7404" y="3148.25" width="340" height="77.5" as="geometry" />
         </mxCell>
-        <mxCell id="F1iVXxPJUSdubmlJLsjF-1023" value="**撤单陷阱**：  &#xa;     - 9:15-9:19买一挂大单，9:20后突然撤单导致价格回落（诱多信号）。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1023" value="**主力控盘迹象**：  &#xa;     - 分时图呈现“台阶式上涨”，回调缩量、拉升放量。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-7404" y="3266.5" width="340" height="77.5" as="geometry" />
         </mxCell>
-        <mxCell id="F1iVXxPJUSdubmlJLsjF-1024" value="价格稳定性观察" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1024" value=" 板块效应验证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-6874" y="3070.5" width="172" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="F1iVXxPJUSdubmlJLsjF-1025" value="- **健康路径**：  &#xa;     9:20后价格稳步抬升，波动幅度＜1%（如从+2%→+3%→+3.5%）。  " style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1025" value="**板块强度**：  &#xa;     - 所属板块开盘30分钟涨幅＞1%，且至少3只成分股涨幅＞5%。  &#xa;   - **龙头地位**：  &#xa;     - 该股为板块内竞价涨幅前2名，且开盘后涨幅保持前三。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-6944" y="3148.25" width="340" height="77.5" as="geometry" />
-        </mxCell>
-        <mxCell id="F1iVXxPJUSdubmlJLsjF-1026" value=" - **异常路径**：  &#xa;     9:20后价格剧烈波动（如从+5%→+2%→+4%），反映多空分歧。  " style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-6944" y="3266.5" width="340" height="77.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
