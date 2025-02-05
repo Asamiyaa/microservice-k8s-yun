@@ -4281,6 +4281,45 @@
         <mxCell id="F1iVXxPJUSdubmlJLsjF-1009" value=" - **异常路径**：  &#xa;     9:20后价格剧烈波动（如从+5%→+2%→+4%），反映多空分歧。  " style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-6910" y="2666.5" width="340" height="77.5" as="geometry" />
         </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1014" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="F1iVXxPJUSdubmlJLsjF-1017" target="F1iVXxPJUSdubmlJLsjF-1018" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1015" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="F1iVXxPJUSdubmlJLsjF-1017" target="F1iVXxPJUSdubmlJLsjF-1021" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1016" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="F1iVXxPJUSdubmlJLsjF-1017" target="F1iVXxPJUSdubmlJLsjF-1024" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1017" value="开盘后确认信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-7334" y="2910" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1018" value="量价配合规则" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-7854" y="3070.5" width="172" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1019" value=" **合格标准**：  &#xa;     - 开盘5分钟内成交量＞竞价阶段成交量的2倍。  &#xa;     - 分时回踩不破开盘价（或仅短暂跌破后快速收回）。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-7924" y="3148.25" width="340" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1020" value=" **危险信号**：  &#xa;     - 开盘后量能快速萎缩（如首分钟量能占前5分钟50%以上）。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-7924" y="3266.5" width="340" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1021" value="挂单行为验证主力意图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-7334" y="3070.5" width="172" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1022" value="买盘强度**：  &#xa;     - 9:20后买一挂单持续增加（如从1000手增至5000手），卖盘稀疏。  &#xa;     - 卖一挂单被大单快速吃掉（如9:24卖一2000手被分4笔500手成交）。  " style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-7404" y="3148.25" width="340" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1023" value="**撤单陷阱**：  &#xa;     - 9:15-9:19买一挂大单，9:20后突然撤单导致价格回落（诱多信号）。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-7404" y="3266.5" width="340" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1024" value="价格稳定性观察" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-6874" y="3070.5" width="172" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1025" value="- **健康路径**：  &#xa;     9:20后价格稳步抬升，波动幅度＜1%（如从+2%→+3%→+3.5%）。  " style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-6944" y="3148.25" width="340" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-1026" value=" - **异常路径**：  &#xa;     9:20后价格剧烈波动（如从+5%→+2%→+4%），反映多空分歧。  " style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-6944" y="3266.5" width="340" height="77.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
