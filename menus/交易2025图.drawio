@@ -43,6 +43,14 @@
         <mxCell id="F1iVXxPJUSdubmlJLsjF-13" value="首板/龙头" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="842" y="610" width="132" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-14" target="F1iVXxPJUSdubmlJLsjF-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1240" y="610" />
+              <mxPoint x="1240" y="37" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="F1iVXxPJUSdubmlJLsjF-14" value="跟风股" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1025" y="610" width="108" height="54" as="geometry" />
         </mxCell>
@@ -500,6 +508,15 @@
               <mxPoint x="940" y="920" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-109" target="F1iVXxPJUSdubmlJLsjF-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-109" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="10" width="92" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-110" value="策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="130" width="92" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
