@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="第 1 页" id="hVXwJrMXX0ssOfp9rYNk">
-    <mxGraphModel dx="1050" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2100" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,6 +49,9 @@
         <mxCell id="F1iVXxPJUSdubmlJLsjF-15" value="空仓" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1183" y="610" width="92" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-16" target="F1iVXxPJUSdubmlJLsjF-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F1iVXxPJUSdubmlJLsjF-16" value="技术选股" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="146" y="714" width="124" height="54" as="geometry" />
         </mxCell>
@@ -57,6 +60,16 @@
         </mxCell>
         <mxCell id="F1iVXxPJUSdubmlJLsjF-18" value="剔除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="431" y="858" width="92" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-19" target="F1iVXxPJUSdubmlJLsjF-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1990" y="890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1590" y="741" />
+              <mxPoint x="1590" y="710" />
+              <mxPoint x="2209" y="710" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="F1iVXxPJUSdubmlJLsjF-19" value="情绪选股" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="847" y="714" width="124" height="54" as="geometry" />
@@ -476,6 +489,16 @@
         <mxCell id="F1iVXxPJUSdubmlJLsjF-104" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-82" target="F1iVXxPJUSdubmlJLsjF-83">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-105" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="970" as="sourcePoint" />
+            <mxPoint x="990" y="920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="990" y="970" />
+              <mxPoint x="940" y="920" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
