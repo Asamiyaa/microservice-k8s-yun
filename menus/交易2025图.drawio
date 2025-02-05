@@ -330,7 +330,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F1iVXxPJUSdubmlJLsjF-64" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-64" value="开始" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2163" y="760" width="92" height="54" as="geometry" />
         </mxCell>
         <mxCell id="F1iVXxPJUSdubmlJLsjF-65" value="趋势结构" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
@@ -520,7 +520,7 @@
         <mxCell id="F1iVXxPJUSdubmlJLsjF-431" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-109" target="F1iVXxPJUSdubmlJLsjF-361">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F1iVXxPJUSdubmlJLsjF-109" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-109" value="开始" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="5503" width="92" height="54" as="geometry" />
         </mxCell>
         <mxCell id="F1iVXxPJUSdubmlJLsjF-113" value="大盘与个股方向相反" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -1507,7 +1507,7 @@
         <mxCell id="F1iVXxPJUSdubmlJLsjF-326" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-311" target="F1iVXxPJUSdubmlJLsjF-215">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F1iVXxPJUSdubmlJLsjF-311" value="交易中的十大悖论与应对策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-311" value="交易中的十大悖论与应对策略" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="7130" y="1089" width="329" height="50" as="geometry" />
         </mxCell>
         <mxCell id="F1iVXxPJUSdubmlJLsjF-329" value="技术分析主导的交易策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -2379,8 +2379,579 @@
             <mxPoint x="7330" y="2740.000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F1iVXxPJUSdubmlJLsjF-519" value="上涨动能是否可持续" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-519" value="上涨动能是否可持续" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="4759" y="2450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-646" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-528" target="F1iVXxPJUSdubmlJLsjF-529">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-647" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-528" target="F1iVXxPJUSdubmlJLsjF-539">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-648" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-528" target="F1iVXxPJUSdubmlJLsjF-550">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-649" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-528" target="F1iVXxPJUSdubmlJLsjF-557">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-650" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-528" target="F1iVXxPJUSdubmlJLsjF-565">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-651" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-528" target="F1iVXxPJUSdubmlJLsjF-572">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-652" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-528" target="F1iVXxPJUSdubmlJLsjF-579">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-653" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-528" target="F1iVXxPJUSdubmlJLsjF-588">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-528" value="挂单，盘口 ，成交分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="4470" y="3650" width="316" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-529" value="挂单分析：从“静态盘口”看多空意图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1469" y="4000" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-530" value="买卖五档的薄厚与分布" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="835" y="4140" width="220" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-531" value="大单堆积：买一至买五是否大单密集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="694" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-532" value="薄盘陷阱：卖盘挂单稀疏，买盘挂单厚重" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1004" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-533" value="举例：5000手单，卖盘零星小单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="694" y="4384" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-534" value="挂单动态变化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1487" y="4140" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-535" value="撤单行为：频繁撤单与隐性撤单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1314" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-536" value="挂单速度：多笔大单压制或推升" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1624" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-537" value="大单分布偏离度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1978" y="4140" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-538" value="统计异常：挂单量显著偏离常态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1934" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-539" value="成交分析：从“动态订单流”看资金博弈" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3329" y="4000" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-540" value="逐笔成交数据（Time &amp; Sales）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2433" y="4128" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-541" value="大单流向：主动买盘与卖盘的大单比例" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2244" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-542" value="吃单速度：大单被快速吃掉的速度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2554" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-543" value="举例：横盘时多笔大单主动卖出，价格未跌" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2864" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-544" value="分时成交密度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3347" y="4140" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-545" value="量能脉冲：突然成交柱与价格方向" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3174" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-546" value="缩量滞涨：成交量缩小的动能衰竭信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3484" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-547" value="盘口价差与流动性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3951" y="4140" width="188" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-548" value="买卖价差扩大，流动性枯竭信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3794" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-549" value="隐藏流动性：冰山订单与Level-2数据监测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4104" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-550" value="盘口动态：结合多维度验证信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4720" y="4000" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-551" value="支撑与阻力的博弈" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4571" y="4140" width="188" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-552" value="关键价位测试：大卖单压制，买盘增厚" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4414" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-553" value="突破后卖盘减少，空方撤退" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4724" y="4268" width="252" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-554" value="主力控盘手法识别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="5183" y="4140" width="188" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-555" value="对敲与对倒：对敲拉升与出货" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="5026" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-556" value="托单与压单：托而不买与压单吸筹" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="5336" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-557" value="实战工具与数据源" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="6181" y="4012" width="188" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-558" value="Level-2行情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="5825" y="4140" width="144" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-559" value="十档挂单、委托队列、逐笔成交明细" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="5646" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-560" value="监测大单撤单率与委托单分布热力图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="5956" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-561" value="订单流工具（Order Flow）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="6270" y="4140" width="251" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-562" value="买卖方向、成交量、成交价，识别资金流向" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="6266" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-563" value="分时成交统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="6628" y="4140" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-564" value="统计主动性买盘/卖盘占比、大单净流入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="6576" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-565" value="经典盘口异动案例" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="7232" y="4012" width="188" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-566" value="突破前的“试盘”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="7051" y="4140" width="173" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-567" value="现象：卖一挂5000手，但被连续大买单吃掉" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="6886" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-568" value="解读：主力测试抛压，可能加速拉升" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="7196" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-569" value="尾盘偷袭" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="7695" y="4140" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-570" value="现象：收盘前3分钟买盘推高股价但无实际成交" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="7506" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-571" value="解读：主力做收盘价吸引跟风盘" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="7816" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-572" value="注意事项" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="8383" y="4012" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-573" value="结合大盘与板块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="8170" y="4140" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-574" value="个股盘口信号需与市场整体情绪一致" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="8126" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-575" value="警惕量化干扰" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="8488" y="4140" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-576" value="高频量化算法可能导致挂单虚假信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="8436" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-577" value="多周期验证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="8806" y="4140" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-578" value="超短线信号与15分钟/小时线趋势一致" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="8746" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-579" value="总结：超短线盘口分析框架" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="9370" y="4012" width="252" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-580" value="静态观察" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="9124" y="4140" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-581" value="买卖五档的厚度、大单分布异常" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="9056" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-582" value="动态跟踪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="9434" y="4140" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-583" value="逐笔成交流向、吃单速度、撤单行为" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="9366" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-584" value="策略匹配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="9933" y="4140" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-585" value="突破策略：关注关键价位的挂单攻防" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="9676" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-586" value="反转策略：捕捉量价背离或流动性枯竭信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="9986" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-587" value="套利策略：利用盘口价差与订单流偏差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="10296" y="4256" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-588" value="核心逻辑" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="10451" y="4012" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-589" value="挂单与成交微观数据判断主力意图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="10107" y="4128" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-590" value="找到“多方力量集中释放”或“空方力竭”的临界点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="10417" y="4128" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-591" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-529" target="F1iVXxPJUSdubmlJLsjF-530">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="945" y="4103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-592" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-530" target="F1iVXxPJUSdubmlJLsjF-531">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="824" y="4231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-593" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.86;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-530" target="F1iVXxPJUSdubmlJLsjF-532">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1134" y="4231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-594" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-531" target="F1iVXxPJUSdubmlJLsjF-533">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-595" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.42;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-529" target="F1iVXxPJUSdubmlJLsjF-534">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1565" y="4103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-596" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-534" target="F1iVXxPJUSdubmlJLsjF-535">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1444" y="4231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-597" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-534" target="F1iVXxPJUSdubmlJLsjF-536">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1754" y="4231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-598" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-529" target="F1iVXxPJUSdubmlJLsjF-537">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2064" y="4103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-599" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-537" target="F1iVXxPJUSdubmlJLsjF-538">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-600" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.62;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-539" target="F1iVXxPJUSdubmlJLsjF-540">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2563" y="4103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-601" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-540" target="F1iVXxPJUSdubmlJLsjF-541">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2374" y="4231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-602" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-540" target="F1iVXxPJUSdubmlJLsjF-542">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2684" y="4231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-603" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-540" target="F1iVXxPJUSdubmlJLsjF-543">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2994" y="4231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-604" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.42;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-539" target="F1iVXxPJUSdubmlJLsjF-544">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3425" y="4103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-605" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-544" target="F1iVXxPJUSdubmlJLsjF-545">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3304" y="4231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-606" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-544" target="F1iVXxPJUSdubmlJLsjF-546">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3614" y="4231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-607" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-539" target="F1iVXxPJUSdubmlJLsjF-547">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4045" y="4103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-608" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.23;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-547" target="F1iVXxPJUSdubmlJLsjF-548">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3924" y="4231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-609" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-547" target="F1iVXxPJUSdubmlJLsjF-549">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4234" y="4231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-610" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.07;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-550" target="F1iVXxPJUSdubmlJLsjF-551">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4665" y="4103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-611" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.23;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-551" target="F1iVXxPJUSdubmlJLsjF-552">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4544" y="4231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-612" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-551" target="F1iVXxPJUSdubmlJLsjF-553">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4850" y="4231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-613" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-550" target="F1iVXxPJUSdubmlJLsjF-554">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5277" y="4103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-614" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.23;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-554" target="F1iVXxPJUSdubmlJLsjF-555">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5156" y="4231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-615" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-554" target="F1iVXxPJUSdubmlJLsjF-556">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5466" y="4231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-616" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-557" target="F1iVXxPJUSdubmlJLsjF-558">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5897" y="4103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-617" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-558" target="F1iVXxPJUSdubmlJLsjF-559">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5776" y="4231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-618" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-558" target="F1iVXxPJUSdubmlJLsjF-560">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6086" y="4231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-619" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-557" target="F1iVXxPJUSdubmlJLsjF-561">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6396" y="4103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-620" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-561" target="F1iVXxPJUSdubmlJLsjF-562">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-621" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-557" target="F1iVXxPJUSdubmlJLsjF-563">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6706" y="4103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-622" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-563" target="F1iVXxPJUSdubmlJLsjF-564">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-623" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-565" target="F1iVXxPJUSdubmlJLsjF-566">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="7137" y="4103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-624" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.2;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-566" target="F1iVXxPJUSdubmlJLsjF-567">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="7016" y="4231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-625" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-566" target="F1iVXxPJUSdubmlJLsjF-568">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="7326" y="4231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-626" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-565" target="F1iVXxPJUSdubmlJLsjF-569">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="7757" y="4103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-627" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.09;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-569" target="F1iVXxPJUSdubmlJLsjF-570">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="7636" y="4231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-628" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.89;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-569" target="F1iVXxPJUSdubmlJLsjF-571">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="7946" y="4231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-629" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.89;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-572" target="F1iVXxPJUSdubmlJLsjF-573">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8256" y="4103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-630" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-573" target="F1iVXxPJUSdubmlJLsjF-574">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-631" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-572" target="F1iVXxPJUSdubmlJLsjF-575">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8566" y="4103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-632" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-575" target="F1iVXxPJUSdubmlJLsjF-576">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-633" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-572" target="F1iVXxPJUSdubmlJLsjF-577">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8876" y="4103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-634" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-577" target="F1iVXxPJUSdubmlJLsjF-578">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-635" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-579" target="F1iVXxPJUSdubmlJLsjF-580">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="9186" y="4103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-636" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-580" target="F1iVXxPJUSdubmlJLsjF-581">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-637" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-579" target="F1iVXxPJUSdubmlJLsjF-582">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-638" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-582" target="F1iVXxPJUSdubmlJLsjF-583">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-639" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-579" target="F1iVXxPJUSdubmlJLsjF-584">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="9995" y="4103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-640" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.89;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-584" target="F1iVXxPJUSdubmlJLsjF-585">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="9806" y="4231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-641" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-584" target="F1iVXxPJUSdubmlJLsjF-586">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10116" y="4231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-642" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-584" target="F1iVXxPJUSdubmlJLsjF-587">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10426" y="4231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-643" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.77;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-588" target="F1iVXxPJUSdubmlJLsjF-589">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10237" y="4103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1iVXxPJUSdubmlJLsjF-644" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.62;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="F1iVXxPJUSdubmlJLsjF-588" target="F1iVXxPJUSdubmlJLsjF-590">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10547" y="4103" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
